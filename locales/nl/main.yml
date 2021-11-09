@@ -1,0 +1,2838 @@
+---
+ads:
+  account:
+    order:
+      history:
+        th:
+          status: Status
+    verification:
+      upload:
+        file:
+          text: 'Het systeem heeft een hoog risico voor uw bestelling gedetecteerd. Wij vragen u daarom om een identiteitsbewijs (bijvoorbeeld identiteitsbewijs met foto, paspoort of rijbewijs) en een foto van de voorkant van uw creditcard te uploaden. Na controle zullen wij uw bestelling verwerken. Uw geüploade bestanden worden dan automatisch verwijderd.'
+ba:
+  account:
+    autocharge:
+      add_funds: 'Fondsen toevoegen bij het bereiken van het bedrag'
+      amount: Bedrag
+      cc: Creditcard
+      disable: Uitschakelen
+      enable: Inschakelen
+      error:
+        cc: 'Sla eerst een creditcard op wanneer u geld toevoegt aan uw account.'
+      head: 'Automatisch geld toevoegen'
+      save: Opslaan
+      type:
+        auto: Automatisch
+        manually: Handmatig
+    credentials:
+      currrent_password: 'Huidig wachtwoord'
+      new_password: 'Nieuw wachtwoord'
+      password: Wachtwoord
+      retype: 'Nieuw wachtwoord opnieuw typen'
+    data:
+      account: Account
+      address: Adres
+      cell_phone: 'Mobiel telefoonnummer'
+      city: Stad
+      company: Bedrijf
+      country: Land
+      email: E-mail
+      lastname: Achternaam
+      name: Naam
+      phone: Telefoon
+      position: Positie
+      save: Opslaan
+      tz: Tijdzone
+      user: Gebruiker
+      username: Gebruikersnaam
+      vat_tax: BTW-nummer.
+      zip: Postcode
+  autocharge:
+    error:
+      amount: 'Het bedrag is onjuist.'
+      cc: 'De creditcard is onjuist.'
+      total: 'Het totale bedrag is onjuist.'
+  billing:
+    funds:
+      action: 'Nu fondsen toevoegen'
+      add_funds: 'Fondsen toevoegen'
+      amount: Bedrag
+      card: Kaart
+      ccv: Cvv
+      info: 'De laatste 3 of 4 cijfers aan de achterzijde'
+      month_year: 'Maand / Jaar'
+      name_on_card: 'Naam op kaart'
+      provider: 'Alle gegevens worden verwerkt en beveiligd door Powercash21 Ltd. Op uw verklaring staat \"321 Entertainment\".'
+      save: 'Creditcard opslaan'
+    invoices:
+      added_funds: 'Extra geld'
+      amount: Bedrag
+      available_funds: 'Beschikbare fondsen'
+      bill: Bill
+      date: Datum
+      download: 'Factuur downloaden'
+      order_id: Bestel-id
+      type_funds_added: 'Typefondsen toegevoegd'
+  campaign:
+    copy: Kopiëren
+    error:
+      ad_placement: 'AD-plaatsing ongeldig.'
+      ad_type: 'Het AD-type is onjuist.'
+      budget:
+        campaign: 'Het campagnebudget is niet geldig.'
+        daily: 'Het dagbudget is niet geldig.'
+        type: 'Budgettype ongeldig.'
+      campaign_name: 'De naam van uw campagne is onjuist.'
+      cpm: 'De CPM/CPV is niet geldig.'
+      end_date: 'Stel de einddatum correct in.'
+      filter:
+        country: 'Controleer het filter: Land'
+        geo: 'Controleer het filter: Geo Targeting'
+        label: 'Controleer het filter: seksuele geaardheid'
+        language: 'Controleer het filter: Taal'
+      start_date: 'Stel de begindatum correct in.'
+      url: 'De URL is onjuist.'
+    wizard:
+      action: Actie
+      active: Actieve
+      ad_type: AD-type
+      ad_type1: AD-type
+      back: Terug
+      banner:
+        info: 'horizontale banner over een hele pagina voor desktop (sarting op 768px). Minimumprijs CPM:'
+        label: 'Horizontaal bannerdesktopblad'
+      banner_desktop: Bannerdesktop
+      banner_mobile: 'Banner mobiel/tablet'
+      budget:
+        ad_placement:
+          avg_daily: 'Gelijkmatig verdeeld over de dag'
+          fast: 'Zo snel mogelijk uitgegeven'
+          head: 'Bepalen hoe uw budget wordt gebruikt'
+          label: AD-plaatsing
+        campaign: Campagnebudget
+        daily:
+          label: Dagelijkse
+          max_budget: 'Maximaal dagbudget'
+          max_budget_zero: '(voer $0,00 in voor onbeperkt)'
+        label: Begroting
+        limit: 'Met Limiet'
+        no_limit:
+          info: '\"No limit\" betekent dat de campagne wordt uitgevoerd totdat u pauzeert, de einddatum is bereikt of dat er geen geld meer over is'
+          label: 'Geen limiet'
+        total: 'Totaal budget voor deze campagne'
+        type: Budgettype
+      budget_limits: 'Budget en limieten'
+      campaign_budget: Campagnebudget
+      clicks: Klikken
+      copy: Kopiëren
+      cpm:
+        info: 'Kosten per duizend vertoningen (CPM), minimumbod:'
+        label: "CPM\r"
+      daily: Dagelijkse
+      deactivated: Gedeactiveerd
+      delete:
+        confirm: 'Campagne verwijderen?'
+        warning:
+          cancel: Annuleren
+          delete: Verwijderen
+          full: 'Do you really delete the campaign? All reports and data will be deleted unwide.'
+          text1: 'Wil je de campagne echt verwijderen?'
+          text2: 'Alle rapporten en gegevens gaan verloren.'
+      deletebm:
+        ads:
+          mail:
+            funds:
+              added:
+                info: Verwijderen
+      edit: Bewerken
+      end_date:
+        label: Einddatum
+        placeholder: 'Datum tot'
+      escort_photo:
+        info: 'In plaats van een grote escortfoto wordt uw AD weergegeven als escortfoto. Minimumprijs CPM:'
+        label: 'Escort foto'
+        label1: 'Escort profielfoto'
+      filter:
+        all: "Alle pagina's"
+        gay: 'Gay Escorts'
+        geo:
+          address: Adres
+          all: Alle
+          countries: Landen
+          edit_circle: 'Cirkel bewerken'
+          enlarge_map: 'De kaart vergroten'
+          label: 'Optionele geotargeting'
+          languages: Talen
+          new_circle: 'Nieuwe geocirkel'
+          radius: Radius
+          remove_circle: 'Cirkel verwijderen'
+        men: 'Mannen Escorts'
+        sexual_orientation: 'seksuele geaardheid'
+        women: 'Vrouwen Escorts'
+      finish: Voltooien
+      fullpage:
+        dim_responsive: 'Afmetingen/Reponsive:'
+        impressions: Indrukken
+        info: 'Tussen twee klikken wordt een aparte pagina met uw banner weergegeven, de knop Doorgaan wordt na 1,5 seconden weergegeven. Minimumprijs CPM:'
+        label: 'Volledige pagina'
+        label1: 'Volledige pagina'
+      impressions: Indrukken
+      information: Informatie
+      landing_page: 'Naam en bestemmingspagina'
+      media:
+        label: Media
+        photo: 'Foto:'
+        processing: Verwerkingsgegevens...
+      mobile_banner:
+        info: 'horizontale banner over een hele pagina weergegeven voor mobiel / tablet (tot 767px). Minimumprijs CPM:'
+        label: 'horizontale banner mobiel/tablet'
+      my_campaigns: 'Mijn campagnes'
+      name: Naam
+      name_campaign: 'Naam van de campagne'
+      next: Volgende
+      paused: Onderbroken
+      price:
+        cpv: "CPV\r"
+        video: 'Kosten voor één afdruk van je video (CPV), minimumbod:'
+      rejected: Verworpen
+      review: Review
+      setup: Setup
+      start_date:
+        label: Begindatum
+        placeholder: 'Start bij'
+      statistics: Statistieken
+      status: Status
+      target_group:
+        audience: Doelgroep
+        filter: 'Doelgroep en filter'
+      upload: "Foto's/video's uploaden"
+      url: 'BestemmingsPAGINA / BESTEMMINGS-URL'
+      video: Video
+      video_add:
+        impression: Indruk
+        info: 'HD: Uw video wordt eerst afgespeeld. Na 6 seconden kan de gebruiker je video overslaan. Minimumprijs CPV:'
+        label: 'Video AD'
+      video_image: Videoafbeelding
+      video_preview:
+        info: "Je AD wordt weergegeven als een video-screenshot op de pagina 'Nieuwe video's'. Minimumprijs CPM:"
+        label: "Video preview foto (pagina: nieuwe video's)"
+  contact:
+    action: Verzenden
+    error:
+      label: 'Fout:'
+      too_long: 'Uw verzoek is te lang. Verkort uw verzoek.'
+      too_many_requests: 'U op dit moment geen aanvragen meer verzenden, probeer het later opnieuw.'
+      too_short: 'Voer een langere aanvraag in.'
+    head: Contact
+    head1: Contact
+    success: 'Uw verzoek is verzonden. Hartelijk dank.'
+  dashboard:
+    30d: 'laatste 30 dagen'
+    7d: 'laatste 7 dagen'
+    active: Actieve
+    add_funds: 'Fondsen toevoegen'
+    budget: 'Mijn budget'
+    budget_spent: Budgetuitgaven
+    campaigns: Campagnes
+    cart:
+      clicks: Klikken
+      impressions: Indrukken
+    clicks: Klikken
+    ctr: "CTR\r"
+    impressions: Indrukken
+    in_planning: 'in de planning'
+    inactive: Inactief
+    info:
+      clicks: Indrukken
+      impressions: Indrukken
+    new_Campaign: 'Nieuwe campagne- en geotargeting'
+    new_banner: 'Nieuwe bannercampagne'
+    new_video: 'Nieuwe videocampagne'
+    sample_data: Voorbeeldgegevens
+    today: Vandaag
+    waiting: 'wachten op goedkeuring'
+    yesterday: Gisteren
+  menu:
+    add_funds: 'Fondsen toevoegen'
+    billing: Facturering
+    campaigns: Campagnes
+    dashboard: Dashboard
+    head:
+      hi: Hallo
+    history: Geschiedenis
+    logout: Logout
+    new_campaign: 'Nieuwe campagne'
+    overview: Overzicht
+    profile: Profiel
+    reports: Rapporten
+    sub_titel:
+      add_funds: 'Fondsen toevoegen'
+      billing: Facturering
+      campaigns: Campagnes
+      dashboard: Dashboard
+      history: Geschiedenis
+      my_campaigns: 'Mijn campagnes'
+      new_campaign: 'Nieuwe campagne'
+      not_found: 'De gevraagde link kon niet worden gevonden.'
+      profile: Profiel
+      reports: Rapporten
+  password:
+    error:
+      not_matching: 'De nieuwe wachtwoorden komen niet overeen.'
+      password: 'Het huidige wachtwoord is onjuist.'
+      too_short: 'Het nieuwe wachtwoord moet ten minste 6 tekens lang zijn.'
+  password_forgotten:
+    new_password: 'Nieuw wachtwoord'
+    password: Wachtwoord
+    retype_password: 'Wachtwoord opnieuw typen'
+    send: Verzenden
+  payment:
+    cc: 'Geef alle creditcardgegevens op.'
+    error:
+      cc: 'Uw kaartnummer is onjuist'
+      general: 'Er is een fout opgetreden. Probeer het later nog eens.'
+    min_amount:
+      full: 'The minimum amount is 100 USD'
+      text: 'Het minimumbedrag is'
+  public:
+    email: E-mail
+    enter_details: 'Voer uw gegevens in om u te registreren.'
+    form:
+      address: Adres
+      cancel: Annuleren
+      city: Stad
+      company: Bedrijf
+      email: E-mail
+      lastname: Achternaam
+      name: Naam
+      password: Wachtwoord
+      password_forgotten:
+        back: Terug
+        cancel: Annuleren
+        email: E-mail
+        head: 'Voer uw e-mailadres in om uw wachtwoord opnieuw in te stellen.'
+        send: Verzenden
+        signin: Aanmelden
+        success: 'Als een e-mail is geregistreerd, schakelt u nu uw e-mailpostvak in in.'
+      phone: 'Telefoon (optioneel)'
+      retype_password: 'Wachtwoord opnieuw typen'
+      send: Verzenden
+      signup: Inschrijven
+      success: 'Hartelijk dank. Je ontvangt een e-mail zodra je account is geactiveerd.'
+      terms:
+        full: 'I agree to the terms and conditions and data privacy.'
+        text1: 'Ik ben het eens met de'
+        text2: 'Algemene voorwaarden en gegevensprivacy'
+        text3: ''
+      tz: Tijdzone
+      zip: Postcode
+    head: 'Welkom bij Escorts Ads'
+    head1: 'Bouw je merk'
+    head2: 'met Escort Ads'
+    new: 'Nieuw hier?'
+    password: Wachtwoord
+    password_forgotten: 'wachtwoord vergeten?'
+    signin: Aanmelden
+    signup: Inschrijven
+    signup2: Inschrijven
+  reports:
+    clicks: Klikken
+    ctr: "CTR\r"
+    date: Datum
+    error:
+      campaign: 'Selecteer ten minste één campagne.'
+      end_date: 'Stel de einddatum correct in.'
+      start_date: 'Stel de begindatum correct in.'
+    hour: Uur
+    impressions: Indrukken
+    price: Prijs
+    results:
+      amount: Bedrag
+      campaign: Campagne
+      clicks: Klikken
+      columns: 'Weergegeven kolommen in resultaten'
+      ctr: "CTR\r"
+      date: Datum
+      days: Dagen
+      end: Einde
+      end_date: Einddatum
+      export:
+        csv: "CSV\r"
+        excel: Excel
+        label: Exporteren
+      generate: 'Rapport genereren'
+      group_by: 'Groeperen op'
+      hour: Uur
+      hours: Uur
+      impressions: Indrukken
+      next: 'Volgende pagina'
+      options: 'Kies een optie:'
+      reports: Rapporten
+      start: Start
+      start_date: Begindatum
+      video_100: 'Vid. Fulltime'
+      video_q1: 'Vid. 1 Kwartiel'
+      video_q2: 'Vid. 2 Kwartiel'
+      video_q3: 'Vid. 3 Kwartiel'
+      video_skipped: 'Vid. Overgeslagen'
+      video_skipped_10s: 'Vid. 10 sec'
+      video_skipped_5s: 'Vid. 5 sec'
+    video_100: 'Video - Tijd: 100%'
+    video_q1: 'Video - Tijd: 1 kwartiel'
+    video_q2: 'Video - Tijd: 2 kwartiel'
+    video_q3: 'Video - Tijd: 3 kwartiel'
+    video_skipped: 'Video - Geklikt Geklikt'
+    video_skipped_10s: 'Video - Overgeslagen (na 10)'
+    video_skipped_5s: 'Video - Overgeslagen getoond (na 5s)'
+  reset_password:
+    error:
+      password_not_matching: 'De wachtwoorden komen niet overeen.'
+      too_short: 'Uw wachtwoord is te kort, zorg ervoor dat het ten minste 6 tekens lang.'
+      url: 'De URL is niet geldig.'
+  signin:
+    change_password: 'U uw wachtwoord hier wijzigen:'
+    error:
+      address: 'Voer het adres correct in.'
+      city: 'Geef de stad correct op.'
+      country: 'Voer uw land in.'
+      email: 'Het e-mailadres is niet geldig.'
+      general: 'De registratie is niet gelukt.'
+      lastname: 'Voer je achternaam in.'
+      name: 'Voer uw naam in.'
+      not_activated: 'Uw account wordt nog onderzocht.'
+      tz: 'Voer uw tijdzone in.'
+      zip: 'Geef de postcode correct op.'
+    password_forgotten: 'Wachtwoord vergeten'
+  signup:
+    error:
+      address: 'Geef uw adres op.'
+      city: 'Ga je stad binnen.'
+      company: 'Voer uw bedrijf in.'
+      country: 'Voer uw land in.'
+      email: 'Het e-mailadres is niet geldig.'
+      general: 'Inschrijven is op dit moment niet mogelijk. Probeer het later nog eens.'
+      lastname: 'Je achternaam klopt niet.'
+      name: 'Je naam is onjuist.'
+      password_not_matching: 'De wachtwoorden komen niet overeen.'
+      password_too_short: 'Uw wachtwoord is te kort, zorg ervoor dat het ten minste 6 tekens lang.'
+      terms: 'Bevestig de algemene voorwaarden.'
+      tz: 'Voer uw tijdzone in.'
+      zip: 'Voer je postcode in.'
+bc:
+  email:
+    ads:
+      mail:
+        activated: 'Je account is geactiveerd. U uw advertenties nu met succes plaatsen. Log hier in'
+        footer: '321escorts.com AD-service'
+        footer2: 'Uw team - '
+        hello: Hallo
+        subject: 'Account geactiveerd'
+        welcome: 'welkom bij ads.321escorts.com'
+    affiliate:
+      sale:
+        recurring:
+          mail:
+            full: 'You have a successful affiliate sale of a recurring order: 120 USD - Thank you for participating in the affiliate program. You can see all the details, your statistics and payouts here:'
+            subject: 'Nieuwe affiliate verkoop:'
+            text1: 'Je hebt een succesvolle affiliate verkoop van een terugkerende bestelling:'
+            text2: '- Bedankt voor uw deelname aan het affiliate programma. U alle details, uw statistieken en uitbetalingen hier zien:'
+    birthday:
+      eotw:
+        offer:
+          detail: 'Korting bij aankoop van 4 weken \"Escort van de week\"'
+          head: '1 week gratis \"Escort van de Week\"'
+      prime:
+        offer1:
+          detail: 'Korting bij aankoop van 1 jaar Prime'
+          head: '2 maanden gratis \"Prime\"'
+        offer2:
+          detail: '1 maand gratis \"Prime\"'
+          head: '2 maanden gratis \"Prime\"'
+        offer3:
+          detail: Gefeliciteerd
+          head: 'Korting bij aankoop van 3 maanden Prime'
+      text:
+        click_here: 'Klik hier om uw cadeau nu te ontvangen'
+        congratulation: 'wij feliciteren u van harte met uw verjaardag. Het beste, liefde en gezondheid voor jou. Wij hebben een cadeau voor u'
+        enjoy_your_day: 'Geniet van je dag!'
+        gift_valid: 'Uw geschenk is voor u gereserveerd tot'
+        hello: hallo
+    footer:
+      contact: Contact
+      twitter: 'Volg ons op Twitter'
+    reminder:
+      prime: Prime
+      type:
+        cc:
+          close1: 'Dit is slechts een herinnering aan jou. Je hoeft niets te doen. Alle details en het beheer van uw abonnement zijn beschikbaar in uw bestelgeschiedenis.'
+          close2: 'Mocht u vragen hebben, neem dan gerust contact met ons op.'
+          close3: Bestelgeschiedenis
+          info:
+            amount: 'Bedrag:'
+            days: 'Dagen:'
+            subscription: 'Abonnement:'
+          label: 'Creditcard:'
+          renew: 'Uw abonnement wordt binnen enkele dagen verlengd'
+          renew1: 'uw abonnement wordt binnen enkele dagen automatisch verlengd:'
+        iban:
+          label: 'Iban:'
+          renew: 'Uw abonnement wordt binnen enkele dagen verlengd'
+          renew1: 'Verlenging van uw abonnement is mislukt'
+        other:
+          close1: 'Breid uw profielstatus nu uit:'
+          close2: 'Neem gerust contact op wanneer u maar wilt.'
+          reminder1: 'uw profielstatus verloopt over enkele dagen:'
+          renew: 'Uw profielstatus behouden'
+    renew:
+      alternative:
+        action: 'Uw abonnement verlengen'
+        full: 'You can place the order for your Prime subscription here.'
+        text1: 'U de bestelling plaatsen voor uw'
+        text2: 'abonnement hier.'
+      disable_notification: 'Deze meldingen uitschakelen'
+      error:
+        full: 'Your Prime subscription could not be renewed. Your payment method has been rejected.'
+        text1: Uw
+        text2: 'abonnement kan niet worden verlengd. Uw betalingsmethode is afgewezen.'
+      mail:
+        footer: '321escorts.com klantenservice'
+      my_profile: 'Mijn profiel'
+    renewed:
+      success:
+        close1: 'Bedankt voor het verlengen van uw abonnement! Alle details en het beheer van uw abonnement zijn beschikbaar in uw bestelgeschiedenis.'
+        close2: 'Mocht u vragen hebben, neem dan gerust contact met ons op.'
+        full: 'Hello Tom, your subscription has been successfully renewed:'
+        text1: 'uw abonnement is verlengd:'
+        text2: 'Abonnement met succes verlengd'
+    verification:
+      mail:
+        body: 'uw verificatie is geslaagd. Je profiel is bijgewerkt.'
+        subject: 'Verificatie geslaagd'
+  notifications:
+    missed:
+      subject: 'Gemiste meldingen'
+    new:
+      body: 'Nieuwe recensie ontvangen'
+      subject: 'Er zijn nieuwe berichten voor je.'
+  notify:
+    new_message:
+      body: 'er zijn nieuwe berichten voor u:'
+      from:
+        text1: 'U hebt een nieuw bericht ontvangen van'
+      label: 'Nieuw bericht'
+      to:
+        full: 'You received a message from Tom.'
+        text1: 'U hebt een nieuw bericht ontvangen van'
+        text2: ''
+      view: Bekijken
+    unred_message:
+      action: 'Berichten weergeven'
+      body: 'Er zijn ongelezen berichten voor u.'
+      subject: 'Ongelezen berichten'
+  notify1:
+    new_message:
+      message_received: 'Nieuw bericht ontvangen'
+      to:
+        full: 'Tom sent you a new message'
+        text1: 'stuurde je een nieuw bericht'
+  notify2:
+    new_message:
+      to:
+        body: 'er zijn nieuwe berichten voor u.'
+        full: 'You received a new message from Tom.'
+        text1: 'Je hebt een nieuw bericht van'
+  review:
+    new:
+      anonymous:
+        full: 'You received a 5-star rating from Anonymous.'
+        subject: 'Nieuwe review'
+        text1: 'sterren ontvangen van Anoniem.'
+      full: 'You received a 5-star rating from Tom.'
+      text1: 'Je hebt een nieuwe review ontvangen met'
+      text2: ' sterren van'
+      text3: ''
+  review1:
+    anonymous: Anonieme
+    new:
+      full: '5 stars review received from Tom.'
+      text1: ' sterren review ontvangen van'
+      text2: ''
+      text3: ' sterren review ontvangen van Anonymous'
+  review2:
+    new:
+      anonymous: 'sterren ontvangen van Anoniem.'
+      full: 'You received a new review with 5 stars from Tom.'
+      text1: 'Je hebt een nieuwe review ontvangen met'
+      text2: ' sterren van'
+      text3: .
+bf:
+  public:
+    user:
+      age:
+        years: Jaar
+      title:
+        rent_me: 'huur me nu'
+bm:
+  ads:
+    mail:
+      campaign:
+        approved: 'is goedgekeurd. U kunt uw campagne nu starten.'
+        error1: 'is onderbroken omdat uw account onvoldoende saldo heeft of de campagnelimiet is bereikt.'
+        error2: 'is onderbroken omdat uw account onvoldoende saldo heeft.'
+        error3: 'is onderbroken omdat de campagnelimiet is bereikt.'
+        error4: 'is onderbroken omdat de einddatum van uw campagne is bereikt.'
+        label: 'uw campagne'
+        map:
+          hide_details: 'Details verbergen'
+          show_details: 'Details weergeven'
+        stopped: 'Campagne gestopt:'
+        subject_approved: 'Campagne goedgekeurd:'
+        view_details: 'Bekijk hier alle details en rapporten over uw campagne:'
+      funds:
+        added:
+          info:
+            details: 'U ziet hier alle details en transacties:'
+            details1: 'automatisch fondsbeheer:'
+            full: 'We charged $1000 from your credit card'
+            text1: 'We rekenden'
+            text2: 'van uw creditcard'
+            text3: ''
+          label: 'Nieuw geld waar automatisch wordt toegevoegd aan je advertentieaccount.'
+  affiliate:
+    mail:
+      sale:
+        body: 'Bedankt voor uw deelname aan het affiliate programma. U alle details, uw statistieken en uitbetalingen hier zien:'
+        subject: 'Nieuwe affiliate verkoop:'
+  notify:
+    mail:
+      private_gallery:
+        allow: Toestaan
+        body:
+          full: 'Tom would like to see your private gallery.'
+          text1: 'wil graag uw privégalerie zien.'
+        reject: Verwerpen
+    mail1:
+      private_gallery:
+        full: 'you can now see the private gallery from Tom.'
+        subject: 'Aanvraag - privégalerie'
+        text1: 'u nu de privégalerie bekijken vanaf'
+        text2: .
+        text3: 'U nu de privégalerie bekijken vanaf'
+        text4: ':'
+    mail2:
+      private_gallery:
+        full: 'Tom would like to see your private gallery.'
+        subject: Privégalerie
+        text1: 'wil graag uw privégalerie zien.'
+        view_gallery: 'Galerij weergeven'
+        view_profile: 'Profiel weergeven'
+    mail3:
+      private_gallery:
+        allow: Toestaan
+        full: 'Tom has unlocked the private gallery for you.'
+        gallery_unlocked: 'Private Gallery ontgrendeld'
+        text1: 'heeft de privégalerij voor je ontgrendeld.'
+  order:
+    mail:
+      gift:
+        subject:
+          full: 'You received a gift from Tom:'
+          text1: 'Je hebt een cadeau ontvangen van'
+          text2: ":\r"
+        thankyou:
+          body:
+            full: 'You can see the order details for also in your order history.'
+            text1: 'U de bestelgegevens voor'
+            text2: 'ook in uw bestelgeschiedenis.'
+          body1:
+            full: 'We sent Tom a message that you sent a gift :-)'
+            subject: 'Bedankt voor uw bestelling!'
+            subject1: 'Hartelijk dank aan uw bestelling'
+            text1: 'We stuurden'
+            text2: 'een bericht dat u een geschenk hebt verzonden :-)'
+          body2: 'Je je bestelgeschiedenis op elk gewenst moment in je account bekijken.'
+          body3:
+            full: 'the user Tom has just sent a gift to you: Prime. Tom would love to receive a "thanks" from you :-)'
+            text1: 'de gebruiker'
+            text2: 'heeft zojuist een geschenk naar u gestuurd:'
+            text3: 'zou graag een \"bedankt\" van u ontvangen :-)'
+          body4:
+            full: 'Chat with Tom'
+            text1: 'Chat openen met'
+            text2: 'en stuur een \"Bedankt\" :-)'
+          body5:
+            full: 'Gift received from Tom.'
+            text1: 'Cadeau ontvangen van'
+            text2: ''
+          subject: 'Bedankt voor uw bestelling'
+chat:
+  ago: ''
+  days: Dagen
+  error:
+    action_login: Login
+    action_register: Registreren
+    login_required: 'Log in om de chat te gebruiken.'
+  hour: Uur
+  hours: Uur
+  image: Afbeelding
+  message:
+    d: "d\r"
+    gallery:
+      approve: Goedkeuren
+      reject: Verwerpen
+    h: "h\r"
+    min: "min\r"
+    sec: "sec\r"
+  messenger:
+    action:
+      become_prime_member: 'Word nu Prime-lid. Als Prime-lid kun je onbeperkte berichten opslaan.'
+      mobile:
+        become_prime_member: 'Word nu Prime-lid'
+    close: Sluiten
+    error:
+      chat_empty: 'Je chat is nog steeds leeg. Schrijf naar iemand die je leuk vindt :-)'
+      limit_reached: 'Geheugenlimiet bereikt'
+    headline: Berichten
+    message:
+      delete: Verwijderen
+      error: 'Fout: De chat is niet geldig.'
+      error_try_later: 'Fout: Probeer het later opnieuw.'
+      read: Lezen
+      received:
+        now: Nwo
+      save: Opslaan
+      spam: Spam
+      unread: Ongelezen
+      unstore: Unstore
+      upgrade_read_messages: 'Wilt u zien of uw bericht is gelezen?'
+      user_is_typing: 'is aan het typen'
+    new_message:
+      placeholder: 'Uw bericht...'
+    user_is_typing: 'is aan het typen'
+  minute: Minuut
+  minutes: Minuten
+  user:
+    offline: 'Off line'
+    online: Online
+  video: Video
+  yesterday: Gisteren
+email:
+  affiliate:
+    subject: 'Affiliate verkoop - '
+exchange_links:
+  success:
+    rescan_website: 'Hartelijk dank. We scannen uw pagina binnen 24 uur opnieuw.'
+follow_user: Volgen
+main:
+  account:
+    activate: 'Account activeren'
+    add_hashtag: 'Tag toevoegen'
+    advertising:
+      country_formats: Land/indelingen
+      hide: Verbergen
+      label: 'Reclame:'
+      no: Nee
+      notifications:
+        email: E-mail
+        label: Meldingen
+        sms: Sms
+        web_push: Webpush
+      show: Toon
+      sound_chat: 'Geluid/chat:'
+      view: Bekijken
+      yes: Ja
+    amazon_wishlist:
+      headline: 'Amazon verlanglijstje'
+      label: 'Amazon verlanglijstje:'
+    billing:
+      history:
+        days: Dagen
+    cell_phone:
+      change_number: 'Nummer wijzigen'
+      code: Code...
+      contact_and_cell_phone: 'Contact & mobiel telefoonnummer'
+      dont_show: 'Nummer niet weergeven op de website'
+      dont_show2: 'Nummer niet weergeven op de website'
+      label: 'Cel:'
+      same_number: 'hetzelfde nummer als hoofdnummer'
+      send:
+        code: 'Sms-code naar dit nummer verzenden'
+        full: 'Send SMS code to this number +1123456789 now?'
+        now: Nwo?
+      send_sms: 'Sms verzenden'
+      verify: Controleren
+      verify_number: 'Nummer verifiëren'
+      verify_number1: 'Nummer verifiëren'
+      whatsapp: 'Whatsapp (optioneel):'
+    credentials:
+      auto_social_login: 'automatisch / sociaal inloggen'
+      confirm_with_password: 'Bevestigen met huidig wachtwoord'
+      confirm_with_password1: 'Bevestigen met huidig wachtwoord'
+      delete_account: 'Account verwijderen'
+      error:
+        emails_not_matching: 'Fout: Het nieuwe e-mailadres komt niet overeen met een opnieuw getypt e-mailadres.'
+        fiell_out: 'Fout: Vul alle velden in.'
+        new_profile: 'Fout: voer een nieuwe profielnaam en wachtwoord in.'
+        passwords: 'Fout: Voer uw wachtwoord in.'
+        passwords_not_matching: 'Fout: Het nieuwe wachtwoord komt niet overeen met een opnieuw getypt wachtwoord.'
+      free: Gratis
+      head: Account
+      login: Login
+      modal:
+        delete:
+          confirm_with_password: 'Bevestigen met wachtwoord'
+          head: 'Verwijdering van uw account!'
+          label: 'Mijn account verwijderen'
+          text: "Weet je zeker dat je je account wilt verwijderen? Je foto's, video's, volgers, vind-ik-leuks en alle gegevens worden onherroepelijk verwijderd en gaan voor altijd verloren. Canb kan uw account op elk gewenst moment pauzeren en hervatten."
+      new_email_address: 'Nieuw e-mailadres'
+      new_password: 'Nieuw wachtwoord'
+      new_profile_name: 'Nieuwe profielnaam'
+      password: Wachtwoord
+      profile_name: Profielnaam
+      retype_new_email_address: 'Nieuw e-mailadres opnieuw typen'
+      retype_new_password: 'Nieuw wachtwoord opnieuw typen'
+    date_of_birth: 'Geboortedatum:'
+    deactivate_your_account: 'Uw account deactiveren'
+    distance:
+      ft: "ft\r"
+      km: "km\r"
+      m: "m\r"
+      mi: "mi\r"
+    general: Algemeen
+    hashtags:
+      add_tag: 'Tag toevoegen'
+      headline: '#Hashtags:'
+    headline: 'Kop:'
+    height: 'Hoogte:'
+    location:
+      add_location: 'Voeg plaatsen toe die u bezoekt. U wordt van tevoren voor alle plaatsen in zoekresultaten weergegeven om meer aantrekkingskracht te krijgen.'
+      add_new_place: 'Nieuwe plaats toevoegen'
+      add_places: 'Voeg plaatsen toe die u bezoekt. U wordt van tevoren voor alle plaatsen in zoekresultaten weergegeven om meer aantrekkingskracht te krijgen.'
+      auto_change: 'Klik hier om de locatie automatisch te wijzigen'
+      browser_error: 'U hebt het delen van locaties in uw browser geblokkeerd. Schakel deze functie in om deze functie te gebruiken.'
+      choose_location: 'Kies een locatie en een datum'
+      date_from: 'Datum vanaf'
+      date_to: 'Datum tot'
+      delete: 'Wilt u uw bezoek verwijderen uit'
+      delete_from: ''
+      delete_headline: 'Locatie verwijderen'
+      delete_location: 'Locatie verwijderen?'
+      delete_question_mark: '?'
+      enter_location: 'Locatie invoeren'
+      entered_location: 'Ingevoerde locatie'
+      error: 'Fout:'
+      error_try_later: 'Fout: Probeer het later opnieuw'
+      head:
+        add_location: 'Locatie toevoegen'
+        gps_location: 'Uw GPS-locatie'
+        i_visit: 'Ik bezoek'
+      headline: 'Locatie verwijderen?'
+      label:
+        delete_location: 'Locatie verwijderen'
+        delete_location2: 'Wilt u deze locatie verwijderen?'
+        delete_location3: ''
+        select: 'Locatie selecteren'
+      manually_change: 'Klik hier om uw locatie handmatig te wijzigen'
+      map: 'Selecteer een locatie op de kaart of voer de locatie in het tekstvak boven de kaart in. Kies ook een begin- en einddatum.'
+      ok: OK
+      save_location: 'Locatie opslaan'
+      save_location1: 'Locatie opslaan'
+      save_location2: 'Locatie opslaan'
+      select: 'Selecteer zelf locatie'
+      start_end_date: 'Voeg begin- en einddatums toe aan uw reis. U wordt van tevoren voor alle plaatsen in zoekresultaten weergegeven om meer aantrekkingskracht te krijgen.'
+      trip_already_planed:
+        error: 'Je hebt al een reis op deze data.'
+      use_gps: 'GPS gebruiken'
+    measuring_system:
+      cm: Cm
+      imperial: 'imperial (VS)'
+      kg: Kg
+      label: 'Meetsysteem:'
+      lbs: Lbs
+      metric: Metrische
+    media:
+      add_hashtag: 'Tag toevoegen'
+      add_hashtags: 'hashtags toevoegen'
+      classification_pending: 'Classificatie in behandeling'
+      delete:
+        head: 'Echt verwijderen'
+        label:
+          cancel: Annuleren
+          delete: Verwijderen
+        text: 'Weet je zeker dat je deze media wilt verwijderen?'
+      hd: "HD\r"
+      is_preview: 'is voorbeeld foto'
+      max_size: "Foto's en video's"
+      photo: Foto
+      private_gallery: privégalerie
+      type:
+        all_media: 'Alle media'
+        photos: "Foto 's"
+        videos: "Video 's"
+      video: Video
+      xxx: "XXX\r"
+    menu:
+      account: Account
+      contact: Contact
+      locations: 'Locaties beheren'
+      logout: Logout
+      media:
+        head: "Foto's en video's beheren"
+        manage: "Foto's en video's beheren"
+      order_history: Bestelgeschiedenis
+      preview: Profielvoorbeeld
+      profile: Profiel
+      settings: Instellingen
+      upload: "Foto's en video's uploaden"
+      verification: Verificatie
+      verified: 'Escort geverifieerd'
+      view_profile: 'Profiel weergeven'
+    order:
+      history:
+        status:
+          paid: Betaald
+          pending: Aanhangig
+      status:
+        paid: 'Bedankt voor uw bestelling.'
+        pending: 'Bedankt. Wij controleren uw bestelling en laten het u zo snel weten.'
+    payment:
+      error:
+        label: 'Er is een fout opgetreden. Neem dan contact met ons op.'
+        password_invalid: 'Uw wachtwoord is onjuist.'
+        password_too_short: 'Het nieuwe wachtwoord moet ten minste 6 tekens lang zijn.'
+        profile_invalid: 'De nieuwe profielnaam is niet geldig. Kies een andere profielnaam.'
+        profile_name_too_short: 'De nieuwe profielnaam moet ten minste 6 tekens lang zijn. Tekens, letters, koppeltekens en koppeltekens zijn toegestaan.'
+      not_recurring: Niet-terugvallen
+    payments:
+      amount: Bedrag
+      billed: Gefactureerd
+      cancel:
+        label: Annuleren
+      cancel_subscription:
+        head: 'Abonnement opzeggen:'
+        label: 'Als u uw abonnement opzegt, is er geen automatische verlenging meer. Als u de service wilt blijven gebruiken, moet u een nieuwe bestelling plaatsen. Weet je echt zeker dat je je abonnement wilt opzeggen door alle befinits en festures te verliezen?'
+        label1: 'Abonnement opzeggen'
+        text: "Als u uw abonnement wilt opzeggen, klikt u op 'abonnement' in uw bestelgeschiedenis."
+      cancelled: Geannuleerd
+      currently_free_account: 'U maakt gebruik van een gratis account. Upgrade nu naar \"Go Prime\" en gebruik alle geweldige functies.'
+      date: Datum
+      duration: Duur
+      eotw:
+        full1: 'Escort of the Week subscription is active until 2022-02-04 and will be automatically extended.'
+        full2: 'Escort of the Week subscription will be cancelled on 2022-02-04.'
+        text1: 'Abonnement escort van de week'
+        text2: 'actief is tot'
+        text3: 'zal worden geannuleerd op'
+        text4: 'en wordt automatisch verlengd.'
+        text5: ''
+      error:
+        billing: 'Factureringsproblemen tijdens het verwerken van uw abonnement'
+      failed: Mislukt
+      gift_no: 'cadeau (niet-terugkerend)'
+      nonrecurring: 'Niet-terugvallen '
+      order_history: Bestelgeschiedenis
+      paid: Betaald
+      prime: Prime
+      prime_subscription: Prime-abonnement
+      product: Product
+      status: Status
+      subscription: 'Abonnement actief'
+      subscription1: Abonnement
+      your: Uw
+    pornstar:
+      very_for_changing_settings: 'Controleer of u de instellingen wilt wijzigen.'
+    price:
+      ask: Vragen
+      price: Prijs...
+      price_hour: 'Prijs/uur:'
+      price_night: 'Prijs/nacht:'
+    profile_activated: 'Profiel geactiveerd.'
+    profile_text: 'Profieltekst:'
+    pron_star:
+      label: 'Ik ben ook een pornoster'
+      upload: Uploaden
+      website_indication: 'Website die aangeeft dat je een pornoster bent (URL, Twitter-account of internetvideo)'
+    services:
+      headline: 'Diensten, voorkeuren en fetisjen'
+    settings:
+      label: Instellingen
+    signup:
+      terms_policy:
+        text1: 'Ja, ik accepteer de'
+    status:
+      profile_paused: 'Je profiel is momenteel onderbroken. Klik hier om je profiel opnieuw te activeren.'
+    text_hashtags:
+      headline: 'Teksten en #Hashtags'
+    thousand:
+      k: "k\r"
+    type:
+      prime_escort: "Prime Escort\r"
+    upload:
+      error: 'Upload momenteel niet beschikbaar.'
+    verification:
+      files:
+        full: 'Uploaded files will automatically be deleted after verification'
+        info: "(max. 3 foto's of PDF-bestanden)"
+        label: 'Klik hier om bestanden te uploaden.'
+        success: 'Hartelijk dank. We nemen binnenkort contact met u op.'
+        text1: 'Geüploade bestanden'
+        text2: 'wordt automatisch verwijderd na verificatie'
+        text3: 'is gedaan.'
+      full: 'Improve your profile status and show everyone that you are real '
+      label: Verificatie
+      proof:
+        blackened: 'Gegevens zoals naam en adres kunnen zwart worden gedukt.'
+        full: 'Send us a proof with photo, e.g. drivers licence picture ID or passport'
+        text1: 'Stuur ons een bewijs met foto, bijv.'
+        text2: 'rijbewijs, '
+        text3: afbeeldings-id
+        text4: Of
+        text5: Paspoort
+        text6: ''
+      text1: 'Je profielstatus verbeteren en iedereen laten zien'
+      text2: 'dat je echt bent'
+      upload:
+        file:
+          cancel: Annuleren
+          cc: 'Voorzijde Creditcard'
+          error: 'Voer uw bestanden in'
+          identity: Foto-ID
+          text: 'Het systeem heeft een hoog risico voor uw bestelling gedetecteerd. Wij vragen u daarom om een identiteitsbewijs (bijvoorbeeld identiteitsbewijs met foto, paspoort of rijbewijs) en een foto van de voorkant van uw creditcard te uploaden. Na controle zullen wij uw bestelling verwerken. Uw geüploade bestanden worden dan automatisch verwijderd. U kunt ook een andere betaalmethode kiezen.'
+          upload: Uploaden
+          verification_required: 'Verificatie vereist'
+    view:
+      large_grid: 'groot raster'
+      list_view: lijstweergave
+      mobile:
+        large_grid: 'groot raster (mobiele apparaten)'
+      small_grid: 'klein raster'
+    weight: 'Gewicht:'
+  ad:
+    banner:
+      remove_ad: 'AD verwijderen'
+    click_here: 'Klik hier'
+    label: Ad
+    place:
+      action:
+        place_your_ad: 'Plaats uw advertentie nu'
+      ad_options: "Exclusieve opties voor uw AD's"
+      banner_ad: Reclamevaandel
+      budget_management: 'Intelligent budgetbeheer en responsieve AD-plaatsing'
+      escort_profile_ad: 'Escort profielfoto'
+      filters: 'Exclusieve filters - seksuele geaardheid, landen, talen'
+      fullpage_ad: 'Fullpage AD'
+      geo_targeting: 'Geo targeting-advertenties voor hoge conversies'
+      high_conversions: 'hoge conversies door sterke focus op doelgroepen'
+      multi_geo_targeting: 'Multi Geo Targeting voor elke campagne'
+      unlimited_campaigns: 'onbeperkt aantal campagnes en real-time statistieken'
+      video_ad: 'Video AD'
+      video_preview_photo: Videovoorbeeldfoto
+    remove: 'AD verwijderen'
+  affiliate:
+    account_blocked: 'Uw partneraccount is geblokkeerd vanwege fraudeverkeer. Als u denkt dat dat een vergissing is, neem dan gerust contact op met de ondersteuning hier.'
+    action:
+      register_under_30s: 'Schrijf je gratis in 30 seconden'
+    copy_link: 'Koppeling kopiëren'
+    email:
+      error: 'Het e-mailadres is niet geldig.'
+      label: E-mail
+      sent:
+        body: 'Bevestig uw e-mailadres'
+        body2: 'binnen de volgende 60 minuten:'
+        confirm_email_address: 'E-mailadres bevestigen:'
+        full: 'Please confirm your email address within the next 60 minutes:'
+        hello: Hallo
+        label: 'Affiliate - bevestig uw nieuwe e-mailadres'
+    embed_website: 'Insluiten in website/koppelingsgenerator'
+    head:
+      full: 'You want to maximize your traffic revenue?'
+      mobile: 'Wilt u uw verkeersinkomsten maximaliseren?'
+      text1: 'U wilt uw'
+      text2: verkeersinkomsten?
+    income:
+      apprx_income: 'Geschatte inkomsten:'
+      avg_daily_registrations: 'Gemiddelde registraties per dag'
+      calc: Inkomenscalculator
+      calc_income: 'Het berekenen van inkomsten'
+      results:
+        action:
+          register_under_30s: 'Schrijf je gratis in 30 seconden'
+        free_signups: 'Gratis aanmeldingen'
+        incl_recurring_sales: 'incl. terugkerende verkopen'
+        income_1st_yr: 'Inkomen 1 jaar'
+        income_2nd_yr: 'Inkomen 2 jaar'
+        income_month: Inkomen/maand
+        sales: Verkoop
+        total: Totale
+    lifetime_sales: '50% aandeel van alle terugkerende verkopen - forwever, geen cookie levensduur'
+    menu:
+      account: Account
+      details: Details
+      head: 'Affiliate Programma:'
+      links: Verwijzigingen
+      logout: Logout
+      payout: Uitbetaling
+      statistics: Statistieken
+      support: 'Ondersteuning voor affiliates'
+    new_password:
+      email:
+        body: 'U uw wachtwoord binnen 60 minuten wijzigen door op de koppeling te klikken:'
+        hello: Hallo
+      error:
+        email: 'Uw e-mailadres is onjuist.'
+        invalid_identifier: 'Id ongeldig'
+        min_characters: 'Het wachtwoord moet ten minste 6 tekens lang zijn.'
+        passwords_not_matching: 'De wachtwoorden komen niet overeen.'
+      head: 'Affiliate - nieuw wachtwoord'
+      placeholder: 'Nieuw wachtwoord (min. 6 tekens)'
+      placeholder1: 'nieuw wachtwoord (min. 6 tekens):'
+      retype_placeholder: 'Wachtwoord opnieuw typen:'
+      save: 'Wachtwoord opslaan'
+    one_usd_per_registration: '.00 voor elke gratis registratie - geen e-mailverificatie vereist'
+    password:
+      do_not_match: 'Uw wachtwoorden komen niet overeen.'
+      error: 'Uw wachtwoord is onjuist.'
+      error1: 'Uw huidige wachtwoord is onjuist.'
+      head: 'Affiliate - Referenties'
+      too_short: 'Uw wachtwoord is te kort.'
+    password_forgotten:
+      email: 'E-mailadres:'
+      send_label: 'Referenties aanvragen'
+      success: 'Als de e-mail is geregistreerd, hebben we u een e-mail gestuurd.'
+    payout:
+      address: Adres
+      address2: 'Addidiotnal-adres '
+      bitcoin:
+        error: 'Het Bitcoin-adres is niet geldig.'
+        minimum1: 'Het minimale uitbetalingsbedrag is'
+        minimum2: 'en zal betalen aan het BTC-adres'
+        payout: 'Uitbetaling naar Bitcoin-adres (.00 kosten)'
+      btc:
+        address: BTC-adres
+      cc:
+        ccv: CCV
+        ccv_info: 'De laatste 3 of 4 cijfers aan de achterzijde'
+        error: 'De creditcard is ongeldig.'
+        exp_date: Vervaldatum
+        head: Creditcard
+        minimum1: 'Het minimale uitbetalingsbedrag is'
+        minimum2: 'en zal betalen aan uw creditcard'
+        month_year: 'Maand / Jaar'
+        name_on_card: 'Naam op creditcard'
+        payout: 'Uitbetaling naar creditcard'
+      change_payout: 'Als u uw uitbetalingsgegevens wilt wijzigen, u uw huidige gegevens verwijderen. Huidige uitbetalingen worden hier niet door beïnvloed.'
+      city: Stad
+      contact: 'Als je problemen hebt, neem dan contact op met de affiliate support.'
+      country: Land
+      current_password: 'Huidig wachtwoord'
+      delete_payout_data: 'Betalingsgegevens verwijderen'
+      error:
+        address: 'Uw adres is onjuist.'
+        city: 'Ga je stad binnen.'
+        country: 'Voer uw land in.'
+        date: 'Kies een juiste datum.'
+        date_range: 'Kies een juist datumbereik.'
+        lastname: 'Je achternaam klopt niet.'
+        min_amount: 'Het minimumbedrag voor uitbetalingen is onjuist.'
+        name: 'Je naam is onjuist.'
+        zip: 'Voer uw postcode in.'
+      full: 'The minimum payout amount is 50 EUR and will payed to the BTC address'
+      lastname: Achternaam
+      min_amount: 'Uitbetaling vanaf'
+      name: Naam
+      payout: Uitbetaling
+      payout_invalid: 'Uitbetaling ongeldig.'
+      save:
+        label: Opslaan
+        success: 'Wijzigingen die zijn opgeslagen'
+      saved:
+        full: 'Your payout information were successfully saved on 2020-12-31'
+      saved1: 'Uw uitbetalingsgegevens zijn opgeslagen op'
+      saved2: .
+      zip_code: Postcode
+    registration_process: 'Ons snelle registratieproces, waarvoor geen e-mailadres of creditcard nodig is, verhoogt uw conversies als nooit tevoren. '
+    retype_new_password: 'Wachtwoord opnieuw typen'
+    revenue_share: '50% aandeel van alle verkopen (directe verkoop, cross sales, up sales etc.)'
+    sigin:
+      error: 'Uw referenties zijn ongeldig.'
+    signin:
+      head: 'Affiliate - Log in'
+      password: 'Wachtwoord:'
+      password_forgotten: 'Vergeten wachtwoord?'
+    signup:
+      accept_terms_policy: 'Accepteer de voorwaarden en het beleid om door te gaan.'
+      already_registered: 'Al geregistreerd?'
+      email:
+        body: 'welkom bij het gratis affiliate programma. Bevestig je e-mailadres door op onderstaande link te klikken. Alle details, links en HTML carrousel escort generator evenals uw statistieken zijn te vinden in de backend.'
+        confirm_email_address: 'Bevestig uw e-mailadres:'
+        not_registered_with_this_email_address: 'Als je je nog niet hebt geregistreerd bij dat e-mailadres, klik dan hier:'
+        subject: 'Affiliate - bevestig uw e-mailadres'
+      error:
+        passwords_not_matching: 'Uw wachtwoorden komen niet overeen.'
+      head: 'Affiliate - Aanmelden'
+      label:
+        finish: Voltooien
+      password_min_characters: 'Wachtwoord (min. 6 tekens):'
+      terms_policy: "Terms and Policy\r"
+    stats:
+      clicks: Klikken
+      ctr: Ctr
+      date:
+        head: Datum
+        label: Datum
+      date1: Datum
+      excel_download: 'Excel downloaden'
+      head:
+        carousel: Carrousel
+        gay: 'Escorts: Gay,'
+        geo_targeting: 'Selectie: Geo Targeting,'
+        men: 'Escorts: Mannen,'
+        random: 'Selectie: Willekeurig,'
+        theme_dark: 'Thema: Donker,'
+        theme_individual: 'Thema: Individueel,'
+        theme_light: 'Thema: Licht,'
+        trans: 'Escorts: Trans,'
+        women: 'Escorts: Vrouwen,'
+      hits: Hits
+      json_download: 'JSON Downloaden'
+      new_payouts: 'Nieuwe uitbetalingen'
+      pages: 'Blz:'
+      period: Periode
+      range: Bereik
+      recurring_payouts: 'Terugkerende uitbetalingen'
+      results:
+        next: Volgende
+        previous: Vorige
+      sort_by: 'Sorteren op'
+      tab:
+        clicks: Klikken
+        ctr: Ctr
+        date: Datum
+        hits: Hits
+        link: Link
+        new_payouts: 'nieuwe uitbetalingen'
+        recurring_payouts: 'terugkerende uitbetalingen'
+        total_payouts: 'Totale uitbetalingen'
+        tour: Tour
+        unique_hits: 'Unieke hits'
+      total_all_pages: "Totaal (alle pagina's)"
+      total_payouts: 'Totale uitbetalingen'
+      tour: Tour
+      unique_hits: 'Unieke hits'
+      view: Bekijken
+    support:
+      error:
+        too_long: 'Je tekst is te lang. Verkort uw vraag.'
+        too_many_requests: 'U op dit moment geen aanvragen meer verzenden, probeer het later opnieuw.'
+        too_short: 'Voer een langere tekst in.'
+      from: 'Van:'
+      head: 'Contact Affiliate Support'
+      send:
+        thank_you: 'Uw aanvraag is verzonden. Bedankt. '
+    user:
+      background_color: Achtergrondkleur
+      copy_html: 'HTML kopiëren'
+      copy_linke: 'Koppeling kopiëren'
+      dark_theme: 'Donker thema'
+      desktop: Desktop
+      embedded: 'Escort Carrousel (Embedded)'
+      escort_results: 'Escort resultaten:'
+      escorts: 'Jaarboek:'
+      geo_targeting: 'Geotargeting (hoogste conversie)'
+      individual_them: 'Individueel thema'
+      language: 'Taal:'
+      light_theme: 'Licht thema'
+      link: Link
+      mobile: Mobiele
+      preview: Voorbeeld
+      random: Willekeurige
+      text_color: Tekstkleur
+      theme: 'Thema:'
+      type: 'Type:'
+    user_feature_set: "De gebruiker kan optimaal profiteren van de website zonder een cent te investeren, inclusief gratis foto's, video's, chats en nog veel meer!"
+    usp: 'Wat ons zo anders maakt is onze \"echte gratis\" escort site.'
+    your_link: 'Uw affiliate URL:'
+  chat:
+    translation:
+      action:
+        activate_now: 'Vertaal nu activeren'
+      feature:
+        myself:
+          full: 'binnenkomende berichten worden automatisch vertaald naar het Engels'
+          text1: 'binnenkomende berichten worden automatisch vertaald naar '
+          text2: ''
+        user:
+          full: 'uitgaande berichten worden automatisch vertaald in de taal die is geselecteerd door SexyGirl18'
+          text1: 'uitgaande berichten worden automatisch vertaald in de taal die is geselecteerd door SexyGirl18'
+          text2: ''
+      language:
+        write_in: 'Ik schrijf in'
+      service:
+        activated: 'vertaaldienst actief'
+        deactivated: 'vertaaldienst gedeactiveerd'
+    upload:
+      check:
+        progress: 'Werken aan bestand...'
+  contact:
+    email_address: E-mail
+    error:
+      captcha: 'Voer het nummer/captcha in de afbeelding in.'
+      general: 'Fout:'
+      too_long: 'Je tekst is te lang. Verkort uw vraag.'
+      too_many_requests: 'U op dit moment geen aanvragen meer verzenden, probeer het later opnieuw.'
+      too_short: 'Voer een langere tekst in.'
+    feedback: Feedback
+    head: Contact
+    headline: 'Neem contact met ons op'
+    improvements_wishes: 'Heeft u verbeteringen, wensen of feedback? Neem nu contact met ons op.'
+    success:
+      thank_you: 'Uw verzoek is verzonden. Hartelijk dank.'
+  enable_search_notifications: 'Zoekmeldingen inschakelen'
+  enabled_search_notifications: 'Zoekmeldingen ingeschakeld'
+  escort:
+    directory:
+      escorts_in:
+        body1: Zie
+        body2: ''
+        cities_from: 'Escorts in steden van'
+        find_in_countries: 'Zoek escorts in de volgende landen'
+        following_cities: 'Zoek escorts in de volgende steden'
+        following_regions: "Zoek escorts in de volgende regio's"
+        full: 'See all Gay Escorts in France'
+        label: 'Escorts in'
+        regions_from: "Escorts in regio's van"
+      gay: homo
+      male: Mannelijke
+  exchange_links:
+    add:
+      backlink:
+        gay: 'Sexy Gay Escorts - 321escorts.com'
+        male: 'Sexy Mannelijke Escorts - 321escorts.com'
+        women: 'Sexy Escorts - 321escorts.com'
+      button_send: 'Koppelingen uitwisselen'
+      destination_url: 'Bestemmings-URL:'
+      email: 'E-mail:'
+      error:
+        already_added: 'Uw URL bestaat al.'
+        invalid_email: 'Uw e-mailadres is ongeldig.'
+        invalid_inputs: 'De ingangen zijn niet geldig.'
+        too_many_requests: "We kunnen op dit moment geen URL's meer van u aannemen. Probeer het later nog eens."
+        url_invalid: 'De URL-naam is niet geldig.'
+        url_invalid2: 'De URL is niet geldig.'
+      first_name: 'Voornaam (optioneel):'
+      name_displayed:
+        example: 'Mijn Tiener Blog'
+        label: 'Naam weergegeven op openbare pagina:'
+      success:
+        copied: Gekopieerd
+        copy_html: 'HTML kopiëren'
+        include_code_on_website: 'Voeg de volgende code op uw pagina toe. Wij controleren uw website in de komende 24 uur. Uw link zal worden geactiveerd en openbaar getoond als we onze link op onze pagina.'
+        label: 'Hartelijk dank'
+      target_group: 'Doelgroep:'
+      target_group_all: Alle
+      target_group_gay_trans: Gay/Trans
+    error:
+      name: 'Je naam is ongeldig.'
+    head: 'Koppelingen uitwisselen'
+    link:
+      body1: 'u ook gebruik maken van uw'
+      body2: 'Affiliate Link'
+      body3: 'en verdien extra geld'
+      full: 'you also can use your Affiliate Link and earn extra money'
+    link_backlink_website: 'Schakel links uit en word lid op onze partnerwebsites. Het is gratis. Wij koppelen uw website - u linkt onze website terug.'
+    more_visitors: 'meer bezoekers krijgen aan uw website'
+    text:
+      body1: 'U wordt altijd vermeld op onze'
+      body2: partnerwebsite
+      body3: ''
+      full: 'You will always be listed on our partner website'
+    visitors_per_month: 'we hebben met meer dan 32 miljoen bezoekers per maand (Alexa gecertificeerd)'
+    website_ranking: 'hoe hoger uw website ranking, hoe vaker uw link verschijnt op onze websites'
+    websites:
+      free_sign_up: 'Registreer uw website hier gratis en word een beursgenoteerde partner website.'
+      head: 'Onze partnerwebsites'
+  footer:
+    affiliate: Affiliate
+    escorts_ads: 'Escort Advertenties'
+    menu:
+      18usc: '18 Verenigde .C'
+      anti_trafficking: 'Meld Mensenhandel'
+      customer_service: Klantenservice
+      data_collection: 'Verzameling van persoonsgegevens'
+      dmca: DMCA
+      environmental_protection: "1% van alle omzet wordt besteed aan milieubeschermingsprogramma's."
+      exchange_links: 'Koppelingen uitwisselen'
+      gay:
+        escort_photos: "Foto's voor Gay Escort"
+        escort_videos: "Gay Escort Video's"
+        find_gay_escorts: 'Vind Gay Escorts'
+        gay_bottoms: 'Gay Bodems'
+        gay_escort_directory: 'Gay Escort Directory'
+        gay_tops: 'Gay Tops'
+        tinks_under_30: 'Twinks onder de 30'
+      head:
+        information: Informatie
+        navigation: Navigatie
+      headline:
+        webmaster_affiliate: 'Webmaster & Affiliates'
+      men:
+        escort_photos: "Foto's voor Mannelijke Escort"
+        escort_videos: "Mannelijke Escort Video's"
+        escort_women: 'Escort Vrouwen'
+        find_male_escorts: 'Zoek mannelijke escorts'
+        gentlemen_escorts: 'Gentelmen Escorts'
+        male_escort_directory: 'Mannelijke Escort Directory'
+        slim_men: 'Slanke mannen'
+        tall_men: 'Lange mannen'
+        young_callboys: 'jonge Callboys'
+      my_account: 'Mijn account'
+      navigation:
+        my_account: 'Mijn account'
+        place_ads: 'Plaats Escort-advertenties'
+      partner_websites: Partnersites
+      place_escort_ads: 'Advertenties plaatsen'
+      privacy_policy: privacybeleid
+      report_error: 'Fouten melden'
+      report_new_feature: 'Rapportfunctie of wens'
+      server_renewable_energy: 'Al onze servers draaien op 100% hernieuwbare energie.'
+      terms_and_provacy: Servicevoorwaarden
+      women:
+        directory: 'Escort Directory'
+        dominat: 'Dominante vrouwen'
+        escort_photos: "Foto's voor Escort"
+        escort_videos: "Escort video's"
+        find_escort_girls: 'Zoek Escort Girls'
+        gay_trans_escorts: 'Gay & Trans Escorts'
+        men_for_women: 'Escort Mannen voor Vrouwen'
+        submissive: 'Onderdanige vrouwen'
+        under_30: 'Vrouwen onder de 30'
+        young_callgirls: 'Jonge callgirls'
+      youth_protection: Jeugdbeschermingsagent
+    newsletter:
+      cell_phone: Cel...
+      email_address: E-mailadres...
+      escort_newsletter: 'Gratis Escort Nieuwsbrief'
+      sms:
+        code: Code...
+        different_number: 'Ander nummer'
+        send: Verzenden
+    notifications:
+      customer_recommendations: 'Aanbevelingen van klanten'
+      escort_recommendations: 'Aanbevelingen voor escortes'
+    notifications_for: 'Meldingen voor'
+  gps:
+    error:
+      check_browser_settings: 'Controleer uw browserinstellingen om uw locatie (GPS) te verlenen voor de beste zoekresultaten.'
+  head:
+    search:
+      placeholder: 'Locatie, stad, postcode...'
+  headline:
+    black0: 'Het beste'
+    black1: Site
+    favorits:
+      mobile:
+        favorites: Favorieten
+      my_favorites: 'Mijn favorieten'
+    full: 'THE BEST FREE ESCORT SITE'
+    near_me:
+      escorts_near_me: 'Escorts in de buurt'
+      mobile:
+        radar: Radar
+    new_escorts:
+      mobile:
+        new: 'Nieuwe Escorts'
+      new: Nieuw
+    online:
+      mobile:
+        now_online: 'Nu online'
+      now_online: 'Escorts - nu Online'
+    photos:
+      escort_photos: "Escort foto's"
+      latest: Laatste
+      mobile:
+        latest_photos: "Laatste foto's"
+    red: 'GRATIS ESCORT'
+    reviews:
+      escort_reviews: 'Escort reviews'
+      mobile:
+        latest_reviews: 'Laatste reviews'
+    tag:
+      escort_found: 'Escorts gevonden'
+      escorts: Jaarboek
+      escorts_found: 'Escorts gevonden'
+      more_than: 'meer dan'
+      no: Nee
+    videos:
+      escort_videos: "Escort video's"
+      mobile:
+        latest_videos: "Nieuwste video's"
+    visitors:
+      my_visitors: 'Mijn bezoekers'
+  lang:
+    footer:
+      full: 'Visit our translation project on GitHub and help make 321escorts.com accessible to more of our sexy escorts & friends.'
+      text1: 'Bezoek ons vertaalproject op'
+      text2: 'GitHub (GitHub)'
+      text3: 'en help 321escorts.com toegankelijk te maken voor meer van onze sexy escorts & friends.'
+    head:
+      choose: 'Kies uw taal'
+      save:
+        label: Opslaan
+  last_login:
+    ago: Geleden
+    capitalized:
+      online: Online
+    day: Dag
+    days: Dagen
+    is_online: 'is online'
+    last: Laatste
+    mobile:
+      last_login: 'Laatste aanmelding'
+      online: Online
+    online: Online
+  mail:
+    contact: Contact
+    follow_on_twitter: 'Volg ons op Twitter'
+    go_prime: 'Go Prime'
+    webmatser_affiliate: 'Webmaster & Affiliate'
+  menu:
+    favorits: Favorieten
+    mobile:
+      dark_mode: 'Donkere modus'
+      light_mode: Lichtmodus
+    near_me: 'Bij mij in de buurt'
+    new_escorts: 'Nieuwe Escorts'
+    online: Online
+    photos: "Foto 's"
+    reviews: Beoordelingen
+    search: Zoek
+    videos: "Video 's"
+  mobile:
+    load_more_escorts:
+      detail_search: 'Zoek nu'
+      load_more: 'Laad meer escorts'
+      sign_up: 'Meer? Schrijf je nu gratis in'
+    menu:
+      chat: Chat
+      favorits: Favorieten
+      radar: Radar
+      visitors: Bezoekers
+  modal:
+    gps:
+      escorts_near_me:
+        cancel: Annuleren
+        full: 'Do you want to share your GPS position to see escorts in your area?'
+        headline: 'Escorts in mijn omgeving'
+        main1: 'Wilt u uw GPS-positie delen om te zien'
+        main2_bold: 'Escorts bij u in de buurt'
+        main3: ''
+        mobile:
+          share: 'GPS delen'
+        share: 'GPS-positie delen'
+    notifications:
+      allow_notifications: 'Meldingen toestaan'
+      error: Fout
+      full: 'Do you want to be informed about new and sexy escorts?'
+      headline: Meldingen
+      main1: 'Wilt u op de hoogte blijven van'
+      main2_bold: 'nieuwe en sexy escorts?'
+      main3: ''
+      mobile:
+        allow: Toestaan
+      ok: OK
+      type_new_customers: 'nieuwe klanten?'
+  newsletter:
+    label:
+      correct_cell_phone: 'Het juiste mobiele telefoonnummer is:'
+      email:
+        confirm:
+          body: 'We hebben je een e-mail gestuurd. Klik op de link in de e-mail om je adres te bevestigen. Wilt u ook SMS-evenementen ontvangen?'
+          click_link: 'Klik op activeringskoppeling in e-mail'
+        head: 'per e-mail'
+      enabled: 'Meldingen ingeschakeld'
+      sms:
+        code: 'SMS verzonden. Voer de code in:'
+        enter_code: 'Voer de sms-code in die u zojuist hebt ontvangen.'
+        head: 'Bedankt! Wilt u ook SMS ontvangen?'
+        thank_you: 'Hartelijk dank!'
+  next: Volgende
+  notifications_enabled: ' Zoekmeldingen zijn ingeschakeld'
+  notify:
+    thankyou: Bedankt
+  order:
+    action:
+      label:
+        full: '140 USD - pay now'
+      text1: ' - nu betalen'
+    best_deal: 'Beste deal'
+    bitcoin:
+      address: 'Adres:'
+      amount: 'Bedrag:'
+      full: 'You have 30 min. time to scan the code or send the amount to the address:'
+      livecheck:
+        not_received: 'Nog niet ontvangen bedrag...'
+        wainting_for_confirmation: 'Wachten op netwerkbevestiging...'
+      scan_here: 'Scan code of klik hier.'
+      text1: 'je hebt'
+      text2: 'minuten tijd om de code te scannen of het bedrag naar het adres te sturen:'
+    charge:
+      curreny:
+        full: 'Prices will be charged in EUR.'
+        text1: 'Valuta voor prijzen:'
+        text2: .
+    coupon:
+      add: 'Coupon toevoegen'
+      billing:
+        text: 'Coupon (eenmalig)'
+      error: 'Verzoek ongeldig.'
+      invalid: 'Coupon ongeldig.'
+      placeholder:
+        enter_code: Couponcode...
+      redeem: vrijkopen
+    cus_features:
+      body:
+        more_chat: "60 dagen chatgeschiedenis en sla onbeperkt berichten, foto's en video's op"
+        more_escorts: 'Zie tot drie keer zoveel escorts in de radar zoeken en alle andere zoekresultaten'
+        more_numbers: 'Bekijk maximaal 100 telefoonnummers per dag'
+        no_ads: 'Geniet van alles zonder reclame'
+        stealth: 'Verwijder je profielbezoeken en wees onzichtbaar.'
+        storage: "Upload onbeperkt foto's en video's en sla onbeperkt profielen en berichten op."
+        unlimited_requests: "Onbeperkte verzoeken van privéfoto's en video's"
+        visitor_history: '7-daagse geschiedenis, welke escorts je profiel bezochten en wie je hebt bezocht'
+        xxx_content: "Bekijk alles, inclusief hardcore foto's en hardcore video's"
+      head:
+        more_chat: 'Meer Chat'
+        more_escorts: 'Meer Escorts'
+        more_numbers: 'Meer telefoonnummers'
+        no_ads: "Geen AD's"
+        stealth: Stealth-modus
+        storage: 'Onbeperkte opslag'
+        unlimited_requests: "Onbeperkte verzoeken van privéfoto's en video's"
+        visitor_history: Bezoekersgeschiedenis
+        xxx_content: XXX-inhoud
+    discount: Korting
+    duration:
+      capitalized:
+        choose: 'KIES UW DUUR'
+    eotw_features:
+      body:
+        affiliate_impressions: 'Uw escortprofiel wordt weergegeven en geadverteerd aan gebruikers op onze duizenden partnersites regionaal en wereldwijd'
+        ai_recommendations: 'Onze kunstmatige intelligentie beveelt uw profiel met prioriteit aan relevante klanten en bezoekers'
+        highest_status: 'Je profiel wordt gemarkeerd met het \"Escort of the Week\" icoontje, de status geeft je meer erkenning en escortqueries.'
+        network_impressions: 'Wij garanderen meer dan 10.000 profielvertoningen via onze sites van derden en het affiliate netwerk'
+        radar_placement: 'Top ranking in de radar zoeken en in alle zoekresultaten - voor Prime escorts en gratis escorts. Dat betekent: Meer likes, fans en escort inqueries'
+        top_ranking: 'Klanten in de regio zien je bovenaan de hoofdlandingspagina'
+      head:
+        affiliate_impressions: 'Actieve advertenties voor uw profiel'
+        ai_recommendations: AI-aanbevelingen
+        highest_status: 'Beste escort status'
+        network_impressions: '10.000 dagelijkse profielvertoningen gegarandeerd'
+        radar_placement: 'Top radar en omgeving plaatsing'
+        top_ranking: 'Top 1e positie op de website'
+    features:
+      body:
+        customers: 'Zie tot drie keer zoveel klanten in zoekresultaten'
+        more_chat: "60 dagen chatgeschiedenis en onbeperkte opslag van berichten, foto's en video's"
+        more_numbers: 'Bekijk maximaal 100 telefoonnummers per dag van klanten'
+        no_ads: 'Geniet van alles zonder reclame'
+        placement: 'Uw profiel wordt boven in alle zoekresultaten geplaatst voordat u gratis escortprofielen ontvangt. Meer vind-ik-leuks en fans - meer boekingsverzoeken'
+        read_messages: 'Direct zien wanneer uw berichten zijn gelezen.'
+        stealth: 'Verwijder je profielbezoeken en wees onzichtbaar.'
+        storage: "Upload onbeperkt foto's en video's en sla onbeperkt profielen, foto's, video's en berichten op."
+        translate_chat: 'Inkomende en uitgaande berichten worden automatisch vertaald, praat met iedereen in de wereld.'
+        unlimited_requests: "Onbeperkte verzoeken voor privéfoto's en video's"
+        visitor_history: '7-daagse geschiedenis van wie je hebt bezocht en welke klant je profiel heeft bezocht'
+        xxx_content: "Bekijk iedereen, inclusief hardcore foto's en hardcore video's"
+      head:
+        customers: 'Bekijk meer klanten'
+        more_chat: 'Meer Chat'
+        more_numbers: 'Meer telefoonnummers'
+        no_ads: 'Geen reclame'
+        placement: 'Profielranking en meer bezoekers'
+        read_messages: 'Chat leesbevestigingen'
+        stealth: Stealth-modus
+        storage: 'Onbeperkte opslag'
+        translate_chat: 'Realtime Chat Vertalingen'
+        unlimited_requests: "Onbeperkte verzoeken voor privéfoto's en video's"
+        visitor_history: 'Bezoekers Inzichten'
+        xxx_content: XXX-inhoud
+    gift:
+      capitalized:
+        choose: 'KIES EEN CADEAU'
+    gift1:
+      duration:
+        1m: '1 maand'
+        1w: '1 week'
+        1yr: '1 jaar'
+        3m: '3 maanden'
+        4w: '4 weken'
+        month: Maand
+        month1: Maand
+        week: Week
+      for: 'Cadeau voor'
+      no_prime: 'Geen Prime'
+      send_gift: '- stuur een cadeau'
+      subtitle: '... een geweldig gebaar!'
+    head:
+      boost:
+        full: "The Boost! for Tom's profile."
+        text1: 'De Boost! Voor'
+        text2: "'s profiel"
+      go_prime_now: 'Ga nu naar PRIME'
+      prime: Prime
+      profile_boost: 'De Boost! voor je profiel'
+      use_all_features: 'Krijg alle geweldige functies'
+    iban:
+      account: Account
+      country:
+        at: Oostenrijk
+        be: Belgique
+        ch: Zwitserland
+        de: Duitsland
+        es: EspaÃ±a
+        fr: Frankrijk
+        hu: MagyarorszÃ¡g
+        it: Italia
+        nl: Nederland
+        pl: Polska
+        uk: 'Verenigd Koninkrijk'
+      iban: "IBAN\r"
+    ideal:
+      amro: 'ABN AMRO'
+      asn: 'ASN Bank'
+      bunq: "bunq\r"
+      combank: 'Commerciële banken'
+      ing: "ING\r"
+      knab: "Knab\r"
+      moneyyou: "Moneyou\r"
+      name: Naam
+      rabobank: "Rabobank\r"
+      regiobank: "RegioBank\r"
+      sns: "SNS\r"
+      triodos: "Triodos Bank\r"
+      vanlanschot: "Van Lanschot\r"
+    info:
+      box:
+        full: 'You allows us to renew 3 month and recharge your card after the Prime membership expires. Your subscription will be automatically renewed until you decide to cancel.'
+        full1: 'Your subscription will be automatically renewed until you decide to cancel.'
+        no_autorew:
+          full: 'Your Prime subscription will not be renewed automatically.'
+          text1: Uw
+          text2: 'abonnement wordt niet automatisch verlengd.'
+        provider: 'Alle gegevens worden verwerkt en beveiligd door Powercash21 Ltd. Op uw verklaring staat \"321 Entertainment\".'
+        text1: 'U staat ons toe om te verlengen'
+        text2: 'en laad uw kaart op na de'
+        text3: 'Prime-lidmaatschap is verlopen.'
+        text4: 'wordt automatisch verlengd totdat u besluit te annuleren. Je altijd afzeggen.'
+      change_duration: 'De duur wijzigen'
+      total: Totale
+      vat_tax: 'BTW in voorkomend geval'
+      your_duration: 'Uw duur:'
+    method:
+      bitcoin: "Bitcoin\r"
+      cc:
+        info: 'De laatste 3 of 4 cijfers aan de achterzijde'
+        label: Creditcard
+        placeholder:
+          ccv: Cvv
+          credit_card: Creditcard
+          month_year: 'Maand / Jaar'
+          name_on_card: 'Naam op kaart'
+      iban: 'IBAN-automatische incasso'
+      ideal: "iDeal\r"
+      paysafecard: "Paysafecard\r"
+      sofort: "Sofort\r"
+    methods:
+      head: 'Betalingsmethoden:'
+      label: 'Creditcard, iDeal, Overschrijving, Paysafecard, Bitcoin'
+    nonrecurring: Niet-terugvallen
+    order_history: Bestelgeschiedenis
+    prime: "PRIME\r"
+    prod:
+      duration:
+        1m: '1 maand'
+        1yr: '1 jaar'
+        3m: '3 maanden'
+      duration1:
+        1m: '1 maand'
+        1y: '1 jaar'
+        3m: '3 maanden'
+      duration2:
+        1w: '1 week'
+        1yr: '1 jaar'
+        4w: '4 weken'
+    provider:
+      label: 'Alle gegevens worden verwerkt en beveiligd door Powercash21 Ltd.'
+      label2: 'Op uw verklaring staat \"321 Entertainment\".'
+    subscription: Abonnement
+    subscription_for: 'uw abonnement voor'
+    subscription_for1: 'Uw abonnement voor'
+    your_subscription: 'uw abonnement'
+    your_subscription1: 'Uw abonnement'
+  password_forgotten:
+    email: 'E-mailadres of profielnaam:'
+    mail:
+      body: 'Uw gevraagde wachtwoord is:'
+      change_password: 'Log in en wijzig eerst uw wachtwoord.'
+      hello: Hallo
+      subject: 'Uw referenties'
+    send: Verzenden
+    sign_in: Aanmelden
+    success:
+      change_password: 'Log in en wijzig eerst uw wachtwoord.'
+      label: 'Als je adres is gevonden, hebben we je een e-mail gestuurd. Kijk ook in je spammap.'
+  payment:
+    error:
+      cc:
+        missing_data: 'Geef alle creditcardgegevens op.'
+        number: 'Uw kaartnummer is onjuist.'
+      iban: 'Voer uw naam en de IBAN in.'
+      invalid_iban: 'Uw IBAN is ongeldig.'
+      method: 'Er is een fout opgetreden. Probeer het later opnieuw of gebruik een andere betaalmethode.'
+      select_payment: 'Maak een selectie.'
+      select_payment1: 'Maak een selectie.'
+    gift:
+      email:
+        body:
+          full: 'You can also view your order for Tom in your booking history at any time.'
+          text1: 'U de bestelling voor'
+          text2: 'ook in uw bestelgeschiedenis.'
+        hello: Hallo
+        thank_you:
+          to: 'bedankt voor uw geschenk aan'
+      for: Voor
+      notify:
+        full: 'We have sent Tom a message that you have sent a gift.'
+        text1: 'We hebben'
+        text2: 'een bericht dat je een geschenk hebt verzonden :-)'
+      notify1:
+        full: 'The user Tom just sent you a gift.'
+        text1: 'de gebruiker'
+        text2: 'heeft u zojuist een geschenk gestuurd:'
+      notify2:
+        full: 'Tom would certainly be happy to thank you.'
+        text1: 'zou blij zijn als je zegt \"Bedankt\" :-)'
+      notify3:
+        full: 'Open chat with Tom and send a "Thanks" :-)'
+        text1: 'Open chat met'
+        text2: 'en stuur een \"Bedankt\" :-)'
+      notify4:
+        full: 'Received a gift from Tom.'
+        text1: 'Cadeau ontvangen van'
+        text2: ''
+      order:
+        history: 'Je je bestelgeschiedenis op elk gewenst moment in je account bekijken.'
+        thank_you: 'Bedankt voor uw bestelling!'
+        thank_you1: 'Bedankt voor uw bestelling'
+        thank_you2: 'Bedankt voor uw bestelling'
+      thank_you:
+        from: 'Je hebt een cadeau ontvangen van'
+        to: 'Bedankt voor uw cadeau aan'
+    prod:
+      prime_1m: 'Prime voor 1 maand'
+      prime_1yr: 'Prime voor 1 jaar'
+      prime_3m: 'Prime voor 3 maanden'
+    prod1:
+      eotw_1w: 'Escort of the Week - 1 week'
+      eotw_1yr: 'Escort of the Week - 1 jaar'
+      eotw_4w: 'Escort of the Week - 4 weken'
+      prime_1m: 'Prime voor 1 maand'
+      prime_1yr: 'Prime voor 1 jaar'
+      prime_3m: 'Prime voor 3 maanden'
+  private_gallery:
+    full: "Tom's private gallery"
+    head:
+      capitalized: PRIVÉGALERIE
+    photos:
+      error:
+        selfrequest: 'Je jezelf geen verzoek sturen'
+      signup: "Meld je nu aan om de privéfoto's van"
+    photos_videos:
+      full: 'Request access from Tom for the private photos and videos.'
+      text1: 'Toegang aanvragen vanaf'
+      text2: "voor de privéfoto's en video's."
+    private_photos:
+      full: "Tom's private photos"
+      label: "Privéfoto's"
+      request_access: 'Vraag nu toegang aan.'
+      signup: "Meld je aan om alle foto's te bekijken."
+      text: "'s prive-foto's"
+    private_videos:
+      full: "Tom's video"
+      head: "Video 's"
+      text: "'s video"
+    text: "'s private gallery"
+    videos:
+      full: 'Sign up to see all videos from Tom.'
+      text1: "Meld je aan om alle video's van"
+      text2: .
+  review:
+    all: Alle
+    anonymous: Anonieme
+    attr:
+      ambience:
+        bad: Slechte
+        label: 'Hoe zit het met de sfeer?'
+        normal: Normale
+        relaxed: Ontspannen
+        text: Sfeer
+        very_relaxed: 'Zeer ontspannen'
+      anonymous:
+        label: 'Moet uw beoordeling anoniem zijn?'
+        no: Nee
+        yes: Ja
+      duration:
+        1hr: '1 uur'
+        1week: '1 week'
+        1week_more: 'meer dan 1 week'
+        2days: '2 dagen'
+        2hrs: '2 uur'
+        3days: '3 dagen'
+        3hrs: '3 uur'
+        4days: '4 dagen'
+        4hrs_more: 'meer dan 4 uur'
+        5days: '5 dagen'
+        6days: '6 dagen'
+        label: Duur?
+        lt_1hr: 'minder dan 1 uur'
+        overnight: Overnachting
+      photos:
+        label: "Foto's up-to-date"
+        no: Nee
+        uptodate: 'Ja, up-to-date'
+      photos_uptodate:
+        label: "Zijn de foto's up-to-date?"
+        no: Nee
+        yes: 'Ja, zijn up-to-date'
+      recommend:
+        full: 'Can you recommend Tom?'
+        no: Nee
+        text1: 'u aanbevelen'
+        text2: '?'
+        yes_absolutely: 'Ja, absoluut'
+      recommendation: aanbeveling
+      visability:
+        own_profile: 'Wil je dat de review ook zichtbaar is in je profiel?'
+    error:
+      exists:
+        full: 'You already wrote a review for Tom.'
+        text1: 'Je hebt al een review geschreven voor'
+        text2: '. U een nieuwe recensie schrijven in een paar dagen.'
+      login_required: 'Je moet ingelogd zijn om een reactie op dit artikel te kunnen laten zien.'
+      too_long: 'Uw beoordeling is te lang, beperk het een beetje.'
+      too_many_requests: 'We accepteren op dit moment geen verdere beoordelingen van u.'
+      too_short: 'Schrijf een geldige beoordeling, ten minste 20 tekens.'
+      too_short1: 'Schrijf een geldige beoordeling, ten minste 20 tekens.'
+      too_short2: 'ten minste 20 tekens...'
+    full2: 'Review for Tom.'
+    head: 'Gelieve te beoordelen voor uw date.'
+    head2: 'Beoordeel je date met'
+    info:
+      star:
+        '1': Slechte
+        '2': OK
+        '3': Goede
+        '4': 'Heel goed'
+        '5': Uitstekend
+    no_review: 'Geen ingevoerde beoordeling.'
+    of_5: 'van 5'
+    read_full_review: 'Lees de volledige recensie'
+    send_review: 'Beoordeling verzenden'
+    success: 'Hartelijk dank! We zullen uw beoordeling controleren en zo snel mogelijk activeren.'
+    text:
+      overall_rating: 'Algemene beoordeling:'
+      review: Review
+      reviews: Beoordelingen
+    text2:
+      text: 'Beoordeling voor'
+    time_spent: 'Bestede tijd'
+    to: ''
+    translation:
+      full: 'Translation of the original review.'
+      text1: 'Vertaling van de'
+      text2: 'originele review'
+    viel_all_reviews: 'Bekijk alle reviews'
+    viel_reviews: 'Bekijk beoordelingen'
+    write_review: 'Schrijf een recensie...'
+  reviews:
+    latest: Laatste
+  search:
+    filter: Filter
+    fitler:
+      apply: Toepassen
+      filter: 'Filter:'
+      online: Online
+      placeholder: 'Zoeken naar... (tekst, #tag, naam)'
+      reset: 'Opnieuw instellen'
+      with_photo: 'met foto'
+      with_video: 'met video'
+    looking_for: 'Ik ben op zoek naar:'
+    option:
+      online_now: 'nu online'
+      with_photos: "alleen met foto's"
+      with_video: 'met video'
+    placeholder: 'Zoeken naar tekst, #tag, naam'
+    results:
+      distance: Afstand
+      head:
+        escort: Escort
+        escorts: Jaarboek
+        found: ''
+        full: '345 Gay Escorts in Paris, France'
+        gay: homo
+        in: Inch
+        men: Mannen
+      head0:
+        escorts_found: 'Escorts gevonden.'
+        fl_capitalized:
+          no: Nee
+        full1: '500 Escorts found.'
+        full2: 'No Escorts found.'
+        full3: 'More than 600 Escorts found.'
+        more_than: 'Meer dan'
+        no: Nee
+      list:
+        ad:
+          learn_more: 'Klik hier voor meer informatie...'
+        bra_size: 'Bh grootte:'
+        contact: Contact
+        escort_girls_in: 'Escort Girls in '
+        gay_escorts_in: 'Gay Escorts in'
+        male_escorts_in: 'Mannelijke Escorts in'
+        price_1hr: 'Prijs voor 1 uur'
+        price_overnight: "Prijs 's nachts"
+        profile: Profiel
+        years: Jaar
+      more:
+        go_prime: 'Zie 3 keer zoveel escorts - Go Prime!'
+      more1:
+        go_prime: 'Zie 3 keer zoveel escorts! Go Prime!'
+      new_search: 'Nieuwe zoekopdracht'
+    search_results_expired: 'De zoekopdracht is verlopen. Klik hier om een nieuwe zoekopdracht te starten.'
+    select:
+      age_min: 'Leeftijd min'
+      btn:
+        label: 'Zoek escorts'
+      cm: "cm\r"
+      height_min: 'Hoogte min'
+      km: "kg\r"
+      max: Max
+      sort:
+        alphabetically: Alfabetisch
+        distance: Afstand
+        label: 'Sorteren:'
+        last_login: 'Laatste aanmelding'
+        new_customers: 'Nieuwe klanten'
+        new_escorts: 'Nieuwe Escorts'
+      weight_min: 'Gewicht min'
+    type:
+      customers: Klanten
+    use_current_location: 'Huidige locatie gebruiken'
+    view: Bekijken
+    with_orientation: 'met oriëntatie'
+  search_notifications_disabled: 'Zoekmeldingen uitgeschakeld'
+  send_gift:
+    full: 'Send a gift'
+    prime: 'Prime-cadeau verzenden'
+    text1: Verzenden
+    text2: 'een geschenk'
+  signin:
+    404_not_found: '404 Pagina niet gevonden'
+    auto:
+      facebook: 'Meld u aan bij Facebook'
+      google: 'Aanmelden bij Google'
+      twitter: 'Log hier in'
+    error:
+      check_credentials: 'Controleer uw referenties.'
+    label: Aanmelden
+    name_or_email: 'Profielnaam of e-mailadres:'
+    new: 'Nieuw bij 321escorts ?'
+    password_forgotten:
+      head: 'Wachtwoord vergeten'
+      label: 'Wachtwoord vergeten?'
+    remember_password: 'Log hier in'
+    sign_in:
+      head: Aanmelden
+      label: 'Log hier in'
+    signup: 'Schrijf je hier gratis in'
+  signup:
+    amateur: Amateur
+    back: Terug
+    beard: Baard...
+    body: Lichaam...
+    body_hair: Lichaamshaar...
+    bra_size: 'Bh grootte...'
+    cell_phone_number: 'Mobiel telefoonnummer'
+    choose_profile_name: 'Kies je profielnaam ...'
+    cock: Haan
+    code_is: 'De code is:'
+    companion: Companion
+    day: Dag
+    dob: Geboortedatum
+    email:
+      activation_link: 'Klik op de link om je gratis inschrijving te bevestigen:'
+      hello: Hallo
+      subject: 'Bevestig uw inschrijving'
+      url: "321escorts.com\r"
+      welcome: 'welkom bij 321escorts.com'
+    enter_location: 'Locatie invoeren'
+    error:
+      already_confirmed: 'Je profiel is al bevestigd.'
+      confirmed_failed: 'De bevestiging is niet gelukt.'
+      failed: 'De registratie is niet gelukt.'
+      headline_required: 'Je hebt een kop nodig.'
+      invalid_cell_phone: 'Het mobiele telefoonnummer is niet geldig.'
+      invalid_code: 'De code is niet geldig.'
+      invalid_profile_name: 'De profielnaam is niet geldig.'
+      password: 'Uw wachtwoorden komen niet overeen of uw wachtwoord is te kort.'
+      profile_name_exists: 'De naam bestaat al.'
+    escort: Escort
+    ethnicity: Etniciteit...
+    eyes: Ogen
+    fetish: Fetish
+    form:
+      already_signed_in: 'Heb je je al aangemeld?'
+      cock:
+        type: Type
+      email: 'E-mail:'
+      head:
+        text: 'Meld je aan - het is gratis'
+      label: Inschrijven
+      login: Login
+      or: Of
+      password:
+        label: 'Wachtwoord:'
+        placeholder: 'ten minste 6 tekens'
+      prices:
+        currency: Valuta
+      profile: 'Profiel:'
+      retype_password: 'Voer opnieuw wachtwoord in:'
+      signup_facebook: 'Meld je aan bij Facebook'
+      signup_google: 'Aanmelden bij Google'
+      signup_twitter: 'Meld je aan via Twitter'
+    fucking: neuken
+    hair: Haar
+    hair_color: Haarkleur
+    headline: Kop...
+    height_weight: 'Hoogte & gewicht ...'
+    i_am: 'Ik ben...'
+    i_speak: 'Ik spreek ...'
+    imperial: Imperial
+    massage: Massage
+    modeling: Modeling
+    month: Maand
+    my_height: 'Mijn lengte is ...'
+    my_location: 'Mijn locatie'
+    my_prices: 'Mijn prijzen'
+    next: Volgende
+    no: Nee
+    pornstar: 'Ben je een pornoster?'
+    price:
+      ask: Vragen
+      currency:
+        aed: "AED\r"
+        ars: "ARS\r"
+        aud: "AUD\r"
+        brl: "BRL\r"
+        cad: "CAD\r"
+        chf: "CHF\r"
+        cny: "CNY\r"
+        czk: "CZK\r"
+        dkk: "DKK\r"
+        eur: "EUR\r"
+        gbp: "GBP\r"
+        hkd: "HKD\r"
+        huf: "HUF\r"
+        idr: "IDR\r"
+        inr: "INR\r"
+        jpy: "JPY\r"
+        myr: "MYR\r"
+        nok: "NOK\r"
+        nzd: "NZD\r"
+        php: "PHP\r"
+        rub: "RUB\r"
+        sar: "SAR\r"
+        sek: "SEK\r"
+        sgd: "SGD\r"
+        thb: "THB\r"
+        usd: "USD\r"
+      hour: Uur
+      overnight: Overnachting
+    prices: Prijzen
+    profile: Profiel
+    profile_headline: 'Uw profiel kop ...'
+    role: Role
+    safer_sex: 'Veiliger seks'
+    select_location: 'Locatie selecteren'
+    service_locations: Servicelocaties
+    services: Diensten
+    skip: Overslaan
+    sm_bdsm: Sm
+    stripping: Strippen
+    terms:
+      error: 'Accepteer de voorwaarden en het beleid.'
+      full: 'Yes, I have read and accept the Terms and Policy.'
+      label: Voorwaarden
+      text1: 'Ja, ik heb de'
+      text2: "Terms and Policy.\r"
+      text3: ''
+    type:
+      bisexual: Bisexueel
+      customer: Klant
+      escort: Escort
+      gay: homo
+      lesbian: lesbisch
+      man: Man
+      straight: Hetero
+      trans: Trans
+      woman: Vrouw
+    upload:
+      file_limit: 'De bestandsgrootte is beperkt tot 5 MB.'
+      filesize: 'De bestandsgrootte is beperkt tot 5 MB.'
+      label: Uploaden
+      profile_photo: Profielfoto
+    use_current_location: 'Huidige locatie gebruiken'
+    video: Video
+    year: Jaar
+    yes: Ja
+  start:
+    head:
+      load_more: 'Laad meer escorts'
+      new_escorts: 'Nieuwe Escorts'
+      new_prime_escorts: 'Nieuwe Prime Escorts'
+    partner:
+      exchange_links: 'Koppelingen uitwisselen'
+      label: 'Partnerwebsite:'
+  telegram:
+    bot:
+      activate: 'Bot activeren'
+      app: app
+      deactivate: 'Bot deactiveren'
+      error: 'Fout: Probeer het later opnieuw'
+      headline: Telegam-bot
+      label: 'Escorts & Nieuws via'
+      message:
+        featured: 'Deze bot helpt u om verbonden te blijven.'
+        welcome: 'Welkom bij uw persoonlijke Escort bot'
+        welcome_back: 'Welkom terug bij uw persoonlijke Escort bot'
+  user:
+    action:
+      call_me: 'Bel me'
+      hide_visit: 'Mijn bezoek verbergen'
+      view_phone_number: 'Klik hier om mijn telefoonnummer te bekijken.'
+    attr:
+      age: Leeftijd
+      beard: Baard
+      body: Lichaam
+      body_hair: Lichaamshaar
+      bra_size: 'Bra grootte'
+      cock: Haan
+      cock_size_L: L,
+      cock_size_M: M,
+      cock_size_S: S,
+      cock_size_XL: XL
+      cock_size_XXL: Xxl,
+      cock_type_cut: Snijden
+      cock_type_uncut: Onbesneden
+      dirty: Vuile
+      escort_services:
+        label: Diensten
+        men:
+          companion: Companion
+          escort: Escort
+          massage: Massage
+          modeling: Modeling
+          stripping: Strippen
+          video: Video
+        women:
+          companion: Companion
+          escort: Escort
+          massage: Massage
+          modeling: Modeling
+          stripping: Strippen
+          video: Video
+      eyes: Ogen
+      fetish: Fetish
+      fisting: Fisting
+      fucking: neuken
+      hair: Haar
+      hair_color: Haarkleur
+      height: Hoogte
+      i_speak: 'Ik spreek'
+      kissing: Kussen
+      label:
+        no: Nee
+        occasionally: Soms
+        yes: Ja
+      oral: Mondelinge
+      piercings: Piercings
+      role: Role
+      safer_sex: 'Veiliger seks'
+      service_locations:
+        label: Servicelocaties
+      sexual_orientation: Oriëntatie
+      sm_bdsm: Sm
+      tattoos: Tatoeages
+      type: Type
+      weight: Gewicht
+      zodiac: Dierenriem
+    beard:
+      3_day_beard: '3-daagse baard'
+      full_beard: 'Volle baard'
+      goatee: Sik
+      label: 'Baard:'
+      mustache: Snor
+      no_beard: 'Geen baard'
+    block:
+      error:
+        general: 'Er is een fout opgetreden.'
+        signup: 'Meld je gratis aan of meld je aan.'
+      full: 'Do you really want to block Tom?'
+      info:
+        full: 'If you block Tom, the user will no longer be able to access your profile.'
+        label: Blok
+        text1: 'Als u'
+        text2: ', heeft de gebruiker geen toegang meer tot uw profiel.'
+      label: Blok
+      modal:
+        close: Sluiten
+      text1: 'Wil je echt blokkeren'
+      text2: '?'
+    body:
+      athletic: Atletische
+      female:
+        bodybuilder: Bodybuilder
+        chubby: Mollig
+        large: Grote
+      label: 'Lichaam:'
+      male:
+        belly: 'Lichte buik'
+        bodybuilder: Bodybuilder
+        stocky: Gedrongen
+      normal: Normale
+      slim: Slanke
+    body_hair:
+      label: 'Lichaamshaar:'
+      little_hair: 'Weinig haar'
+      medium_hair: 'Gemiddeld haar'
+      shaved: Geschoren
+      smooth: Glad
+      very_hairy: 'Zeer harig'
+    bra_size:
+      a: A
+      b: B
+      c: C
+      d: D
+      e: E
+      f: F
+      g: G
+      h: H
+      i: Ik
+      j: J
+      label: 'Bh grootte:'
+    cancel: Annuleren
+    chat:
+      chat_with_me: 'Chat met mij'
+      click_here:
+        full: 'Click here to chat with Tom'
+        text1: 'Klik hier om te chatten met'
+        text2: ''
+    cock:
+      label: 'Pik:'
+      size_L: L
+      size_M: M
+      size_XL: Xl
+      size_XXL: Xxl
+      size_s: S
+    cock_type:
+      cut: Knippen
+      label: 'Pik type:'
+      uncut: Onbesneden
+    contact_me: 'Neem contact met mij op'
+    copy_link: 'Koppeling kopiëren'
+    customer: Klant
+    dirty:
+      label: 'Vuile:'
+      no: Nee
+      ns_only: 'Ja, maar alleen NS'
+      yes: Ja
+    error:
+      missing_headline: 'Fout: voer een kop in op je profiel (min. 5 tekens)'
+      missing_profile_text: 'Fout: voer een profieltekst in voor je profiel (min. 15 tekens)'
+    escort:
+      fetish:
+        boots: Laarzen
+        business: Business
+        corset: Korset
+        costumes: Kostuums
+        craftsmen: Ambachtslieden
+        high_heels: 'Hoge hakken'
+        jeans: Jeans
+        leather: Lederen
+        lingerie: Lingerie
+        lycra_nyloon: 'Lycra & Nylon'
+        ravers: Ravers
+        rubber_latex: 'Rubber & Latex'
+        skater: Schaatser
+        skin_punks: 'Huid & Punks'
+        sneakers_socks: 'Sneakers & Sokken'
+        sportsgear: Sportkleding
+        suspenders: Bretels
+        underwear: Ondergoed
+        uniform: Uniforme
+        vinyl: Vinyl
+      locations:
+        car: Auto
+        hotel: Hotel
+        incall: 'Uw plaats incall'
+        outcall: 'Mijn plaats outcall'
+        outdoor: Outdoor
+      services:
+        companion: Companion
+        escort: Escort
+        massage: Massage
+        modeling: Modeling
+        none: Geen
+        stripping: Strippen
+        video: Video
+    escort_services:
+      label: 'Diensten:'
+    ethnicity:
+      female:
+        arab: 'Arabische vrouw'
+        asian: Aziatische
+        black: Zwarte
+        european: Europese
+        indian: Indiase
+        latina: Latina
+        mixed: Gemengde
+        southerner: Zuiderling
+      label: 'Ethenicty:'
+      male:
+        arab: Arabische
+        asian: Aziatische
+        european: Europese
+        indian: Indiase
+        latino: Latino
+        southerner: Zuiderling
+    eyes:
+      blue: Blauwe
+      brown: Brown
+      green: Groene
+      grey: Grijs
+      label: 'Ogen:'
+      other: Andere
+    fetish:
+      label: 'Fetish:'
+    fisting:
+      label: 'Fisting:'
+    follower: Volgeling
+    gay:
+      fucking:
+        bottom_only: 'alleen onder'
+        label: 'neuken:'
+        no_anal: 'Geen anale'
+        top_only: 'alleen boven'
+        vers_bottom: 'vers bodem'
+        vers_top: 'vers top'
+        versatile: Veelzijdige
+    gift:
+      prime_oetw: 'Stuur me een cadeau - Prime of promoot mij als Escort of the Week'
+      send_prime: 'Prime verzenden'
+    hair:
+      bald: Kale
+      half_long: Halflang
+      label: 'Haar:'
+      long: Lange
+      punk: Punk
+      short: Korte
+    hair_color:
+      black: Zwarte
+      blonde: Blonde
+      brown: Brown
+      grey: Grijs
+      label: 'Haarkleur:'
+      light_brown: Lichtbruin
+      other: Andere
+      red: Rode
+    hashtags: 'Hashtags:'
+    i_vitis: 'Ik bezoek'
+    kissing:
+      label: 'Kussen:'
+    language:
+      i_speak: 'Ik spreek:'
+    last_login:
+      label: 'laatste login:'
+      now_online: 'NU ONLINE'
+      offline: 'Off line'
+    likes: Houdt
+    list:
+      photo: Foto
+      photos: "Foto 's"
+      reviews: Beoordelingen
+      video: Video
+      videos: "Video 's"
+    menu:
+      contact: Contact
+      mobile:
+        contact_me: 'Neem contact met mij op'
+        write_review: 'Een recensie schrijven'
+      photos: "Foto 's"
+      reviews: Beoordelingen
+    mobile:
+      write_review: 'Een recensie schrijven'
+    modal:
+      ok: OK
+      phone: 'Telefoon:'
+      start_chat: 'Chat starten'
+      whatsapp: 'Whatsapp:'
+    my_hashtags: 'Mijn hashtags'
+    my_hashtags1: 'Mijn hashtags:'
+    my_places: 'Mijn plaatsen'
+    no_photos: "Er zijn nog geen foto's beschikbaar :("
+    nonsmoker:
+      female:
+        label: Niet-roker
+      male:
+        label: Niet-roker
+    number:
+      code: 'De code is:'
+      dont_show: 'Laat niet zien'
+      error:
+        daily_limit: 'Dagelijkse limiet bereikt'
+        daily_limit2: 'Dagelijkse limiet bereikt'
+        go_prime: 'Word nu Prime-lid'
+        invalid_code: 'De code is niet geldig.'
+        invalid_number: 'Het mobiele telefoonnummer is niet geldig.'
+        limit: 'U slechts 50 telefoonnummers per dag bekijken. In kan gebruik maken van de chat in de tussentijd.'
+        no_number: 'Er is momenteel geen telefoonnummer beschikbaar. Gebruik de chat in de tussentijd.'
+        signup: 'Meld je gratis aan om meer telefoonnummers te zien.'
+      go_prime: 'Word nu Prime-lid. Als Prime-lid u maximaal 50 telefoonnummers per dag bekijken.'
+      verify_number: 'Voer het nummer in en controleer het'
+    oral:
+      active: Actieve
+      active_and_passive: 'Actief & Passief'
+      label: 'Mondelinge:'
+      no: Nee
+      passive: Passieve
+    piercings:
+      label: 'Piercings:'
+      no: Nee
+    pornstar:
+      label: 'Pornstar:'
+    price:
+      not_shown: 'niet getoond'
+    prices:
+      label: Prijzen
+      per_hour: 'per uur'
+      per_night: 'per nacht'
+    private_gallery:
+      access_requested:
+        error:
+          full: 'Please write Tom a message'
+          self: 'Je jezelf geen verzoek sturen.'
+          text1: 'Gelieve te schrijven'
+          text2: 'een bericht'
+        label: 'Toegang gevraagd'
+      access_requested1: 'Toegang gevraagd.'
+      denied:
+        full: "Tom can't see your private photos and videos."
+        grant: 'Toegang verlenen'
+        text1: "kan je privéfoto's en video's niet zien."
+      denied1:
+        full: 'Tom may not see your photos and videos.'
+        grant_click:
+          full: 'Tom can see your private gallery.'
+          text1: 'Klik hier dat'
+          text2: 'kan uw privégalerij zien.'
+        text: "uw foto's en video's mogelijk niet te zien."
+      error:
+        full: 'Please write Tom a message'
+        text1: 'Gelieve te schrijven'
+        text2: 'een bericht'
+      granted:
+        full: 'Tom can now see your photos and videos.'
+        text1: "kunnen nu je foto's en video's zien."
+      limit:
+        full: 'Today, you have 50 requests remaining.'
+        text1: 'Vandaag heb je'
+        text2: Resterende.
+        text3: Resterende.
+      profile: "'s profiel"
+      request:
+        full: 'Grant access to your private photos and videos for Tom.'
+        label: Verzoek
+        text1: "Geef toegang tot uw privéfoto's en video's voor"
+        text2: .
+      request_access: 'Toegang aanvragen'
+      requests:
+        label: Verzoeken
+      unlimit:
+        full: 'Become a Prime member to make unlimited requests.'
+        text1: 'Word een Prime-lid om'
+        text2: Onbeperkt
+        text3: Verzoeken.
+    profile_paused:
+      full: 'Tom has paused the profile. You cannot contact the user at this time. Follow Tom to stay up to date.'
+      text1: 'heeft het profiel onderbroken. U op dit moment geen contact opnemen met de gebruiker. Volgen'
+      text2: 'om op de hoogte te blijven.'
+    profile_suspended: 'Dit profiel is geschorst.'
+    rating:
+      out_of_5: 'van 5 sterren'
+    recommend_me: 'Raad me aan'
+    report:
+      brief_desc: 'Schrijf kort wat er gebeurd is ...'
+      cat:
+        '1':
+          head: Spam
+          text: 'Gebruikers die u om reclameredenen vragen om op externe links te klikken'
+        '2':
+          head: 'Belediging of pesten'
+          text: 'Dreiging van geweld, misbruik, openbaarmaking van persoonsgegevens, intimidatie'
+        '3':
+          head: Haatzaaien/discriminatie
+          text: "Beledigende taal, foto's, enz."
+        '4':
+          head: Minderheid
+          text: "Gebruikers jonger dan 18 jaar, foto's/video's met personen jonger dan 18 jaar"
+        '5':
+          head: 'Ongepaste activiteit'
+          text: 'Verkoop van reclame voor drugs of andere illegale goederen'
+        '6':
+          head: Personificatie
+          text: "Andere personen, beschermde foto's/video's, ongepaste diensten"
+        '7':
+          head: Andere
+        main: 'Wat gebeurt er?'
+      error:
+        contact_us: 'Neem dan contact met ons op.'
+        exists:
+          full: 'You already reported the user Tom several times. Please wait for our review.'
+          text1: 'U hebt de gebruiker al gemeld'
+          text2: 'meerdere keren. Wacht op onze beoordeling.'
+        login_required:
+          full: 'You must be logged in order to report Tom.'
+          text1: 'Je moet ingelogd zijn om een reactie op dit jaar te kunnen doen.'
+          text2: .
+        too_long: 'Uw invoer is te lang, gelieve uw tekst te verkorten.'
+        too_many_requests: 'Op dit moment accepteren wij geen verdere verzoeken van u.'
+        too_short: 'Schrijf ons kort wat er gebeurd is, ten minste 20 tekens.'
+      info:
+        label: Rapportprofiel
+        text: "Als u denkt dat het profiel geen ongepaste of gestolen foto's bevat, neem dan contact met ons op met een bewijs."
+      main: 'Gebruiker van rapport:'
+      report_profile: Rapportprofiel
+      success: 'Hartelijk dank! Wij zullen uw klacht controleren.'
+    review:
+      back: Terug
+      empty_review: 'Geen recensietekst.'
+      from: Van
+      next: Volgende
+      overall_rating: 'Algemene beoordeling'
+      to: Aan
+    role:
+      dominant_and_submissive: 'dominant en onderdanig'
+      dominant_only: 'alleen dominant'
+      label: 'Role:'
+      submissive_only: 'alleen onderdanig'
+      versatile_dominant: 'veelzijdige dominant'
+      versatile_submissive: 'veelzijdige onderdanige'
+    safer_sex:
+      always: Altijd
+      label: 'Veiliger seks:'
+      needs_discussion: 'Behoeften discussie'
+      never: Nooit
+      prep: "PrEP\r"
+      tasp: "TasP\r"
+    save_share: 'Sla mijn profiel op en deel deze.'
+    service_locations:
+      label: 'Servicelocaties:'
+    sexual_orientation:
+      bisexual: Bisexueel
+      gay: homo
+      label: 'Oriëntatie:'
+      lesbian: lesbisch
+      straight: Hetero
+      trans: Trans
+    share: Delen
+    share_profile: 'Profiel delen'
+    show_all_videos: "Alle video's weergeven"
+    show_less: 'Minder weergeven'
+    show_more: 'Meer weergeven'
+    sm_bdsm:
+      label: 'Sm:'
+      no_sm: 'Geen SM'
+      sm: Sm
+      soft_sm: 'Alleen zachte SM'
+    smoker:
+      female:
+        label: 'Roker:'
+        label1: Roker
+      label: Soms
+      male:
+        label: Roker
+        label1: 'Roker:'
+    start_chat: 'Chat starten'
+    tags: 'Tags:'
+    tattoo:
+      few: Paar
+      label: 'Tatoeages:'
+      many: Veel
+      no: Nee
+    time:
+      infront_of_date:
+        full: 'on 2020-02-28'
+        text: ''
+    type:
+      eotw: 'Escort van de Week'
+      escort: Escort
+      free: Gratis
+      prime: Prime
+      prime_customer: Prime-klant
+    unblock: Deblokkeren
+    video:
+      title:
+        full: "Tom's Video"
+        text1: "'s video"
+    views: 'Weergaven:'
+    write_review: 'Schrijf een recensie over mij.'
+    write_review_for:
+      full: 'Write Review for Tom'
+      text1: 'Schrijf review voor'
+      text2: ''
+    xxx:
+      go_prime: "heeft alleen XXX foto's. Word nu Prime-lid om alle foto's te bekijken."
+      request_access: "heeft alleen privéfoto's. Vraag hier toegang aan."
+    zodiac:
+      aquarius: Waterman
+      aries: Ram
+      cancer: Kanker
+      capricorn: Steenbok
+      gemini: Gemini
+      label: 'Dierenriem:'
+      leo: Leo
+      libra: Weegschaal
+      pisces: Vissen
+      sagittarius: Boogschutter
+      scorpio: Schorpioen
+      taurus: Taurus
+      virgo: Maagd
+  visits:
+    external_visit: 'extern bezoek'
+    external_visit1: 'extern bezoek'
+    no_visitors: 'Je hebt nu geen bezoek.'
+    show_visit: 'Toon bezoek'
+    unregistered_user: 'Niet-geregistreerde gebruiker'
+    view: Bekijken
+    view_location: 'Locatie weergeven'
+    website_visitor: 'website bezoeker'
+  vivits:
+    visit_ago: bezoeken
+modal:
+  error:
+    location_blocked: 'U hebt het delen van de locatie in uw browser geblokkeerd. Schakel het in om de beste zoekresultaten te zien.'
+  share_location: 'Deel uw locatie om escorts bij u in de buurt te zien.'
+  verify:
+    agree: 'Ik ben het eens - Voer 321ESCORTS'
+    and: En
+    disagree: 'Ik ben het oneens - Exit deze site'
+    looking_for: 'Ik ben op zoek naar:'
+    policy: Privacybeleid
+    terms: Servicevoorwaarden
+  warning: 'Deze website bevat volwassen materialen en is verboden voor personen jonger dan 18 jaar. Door het invoeren van de website bevestig ik dat ik ouder ben dan 18 jaar en het eens met de'
+newsletter:
+  email:
+    body: 'bevestig uw nieuwsbrief registratie door te klikken op de link:'
+    footer: ''
+    subject: 'Bevestig uw nieuwsbriefregistratie'
+    welcome: 'welkom bij 321escorts.com'
+  error:
+    email: 'Het e-mailadres is niet geldig.'
+    general: 'Er is een fout opgetreden.'
+  sms:
+    code: 'De code is:'
+    error:
+      cell_phone: 'Dit is geen geldig mobiel telefoonnummer.'
+      code: 'De code is onjuist.'
+notifications:
+  cancel: 'U ontvangt deze meldingen niet meer. Je hier je meldingsinstellingen beheren.'
+  disable: Uitschakelen
+  enable: Inschakelen
+  error:
+    click_here: 'Fout: Klik hier'
+    link_not_found: 'De gevraagde link kon niet worden gevonden.'
+    try_later: 'Probeer het later nog eens.'
+search:
+  attribute:
+    body: Lichaam
+    body_hair: Lichaamshaar
+    bra_size: 'Bra grootte'
+    cock_size: Haan
+    cock_type: 'Het type van de haan'
+    dirty: Vuile
+    escort_locations: Locaties
+    escort_services: 'Escort diensten'
+    ethnicity: Etniciteit
+    eye_color: Ogen
+    fetish: Fetish
+    gay:
+      fisting: Fisting
+      fucking: neuken
+    hair_color: Haarkleur
+    hair_type: Haar
+    kissing: Kussen
+    language: Taal
+    misc: Diverse
+    oral: Mondelinge
+    role: Role
+    safer_sex: 'Veiliger seks'
+    sm_bdsm: Sm
+    zodiac: Dierenriem
+  label:
+    disable: Uitschakelen
+    enable: Inschakelen
+  notifications_enabled: 'Meldingen zijn ingeschakeld'
+  notifications_enabled2: 'Meldingen zijn ingeschakeld'
+  title:
+    new_escorts: 'Informeer me wanneer er nieuwe escorts beschikbaar zijn'
+  title2:
+    new_escorts: 'Informeer me wanneer er nieuwe escorts beschikbaar zijn'
+signup:
+  domain: "321escorts.com\r"
+  message:
+    hello: Hallo
+    new_sale: 'Bedankt voor uw deelname aan het affiliate programma. U alle details, uw statistieken en uitbetalingen hier zien:'
+    subject:
+      new_sale: 'Je hebt een succesvolle affiliate verkoop (Signup) - '
+      recurring_sale: ''
+site:
+  head:
+    escort_of_the_week: 'Escort van de Week'
+    go_prime: 'Go Prime'
+    join_for_free: 'Doe gratis mee'
+    logout: Logout
+    search: Zoek
+    sign_in: Aanmelden
+    sign_up: Inschrijven
+    upgrade:
+      boost_me: 'Geef me een boost!'
+      boosted: Versterkt!
+      escort_of_the_week: 'Upgrade naar Escort of the Week'
+      go_prime: 'Upgrade naar Go Prime'
+      main: Upgrade
+    upgrade2:
+      escort_of_the_week: 'Upgrade naar Escort of the Week'
+  type:
+    gay: homo
+    men: Mannen
+    women: Vrouwen
+system:
+  metric:
+    k: "k\r"
+    m: "m\r"
+user_followers: Volgelingen
+user_liked: Als!
+user_one_follower: Volgeling
+verification:
+  success:
+    email_address: 'Uw e-mailadres is geverifieerd.'
