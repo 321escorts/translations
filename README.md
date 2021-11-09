@@ -8,7 +8,7 @@ no matter where people are in the world or what language they speak.
 - [Arabic](locales/ar)
 - [Bulgarian](locales/bg)
 - [Chinese (Simplified)](locales/zh)
-- [Czech](locales/cz)
+- [Czech](locales/cs)
 - [Dutch](locales/nl)
 - [English](locales/en)
 - [French](locales/fr)
