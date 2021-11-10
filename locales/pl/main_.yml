@@ -1,0 +1,2840 @@
+---
+ads:
+  account:
+    order:
+      history:
+        th:
+          status: Stan
+    verification:
+      upload:
+        file:
+          text: 'System wykrył wysokie ryzyko dla Twojego zamówienia. W związku z tym prosimy o przesłanie dowodu tożsamości (na przykład dowodu tożsamości ze zdjęciem, paszportu lub prawa jazdy) oraz zdjęcia przedniej strony karty kredytowej. Po sprawdzeniu przetworzymy Twoje zamówienie. Przesłane pliki zostaną automatycznie usunięte.'
+ba:
+  account:
+    autocharge:
+      add_funds: 'Dodawanie środków po osiągnięciu kwoty'
+      amount: Kwota
+      cc: 'Karta kredytowa'
+      disable: Wyłączyć
+      enable: Włączyć
+      error:
+        cc: 'Zapisz kartę kredytową najpierw, gdy dodasz środki do swojego konta.'
+      head: 'Automatyczne dodawanie środków'
+      save: Zapisz
+      type:
+        auto: Automatycznie
+        manually: Ręcznie
+    credentials:
+      currrent_password: 'Aktualne hasło'
+      new_password: 'Nowe hasło'
+      password: Hasło
+      retype: 'Ponownie wpisz nowe hasło'
+    data:
+      account: Konta
+      address: Adres
+      cell_phone: 'Numer telefonu komórkowego'
+      city: Miasta
+      company: Firmy
+      country: Kraju
+      email: E-mail
+      lastname: Nazwisko
+      name: Nazwa
+      phone: Telefon
+      position: Pozycji
+      save: Zapisz
+      tz: 'Strefa czasowa'
+      user: Użytkownika
+      username: 'Nazwę użytkownika'
+      vat_tax: 'IDENTYFIKATOR VAT.'
+      zip: 'Kod pocztowy'
+  autocharge:
+    error:
+      amount: 'Kwota jest niepoprawna.'
+      cc: 'Karta kredytowa jest nieprawidłowa.'
+      total: 'Całkowita kwota jest niepoprawna.'
+  billing:
+    funds:
+      action: 'Dodaj fundusze teraz'
+      add_funds: 'Dodawanie funduszy'
+      amount: Kwota
+      card: Karty
+      ccv: Cvv
+      info: 'Ostatnie 3 lub 4 cyfry z tyłu'
+      month_year: 'Miesiąc / rok'
+      name_on_card: 'Imię i nazwisko na karcie'
+      provider: 'Wszystkie dane są przetwarzane i zabezpieczane przez Powercash21 Ltd. Na twoim oświadczeniu będzie napisane \"321 Entertainment\".'
+      save: 'Zapisz kartę kredytową'
+    invoices:
+      added_funds: 'Dodano środki'
+      amount: Kwota
+      available_funds: 'Dostępne środki'
+      bill: Bill
+      date: Data
+      download: 'Pobierz fakturę'
+      order_id: 'Identyfikator zamówienia'
+      type_funds_added: 'Dodano typ funduszy'
+  campaign:
+    copy: Kopii
+    error:
+      ad_placement: 'Nieprawidłowe miejsce docelowe usługi AD.'
+      ad_type: 'Typ usługi AD jest niepoprawny.'
+      budget:
+        campaign: 'Budżet kampanii jest nieprawidłowy.'
+        daily: 'Budżet dzienny jest nieprawidłowy.'
+        type: 'Nieprawidłowy typ budżetu.'
+      campaign_name: 'Nazwa kampanii jest nieprawidłowa.'
+      cpm: 'CPM/CPV jest nieprawidłowy.'
+      end_date: 'Ustaw datę zakończenia poprawnie.'
+      filter:
+        country: 'Sprawdź filtr: Kraj'
+        geo: 'Sprawdź filtr: Kierowanie geograficzne'
+        label: 'Sprawdź filtr: orientacja seksualna'
+        language: 'Sprawdź filtr: Język'
+      start_date: 'Ustaw poprawnie datę rozpoczęcia.'
+      url: 'Adres URL jest niepoprawny.'
+    wizard:
+      action: Działania
+      active: Aktywne
+      ad_type: 'Typ usługi AD'
+      ad_type1: 'Typ usługi AD'
+      back: Wstecz
+      banner:
+        info: 'poziomy baner na całej stronie pulpitu (sarting w 768px). Cena minimalna CPM:'
+        label: 'Poziomy pulpit banerów'
+      banner_desktop: 'Pulpit banerów'
+      banner_mobile: 'Baner komórkowy/tablet'
+      budget:
+        ad_placement:
+          avg_daily: 'Spędzone równomiernie rozłożone przez cały dzień'
+          fast: 'Zużyte tak szybko, jak to możliwe'
+          head: 'Zdecyduj, w jaki sposób budżet jest wykorzystywany'
+          label: 'Umiejscowienie usługi AD'
+        campaign: 'Budżet kampanii'
+        daily:
+          label: Codziennie
+          max_budget: 'Maksymalny budżet dzienny'
+          max_budget_zero: '(wprowadź $0.00 dla nieograniczonego)'
+        label: Budżetu
+        limit: 'Z limitem'
+        no_limit:
+          info: '\"Bez limitu\" oznacza, że kampania będzie trwać do pauzy, data zakończenia zostanie osiągnięta lub nie ma już żadnych środków'
+          label: 'Brak limitu'
+        total: 'Całkowity budżet tej kampanii'
+        type: 'Typ budżetu'
+      budget_limits: 'Budżet i limity'
+      campaign_budget: 'Budżet kampanii'
+      clicks: Kliknięć
+      copy: Kopii
+      cpm:
+        info: 'Koszt tysiąca wyświetleń (CPM), minimalna stawka:'
+        label: CPM
+      daily: Codziennie
+      deactivated: Dezaktywowany
+      delete:
+        confirm: 'Czy usunąć kampanię?'
+        warning:
+          cancel: Anuluj
+          delete: Usunąć
+          full: 'Do you really delete the campaign? All reports and data will be deleted unwide.'
+          text1: 'Czy na pewno chcesz usunąć kampanię?'
+          text2: 'Wszystkie raporty i dane zostaną utracone.'
+      deletebm:
+        ads:
+          mail:
+            funds:
+              added:
+                info: Usunąć
+      edit: Edytuj
+      end_date:
+        label: 'Data zakończenia'
+        placeholder: 'Data do'
+      escort_photo:
+        info: 'Zamiast dużego zdjęcia towarzyskiego, twoja reklama jest wyświetlana jako zdjęcie towarzyskie. Cena minimalna CPM:'
+        label: 'Escort zdjęcie'
+        label1: 'Escort zdjęcie profilowe'
+      filter:
+        all: 'Wszystkie strony'
+        gay: 'Gej eskorty'
+        geo:
+          address: Adres
+          all: Wszystkie
+          countries: Krajach
+          edit_circle: 'Edytuj okrąg'
+          enlarge_map: 'Powiększanie mapy'
+          label: 'Opcjonalne kierowanie geograficzne'
+          languages: Języki
+          new_circle: 'Nowe koło geograficzne'
+          radius: Promień
+          remove_circle: 'Usuń okrąg'
+        men: 'Mężczyźni Escorts'
+        sexual_orientation: 'orientacja seksualna'
+        women: 'Kobiety Escorts'
+      finish: Zakończ
+      fullpage:
+        dim_responsive: 'Wymiary/Reponsive:'
+        impressions: Wrażenia
+        info: 'Między dwoma kliknięciami pojawi się osobna strona z banerem, przycisk kontynuuj zostanie wyświetlony po 1,5 sekundy. Cena minimalna CPM:'
+        label: 'Pełna strona'
+        label1: 'Pełna strona'
+      impressions: Wrażenia
+      information: Informacji
+      landing_page: 'Nazwa i strona docelowa'
+      media:
+        label: Media
+        photo: 'Zdjęcie:'
+        processing: 'Przetwarzanie danych...'
+      mobile_banner:
+        info: 'poziomy baner na całej stronie wyświetlanej dla telefonu komórkowego/tabletu (do 767 pikseli). Cena minimalna CPM:'
+        label: 'poziomy baner mobilny/tablet'
+      my_campaigns: 'Moje kampanie'
+      name: Nazwa
+      name_campaign: 'Nazwa kampanii'
+      next: Następnego
+      paused: Wstrzymana
+      price:
+        cpv: CPV
+        video: 'Koszt pojedynczego wyświetlenia filmu (CPV), minimalna stawka:'
+      rejected: Odrzucone
+      review: 'Który napisze recenzję'
+      setup: Instalacji
+      start_date:
+        label: 'Data rozpoczęcia'
+        placeholder: 'Zacznij od'
+      statistics: Statystyki
+      status: Stan
+      target_group:
+        audience: Docelowej
+        filter: 'Grupa docelowa i filtr'
+      upload: 'Przesyłanie zdjęć/filmów'
+      url: 'Strona docelowa / Adres URL lądowania'
+      video: Wideo
+      video_add:
+        impression: Wrażenie
+        info: 'HD: Film zostanie odtworzony jako pierwszy. Po 6 sekundach użytkownik może pominąć film. Cena minimalna CPV:'
+        label: 'Wideo AD'
+      video_image: 'Obraz wideo'
+      video_preview:
+        info: 'Twoja reklama pojawi się jako zrzut ekranu wideo na stronie \"Nowe filmy\". Cena minimalna CPM:'
+        label: 'Podgląd wideo (strona: nowe filmy)'
+  contact:
+    action: Wyślij
+    error:
+      label: 'Błąd:'
+      too_long: 'Twoja prośba jest za długa. Proszę skrócić wniosek.'
+      too_many_requests: 'W tej chwili nie możesz wysłać więcej próśb, spróbuj ponownie później.'
+      too_short: 'Podaj dłuższą prośbę.'
+    head: Kontakt
+    head1: Kontakt
+    success: 'Twoja prośba została wysłana. Dziękuję bardzo.'
+  dashboard:
+    30d: 'ostatnie 30 dni'
+    7d: 'ostatnie 7 dni'
+    active: Aktywne
+    add_funds: 'Dodawanie funduszy'
+    budget: 'Mój budżet'
+    budget_spent: 'Wydatki budżetowe'
+    campaigns: Kampanie
+    cart:
+      clicks: Kliknięć
+      impressions: Wrażenia
+    clicks: Kliknięć
+    ctr: CTR
+    impressions: Wrażenia
+    in_planning: 'w planowaniu'
+    inactive: Nieaktywne
+    info:
+      clicks: Wrażenia
+      impressions: Wrażenia
+    new_Campaign: 'Nowa kampania i kierowanie geograficzne'
+    new_banner: 'Nowa kampania banerowa'
+    new_video: 'Nowa kampania wideo'
+    sample_data: 'Przykładowe dane'
+    today: Dzisiaj
+    waiting: 'oczekiwanie na zatwierdzenie'
+    yesterday: Wczoraj
+  menu:
+    add_funds: 'Dodawanie funduszy'
+    billing: Rozliczeń
+    campaigns: Kampanie
+    dashboard: 'Pulpitu nawigacyjnego'
+    head:
+      hi: Cześć
+    history: Historia
+    logout: Wyloguj
+    new_campaign: 'Nowa kampania'
+    overview: Przegląd
+    profile: Proﬁl
+    reports: Raporty
+    sub_titel:
+      add_funds: 'Dodawanie funduszy'
+      billing: Rozliczeń
+      campaigns: Kampanie
+      dashboard: 'Pulpitu nawigacyjnego'
+      history: Historia
+      my_campaigns: 'Moje kampanie'
+      new_campaign: 'Nowa kampania'
+      not_found: 'Nie można odnaleźć żądanego łącza.'
+      profile: Proﬁl
+      reports: Raporty
+  password:
+    error:
+      not_matching: 'Nowe hasła nie są zgodne.'
+      password: 'Bieżące hasło jest niepoprawne.'
+      too_short: 'Nowe hasło musi mieć co najmniej 6 znaków.'
+  password_forgotten:
+    new_password: 'Nowe hasło'
+    password: Hasło
+    retype_password: 'Ponowne wpisywania hasła'
+    send: Wyślij
+  payment:
+    cc: 'Goście proszeni są o podanie wszystkich informacji o karcie kredytowej.'
+    error:
+      cc: 'Numer karty jest nieprawidłowy'
+      general: 'Wystąpił. Spróbuj ponownie później.'
+    min_amount:
+      full: 'The minimum amount is 100 USD'
+      text: 'Minimalna kwota wynosi'
+  public:
+    email: E-mail
+    enter_details: 'Wprowadź swoje dane, aby się zarejestrować.'
+    form:
+      address: Adres
+      cancel: Anuluj
+      city: Miasta
+      company: Firmy
+      email: E-mail
+      lastname: Nazwisko
+      name: Nazwa
+      password: Hasło
+      password_forgotten:
+        back: Wstecz
+        cancel: Anuluj
+        email: E-mail
+        head: 'Wprowadź swój adres e-mail, aby zresetować hasło.'
+        send: Wyślij
+        signin: Rejestrowanie
+        success: 'Jeśli wiadomość e-mail jest zarejestrowana, sprawdź skrzynkę odbiorczą poczty e-mail już teraz.'
+      phone: 'Telefon (opcjonalnie)'
+      retype_password: 'Ponowne wpisywania hasła'
+      send: Wyślij
+      signup: 'Zarejestruj się'
+      success: 'Dziękuję bardzo. Otrzymasz wiadomość e-mail zaraz po aktywacji konta.'
+      terms:
+        full: 'I agree to the terms and conditions and data privacy.'
+        text1: 'Zgadzam się z'
+        text2: 'Warunki i prywatność danych'
+        text3: ''
+      tz: 'Strefa czasowa'
+      zip: 'Kod pocztowy'
+    head: 'Witamy w reklamach towarzyskich'
+    head1: 'Zbuduj swoją markę'
+    head2: 'z reklamami towarzyskimi'
+    new: 'Nowy tutaj?'
+    password: Hasło
+    password_forgotten: 'hasło zapomniane?'
+    signin: Rejestrowanie
+    signup: 'Zarejestruj się'
+    signup2: 'Zarejestruj się'
+  reports:
+    clicks: Kliknięć
+    ctr: CTR
+    date: Data
+    error:
+      campaign: 'Wybierz co najmniej jedną kampanię.'
+      end_date: 'Ustaw datę zakończenia poprawnie.'
+      start_date: 'Ustaw poprawnie datę rozpoczęcia.'
+    hour: Godziny
+    impressions: Wrażenia
+    price: Cena
+    results:
+      amount: Kwota
+      campaign: Kampanii
+      clicks: Kliknięć
+      columns: 'Wyświetlane kolumny w wynikach'
+      ctr: CTR
+      date: Data
+      days: Dni
+      end: Końcu
+      end_date: 'Data zakończenia'
+      export:
+        csv: CSV
+        excel: 'Programu excel'
+        label: Eksportu
+      generate: 'Generowanie raportu'
+      group_by: 'Grupuj według'
+      hour: Godziny
+      hours: Godzin
+      impressions: Wrażenia
+      next: 'Następna strona'
+      options: 'Wybierz opcję:'
+      reports: Raporty
+      start: Uruchomić
+      start_date: 'Data rozpoczęcia'
+      video_100: 'Vid. Pełny etat'
+      video_q1: 'Vid. 1 kwartyl'
+      video_q2: 'Vid. 2 kwartyl'
+      video_q3: 'Vid. 3 kwartyl'
+      video_skipped: 'Vid. Pominięte'
+      video_skipped_10s: 'Vid. 10 sek.'
+      video_skipped_5s: 'Vid. 5 sek.'
+    video_100: 'Wideo - Czas: 100%'
+    video_q1: 'Wideo - Czas: 1 kwartyl'
+    video_q2: 'Wideo - Czas: 2 kwartyl'
+    video_q3: 'Wideo - Czas: 3 kwartyl'
+    video_skipped: 'Wideo - Pominięte kliknięty'
+    video_skipped_10s: 'Wideo - Pominięte pokazane (po 10s)'
+    video_skipped_5s: 'Wideo - Pominięte pokazane (po 5s)'
+  reset_password:
+    error:
+      password_not_matching: 'Hasła nie są zgodne.'
+      too_short: 'Hasło jest zbyt krótkie, upewnij się, że ma co najmniej 6 znaków.'
+      url: 'Adres URL jest nieprawidłowy.'
+  signin:
+    change_password: 'Hasło można zmienić tutaj:'
+    error:
+      address: 'Wprowadź adres poprawnie.'
+      city: 'Proszę prawidłowo określić miasto.'
+      country: 'Podaj swój kraj.'
+      email: 'Adres e-mail jest nieprawidłowy.'
+      general: 'Rejestracja nie powiodła się.'
+      lastname: 'Podaj swoje nazwisko.'
+      name: 'Podaj swoje imię i nazwisko.'
+      not_activated: 'Twoje konto jest nadal sprawdzane.'
+      tz: 'Podaj swoją strefę czasową.'
+      zip: 'Proszę poprawnie określić kod pocztowy.'
+    password_forgotten: 'Zapomniane hasło'
+  signup:
+    error:
+      address: 'Podaj swój adres.'
+      city: 'Podaj swoje miasto.'
+      company: 'Podaj swoją firmę.'
+      country: 'Podaj swój kraj.'
+      email: 'Adres e-mail jest nieprawidłowy.'
+      general: 'Rejestracja nie jest obecnie możliwa. Spróbuj ponownie później.'
+      lastname: 'Twoje nazwisko jest nieprawidłowe.'
+      name: 'Twoje imię i nazwisko jest nieprawidłowe.'
+      password_not_matching: 'Hasła nie są zgodne.'
+      password_too_short: 'Hasło jest zbyt krótkie, upewnij się, że ma co najmniej 6 znaków.'
+      terms: 'Prosimy o potwierdzenie regulaminu.'
+      tz: 'Podaj swoją strefę czasową.'
+      zip: 'Podaj swój kod pocztowy.'
+bc:
+  email:
+    ads:
+      mail:
+        activated: 'Twoje konto zostało aktywowane. Teraz możesz z powodzeniem umieszczać reklamy. Zaloguj się tutaj:'
+        footer: 'usługa 321escorts.com AD'
+        footer2: 'Twój zespół - '
+        hello: Witam
+        subject: 'Konto aktywowane'
+        welcome: 'witamy w ads.321escorts.com'
+    affiliate:
+      sale:
+        recurring:
+          mail:
+            full: 'You have a successful affiliate sale of a recurring order: 120 USD - Thank you for participating in the affiliate program. You can see all the details, your statistics and payouts here:'
+            subject: 'Nowa sprzedaż partnerska:'
+            text1: 'Masz udaną sprzedaż afiliacji cyklicznego zamówienia:'
+            text2: '- Dziękujemy za udział w programie partnerskim. Możesz zobaczyć wszystkie szczegóły, swoje statystyki i wypłaty tutaj:'
+    birthday:
+      eotw:
+        offer:
+          detail: 'Zniżka przy zakupie 4 tygodnie \"Escort tygodnia\"'
+          head: '1 tydzień za darmo \"Escort tygodnia\"'
+      prime:
+        offer1:
+          detail: 'Zniżka przy zakupie 1 roku Prime'
+          head: '2 miesiące za darmo \"Prime\"'
+        offer2:
+          detail: '1 miesiąc za darmo \"Prime\"'
+          head: '2 miesiące za darmo \"Prime\"'
+        offer3:
+          detail: 'Wszystkiego najlepszego z okazji urodzin'
+          head: 'Zniżka przy zakupie 3 miesięcy Prime'
+      text:
+        click_here: 'Kliknij tutaj, aby otrzymać prezent już teraz'
+        congratulation: 'serdecznie gratulujemy ci urodzin. Wszystkiego najlepszego, miłości i zdrowia dla Ciebie. Mamy dla Ciebie prezent'
+        enjoy_your_day: 'Miłego dnia!'
+        gift_valid: 'Twój prezent jest zarezerwowany dla Ciebie do'
+        hello: Hallo
+    footer:
+      contact: Kontakt
+      twitter: 'Śledź nas na Twitterze'
+    reminder:
+      prime: Prime
+      type:
+        cc:
+          close1: 'To tylko przypomnienie dla Ciebie. Nie musisz nic robić. Wszystkie szczegóły i zarządzanie subskrypcją są dostępne w historii zamówień.'
+          close2: 'Jeśli masz jakieś pytania, nie wahaj się z nami skontaktować.'
+          close3: 'Historia zamówień'
+          info:
+            amount: 'Kwota:'
+            days: 'Dni:'
+            subscription: 'Subskrypcji:'
+          label: 'Karta kredytowa:'
+          renew: 'Subskrypcja zostanie odnowiona w ciągu najbliższych dni'
+          renew1: 'Subskrypcja zostanie automatycznie odnowiona w ciągu najbliższych dni:'
+        iban:
+          label: 'Iban:'
+          renew: 'Subskrypcja zostanie odnowiona w ciągu najbliższych dni'
+          renew1: 'Odnowienie subskrypcji nie powiodło się'
+        other:
+          close1: 'Rozszerz teraz swój status profilu:'
+          close2: 'Prosimy o kontakt w dowolnym momencie.'
+          reminder1: 'Status Twojego profilu wygaśnie za kilka dni:'
+          renew: 'Zachowaj status swojego profilu'
+    renew:
+      alternative:
+        action: 'Odnawianie subskrypcji'
+        full: 'You can place the order for your Prime subscription here.'
+        text1: 'Możesz złożyć zamówienie na'
+        text2: 'subskrypcji tutaj.'
+      disable_notification: 'Wyłączanie tych powiadomień'
+      error:
+        full: 'Your Prime subscription could not be renewed. Your payment method has been rejected.'
+        text1: Twój
+        text2: 'nie można odnowić subskrypcji. Twoja metoda płatności została odrzucona.'
+      mail:
+        footer: '321escorts.com Obsługa Klienta'
+      my_profile: 'Mój profil'
+    renewed:
+      success:
+        close1: 'Dziękujemy za odnowienie subskrypcji! Wszystkie szczegóły i zarządzanie subskrypcją są dostępne w historii zamówień.'
+        close2: 'Jeśli masz jakieś pytania, nie wahaj się z nami skontaktować.'
+        full: 'Hello Tom, your subscription has been successfully renewed:'
+        text1: 'subskrypcja została pomyślnie odnowiona:'
+        text2: 'Subskrypcja została pomyślnie odnowiona'
+    verification:
+      mail:
+        body: 'weryfikacja zakończyła się pomyślnie. Twój profil został zaktualizowany.'
+        subject: 'Weryfikacja powiodła się'
+  notifications:
+    missed:
+      subject: 'Nieodebrane powiadomienia'
+    new:
+      body: 'Otrzymano nową recenzję'
+      subject: 'Są nowe wiadomości dla Ciebie.'
+  notify:
+    new_message:
+      body: 'są nowe wiadomości dla Ciebie:'
+      from:
+        text1: 'Otrzymałeś nową wiadomość od'
+      label: 'Nowa wiadomość'
+      to:
+        full: 'You received a message from Tom.'
+        text1: 'Otrzymałeś nową wiadomość od'
+        text2: ''
+      view: Widok
+    unred_message:
+      action: 'Wyświetlanie wiadomości'
+      body: 'Są nieprzeczytane wiadomości dla Ciebie.'
+      subject: 'Nieprzeczytane wiadomości'
+  notify1:
+    new_message:
+      message_received: 'Odebrano nową wiadomość'
+      to:
+        full: 'Tom sent you a new message'
+        text1: 'wysłał ci nową wiadomość'
+  notify2:
+    new_message:
+      to:
+        body: 'są nowe wiadomości dla Ciebie.'
+        full: 'You received a new message from Tom.'
+        text1: 'Masz nową wiadomość od'
+  review:
+    new:
+      anonymous:
+        full: 'You received a 5-star rating from Anonymous.'
+        subject: 'Nowa recenzja'
+        text1: 'gwiazdy otrzymane od Anonymous.'
+      full: 'You received a 5-star rating from Tom.'
+      text1: 'Otrzymałeś nową recenzję z'
+      text2: ' gwiazdy z'
+      text3: ''
+  review1:
+    anonymous: Anonimowy
+    new:
+      full: '5 stars review received from Tom.'
+      text1: ' przegląd gwiazd otrzymanych od'
+      text2: ''
+      text3: ' przegląd gwiazd otrzymanych od Anonymous'
+  review2:
+    new:
+      anonymous: 'gwiazdy otrzymane od Anonymous.'
+      full: 'You received a new review with 5 stars from Tom.'
+      text1: 'Otrzymałeś nową recenzję z'
+      text2: ' gwiazdy z'
+      text3: .
+bf:
+  public:
+    user:
+      age:
+        years: Lat
+      title:
+        rent_me: 'wynajmij mnie teraz'
+bm:
+  ads:
+    mail:
+      campaign:
+        approved: 'została zatwierdzona. Możesz rozpocząć kampanię już teraz.'
+        error1: 'została wstrzymana, ponieważ na twoim koncie nie ma wystarczających środków lub osiągnięto limit kampanii.'
+        error2: 'została wstrzymana, ponieważ na twoim koncie nie ma wystarczających środków.'
+        error3: 'została wstrzymana, ponieważ osiągnięto limit kampanii.'
+        error4: 'została wstrzymana, ponieważ została osiągnięta data zakończenia kampanii.'
+        label: 'twoja kampania'
+        map:
+          hide_details: 'Ukrywanie szczegółów'
+          show_details: 'Pokaż szczegóły'
+        stopped: 'Kampania zatrzymana:'
+        subject_approved: 'Zatwierdzona kampania:'
+        view_details: 'Wszystkie szczegóły i raporty dotyczące kampanii możesz wyświetlić tutaj:'
+      funds:
+        added:
+          info:
+            details: 'Wszystkie szczegóły i transakcje można znaleźć tutaj:'
+            details1: 'automatyczne zarządzanie funduszami:'
+            full: 'We charged $1000 from your credit card'
+            text1: 'Naliczyliśmy opłatę'
+            text2: 'z karty kredytowej'
+            text3: ''
+          label: 'Nowe środki, w których automatycznie dodawane są do Twojego konta reklamowego.'
+  affiliate:
+    mail:
+      sale:
+        body: 'Dziękujemy za udział w programie partnerskim. Możesz zobaczyć wszystkie szczegóły, swoje statystyki i wypłaty tutaj:'
+        subject: 'Nowa sprzedaż partnerska:'
+  notify:
+    mail:
+      private_gallery:
+        allow: 'Umożliwić swobodne otworzenie'
+        body:
+          full: 'Tom would like to see your private gallery.'
+          text1: 'chciałby zobaczyć twoją prywatną galerię.'
+        reject: Odrzucić
+    mail1:
+      private_gallery:
+        full: 'you can now see the private gallery from Tom.'
+        subject: 'Wniosek - galeria prywatna'
+        text1: 'możesz teraz zobaczyć prywatną galerię z'
+        text2: .
+        text3: 'Możesz teraz zobaczyć prywatną galerię z'
+        text4: ':'
+    mail2:
+      private_gallery:
+        full: 'Tom would like to see your private gallery.'
+        subject: 'Galeria prywatna'
+        text1: 'chciałby zobaczyć twoją prywatną galerię.'
+        view_gallery: 'Zobacz galerię'
+        view_profile: 'Wyświetl profil'
+    mail3:
+      private_gallery:
+        allow: 'Umożliwić swobodne otworzenie'
+        full: 'Tom has unlocked the private gallery for you.'
+        gallery_unlocked: 'Galeria prywatna odblokowana'
+        text1: 'odblokował prywatną galerię dla Ciebie.'
+  order:
+    mail:
+      gift:
+        subject:
+          full: 'You received a gift from Tom:'
+          text1: 'Otrzymałeś(aś) prezent od'
+          text2: ':'
+        thankyou:
+          body:
+            full: 'You can see the order details for also in your order history.'
+            text1: 'Możesz zobaczyć szczegóły zamówienia dla'
+            text2: 'również w historii zamówień.'
+          body1:
+            full: 'We sent Tom a message that you sent a gift :-)'
+            subject: 'Dziękujemy za zamówienie!'
+            subject1: 'Dziękuję bardzo zamówieniu'
+            text1: Wysłaliśmy
+            text2: 'wiadomość, że wysłałeś prezent :-)'
+          body2: 'Historię zamówień możesz wyświetlić na swoim koncie w dowolnym momencie.'
+          body3:
+            full: 'the user Tom has just sent a gift to you: Prime. Tom would love to receive a "thanks" from you :-)'
+            text1: użytkownik
+            text2: 'właśnie wysłał prezent do Ciebie:'
+            text3: 'bardzo chciałbym otrzymać \"dzięki\" od ciebie :-)'
+          body4:
+            full: 'Chat with Tom'
+            text1: 'Otwórz czat z'
+            text2: 'i wysłać \"Dzięki\" :-)'
+          body5:
+            full: 'Gift received from Tom.'
+            text1: 'Prezent otrzymany od'
+            text2: ''
+          subject: 'Dziękujemy za zamówienie'
+chat:
+  ago: ''
+  days: Dni
+  error:
+    action_login: Logowania
+    action_register: Zarejestrować
+    login_required: 'Zaloguj się, aby skorzystać z czatu.'
+  hour: Godziny
+  hours: Godzin
+  image: Obrazu
+  message:
+    d: d
+    gallery:
+      approve: Zatwierdzić
+      reject: Odrzucić
+    h: h
+    min: min
+    sec: sec
+  messenger:
+    action:
+      become_prime_member: 'Zostań członkiem Prime już teraz. Jako członek Prime możesz przechowywać nieograniczoną liczbę wiadomości.'
+      mobile:
+        become_prime_member: 'Zostań członkiem Prime już teraz'
+    close: Zamknij
+    error:
+      chat_empty: 'Czat jest nadal pusty. Napisz do kogoś, kogo lubisz :-)'
+      limit_reached: 'Osiągnięto limit pamięci'
+    headline: Wiadomości
+    message:
+      delete: Usunąć
+      error: 'Błąd: czat jest nieprawidłowy.'
+      error_try_later: 'Błąd: Spróbuj ponownie później.'
+      read: Odczytu
+      received:
+        now: Nwo
+      save: Zapisz
+      spam: Spam
+      unread: Nieprzeczytane
+      unstore: Niesklep
+      upgrade_read_messages: 'Czy chcesz sprawdzić, czy wiadomość została przeczytana?'
+      user_is_typing: wpisuje
+    new_message:
+      placeholder: 'Twoja wiadomość...'
+    user_is_typing: wpisuje
+  minute: Minut
+  minutes: Minut
+  user:
+    offline: Offline
+    online: Online
+  video: Wideo
+  yesterday: Wczoraj
+email:
+  affiliate:
+    subject: 'Sprzedaż partnerska - '
+exchange_links:
+  success:
+    rescan_website: 'Dziękuję bardzo. Przeskanujemy Twoją stronę ponownie w ciągu najbliższych 24 godzin.'
+follow_user: 'Wykonaj następujące'
+main:
+  account:
+    activate: 'Aktywuj konto'
+    add_hashtag: 'Dodaj znacznik'
+    advertising:
+      country_formats: Kraj/formaty
+      hide: Ukryć
+      label: 'Reklamy:'
+      no: Nie
+      notifications:
+        email: E-mail
+        label: Powiadomienia
+        sms: Sms
+        web_push: 'Wypychanie w sieci Web'
+      show: Pokaż
+      sound_chat: 'Dźwięk/czat:'
+      view: Widok
+      yes: Tak
+    amazon_wishlist:
+      headline: 'Lista życzeń Amazon'
+      label: 'Lista życzeń Amazon:'
+    billing:
+      history:
+        days: Dni
+    cell_phone:
+      change_number: 'Zmień numer'
+      code: Kod...
+      contact_and_cell_phone: 'Kontakt & numer telefonu komórkowego'
+      dont_show: 'Nie pokazuj numeru na stronie internetowej'
+      dont_show2: 'Nie pokazuj numeru na stronie internetowej'
+      label: 'Komórki:'
+      same_number: 'numer ten sam co numer główny'
+      send:
+        code: 'Wyślij kod SMS na ten numer'
+        full: 'Send SMS code to this number +1123456789 now?'
+        now: Nwo?
+      send_sms: 'Wyślij SMS'
+      verify: Sprawdź
+      verify_number: 'Weryfikowanie numeru'
+      verify_number1: 'Weryfikowanie numeru'
+      whatsapp: 'WhatsApp (opcjonalnie):'
+    credentials:
+      auto_social_login: 'automatyczne / społecznościowe logowanie'
+      confirm_with_password: 'Potwierdź przy za pomocą bieżącego hasła'
+      confirm_with_password1: 'Potwierdź przy za pomocą bieżącego hasła'
+      delete_account: 'Usuń konto'
+      error:
+        emails_not_matching: 'Błąd: nowy adres e-mail nie jest zgodny z ponownie wpisanym adresem e-mail.'
+        fiell_out: 'Błąd: Wypełnij wszystkie pola.'
+        new_profile: 'Błąd: Wprowadź nową nazwę profilu i hasło.'
+        passwords: 'Błąd: Wprowadź hasło.'
+        passwords_not_matching: 'Błąd: nowe hasło nie jest zgodne z ponownie wpisane hasło.'
+      free: Wolna
+      head: Konta
+      login: Logowania
+      modal:
+        delete:
+          confirm_with_password: 'Potwierdź hasłem'
+          head: 'Skreślenie konta!'
+          label: 'Usuwanie konta'
+          text: 'Czy na pewno chcesz usunąć swoje konto? Twoje zdjęcia, filmy, obserwujących, polubienia i wszystkie dane zostaną nieodwołalnie usunięte i zostaną utracone na zawsze. Canb może wstrzymać i wznowić swoje konto w dowolnym momencie.'
+      new_email_address: 'Nowy adres e-mail'
+      new_password: 'Nowe hasło'
+      new_profile_name: 'Nowa nazwa profilu'
+      password: Hasło
+      profile_name: 'Nazwa profilu'
+      retype_new_email_address: 'Ponowne wpisywania nowego adresu e-mail'
+      retype_new_password: 'Ponownie wpisz nowe hasło'
+    date_of_birth: 'Data urodzenia:'
+    deactivate_your_account: 'Dezaktywuj swoje konto'
+    distance:
+      ft: ft
+      km: km
+      m: m
+      mi: mi
+    general: Ogólne
+    hashtags:
+      add_tag: 'Dodaj znacznik'
+      headline: '#Hashtags:'
+    headline: 'Nagłówek:'
+    height: 'Wysokość:'
+    location:
+      add_location: 'Dodaj miejsca, które odwiedzasz. Będziesz wymieniony w wynikach wyszukiwania dla wszystkich miejsc z wyprzedzeniem, aby uzyskać więcej atrakcji.'
+      add_new_place: 'Dodaj nowe miejsce'
+      add_places: 'Dodaj miejsca, które odwiedzasz. Będziesz wymieniony w wynikach wyszukiwania dla wszystkich miejsc z wyprzedzeniem, aby uzyskać więcej atrakcji.'
+      auto_change: 'Kliknij, aby automatycznie zmienić lokalizację'
+      browser_error: 'Zablokowano udostępnianie lokalizacji w przeglądarce. Włącz go do korzystania z tej funkcji.'
+      choose_location: 'Wybierz lokalizację i datę'
+      date_from: 'Data od'
+      date_to: 'Data do'
+      delete: 'Czy chcesz usunąć swoją wizytę z'
+      delete_from: ''
+      delete_headline: 'Usuń lokalizację'
+      delete_location: 'Czy usunąć lokalizację?'
+      delete_question_mark: '?'
+      enter_location: 'Wprowadź lokalizację'
+      entered_location: 'Wprowadzona lokalizacja'
+      error: 'Błąd:'
+      error_try_later: 'Błąd: Spróbuj ponownie później'
+      head:
+        add_location: 'Dodaj lokalizację'
+        gps_location: 'Twoja lokalizacja GPS'
+        i_visit: Odwiedzam
+      headline: 'Czy usunąć lokalizację?'
+      label:
+        delete_location: 'Usuń lokalizację'
+        delete_location2: 'Czy chcesz usunąć tę lokalizację?'
+        delete_location3: ''
+        select: 'Wybierz lokalizację'
+      manually_change: 'Kliknij, aby ręcznie zmienić lokalizację'
+      map: 'Wybierz lokalizację z mapy lub wprowadź lokalizację w polu tekstowym nad mapą. Wybierz również datę rozpoczęcia i zakończenia.'
+      ok: Ok
+      save_location: 'Zapisz lokalizację'
+      save_location1: 'Zapisz lokalizację'
+      save_location2: 'Zapisz lokalizację'
+      select: 'Samodzielnie wybierz lokalizację'
+      start_end_date: 'Dodaj daty rozpoczęcia i zakończenia podróży. Będziesz wymieniony w wynikach wyszukiwania dla wszystkich miejsc z wyprzedzeniem, aby uzyskać więcej atrakcji.'
+      trip_already_planed:
+        error: 'Masz już podróż w tych terminach.'
+      use_gps: 'Korzystanie z GPS'
+    measuring_system:
+      cm: Cm
+      imperial: 'imperial (USA)'
+      kg: Kg
+      label: 'System pomiarowy:'
+      lbs: Lbs
+      metric: Metrycznych
+    media:
+      add_hashtag: 'Dodaj znacznik'
+      add_hashtags: 'dodawanie hashtagów'
+      classification_pending: 'Klasyfikacja oczekująca'
+      delete:
+        head: 'Naprawdę usuń'
+        label:
+          cancel: Anuluj
+          delete: Usunąć
+        text: 'Czy na pewno chcesz usunąć ten nośnik?'
+      hd: HD
+      is_preview: 'jest podglądem zdjęcia'
+      max_size: 'Zdjęcia i filmy'
+      photo: Zdjęcie
+      private_gallery: 'prywatna galeria'
+      type:
+        all_media: 'Wszystkie media'
+        photos: Zdjęcia
+        videos: Filmy
+      video: Wideo
+      xxx: XXX
+    menu:
+      account: Konta
+      contact: Kontakt
+      locations: 'Zarządzanie lokalizacjami'
+      logout: Wyloguj
+      media:
+        head: 'Zarządzanie zdjęciami i filmami'
+        manage: 'Zarządzanie zdjęciami i filmami'
+      order_history: 'Historia zamówień'
+      preview: 'Podgląd profilu'
+      profile: Proﬁl
+      settings: Ustawienia
+      upload: 'Przesyłanie zdjęć i filmów'
+      verification: Weryfikacji
+      verified: 'Escort zweryfikowane'
+      view_profile: 'Wyświetl profil'
+    order:
+      history:
+        status:
+          paid: Płatny
+          pending: Oczekujące
+      status:
+        paid: 'Dziękujemy za zamówienie.'
+        pending: 'Dziękuję. Sprawdzimy Twoje zamówienie i poinformujemy Cię o tym wkrótce.'
+    payment:
+      error:
+        label: 'Wystąpił. Skontaktuj się z nami.'
+        password_invalid: 'Twoje hasło jest nieprawidłowe.'
+        password_too_short: 'Nowe hasło musi mieć co najmniej 6 znaków.'
+        profile_invalid: 'Nowa nazwa profilu jest nieprawidłowa. Wybierz inną nazwę profilu.'
+        profile_name_too_short: 'Nowa nazwa profilu musi mieć co najmniej 6 znaków. Dozwolone są znaki, litery, łączniki i łączniki.'
+      not_recurring: Nienastawienie
+    payments:
+      amount: Kwota
+      billed: Rozliczane
+      cancel:
+        label: Anuluj
+      cancel_subscription:
+        head: 'Anuluj subskrypcję:'
+        label: 'Jeśli anulujesz subskrypcję, nie będzie już automatycznego odnawiania. Jeśli chcesz kontynuować korzystanie z usługi, musisz złożyć nowe zamówienie. Czy naprawdę na pewno chcesz anulować subskrypcję utraty wszystkich befinits i festures?'
+        label1: 'Anuluj subskrypcję'
+        text: 'Jeśli chcesz anulować subskrypcję, kliknij \"subskrypcja\" w historii zamówień.'
+      cancelled: Anulowane
+      currently_free_account: 'Obecnie korzystasz z bezpłatnego konta. Uaktualnij do \"Go Prime\" teraz i korzystać ze wszystkich wspaniałych funkcji.'
+      date: Data
+      duration: Długość
+      eotw:
+        full1: 'Escort of the Week subscription is active until 2022-02-04 and will be automatically extended.'
+        full2: 'Escort of the Week subscription will be cancelled on 2022-02-04.'
+        text1: 'Subskrypcja eskorty tygodnia'
+        text2: 'jest aktywny, dopóki nie'
+        text3: 'zostaną anulowane w dniu'
+        text4: 'i zostanie automatycznie przedłużony.'
+        text5: ''
+      error:
+        billing: 'Problemy z rozliczeniami podczas przetwarzania subskrypcji'
+      failed: 'Nie powiodło się'
+      gift_no: 'prezent (nieposiący się do tej r.)'
+      nonrecurring: 'Nienastawienie '
+      order_history: 'Historia zamówień'
+      paid: Wypłacane
+      prime: Prime
+      prime_subscription: 'Subskrypcja Prime'
+      product: Produktu
+      status: Stan
+      subscription: 'Aktywna subskrypcja'
+      subscription1: Subskrypcji
+      your: Twój
+    pornstar:
+      very_for_changing_settings: 'Sprawdź, czy chcesz zmienić ustawienia.'
+    price:
+      ask: Zapytać
+      price: Cena...
+      price_hour: 'Cena/godzina:'
+      price_night: 'Cena/noc:'
+    profile_activated: 'Profil aktywowany.'
+    profile_text: 'Tekst profilu:'
+    pron_star:
+      label: 'Jestem również gwiazdą porno'
+      upload: Przesłać
+      website_indication: 'Strona internetowa, która wskazuje, że jesteś gwiazdą porno (URL, konto na Twitterze lub film internetowy)'
+    services:
+      headline: 'Usługi, preferencje i fetysze'
+    settings:
+      label: Ustawienia
+    signup:
+      terms_policy:
+        text1: 'Tak, akceptuję'
+    status:
+      profile_paused: 'Twój profil jest obecnie wstrzymany. Kliknij tutaj, aby ponownie aktywować swój profil.'
+    text_hashtags:
+      headline: 'Teksty i #Hashtags'
+    thousand:
+      k: k
+    type:
+      prime_escort: 'Prime Escort'
+    upload:
+      error: 'Przesyłanie jest obecnie niedostępne.'
+    verification:
+      files:
+        full: 'Uploaded files will automatically be deleted after verification'
+        info: '(maks. 3 zdjęcia lub pliki PDF)'
+        label: 'Kliknij tutaj, aby przesłać pliki.'
+        success: 'Dziękuję bardzo. Skontaktujemy się z Tobą wkrótce.'
+        text1: 'Przesłane pliki'
+        text2: 'zostanie automatycznie usunięty po weryfikacji'
+        text3: zakończeniu.
+      full: 'Improve your profile status and show everyone that you are real '
+      label: Weryfikacji
+      proof:
+        blackened: 'Dane, takie jak nazwa i adres, mogą być zaczernione.'
+        full: 'Send us a proof with photo, e.g. drivers licence picture ID or passport'
+        text1: 'Wyślij nam dowód ze zdjęciem, np.'
+        text2: 'prawo jazdy, '
+        text3: 'identyfikator zdjęcia'
+        text4: Lub
+        text5: Paszport
+        text6: ''
+      text1: 'Popraw swój status profilu i pokaż wszystkim'
+      text2: 'że jesteś prawdziwy'
+      upload:
+        file:
+          cancel: Anuluj
+          cc: 'Przednia karta kredytowa'
+          error: 'Wprowadź swoje pliki'
+          identity: 'Identyfikator zdjęcia'
+          text: 'System wykrył wysokie ryzyko dla Twojego zamówienia. W związku z tym prosimy o przesłanie dowodu tożsamości (na przykład dowodu tożsamości ze zdjęciem, paszportu lub prawa jazdy) oraz zdjęcia przedniej strony karty kredytowej. Po sprawdzeniu przetworzymy Twoje zamówienie. Przesłane pliki zostaną automatycznie usunięte. Alternatywnie możesz wybrać inną metodę płatności.'
+          upload: Przesyłać
+          verification_required: 'Wymagana weryfikacja'
+    view:
+      large_grid: 'duża siatka'
+      list_view: 'widok listy'
+      mobile:
+        large_grid: 'duża siatka (urządzenia mobilne)'
+      small_grid: 'mała siatka'
+    weight: 'Waga:'
+  ad:
+    banner:
+      remove_ad: 'Usuń ad'
+    click_here: 'Kliknij tutaj'
+    label: Ad
+    place:
+      action:
+        place_your_ad: 'Umieść teraz swoją ad'
+      ad_options: 'Ekskluzywne opcje dla twoich reklam'
+      banner_ad: 'Baner AD'
+      budget_management: 'Inteligentne zarządzanie budżetem i elastyczne umiejscowienie usługi AD'
+      escort_profile_ad: 'Escort zdjęcie profilowe'
+      filters: 'Ekskluzywne filtry - orientacja seksualna, kraje, języki'
+      fullpage_ad: 'Pełna strona usługi AD'
+      geo_targeting: 'Reklamy kierowane geograficznie w przypadku wysokich konwersji'
+      high_conversions: 'wysokie konwersje ze względu na duży nacisk na grupy docelowe'
+      multi_geo_targeting: 'Kierowanie wielolokacyjne dla każdej kampanii'
+      unlimited_campaigns: 'nieograniczona liczba kampanii i statystyki w czasie rzeczywistym'
+      video_ad: 'Wideo AD'
+      video_preview_photo: 'Zdjęcie podglądu wideo'
+    remove: 'Usuń ad'
+  affiliate:
+    account_blocked: 'Twoje konto partnerskie zostało zablokowane z powodu oszustwa. Jeśli uważasz, że to błąd, skontaktuj się z pomocą techniczną tutaj.'
+    action:
+      register_under_30s: 'Zarejestruj się za darmo w 30 sekund'
+    copy_link: 'Łącze kopiowania'
+    email:
+      error: 'Adres e-mail jest nieprawidłowy.'
+      label: E-mail
+      sent:
+        body: 'Potwierdź swój adres e-mail'
+        body2: 'w ciągu najbliższych 60 minut:'
+        confirm_email_address: 'Potwierdź adres e-mail:'
+        full: 'Please confirm your email address within the next 60 minutes:'
+        hello: Witam
+        label: 'Partner - potwierdź swój nowy adres e-mail'
+    embed_website: 'Osadzanie w witrynie/generatorze linków'
+    head:
+      full: 'You want to maximize your traffic revenue?'
+      mobile: 'Chcesz zmaksymalizować przychody z ruchu?'
+      text1: 'Chcesz zmaksymalizować'
+      text2: 'przychodów z ruchu drogowego?'
+    income:
+      apprx_income: 'Przybliżony dochód:'
+      avg_daily_registrations: 'Średnia liczba rejestracji dziennie'
+      calc: 'Kalkulator dochodów'
+      calc_income: 'Obliczanie dochodu'
+      results:
+        action:
+          register_under_30s: 'Zarejestruj się za darmo w 30 sekund'
+        free_signups: 'Bezpłatne rejestracje'
+        incl_recurring_sales: 'w tym sprzedaż cykliczna'
+        income_1st_yr: 'Dochód 1 rok'
+        income_2nd_yr: 'Dochód 2 lata'
+        income_month: Dochód/miesiąc
+        sales: Sprzedaży
+        total: Łącznych
+    lifetime_sales: '50% udziału we wszystkich cyklicznych wyprzedażach - bez względu na to, czy nie ma okresu istnienia plików cookie'
+    menu:
+      account: Konta
+      details: Szczegóły
+      head: 'Program partnerski:'
+      links: Linki
+      logout: Wyloguj
+      payout: Wypłata
+      statistics: Statystyki
+      support: 'Wsparcie afiliacyjne'
+    new_password:
+      email:
+        body: 'Możesz zmienić hasło w ciągu najbliższych 60 minut, klikając link:'
+        hello: Witam
+      error:
+        email: 'Twój adres e-mail jest nieprawidłowy.'
+        invalid_identifier: 'Nieprawidłowy identyfikator'
+        min_characters: 'Hasło musi mieć co najmniej 6 znaków.'
+        passwords_not_matching: 'Hasła nie są zgodne.'
+      head: 'Partner - nowe hasło'
+      placeholder: 'Nowe hasło (min. 6 znaków)'
+      placeholder1: 'nowe hasło (min. 6 znaków):'
+      retype_placeholder: 'Wpisz ponownie hasło:'
+      save: 'Zapisz hasło'
+    one_usd_per_registration: '.00 dla każdej bezpłatnej rejestracji - nie jest wymagana weryfikacja e-mailowa'
+    password:
+      do_not_match: 'Twoje hasła nie są zgodne.'
+      error: 'Twoje hasło jest nieprawidłowe.'
+      error1: 'Twoje aktualne hasło jest nieprawidłowe.'
+      head: 'Partner - Dane uwierzytelniające'
+      too_short: 'Twoje hasło jest za krótkie.'
+    password_forgotten:
+      email: 'Adres e-mail:'
+      send_label: 'Żądanie poświadczeń'
+      success: 'Jeśli wiadomość e-mail jest zarejestrowana, wysłaliśmy ci wiadomość e-mail.'
+    payout:
+      address: Adres
+      address2: 'Adres addidiotnal '
+      bitcoin:
+        error: 'Adres Bitcoin jest nieprawidłowy.'
+        minimum1: 'Minimalna kwota wypłaty wynosi'
+        minimum2: 'i zapłaci na adres BTC'
+        payout: 'Wypłata na adres Bitcoin (opłata.00)'
+      btc:
+        address: 'Adres BTC'
+      cc:
+        ccv: Ccv
+        ccv_info: 'Ostatnie 3 lub 4 cyfry z tyłu'
+        error: 'Karta kredytowa jest nieprawidłowa.'
+        exp_date: 'Data ważności'
+        head: 'Karta kredytowa'
+        minimum1: 'Minimalna kwota wypłaty wynosi'
+        minimum2: 'i wpłaci na twoją kartę kredytową'
+        month_year: 'Miesiąc / rok'
+        name_on_card: 'Imię i nazwisko na karcie kredytowej'
+        payout: 'Wypłata na kartę kredytową'
+      change_payout: 'Jeśli chcesz zmienić swoje dane wypłaty, możesz usunąć bieżące dane. Nie ma to wpływu na bieżące wypłaty.'
+      city: Miasta
+      contact: 'Jeśli masz jakiekolwiek problemy, skontaktuj się z pomocą techniczną partnera.'
+      country: Kraju
+      current_password: 'Bieżące hasło'
+      delete_payout_data: 'Usuwanie danych płatności'
+      error:
+        address: 'Twój adres jest nieprawidłowy.'
+        city: 'Podaj swoje miasto.'
+        country: 'Podaj swój kraj.'
+        date: 'Wybierz prawidłową datę.'
+        date_range: 'Wybierz prawidłowy zakres dat.'
+        lastname: 'Twoje nazwisko jest nieprawidłowe.'
+        min_amount: 'Minimalna kwota wypłat jest nieprawidłowa.'
+        name: 'Twoje imię i nazwisko jest nieprawidłowe.'
+        zip: 'Podaj swój kod pocztowy.'
+      full: 'The minimum payout amount is 50 EUR and will payed to the BTC address'
+      lastname: Nazwisko
+      min_amount: 'Wypłata zaczynają się od'
+      name: Nazwa
+      payout: Wypłata
+      payout_invalid: 'Wypłata nieważna.'
+      save:
+        label: Zapisz
+        success: 'Zmiany zapisane pomyślnie'
+      saved:
+        full: 'Your payout information were successfully saved on 2020-12-31'
+      saved1: 'Twoje informacje o wypłatach zostały pomyślnie zapisane na'
+      saved2: .
+      zip_code: 'Kod pocztowy'
+    registration_process: 'Nasz szybki proces rejestracji, który nie wymaga adresu e-mail ani karty kredytowej, zwiększa konwersje jak nigdy dotąd. '
+    retype_new_password: 'Ponowne wpisywania hasła'
+    revenue_share: '50% udziału w całej sprzedaży (sprzedaż bezpośrednia, sprzedaż krzyżowa, wzrost sprzedaży itp.)'
+    sigin:
+      error: 'Poświadczenia są nieprawidłowe.'
+    signin:
+      head: 'Partner - Zaloguj się'
+      password: 'Hasło:'
+      password_forgotten: 'Zapomniałeś hasła?'
+    signup:
+      accept_terms_policy: 'Zaakceptuj Warunki i Zasady, aby kontynuować.'
+      already_registered: 'Jesteś już zarejestrowany?'
+      email:
+        body: 'zapraszamy do bezpłatnego programu partnerskiego. Potwierdź swój adres e-mail, klikając poniższy link. Wszystkie szczegóły, linki i generator eskorty karuzelowej HTML, a także statystyki można znaleźć w wewnętrznej bazy danych.'
+        confirm_email_address: 'Potwierdź swój adres e-mail:'
+        not_registered_with_this_email_address: 'Jeśli nie zarejestrowałeś się pod tym adresem e-mail, kliknij tutaj:'
+        subject: 'Partner - proszę potwierdzić swój adres e-mail'
+      error:
+        passwords_not_matching: 'Twoje hasła nie są zgodne.'
+      head: 'Partner - Zarejestruj się'
+      label:
+        finish: Zakończ
+      password_min_characters: 'Hasło (min. 6 znaków):'
+      terms_policy: 'Terms and Policy'
+    stats:
+      clicks: Kliknięć
+      ctr: Ctr
+      date:
+        head: Data
+        label: Data
+      date1: Data
+      excel_download: 'Pobieranie programu Excel'
+      head:
+        carousel: Karuzela
+        gay: 'Eskorty: Gej,'
+        geo_targeting: 'Wybór: Kierowanie geograficzne,'
+        men: 'Eskorty: Mężczyźni,'
+        random: 'Wybór: Losowy,'
+        theme_dark: 'Temat: Dark,'
+        theme_individual: 'Temat: Indywidualny,'
+        theme_light: 'Temat: Światło,'
+        trans: 'Eskorty: Trans,'
+        women: 'Eskorty: Kobiety,'
+      hits: Trafienia
+      json_download: 'JSON Pobierz'
+      new_payouts: 'Nowe wypłaty'
+      pages: 'Stron:'
+      period: Okres
+      range: Zakres
+      recurring_payouts: 'Wypłaty cykliczne'
+      results:
+        next: Następnego
+        previous: Poprzednich
+      sort_by: 'Sortuj według'
+      tab:
+        clicks: Kliknięć
+        ctr: Ctr
+        date: Data
+        hits: Trafienia
+        link: Link
+        new_payouts: 'nowe wypłaty'
+        recurring_payouts: 'wypłaty cykliczne'
+        total_payouts: 'Łączna liczba wypłat'
+        tour: Tour
+        unique_hits: 'Unikalne hity'
+      total_all_pages: 'Razem (wszystkie strony)'
+      total_payouts: 'Łączna liczba wypłat'
+      tour: Tour
+      unique_hits: 'Unikalne hity'
+      view: Widok
+    support:
+      error:
+        too_long: 'Tekst jest za długi. Proszę skrócić zapytanie.'
+        too_many_requests: 'W tej chwili nie możesz wysłać więcej próśb, spróbuj ponownie później.'
+        too_short: 'Wprowadź dłuższy tekst.'
+      from: 'Z:'
+      head: 'Skontaktuj się z pomocą techniczną partnera'
+      send:
+        thank_you: 'Twoje żądanie zostało wysłane pomyślnie. Dziękuję. '
+    user:
+      background_color: 'Kolor tła'
+      copy_html: 'Kopiowanie kodu HTML'
+      copy_linke: 'Łącze kopiowania'
+      dark_theme: 'Kompozycja Ciemna'
+      desktop: Pulpitu
+      embedded: 'Karuzela eskortowa (osadzona)'
+      escort_results: 'Wyniki towarzyskie:'
+      escorts: 'Eskorty:'
+      geo_targeting: 'Kierowanie geograficzne (najwyższa konwersja)'
+      individual_them: 'Kompozycja indywidualna'
+      language: 'Język:'
+      light_theme: 'Kompozycja Światło'
+      link: Link
+      mobile: Mobile
+      preview: Podgląd
+      random: Losowe
+      text_color: 'Kolor tekstu'
+      theme: 'Tematu:'
+      type: 'Typu:'
+    user_feature_set: 'Użytkownik może w pełni korzystać ze strony internetowej bez inwestowania ani grosza, w tym darmowe zdjęcia, filmy, czaty i wiele więcej!'
+    usp: 'Co sprawia, że tak różne jest nasze \"prawdziwe wolne\" strona towarzyskia.'
+    your_link: 'Twój adres URL partnera:'
+  chat:
+    translation:
+      action:
+        activate_now: 'Aktywuj tłumaczenie teraz'
+      feature:
+        myself:
+          full: 'przychodzące wiadomości zostaną automatycznie przetłumaczone na język angielski'
+          text1: 'przychodzące wiadomości zostaną automatycznie przetłumaczone na '
+          text2: ''
+        user:
+          full: 'wiadomości wychodzące są automatycznie tłumaczone na język wybrany przez SexyGirl18'
+          text1: 'wiadomości wychodzące są automatycznie tłumaczone na język wybrany przez SexyGirl18'
+          text2: ''
+      language:
+        write_in: 'Piszę w'
+      service:
+        activated: 'usługa tłumaczeniowa aktywna'
+        deactivated: 'usługa tłumaczeniowa dezaktywowana'
+    upload:
+      check:
+        progress: 'Praca nad plikiem...'
+  contact:
+    email_address: E-mail
+    error:
+      captcha: 'Wprowadź numer/captcha na zdjęciu.'
+      general: 'Błąd:'
+      too_long: 'Tekst jest za długi. Proszę skrócić zapytanie.'
+      too_many_requests: 'W tej chwili nie możesz wysłać więcej próśb, spróbuj ponownie później.'
+      too_short: 'Wprowadź dłuższy tekst.'
+    feedback: Opinie
+    head: Kontakt
+    headline: 'Skontaktuj się z nami'
+    improvements_wishes: 'Czy masz jakieś ulepszenia, życzenia lub opinie? Skontaktuj się z nami już teraz.'
+    success:
+      thank_you: 'Twoja prośba została wysłana. Dziękuję bardzo.'
+  enable_search_notifications: 'Włączanie powiadomień o wyszukiwaniu'
+  enabled_search_notifications: 'Włączone powiadomienia wyszukiwania'
+  escort:
+    directory:
+      escorts_in:
+        body1: Zobacz
+        body2: ''
+        cities_from: 'Eskorty w miastach z'
+        find_in_countries: 'Znajdź eskorty w następujących krajach'
+        following_cities: 'Znajdź eskorty w następujących miastach'
+        following_regions: 'Znajdź eskorty w następujących regionach'
+        full: 'See all Gay Escorts in France'
+        label: 'Eskorty w'
+        regions_from: 'Eskorty w regionach z'
+      gay: Gej
+      male: Mężczyzna
+  exchange_links:
+    add:
+      backlink:
+        gay: 'Sexy Gay Escorts - 321escorts.com'
+        male: 'Sexy Mężczyzna Escorts - 321escorts.com'
+        women: 'Sexy Escorts - 321escorts.com'
+      button_send: 'Łącza programu Exchange'
+      destination_url: 'Docelowy adres URL:'
+      email: 'E-mail:'
+      error:
+        already_added: 'Twój adres URL już istnieje.'
+        invalid_email: 'Twój adres e-mail jest nieprawidłowy.'
+        invalid_inputs: 'Dane wejściowe są nieprawidłowe.'
+        too_many_requests: 'W tej chwili nie możemy wziąć od Ciebie więcej adresów URL. Spróbuj ponownie później.'
+        url_invalid: 'Nazwa adresu URL jest nieprawidłowa.'
+        url_invalid2: 'Adres URL jest nieprawidłowy.'
+      first_name: 'Imię (opcjonalnie):'
+      name_displayed:
+        example: 'Mój blog dla nastolatków'
+        label: 'Nazwa wyświetlana na stronie publicznej:'
+      success:
+        copied: Kopiowane
+        copy_html: 'Kopiowanie kodu HTML'
+        include_code_on_website: 'Dołącz do strony poniższy kod. Sprawdzimy Twoją stronę w ciągu najbliższych 24 godzin. Twój link zostanie aktywowany i publicznie wyświetlony, jeśli nasz link na naszej stronie.'
+        label: 'Dziękuję bardzo'
+      target_group: 'Grupa docelowa:'
+      target_group_all: Wszystkie
+      target_group_gay_trans: Gej/Trans
+    error:
+      name: 'Twoje imię i nazwisko jest nieprawidłowe.'
+    head: 'Łącza programu Exchange'
+    link:
+      body1: 'można również korzystać z'
+      body2: 'Link partnerski'
+      body3: 'i zarobić dodatkowe pieniądze'
+      full: 'you also can use your Affiliate Link and earn extra money'
+    link_backlink_website: 'Wymieniaj linki i zostań członkiem naszych partnerów. To nic nie kosztuje. Łączymy Twoją stronę - łączysz naszą stronę z powrotem.'
+    more_visitors: 'zyskaj więcej odwiedzających Twoją witrynę'
+    text:
+      body1: 'Zawsze będziesz wymieniany na naszej stronie'
+      body2: 'strona partnerska'
+      body3: ''
+      full: 'You will always be listed on our partner website'
+    visitors_per_month: 'mamy ponad 32 milionów odwiedzających miesięcznie (certyfikat Alexa)'
+    website_ranking: 'im wyższy ranking witryny, tym częściej twój link pojawia się na naszych stronach internetowych'
+    websites:
+      free_sign_up: 'Zarejestruj swoją stronę tutaj za darmo i zostań wymienioną stroną partnerską.'
+      head: 'Nasze strony internetowe partnerskie'
+  footer:
+    affiliate: Partnerski
+    escorts_ads: 'Reklamy towarzyskie'
+    menu:
+      18usc: '18 Stany Zjednoczone.C'
+      anti_trafficking: 'Zgłaszanie handlu ludźmi'
+      customer_service: 'Obsługa klienta'
+      data_collection: 'Gromadzenie danych osobowych'
+      dmca: dmca
+      environmental_protection: '1% całej sprzedaży przeznacza się na programy ochrony środowiska.'
+      exchange_links: 'Łącza programu Exchange'
+      gay:
+        escort_photos: 'Gay Escort Zdjęcia'
+        escort_videos: 'Gej escort filmy'
+        find_gay_escorts: 'Znajdź Gay Escorts'
+        gay_bottoms: 'Gejowskie dna'
+        gay_escort_directory: 'Gejowski katalog towarzyski'
+        gay_tops: 'Gejowskie topy'
+        tinks_under_30: 'Twinks poniżej 30'
+      head:
+        information: Informacji
+        navigation: Nawigacji
+      headline:
+        webmaster_affiliate: 'Webmaster & Partnerzy'
+      men:
+        escort_photos: 'Mężczyzna Escort Zdjęcia'
+        escort_videos: 'Mężczyzna Escort Filmy'
+        escort_women: 'Escort Kobiety'
+        find_male_escorts: 'Znajdź męskie eskorty'
+        gentlemen_escorts: 'Gentelmen Eskorty'
+        male_escort_directory: 'Męski katalog towarzyski'
+        slim_men: 'Szczupłe mężczyźni'
+        tall_men: 'Wyżsi mężczyźni'
+        young_callboys: 'młodych Callboys'
+      my_account: 'Moje konto'
+      navigation:
+        my_account: 'Moje konto'
+        place_ads: 'Umieść reklamy towarzyskie'
+      partner_websites: 'Witryny partnerów'
+      place_escort_ads: 'Umieszczanie reklam'
+      privacy_policy: 'Polityka prywatności'
+      report_error: 'Zgłaszanie błędów'
+      report_new_feature: 'Funkcja raportu lub życzenie'
+      server_renewable_energy: 'Wszystkie nasze serwery działają na 100% energii odnawialnej.'
+      terms_and_provacy: 'Warunki korzystania z usługi'
+      women:
+        directory: 'Katalog towarzyski'
+        dominat: 'Dominujące kobiety'
+        escort_photos: 'Escort Zdjęcia'
+        escort_videos: 'Escort Filmy'
+        find_escort_girls: 'Znajdź Escort Dziewczyny'
+        gay_trans_escorts: 'Gej & Trans Eskorty'
+        men_for_women: 'Escort Mężczyźni dla kobiet'
+        submissive: 'Uległe kobiety'
+        under_30: 'Kobiety poniżej 30 roku roku roku nie'
+        young_callgirls: 'Młode callgirls'
+      youth_protection: 'Agent ochrony młodzieży'
+    newsletter:
+      cell_phone: Komórki...
+      email_address: 'Adres e-mail...'
+      escort_newsletter: 'Bezpłatny biuletyn towarzyski'
+      sms:
+        code: Kod...
+        different_number: 'Inna liczba'
+        send: Wyślij
+    notifications:
+      customer_recommendations: 'Zalecenia klientów'
+      escort_recommendations: 'Rekomendacje towarzyskie'
+    notifications_for: 'Powiadomienia dla'
+  gps:
+    error:
+      check_browser_settings: 'Sprawdź ustawienia przeglądarki, aby uzyskać najlepszą lokalizację (GPS), aby uzyskać najlepsze wyniki wyszukiwania.'
+  head:
+    search:
+      placeholder: 'Lokalizacja, miasto, kod pocztowy...'
+  headline:
+    black0: Najlepsze
+    black1: Witryny
+    favorits:
+      mobile:
+        favorites: Ulubione
+      my_favorites: 'Moje ulubione'
+    full: 'THE BEST FREE ESCORT SITE'
+    near_me:
+      escorts_near_me: 'Eskorty w pobliżu mnie'
+      mobile:
+        radar: Radar
+    new_escorts:
+      mobile:
+        new: 'Nowe eskorty'
+      new: Nowy
+    online:
+      mobile:
+        now_online: 'Teraz online'
+      now_online: 'Eskorty - teraz online'
+    photos:
+      escort_photos: 'Zdjęcia towarzyskie'
+      latest: Najnowsza
+      mobile:
+        latest_photos: 'Najnowsze zdjęcia'
+    red: 'BEZPŁATNA ESKORTA'
+    reviews:
+      escort_reviews: 'Recenzje towarzyskie'
+      mobile:
+        latest_reviews: 'Najnowsze recenzje'
+    tag:
+      escort_found: 'Znaleziono eskorty'
+      escorts: Eskorty
+      escorts_found: 'Znaleziono eskorty'
+      more_than: Ponad
+      no: Nie
+    videos:
+      escort_videos: 'Escort filmy'
+      mobile:
+        latest_videos: 'Najnowsze filmy'
+    visitors:
+      my_visitors: 'Moi goście'
+  lang:
+    footer:
+      full: 'Visit our translation project on GitHub and help make 321escorts.com accessible to more of our sexy escorts & friends.'
+      text1: 'Odwiedź nasz projekt tłumaczeniowy na'
+      text2: Github
+      text3: 'i pomóc 321escorts.com dostępne dla większej liczby naszych sexy escorts & friends.'
+    head:
+      choose: 'Wybierz swój język'
+      save:
+        label: Zapisz
+  last_login:
+    ago: Temu
+    capitalized:
+      online: Online
+    day: Dzień
+    days: Dni
+    is_online: 'jest online'
+    last: Ostatnio
+    mobile:
+      last_login: 'Ostatnie logowanie'
+      online: Online
+    online: Online
+  mail:
+    contact: Kontakt
+    follow_on_twitter: 'Śledź nas na Twitterze'
+    go_prime: 'Idź Prime'
+    webmatser_affiliate: 'Webmaster & Affiliate'
+  menu:
+    favorits: Ulubione
+    mobile:
+      dark_mode: 'Tryb ciemny'
+      light_mode: 'Tryb światła'
+    near_me: 'Blisko mnie'
+    new_escorts: 'Nowe eskorty'
+    online: Online
+    photos: Zdjęcia
+    reviews: Opinii
+    search: Szukaj
+    videos: Filmy
+  mobile:
+    load_more_escorts:
+      detail_search: 'Szukaj teraz'
+      load_more: 'Załaduj więcej eskorty'
+      sign_up: 'Więcej? Zarejestruj się za darmo już teraz'
+    menu:
+      chat: Czat
+      favorits: Ulubione
+      radar: Radar
+      visitors: Odwiedzających
+  modal:
+    gps:
+      escorts_near_me:
+        cancel: Anuluj
+        full: 'Do you want to share your GPS position to see escorts in your area?'
+        headline: 'Eskorty w mojej okolicy'
+        main1: 'Czy chcesz udostępnić swoją pozycję GPS, aby zobaczyć'
+        main2_bold: 'Eskorty w Twojej okolicy'
+        main3: ''
+        mobile:
+          share: 'Udostępnianie GPS'
+        share: 'Udostępnianie pozycji GPS'
+    notifications:
+      allow_notifications: 'Zezwalaj na powiadomienia'
+      error: Błąd
+      full: 'Do you want to be informed about new and sexy escorts?'
+      headline: Powiadomienia
+      main1: 'Czy chcesz być informowany o'
+      main2_bold: 'nowe i seksowne eskorty?'
+      main3: ''
+      mobile:
+        allow: 'Umożliwić swobodne otworzenie'
+      ok: Ok
+      type_new_customers: 'nowych klientów?'
+  newsletter:
+    label:
+      correct_cell_phone: 'Twój prawidłowy numer telefonu komórkowego to:'
+      email:
+        confirm:
+          body: 'Wysłaliśmy ci e-mail. Kliknij link w wiadomości e-mail, aby potwierdzić swój adres. Czy chcesz również odbierać wydarzenia SMS?'
+          click_link: 'Kliknij link aktywacyjny w wiadomości e-mail'
+        head: 'przez e-mail'
+      enabled: 'Włączone powiadomienia'
+      sms:
+        code: 'WYSŁANE SMS-y. Wprowadź kod:'
+        enter_code: 'Wprowadź właśnie otrzymany kod SMS.'
+        head: 'Dziękuję! Czy chcesz również otrzymywać SMS-y?'
+        thank_you: 'Dziękuję bardzo!'
+  next: Następnego
+  notifications_enabled: ' Powiadomienia wyszukiwania są włączone'
+  notify:
+    thankyou: Dziękuję
+  order:
+    action:
+      label:
+        full: '140 USD - pay now'
+      text1: ' - zapłać teraz'
+    best_deal: 'Najlepsza oferta'
+    bitcoin:
+      address: 'Adres:'
+      amount: 'Kwota:'
+      full: 'You have 30 min. time to scan the code or send the amount to the address:'
+      livecheck:
+        not_received: 'Kwota nie otrzymana jeszcze...'
+        wainting_for_confirmation: 'Oczekiwanie na potwierdzenie sieci...'
+      scan_here: 'Zeskanuj kod lub kliknij tutaj.'
+      text1: masz
+      text2: 'minut na zeskanowanie kodu lub wysłanie kwoty na adres:'
+    charge:
+      curreny:
+        full: 'Prices will be charged in EUR.'
+        text1: 'Waluta dla cen:'
+        text2: .
+    coupon:
+      add: 'Dodaj kupon'
+      billing:
+        text: 'Kupon (jednorazowy)'
+      error: 'Żądanie jest nieprawidłowe.'
+      invalid: 'Kupon nieważny.'
+      placeholder:
+        enter_code: 'Kod kuponu...'
+      redeem: Zrealizuj
+    cus_features:
+      body:
+        more_chat: '60 dni historii czatu i zapisuj nieograniczoną liczbę wiadomości, zdjęć i filmów'
+        more_escorts: 'Zobacz do trzech razy więcej eskorty w wyszukiwaniu radarowym i wszystkich innych wynikach wyszukiwania'
+        more_numbers: 'Zobacz do 100 numerów telefonów dziennie'
+        no_ads: 'Ciesz się wszystkim bez reklam'
+        stealth: 'Usuń wizyty w profilu i bądź niewidoczny.'
+        storage: 'Przesyłaj nieograniczoną liczbę zdjęć i filmów oraz zapisuj nieograniczoną liczbę profili i wiadomości.'
+        unlimited_requests: 'Nieograniczone prośby z prywatnych zdjęć i filmów'
+        visitor_history: '7-dniowa historia, która eskortuje odwiedziła Twój profil i kogo odwiedziłeś'
+        xxx_content: 'Zobacz wszystko, w tym ostre zdjęcia i filmy hardcore'
+      head:
+        more_chat: 'Więcej Czat'
+        more_escorts: 'Więcej eskorty'
+        more_numbers: 'Więcej numerów telefonów'
+        no_ads: 'Brak odpowiedzi'
+        stealth: 'Tryb stealth'
+        storage: 'Nieograniczona ilość miejsca do magazynowania'
+        unlimited_requests: 'Nieograniczone prośby z prywatnych zdjęć i filmów'
+        visitor_history: 'Historia odwiedzających'
+        xxx_content: 'Zawartość XXX'
+    discount: Zniżki
+    duration:
+      capitalized:
+        choose: 'WYBIERZ CZAS TRWANIA'
+    eotw_features:
+      body:
+        affiliate_impressions: 'Twój profil towarzyski jest wyświetlany i reklamowany użytkownikom w naszych tysiącach witryn partnerskich na terenie regionu i na całym świecie'
+        ai_recommendations: 'Nasza sztuczna inteligencja zaleca Twój profil z priorytetem dla odpowiednich klientów i odwiedzających'
+        highest_status: 'Twój profil zostanie oznaczony ikoną \"Eskorta tygodnia\", status przyzna Ci więcej uznania i eskorty inqueries.'
+        network_impressions: 'Gwarantujemy ponad 10 000 wyświetleń profilu za pośrednictwem naszych witryn innych firm i sieci partnerskiej'
+        radar_placement: 'Top ranking w wyszukiwarce radarowej i we wszystkich wynikach wyszukiwania - przed eskortą Prime i darmowymi eskortami. Oznacza to: Więcej polubień, fanów i inqueries towarzyskich'
+        top_ranking: 'Klienci w regionie zobaczą Cię w górnej części głównej strony docelowej'
+      head:
+        affiliate_impressions: 'Aktywne reklamy twojego profilu'
+        ai_recommendations: 'Zalecenia dotyczące SI'
+        highest_status: 'Najlepszy status eskorty'
+        network_impressions: '10 000 codziennych wyświetleń profilu gwarantowanych'
+        radar_placement: 'Najlepszy radar i położenie w pobliżu'
+        top_ranking: 'Pierwsza pozycja na stronie internetowej'
+    features:
+      body:
+        customers: 'Zobacz do trzech razy więcej klientów w wynikach wyszukiwania'
+        more_chat: '60 dni historii czatu i nieograniczone przechowywanie wiadomości, zdjęć i filmów'
+        more_numbers: 'Wyświetlanie do 100 numerów telefonów dziennie od klientów'
+        no_ads: 'Ciesz się wszystkim bez reklam'
+        placement: 'Twój profil zostanie umieszczony powyżej we wszystkich wynikach wyszukiwania przed darmowymi profilami towarzyskimi. Więcej polubień i fanów - więcej próśb o rezerwację'
+        read_messages: 'Natychmiast zobacz, kiedy wiadomości zostały przeczytane.'
+        stealth: 'Usuń wizyty w profilu i bądź niewidoczny.'
+        storage: 'Prześlij nieograniczoną liczbę zdjęć i filmów oraz zapisuj nieograniczone profile, zdjęcia, filmy i wiadomości.'
+        translate_chat: 'Przychodzące i wychodzące wiadomości są automatycznie tłumaczone, rozmawiają ze wszystkimi na świecie.'
+        unlimited_requests: 'Nieograniczone prośby o prywatne zdjęcia i filmy'
+        visitor_history: '7-dniowa historia tego, kogo odwiedziłeś i jaki klient odwiedził Twój profil'
+        xxx_content: 'Zobacz wszystkich, w tym ostre zdjęcia i filmy hardcore'
+      head:
+        customers: 'Zobacz więcej klientów'
+        more_chat: 'Więcej Czat'
+        more_numbers: 'Więcej numerów telefonów'
+        no_ads: 'Brak reklamy'
+        placement: 'Ranking profili i więcej odwiedzających'
+        read_messages: 'Potwierdzenia odczytu czatu'
+        stealth: 'Tryb stealth'
+        storage: 'Nieograniczona przestrzeń dyskowa'
+        translate_chat: 'Tłumaczenia czatu w czasie rzeczywistym'
+        unlimited_requests: 'Nieograniczone prośby o prywatne zdjęcia i filmy'
+        visitor_history: 'Statystyki odwiedzających'
+        xxx_content: 'Zawartość XXX'
+    gift:
+      capitalized:
+        choose: 'WYBIERZ PREZENT'
+    gift1:
+      duration:
+        1m: '1 miesiąc'
+        1w: '1 tydzień'
+        1yr: '1 rok'
+        3m: '3 miesiące'
+        4w: '4 tygodnie'
+        month: Miesiąc
+        month1: Miesiąc
+        week: Tygodniu
+      for: 'Prezent dla'
+      no_prime: 'Brak prime'
+      send_gift: '- wysłać prezent'
+      subtitle: '... wielki gest!'
+    head:
+      boost:
+        full: "The Boost! for Tom's profile."
+        text1: 'Impuls! For'
+        text2: "'s profil"
+      go_prime_now: 'Przejdź do PRIME teraz'
+      prime: Prime
+      profile_boost: 'Impuls! dla Twojego profilu'
+      use_all_features: 'Zdobądź wszystkie wspaniałe funkcje'
+    iban:
+      account: Konta
+      country:
+        at: Austria
+        be: Belgique
+        ch: Szwajcaria
+        de: Niemcy
+        es: España
+        fr: Francja
+        hu: MagyarorszÃ¡g
+        it: Italia
+        nl: Nederland
+        pl: Polska
+        uk: 'Wielka Brytania'
+      iban: IBAN
+    ideal:
+      amro: 'ABN AMRO'
+      asn: 'ASN Bank'
+      bunq: bunq
+      combank: 'Banki komercyjne'
+      ing: ING
+      knab: Knab
+      moneyyou: Moneyou
+      name: Nazwa
+      rabobank: Rabobank
+      regiobank: RegioBank
+      sns: SNS
+      triodos: 'Triodos Bank'
+      vanlanschot: 'Van Lanschot'
+    info:
+      box:
+        full: 'You allows us to renew 3 month and recharge your card after the Prime membership expires. Your subscription will be automatically renewed until you decide to cancel.'
+        full1: 'Your subscription will be automatically renewed until you decide to cancel.'
+        no_autorew:
+          full: 'Your Prime subscription will not be renewed automatically.'
+          text1: Twój
+          text2: 'subskrypcja nie zostanie automatycznie odnowiona.'
+        provider: 'Wszystkie dane są przetwarzane i zabezpieczane przez Powercash21 Ltd. Na twoim oświadczeniu będzie napisane \"321 Entertainment\".'
+        text1: 'Pozwalasz nam odnowić'
+        text2: 'i naładuj kartę po'
+        text3: 'Członkostwo Prime wygasa.'
+        text4: 'zostanie automatycznie odnowiona, dopóki nie zdecydujesz się anulować. Możesz anulować w dowolnym momencie.'
+      change_duration: 'Zmienianie czasu trwania'
+      total: Łącznych
+      vat_tax: 'W stosownych przypadkach podatek VAT'
+      your_duration: 'Czas trwania:'
+    method:
+      bitcoin: Bitcoin
+      cc:
+        info: 'Ostatnie 3 lub 4 cyfry z tyłu'
+        label: 'Karta kredytowa'
+        placeholder:
+          ccv: Cvv
+          credit_card: 'Karta kredytowa'
+          month_year: 'Miesiąc / rok'
+          name_on_card: 'Imię i nazwisko na karcie'
+      iban: 'Polecenie zapłaty IBAN'
+      ideal: iDeal
+      paysafecard: Paysafecard
+      sofort: Sofort
+    methods:
+      head: 'Metody płatności:'
+      label: 'Karta kredytowa, iDeal, Przelew bankowy, Paysafecard, Bitcoin'
+    nonrecurring: Nienastawienie
+    order_history: 'Historia zamówień'
+    prime: PRIME
+    prod:
+      duration:
+        1m: '1 miesiąc'
+        1yr: '1 rok'
+        3m: '3 miesiące'
+      duration1:
+        1m: '1 miesiąc'
+        1y: '1 rok'
+        3m: '3 miesiące'
+      duration2:
+        1w: '1 tydzień'
+        1yr: '1 rok'
+        4w: '4 tygodnie'
+    provider:
+      label: 'Wszystkie dane są przetwarzane i zabezpieczane przez Powercash21 Ltd.'
+      label2: 'Na twoim oświadczeniu będzie napisane \"321 Entertainment\".'
+    subscription: Subskrypcji
+    subscription_for: 'subskrypcji dla'
+    subscription_for1: 'Twoja subskrypcja dla'
+    your_subscription: subskrypcji
+    your_subscription1: 'Twoja subskrypcja'
+  password_forgotten:
+    email: 'Adres e-mail lub nazwa profilu:'
+    mail:
+      body: 'Twoje żądane hasło to:'
+      change_password: 'Zaloguj się i zmień hasło.'
+      hello: Witam
+      subject: 'Twoje poświadczenia'
+    send: Wyślij
+    sign_in: Rejestrowanie
+    success:
+      change_password: 'Zaloguj się i zmień hasło.'
+      label: 'Jeśli twój adres został znaleziony, wysłaliśmy ci e-mail. Zajrzyj również do folderu ze spamem.'
+  payment:
+    error:
+      cc:
+        missing_data: 'Goście proszeni są o podanie wszystkich informacji o karcie kredytowej.'
+        number: 'Numer karty jest nieprawidłowy.'
+      iban: 'Podaj swoje imię i nazwisko oraz numer IBAN.'
+      invalid_iban: 'Numer IBAN jest nieprawidłowy.'
+      method: 'Wystąpił. Spróbuj ponownie później lub użyj innej metody płatności.'
+      select_payment: 'Proszę dokonać wyboru.'
+      select_payment1: 'Proszę dokonać wyboru.'
+    gift:
+      email:
+        body:
+          full: 'You can also view your order for Tom in your booking history at any time.'
+          text1: 'Można wyświetlić zamówienie'
+          text2: 'również w historii zamówień.'
+        hello: Witam
+        thank_you:
+          to: 'dziękuję za dar, aby'
+      for: For
+      notify:
+        full: 'We have sent Tom a message that you have sent a gift.'
+        text1: Wysłaliśmy
+        text2: 'wiadomość, że wysłałeś prezent :-)'
+      notify1:
+        full: 'The user Tom just sent you a gift.'
+        text1: użytkownik
+        text2: 'właśnie wysłał ci prezent:'
+      notify2:
+        full: 'Tom would certainly be happy to thank you.'
+        text1: 'byłby szczęśliwy, jeśli powiesz \"Dzięki\" :-)'
+      notify3:
+        full: 'Open chat with Tom and send a "Thanks" :-)'
+        text1: 'Otwórz czat z'
+        text2: 'i wysłać \"Dzięki\" :-)'
+      notify4:
+        full: 'Received a gift from Tom.'
+        text1: 'Prezent otrzymany od'
+        text2: ''
+      order:
+        history: 'Historię zamówień możesz wyświetlić na swoim koncie w dowolnym momencie.'
+        thank_you: 'Dziękujemy za zamówienie!'
+        thank_you1: 'Dziękujemy za zamówienie'
+        thank_you2: 'Dziękujemy za zamówienie'
+      thank_you:
+        from: 'Otrzymałeś(aś) prezent od'
+        to: 'Dziękuję za prezent dla'
+    prod:
+      prime_1m: 'Prime na 1 miesiąc'
+      prime_1yr: 'Prime na 1 rok'
+      prime_3m: 'Prime na 3 miesiące'
+    prod1:
+      eotw_1w: 'Eskorta tygodnia - 1 tydzień'
+      eotw_1yr: 'Eskorta tygodnia - 1 rok'
+      eotw_4w: 'Eskorta tygodnia - 4 tygodnie'
+      prime_1m: 'Prime na 1 miesiąc'
+      prime_1yr: 'Prime na 1 rok'
+      prime_3m: 'Prime na 3 miesiące'
+  private_gallery:
+    full: "Tom's private gallery"
+    head:
+      capitalized: 'GALERIA PRYWATNA'
+    photos:
+      error:
+        selfrequest: 'Nie możesz wysłać sobie prośby'
+      signup: 'Zarejestruj się teraz, aby zobaczyć prywatne zdjęcia z'
+    photos_videos:
+      full: 'Request access from Tom for the private photos and videos.'
+      text1: 'Poproś o dostęp od'
+      text2: 'do prywatnych zdjęć i filmów.'
+    private_photos:
+      full: "Tom's private photos"
+      label: 'Prywatne zdjęcia'
+      request_access: 'Poproś o dostęp już teraz.'
+      signup: 'Zarejestruj się, aby zobaczyć wszystkie zdjęcia.'
+      text: 'prywatne zdjęcia'
+    private_videos:
+      full: "Tom's video"
+      head: Filmy
+      text: wideo
+    text: 'prywatna galeria'
+    videos:
+      full: 'Sign up to see all videos from Tom.'
+      text1: 'Zarejestruj się, aby zobaczyć wszystkie filmy z'
+      text2: .
+  review:
+    all: Wszystkie
+    anonymous: Anonimowy
+    attr:
+      ambience:
+        bad: Bad
+        label: 'A co z atmosferą?'
+        normal: Normalne
+        relaxed: Zrelaksowany
+        text: Atmosferę
+        very_relaxed: 'Bardzo zrelaksowany'
+      anonymous:
+        label: 'Czy Twoja recenzja powinna być anonimowa?'
+        no: Nie
+        yes: Tak
+      duration:
+        1hr: '1 godz.'
+        1week: '1 tydzień'
+        1week_more: 'więcej niż 1 tydzień'
+        2days: '2 dni'
+        2hrs: '2 godziny'
+        3days: '3 dni'
+        3hrs: '3 godz.'
+        4days: '4 dni'
+        4hrs_more: 'ponad 4 godziny'
+        5days: '5 dni'
+        6days: '6 dni'
+        label: Długość?
+        lt_1hr: 'mniej niż 1 godzina'
+        overnight: Noc
+      photos:
+        label: 'Zdjęcia aktualne'
+        no: Nie
+        uptodate: 'Tak, aktualne'
+      photos_uptodate:
+        label: 'Czy zdjęcia są aktualne?'
+        no: Nie
+        yes: 'Tak, są aktualne'
+      recommend:
+        full: 'Can you recommend Tom?'
+        no: Nie
+        text1: 'Czy możesz polecić'
+        text2: '?'
+        yes_absolutely: 'Tak, absolutnie'
+      recommendation: zalecenie
+      visability:
+        own_profile: 'Czy chcesz, aby recenzja była również widoczna w Twoim profilu?'
+    error:
+      exists:
+        full: 'You already wrote a review for Tom.'
+        text1: 'Napisałeś już recenzję dla'
+        text2: '. Możesz napisać nową recenzję w ciągu kilku dni.'
+      login_required: 'Aby napisać recenzję, musisz być zalogowany.'
+      too_long: 'Twoja recenzja jest zbyt długa, ogranicz ją trochę.'
+      too_many_requests: 'W tej chwili nie akceptujemy żadnych dalszych opinii od Ciebie.'
+      too_short: 'Proszę napisać prawidłową recenzję, co najmniej 20 znaków.'
+      too_short1: 'Proszę napisać prawidłową recenzję, co najmniej 20 znaków.'
+      too_short2: 'co najmniej 20 znaków...'
+    full2: 'Review for Tom.'
+    head: 'Proszę ocenić datę.'
+    head2: 'Oceń swoją datę za pomocą'
+    info:
+      star:
+        '1': Bad
+        '2': Ok
+        '3': Dobry
+        '4': 'Bardzo dobrze'
+        '5': Doskonałe
+    no_review: 'Brak wprowadzonej recenzji.'
+    of_5: 'z 5'
+    read_full_review: 'Przeczytaj pełną recenzję'
+    send_review: 'Wyślij recenzję'
+    success: 'Dziękuję bardzo! Sprawdzimy Twoją recenzję i aktywujemy ją tak szybko, jak to możliwe.'
+    text:
+      overall_rating: 'Ogólna ocena:'
+      review: 'Który napisze recenzję'
+      reviews: Opinii
+    text2:
+      text: 'Przegląd dla'
+    time_spent: 'Czas spędzony'
+    to: ''
+    translation:
+      full: 'Translation of the original review.'
+      text1: Tłumaczenie
+      text2: 'oryginalna recenzja'
+    viel_all_reviews: 'Zobacz wszystkie opinie'
+    viel_reviews: 'Wyświetlanie recenzji'
+    write_review: 'Napisz recenzję...'
+  reviews:
+    latest: Najnowsza
+  search:
+    filter: Filtr
+    fitler:
+      apply: Zastosować
+      filter: 'Filtr:'
+      online: Online
+      placeholder: 'Wyszukaj... (tekst, #tag, nazwa)'
+      reset: Zresetować
+      with_photo: 'ze zdjęciem'
+      with_video: 'z wideo'
+    looking_for: 'Szukam:'
+    option:
+      online_now: 'teraz online'
+      with_photos: 'tylko ze zdjęciami'
+      with_video: 'z wideo'
+    placeholder: 'Wyszukiwanie tekstu, #tag, nazwy'
+    results:
+      distance: Odległość
+      head:
+        escort: Escort
+        escorts: Eskorty
+        found: ''
+        full: '345 Gay Escorts in Paris, France'
+        gay: Gej
+        in: Cala
+        men: Mężczyzn
+      head0:
+        escorts_found: 'Znaleziono eskorty.'
+        fl_capitalized:
+          no: Nie
+        full1: '500 Escorts found.'
+        full2: 'No Escorts found.'
+        full3: 'More than 600 Escorts found.'
+        more_than: Ponad
+        no: Nie
+      list:
+        ad:
+          learn_more: 'Kliknij tutaj, aby dowiedzieć się więcej...'
+        bra_size: 'Rozmiar biustonosza:'
+        contact: Kontakt
+        escort_girls_in: 'Escort dziewczyny w '
+        gay_escorts_in: 'gej eskorty w'
+        male_escorts_in: 'Mężczyzna eskorty w'
+        price_1hr: 'Cena za 1 godzinę'
+        price_overnight: 'Cena z dnia na dzień'
+        profile: Proﬁl
+        years: Lat
+      more:
+        go_prime: 'Zobacz 3 razy więcej eskorty - Go Prime!'
+      more1:
+        go_prime: 'Zobacz 3 razy więcej eskorty! Idź Prime!'
+      new_search: 'Nowe wyszukiwanie'
+    search_results_expired: 'Niestety, wyszukiwanie wygasło. Kliknij tutaj, aby rozpocząć nowe wyszukiwanie.'
+    select:
+      age_min: 'Wiek min'
+      btn:
+        label: 'Szukaj eskorty'
+      cm: cm
+      height_min: 'Wysokość min'
+      km: kg
+      max: Max
+      sort:
+        alphabetically: Alfabetycznie
+        distance: Odległość
+        label: 'Sortowania:'
+        last_login: 'Ostatnie logowanie'
+        new_customers: 'Nowi klienci'
+        new_escorts: 'Nowe eskorty'
+      weight_min: 'Waga min'
+    type:
+      customers: Klienci
+    use_current_location: 'Korzystanie z bieżącej lokalizacji'
+    view: Widok
+    with_orientation: 'z orientacją'
+  search_notifications_disabled: 'Powiadomienia wyszukiwania wyłączone'
+  send_gift:
+    full: 'Send a gift'
+    prime: 'Wyślij prezent Prime'
+    text1: Wyślij
+    text2: prezent
+  signin:
+    404_not_found: '404 Nie znaleziono strony'
+    auto:
+      facebook: 'Zaloguj się za pomocą Facebooka'
+      google: 'Zaloguj się za pomocą Google'
+      twitter: 'Zaloguj się za pomocą Twittera'
+    error:
+      check_credentials: 'Sprawdź swoje dane uwierzytelniające.'
+    label: Rejestrowanie
+    name_or_email: 'Nazwa profilu lub adres e-mail:'
+    new: 'Nowością w 321escorts ?'
+    password_forgotten:
+      head: 'Zapomniane hasło'
+      label: 'Zapomniane hasło?'
+    remember_password: 'Pozostań zalogowany'
+    sign_in:
+      head: Rejestrowanie
+      label: 'Zaloguj się na 321escorts'
+    signup: 'Zarejestruj się za darmo'
+  signup:
+    amateur: Amatorskie
+    back: Wstecz
+    beard: Broda...
+    body: Ciała...
+    body_hair: 'Włosy na ciele...'
+    bra_size: 'Rozmiar biustonosza...'
+    cell_phone_number: 'Numer telefonu komórkowego'
+    choose_profile_name: 'Wybierz nazwę swojego profilu ...'
+    cock: Kutas
+    code_is: 'Kod jest:'
+    companion: Towarzysz
+    day: Dzień
+    dob: 'Data urodzenia'
+    email:
+      activation_link: 'Kliknij na link, aby potwierdzić darmową rejestrację:'
+      hello: Witam
+      subject: 'Potwierdź swoją rejestrację'
+      url: 321escorts.com
+      welcome: 'witamy w 321escorts.com'
+    enter_location: 'Wprowadź lokalizację'
+    error:
+      already_confirmed: 'Twój profil został już potwierdzony.'
+      confirmed_failed: 'Potwierdzenie nie powiodło się.'
+      failed: 'Rejestracja nie powiodła się.'
+      headline_required: 'Potrzebujesz nagłówka.'
+      invalid_cell_phone: 'Numer telefonu komórkowego jest nieprawidłowy.'
+      invalid_code: 'Kod jest nieprawidłowy.'
+      invalid_profile_name: 'Nazwa profilu jest nieprawidłowa.'
+      password: 'Hasła nie są zgodne lub hasło jest zbyt krótkie.'
+      profile_name_exists: 'Nazwa już istnieje.'
+    escort: Escort
+    ethnicity: 'Pochodzenie etniczne...'
+    eyes: Oczy
+    fetish: Fetysz
+    form:
+      already_signed_in: 'Masz już podpisane?'
+      cock:
+        type: Typu
+      email: 'E-mail:'
+      head:
+        text: 'Zarejestruj się - to nic nie kosztuje'
+      label: 'Zarejestruj się'
+      login: Logowania
+      or: Lub
+      password:
+        label: 'Hasło:'
+        placeholder: 'co najmniej 6 znaków'
+      prices:
+        currency: Waluty
+      profile: 'Proﬁl:'
+      retype_password: 'Wprowadź hasło ponownie:'
+      signup_facebook: 'Zarejestruj się na Facebooku'
+      signup_google: 'Zarejestruj się w Google'
+      signup_twitter: 'Zarejestruj się w Twitter'
+    fucking: Kurwa
+    hair: Włosów
+    hair_color: 'Kolor włosów'
+    headline: Nagłówek...
+    height_weight: 'Wzrost & Waga ...'
+    i_am: Jestem...
+    i_speak: 'Mówię ...'
+    imperial: Imperial
+    massage: Masaż
+    modeling: Modelowania
+    month: Miesiąc
+    my_height: 'Mój wzrost jest ...'
+    my_location: 'Moja lokalizacja'
+    my_prices: 'Moje ceny'
+    next: Następnego
+    no: Nie
+    pornstar: 'Czy jesteś gwiazdą?'
+    price:
+      ask: Zapytać
+      currency:
+        aed: AED
+        ars: ARS
+        aud: AUD
+        brl: BRL
+        cad: CAD
+        chf: CHF
+        cny: CNY
+        czk: CZK
+        dkk: DKK
+        eur: EUR
+        gbp: GBP
+        hkd: HKD
+        huf: HUF
+        idr: IDR
+        inr: INR
+        jpy: JPY
+        myr: MYR
+        nok: NOK
+        nzd: NZD
+        php: PHP
+        rub: RUB
+        sar: SAR
+        sek: SEK
+        sgd: SGD
+        thb: THB
+        usd: USD
+      hour: Godziny
+      overnight: Noc
+    prices: Ceny
+    profile: Proﬁl
+    profile_headline: 'Nagłówek twojego profilu ...'
+    role: Roli
+    safer_sex: 'Bezpieczniejszy seks'
+    select_location: 'Wybierz lokalizację'
+    service_locations: 'Lokalizacje usług'
+    services: Usług
+    skip: Pominąć
+    sm_bdsm: Sm
+    stripping: Rozbiórki
+    terms:
+      error: 'Prosimy o zaakceptowanie warunków i zasad.'
+      full: 'Yes, I have read and accept the Terms and Policy.'
+      label: Warunki
+      text1: 'Tak, przeczytałem i akceptuję'
+      text2: 'Terms and Policy.'
+      text3: ''
+    type:
+      bisexual: Biseksualny
+      customer: Klienta
+      escort: Escort
+      gay: Gej
+      lesbian: Lesbijka
+      man: Man
+      straight: 'Hetero ( Hetero )'
+      trans: Trans
+      woman: Kobieta
+    upload:
+      file_limit: 'Rozmiar pliku jest ograniczony do 5 MB.'
+      filesize: 'Rozmiar pliku jest ograniczony do 5 MB.'
+      label: Przesłać
+      profile_photo: 'Zdjęcie profilowe'
+    use_current_location: 'Korzystanie z bieżącej lokalizacji'
+    video: Wideo
+    year: Roku
+    yes: Tak
+  start:
+    head:
+      load_more: 'Załaduj więcej eskorty'
+      new_escorts: 'Nowe eskorty'
+      new_prime_escorts: 'Nowe eskorty Prime'
+    partner:
+      exchange_links: 'Łącza programu Exchange'
+      label: 'Strona partnera:'
+  telegram:
+    bot:
+      activate: 'Aktywowanie bota'
+      app: App
+      deactivate: 'Dezaktywacja bota'
+      error: 'Błąd: Spróbuj ponownie później'
+      headline: 'Bot telegam'
+      label: 'Eskorty & Aktualności przez'
+      message:
+        featured: 'Ten bot pomoże Ci pozostać w kontakcie.'
+        welcome: 'Witamy w osobistym botze towarzyskim'
+        welcome_back: 'Witamy z powrotem do Ciebie osobisty escort bot'
+  user:
+    action:
+      call_me: 'Zadzwoń do mnie'
+      hide_visit: 'Ukryj moją wizytę'
+      view_phone_number: 'Kliknij tutaj, aby wyświetlić mój numer telefonu.'
+    attr:
+      age: Wieku
+      beard: Broda
+      body: Ciała
+      body_hair: 'Włosy na ciele'
+      bra_size: 'Rozmiar biustonosza'
+      cock: Kutas
+      cock_size_L: L,
+      cock_size_M: M,
+      cock_size_S: S,
+      cock_size_XL: XL
+      cock_size_XXL: XXL,
+      cock_type_cut: Ciąć
+      cock_type_uncut: Uncut
+      dirty: Brudne
+      escort_services:
+        label: Usług
+        men:
+          companion: Towarzysz
+          escort: Escort
+          massage: Masaż
+          modeling: Modelowania
+          stripping: Rozbiórki
+          video: Wideo
+        women:
+          companion: Towarzysz
+          escort: Escort
+          massage: Masaż
+          modeling: Modelowania
+          stripping: Rozbiórki
+          video: Wideo
+      eyes: Oczy
+      fetish: Fetysz
+      fisting: Fisting
+      fucking: Kurwa
+      hair: Włosów
+      hair_color: 'Kolor włosów'
+      height: Wysokość
+      i_speak: Mówię
+      kissing: Całowanie
+      label:
+        no: Nie
+        occasionally: Czasami
+        yes: Tak
+      oral: Doustne
+      piercings: Piercing
+      role: Roli
+      safer_sex: 'Bezpieczniejszy seks'
+      service_locations:
+        label: 'Lokalizacje usług'
+      sexual_orientation: Orientacji
+      sm_bdsm: Sm
+      tattoos: Tatuaże
+      type: Typu
+      weight: Waga
+      zodiac: 'Znak zodiaku'
+    beard:
+      3_day_beard: '3-dniowa broda'
+      full_beard: 'Pełna broda'
+      goatee: Koza
+      label: 'Broda:'
+      mustache: Wąsy
+      no_beard: 'Bez brody'
+    block:
+      error:
+        general: Błąd.
+        signup: 'Zaloguj się bezpłatnie lub zarejestruj się.'
+      full: 'Do you really want to block Tom?'
+      info:
+        full: 'If you block Tom, the user will no longer be able to access your profile.'
+        label: Bloku
+        text1: 'Jeśli zablokujesz'
+        text2: ', użytkownik nie będzie już mógł uzyskać dostępu do Twojego profilu.'
+      label: Bloku
+      modal:
+        close: Zamknij
+      text1: 'Czy naprawdę chcesz zablokować'
+      text2: '?'
+    body:
+      athletic: Sportowe
+      female:
+        bodybuilder: Kulturysta
+        chubby: Gruba
+        large: Dużych
+      label: 'Ciała:'
+      male:
+        belly: 'Lekki brzuch'
+        bodybuilder: Kulturysta
+        stocky: Krępy
+      normal: Normalne
+      slim: Szczupła
+    body_hair:
+      label: 'Owłosienie ciała:'
+      little_hair: 'Małe włosy'
+      medium_hair: 'Średnie włosy'
+      shaved: Ogolone
+      smooth: Gładkie
+      very_hairy: 'Bardzo owłosione'
+    bra_size:
+      a: A
+      b: B
+      c: C
+      d: D
+      e: E
+      f: F
+      g: G
+      h: H
+      i: I
+      j: J
+      label: 'Rozmiar biustonosza:'
+    cancel: Anuluj
+    chat:
+      chat_with_me: 'Rozmawiaj ze mną'
+      click_here:
+        full: 'Click here to chat with Tom'
+        text1: 'Kliknij tutaj, aby porozmawiać z'
+        text2: ''
+    cock:
+      label: 'Kutas:'
+      size_L: L
+      size_M: M
+      size_XL: Xl
+      size_XXL: Xxl
+      size_s: S
+    cock_type:
+      cut: Cięcia
+      label: 'Typ koguta:'
+      uncut: Uncut
+    contact_me: 'Skontaktuj się ze mną'
+    copy_link: 'Łącze kopiowania'
+    customer: Klienta
+    dirty:
+      label: 'Brudne:'
+      no: Nie
+      ns_only: 'Tak, ale tylko NS'
+      yes: Tak
+    error:
+      missing_headline: 'Błąd: wpisz nagłówek do swojego profilu (min. 5 znaków)'
+      missing_profile_text: 'Błąd: Wprowadź tekst profilu dla swojego profilu (min. 15 znaków)'
+    escort:
+      fetish:
+        boots: Buty
+        business: Biznesowych
+        corset: Gorset
+        costumes: Kostiumy
+        craftsmen: Rzemieślników
+        high_heels: 'Wysokie obcasy'
+        jeans: Dżinsy
+        leather: Skórzane
+        lingerie: Bielizna
+        lycra_nyloon: 'Lycra & Nylon'
+        ravers: 'Ravers ( Ravers )'
+        rubber_latex: 'Guma & Lateks'
+        skater: Skater
+        skin_punks: 'Skóra & Punki'
+        sneakers_socks: 'Trampki & Skarpetki'
+        sportsgear: 'Sportgear ( sportgear )'
+        suspenders: Szelki
+        underwear: Bielizna
+        uniform: Jednolite
+        vinyl: Winylu
+      locations:
+        car: Samochód
+        hotel: Hotel
+        incall: 'Twoje miejsce incall'
+        outcall: 'Moje miejsce outcall'
+        outdoor: Odkryty
+      services:
+        companion: Towarzysz
+        escort: Escort
+        massage: Masaż
+        modeling: Modelowania
+        none: Brak
+        stripping: Rozbiórki
+        video: Wideo
+    escort_services:
+      label: 'Usług:'
+    ethnicity:
+      female:
+        arab: 'Arabska kobieta'
+        asian: Azjatyckie
+        black: Czarny
+        european: Europejskiej
+        indian: Indian
+        latina: Latynoski
+        mixed: Mieszane
+        southerner: Południowca
+      label: 'Ethenicty:'
+      male:
+        arab: Emiraty
+        asian: Azjatyckie
+        european: Europejskiej
+        indian: Indian
+        latino: Latino
+        southerner: Południowca
+    eyes:
+      blue: Niebieski
+      brown: Brązowy
+      green: Zielony
+      grey: Szary
+      label: 'Oczy:'
+      other: Innych
+    fetish:
+      label: 'Fetysz:'
+    fisting:
+      label: 'Fisting:'
+    follower: Zwolennik
+    gay:
+      fucking:
+        bottom_only: 'tylko na dole'
+        label: 'Kurwa:'
+        no_anal: 'Brak analu'
+        top_only: 'tylko na górze'
+        vers_bottom: 'vers na dole'
+        vers_top: 'vers top'
+        versatile: Wszechstronny
+    gift:
+      prime_oetw: 'Wyślij mi prezent - Prime lub promuj mnie jako Eskortę Tygodnia'
+      send_prime: 'Wyślij Prime'
+    hair:
+      bald: Łysy
+      half_long: Półdłuch
+      label: 'Włosów:'
+      long: Długi
+      punk: Punk
+      short: Krótki
+    hair_color:
+      black: Czarny
+      blonde: Blondynka
+      brown: Brązowy
+      grey: Szary
+      label: 'Kolor włosów:'
+      light_brown: Jasnobrązowy
+      other: Innych
+      red: Czerwony
+    hashtags: 'Hashtags:'
+    i_vitis: Odwiedzam
+    kissing:
+      label: 'Całowanie:'
+    language:
+      i_speak: 'Mówię:'
+    last_login:
+      label: 'ostatni login:'
+      now_online: 'TERAZ ONLINE'
+      offline: Offline
+    likes: Lubi
+    list:
+      photo: Zdjęcie
+      photos: Zdjęcia
+      private_photo: 'private photo'
+      private_photos: 'private photos'
+      reviews: Opinii
+      video: Wideo
+      videos: Filmy
+    menu:
+      contact: Kontakt
+      mobile:
+        contact_me: 'Skontaktuj się ze mną'
+        write_review: 'Napisz recenzję'
+      photos: Zdjęcia
+      reviews: Opinii
+    mobile:
+      write_review: 'Napisz recenzję'
+    modal:
+      ok: Ok
+      phone: 'Telefon:'
+      start_chat: 'Rozpocznij czat'
+      whatsapp: 'Whatsapp:'
+    my_hashtags: 'Moje hashtagi'
+    my_hashtags1: 'Moje hashtagi:'
+    my_places: 'Moje miejsca'
+    no_photos: 'Niestety, nie ma jeszcze dostępnych zdjęć :('
+    nonsmoker:
+      female:
+        label: 'Niepalący się'
+      male:
+        label: 'Niepalący się'
+    number:
+      code: 'Kod jest:'
+      dont_show: 'Nie pokazuj'
+      error:
+        daily_limit: 'Dzienny limit osiągnięty'
+        daily_limit2: 'Dzienny limit osiągnięty'
+        go_prime: 'Zostań członkiem Prime już teraz'
+        invalid_code: 'Kod jest nieprawidłowy.'
+        invalid_number: 'Numer telefonu komórkowego jest nieprawidłowy.'
+        limit: 'Możesz wyświetlić tylko 50 numerów telefonów dziennie. W maju korzystać z czatu w międzyczasie.'
+        no_number: 'Obecnie nie ma dostępnego numeru telefonu. Proszę skorzystać z czatu w międzyczasie.'
+        signup: 'Zarejestruj się za darmo, aby zobaczyć więcej numerów telefonów.'
+      go_prime: 'Zostań członkiem Prime już teraz. Jako członek Prime możesz wyświetlać do 50 numerów telefonów dziennie.'
+      verify_number: 'Wprowadź i zweryfikuj numer'
+    oral:
+      active: Aktywne
+      active_and_passive: 'Aktywny & Pasywny'
+      label: 'Doustne:'
+      no: Nie
+      passive: Pasywne
+    piercings:
+      label: 'Piercing:'
+      no: Nie
+    pornstar:
+      label: 'Gwiazda porno:'
+    price:
+      not_shown: 'nie pokazano'
+    prices:
+      label: Ceny
+      per_hour: Godzinę
+      per_night: 'za noc'
+    private_gallery:
+      access_requested:
+        error:
+          full: 'Please write Tom a message'
+          self: 'Nie możesz wysłać sobie prośby.'
+          text1: 'Proszę pisać'
+          text2: wiadomość
+        label: 'Żądany dostęp'
+      access_requested1: 'Żądany dostęp.'
+      denied:
+        full: "Tom can't see your private photos and videos."
+        grant: 'Udziel dostępu'
+        text1: 'nie widać twoich prywatnych zdjęć i filmów.'
+      denied1:
+        full: 'Tom may not see your photos and videos.'
+        grant_click:
+          full: 'Tom can see your private gallery.'
+          text1: 'Kliknij tutaj, aby'
+          text2: 'może zobaczyć twoją prywatną galerię.'
+        text: 'zdjęcia i filmy mogą nie być widoczne.'
+      error:
+        full: 'Please write Tom a message'
+        text1: 'Proszę pisać'
+        text2: wiadomość
+      granted:
+        full: 'Tom can now see your photos and videos.'
+        text1: 'teraz możesz zobaczyć Twoje zdjęcia i filmy.'
+      limit:
+        full: 'Today, you have 50 requests remaining.'
+        text1: Dziś
+        text2: Pozostałe.
+        text3: Pozostałe.
+      profile: "'s profil"
+      request:
+        full: 'Grant access to your private photos and videos for Tom.'
+        label: Żądanie
+        text1: 'Udziel dostępu do prywatnych zdjęć i filmów'
+        text2: .
+      request_access: 'Poproś o dostęp'
+      requests:
+        label: Żądania
+      unlimit:
+        full: 'Become a Prime member to make unlimited requests.'
+        text1: 'Zostań członkiem Prime, aby'
+        text2: Nieograniczony
+        text3: Żądania.
+    profile_paused:
+      full: 'Tom has paused the profile. You cannot contact the user at this time. Follow Tom to stay up to date.'
+      text1: 'wstrzymywał profil. W tej chwili nie można skontaktować się z użytkownikiem. Wykonaj następujące'
+      text2: 'aby być na bieżąco.'
+    profile_suspended: 'Ten profil został zawieszony.'
+    rating:
+      out_of_5: 'z 5 gwiazdek'
+    recommend_me: 'Polec mnie'
+    report:
+      brief_desc: 'Napisz krótko, co się stało...'
+      cat:
+        '1':
+          head: Spam
+          text: 'Użytkownicy, którzy ze względów reklamowych proszą o kliknięcie linków zewnętrznych'
+        '2':
+          head: 'Obrażanie lub zastraszanie'
+          text: 'Groźba przemocy, nadużycia, ujawnienia danych osobowych, nękania'
+        '3':
+          head: 'Mowa nienawiści/dyskryminacja'
+          text: 'Obraźliwy język, zdjęcia itp.'
+        '4':
+          head: Mniejszości
+          text: 'Użytkownicy poniżej 18 roku życia, zdjęcia/filmy z osobami poniżej 18 roku życia'
+        '5':
+          head: 'Niewłaściwa aktywność'
+          text: 'Sprzedaż reklamy narkotyków lub innych nielegalnych towarów'
+        '6':
+          head: Uosobieniem
+          text: 'Inne osoby, chronione zdjęcia/filmy, niewłaściwe usługi'
+        '7':
+          head: Innych
+        main: 'Co się dzieje?'
+      error:
+        contact_us: 'Skontaktuj się z nami.'
+        exists:
+          full: 'You already reported the user Tom several times. Please wait for our review.'
+          text1: 'Użytkownik zgłosił już'
+          text2: 'kilka razy. Proszę czekać na naszą recenzję.'
+        login_required:
+          full: 'You must be logged in order to report Tom.'
+          text1: 'Musisz być zalogowany, aby zgłosić'
+          text2: .
+        too_long: 'Twoje dane wejściowe są zbyt długie, skróć tekst.'
+        too_many_requests: 'W tej chwili nie przyjmujemy żadnych dalszych próśb od Ciebie.'
+        too_short: 'Napisz do nas krótko, co się stało, co najmniej 20 znaków.'
+      info:
+        label: 'Profil raportu'
+        text: 'Jeśli uważasz, że profil nie zawiera niewłaściwych lub skradzionych zdjęć, skontaktuj się z nami z dowodem.'
+      main: 'Zgłoś użytkownika:'
+      report_profile: 'Profil raportu'
+      success: 'Dziękuję bardzo! Sprawdzimy Twoją skargę.'
+    review:
+      back: Wstecz
+      empty_review: 'Brak tekstu recenzji.'
+      from: Z
+      next: Następnego
+      overall_rating: 'Ogólna ocena'
+      to: do
+    role:
+      dominant_and_submissive: 'dominujący i uległy'
+      dominant_only: 'dominujący tylko'
+      label: 'Roli:'
+      submissive_only: 'tylko uległy'
+      versatile_dominant: 'wszechstronny dominujący'
+      versatile_submissive: 'wszechstronny uległy'
+    safer_sex:
+      always: Zawsze
+      label: 'Bezpieczniejszy seks:'
+      needs_discussion: 'Wymaga dyskusji'
+      never: 'Nigdy nie'
+      prep: PrEP
+      tasp: TasP
+    save_share: 'Zapisz i udostępnij mój profil.'
+    service_locations:
+      label: 'Lokalizacje usług:'
+    sexual_orientation:
+      bisexual: Biseksualny
+      gay: Gej
+      label: 'Orientacji:'
+      lesbian: Lesbijka
+      straight: 'Hetero ( Hetero )'
+      trans: Trans
+    share: Udostępnij
+    share_profile: 'Udostępnij profil'
+    show_all_videos: 'Pokaż wszystkie filmy'
+    show_less: 'Pokaż mniej'
+    show_more: 'Pokaż więcej'
+    sm_bdsm:
+      label: 'Sm:'
+      no_sm: 'Brak SM'
+      sm: Sm
+      soft_sm: 'Tylko miękki SM'
+    smoker:
+      female:
+        label: 'Palacz:'
+        label1: Palacz
+      label: Czasami
+      male:
+        label: Palacz
+        label1: 'Palacz:'
+    start_chat: 'Rozpocznij czat'
+    tags: 'Tagi:'
+    tattoo:
+      few: Kilka
+      label: 'Tatuaże:'
+      many: Wiele
+      no: Nie
+    time:
+      infront_of_date:
+        full: 'on 2020-02-28'
+        text: ''
+    type:
+      eotw: 'Eskorta tygodnia'
+      escort: Escort
+      free: Wolna
+      prime: Prime
+      prime_customer: 'Główny klient'
+    unblock: Odblokować
+    video:
+      title:
+        full: "Tom's Video"
+        text1: wideo
+    views: 'Widoki:'
+    write_review: 'Napisz recenzję o mnie.'
+    write_review_for:
+      full: 'Write Review for Tom'
+      text1: 'Napisz recenzję dla'
+      text2: ''
+    xxx:
+      go_prime: 'ma tylko zdjęcia XXX. Zostań członkiem Prime teraz, aby zobaczyć wszystkie zdjęcia.'
+      request_access: 'ma tylko prywatne zdjęcia. Poproś o dostęp tutaj.'
+    zodiac:
+      aquarius: Aquarius
+      aries: Baran
+      cancer: Raka
+      capricorn: Koziorożec
+      gemini: Gemini
+      label: 'Znak zodiaku:'
+      leo: Leo
+      libra: Libra
+      pisces: Ryby
+      sagittarius: Strzelec
+      scorpio: Scorpio
+      taurus: Taurus
+      virgo: Virgo
+  visits:
+    external_visit: 'wizyta zewnętrzna'
+    external_visit1: 'wizyta zewnętrzna'
+    no_visitors: 'Nie masz teraz odwiedzających.'
+    show_visit: 'Pokaż wizytę'
+    unregistered_user: 'Niezarejestrowany użytkownik'
+    view: Widok
+    view_location: 'Wyświetl lokalizację'
+    website_visitor: 'odwiedzający stronę internetową'
+  vivits:
+    visit_ago: odwiedzać
+modal:
+  error:
+    location_blocked: 'Zablokowano udostępnianie lokalizacji w przeglądarce. Włącz go, aby zobaczyć najlepsze wyniki wyszukiwania.'
+  share_location: 'Udostępnij swoją lokalizację, aby zobaczyć eskorty w pobliżu.'
+  verify:
+    agree: 'Zgadzam się - Wpisz 321ESCORTS'
+    and: I
+    disagree: 'Nie zgadzam się - Wyjdź z tej strony'
+    looking_for: 'Szukam:'
+    policy: 'Polityka prywatności'
+    terms: 'Warunki korzystania z usługi'
+  warning: 'Ta strona zawiera materiały dla dorosłych i jest zabroniona dla osób poniżej 18 roku życia. Wchodząc na stronę internetową potwierdzam, że mam więcej niż 18 lat i zgadzam się z'
+newsletter:
+  email:
+    body: 'proszę potwierdzić rejestrację newslettera, klikając na link:'
+    footer: ''
+    subject: 'Potwierdź rejestrację do newslettera'
+    welcome: 'witamy w 321escorts.com'
+  error:
+    email: 'Adres e-mail jest nieprawidłowy.'
+    general: Wystąpił.
+  sms:
+    code: 'Kod jest:'
+    error:
+      cell_phone: 'Nie jest to prawidłowy numer telefonu komórkowego.'
+      code: 'Kod jest niepoprawny.'
+notifications:
+  cancel: 'Nie będziesz już otrzymywać tych powiadomień. Ustawienia powiadomień można zarządzać tutaj.'
+  disable: Wyłączyć
+  enable: Włączyć
+  error:
+    click_here: 'Błąd: Kliknij tutaj'
+    link_not_found: 'Nie można odnaleźć żądanego łącza.'
+    try_later: 'Spróbuj ponownie później.'
+search:
+  attribute:
+    body: Ciała
+    body_hair: 'Włosy na ciele'
+    bra_size: 'Rozmiar biustonosza'
+    cock_size: Kutas
+    cock_type: 'Typ kutasa'
+    dirty: Brudne
+    escort_locations: Lokalizacje
+    escort_services: 'Usługi towarzyskie'
+    ethnicity: 'Pochodzenie etniczne'
+    eye_color: Oczy
+    fetish: Fetysz
+    gay:
+      fisting: Fisting
+      fucking: Kurwa
+    hair_color: 'Kolor włosów'
+    hair_type: Włosów
+    kissing: Całowanie
+    language: Język
+    misc: Różne
+    oral: Doustne
+    role: Roli
+    safer_sex: 'Bezpieczniejszy seks'
+    sm_bdsm: Sm
+    zodiac: 'Znak zodiaku'
+  label:
+    disable: Wyłączyć
+    enable: Włączyć
+  notifications_enabled: 'Powiadomienia są włączone'
+  notifications_enabled2: 'Powiadomienia są włączone'
+  title:
+    new_escorts: 'Poinformuj mnie, gdy dostępne są nowe eskorty'
+  title2:
+    new_escorts: 'Poinformuj mnie, gdy dostępne są nowe eskorty'
+signup:
+  domain: 321escorts.com
+  message:
+    hello: Witam
+    new_sale: 'Dziękujemy za udział w programie partnerskim. Możesz zobaczyć wszystkie szczegóły, swoje statystyki i wypłaty tutaj:'
+    subject:
+      new_sale: 'Masz udaną sprzedaż afiliacji (Rejestracja) - '
+      recurring_sale: ''
+site:
+  head:
+    escort_of_the_week: 'Eskorta tygodnia'
+    go_prime: 'Idź Prime'
+    join_for_free: 'Dołącz za darmo'
+    logout: Wyloguj
+    search: Szukaj
+    sign_in: Rejestrowanie
+    sign_up: 'Zarejestruj się'
+    upgrade:
+      boost_me: 'Wzmocnij mnie!'
+      boosted: Wzmocniony!
+      escort_of_the_week: 'Upgrade do Eskorty Tygodnia'
+      go_prime: 'Uaktualnij do Go Prime'
+      main: Uaktualnienia
+    upgrade2:
+      escort_of_the_week: 'Upgrade do Eskorty Tygodnia'
+  type:
+    gay: Gej
+    men: Mężczyzn
+    women: Kobiet
+system:
+  metric:
+    k: k
+    m: m
+user_followers: Zwolenników
+user_liked: Jak!
+user_one_follower: Zwolennik
+verification:
+  success:
+    email_address: 'Twój adres e-mail został pomyślnie zweryfikowany.'
