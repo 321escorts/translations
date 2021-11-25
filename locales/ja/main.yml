@@ -1,0 +1,2844 @@
+---
+ads:
+  account:
+    order:
+      history:
+        th:
+          status: 地位
+    verification:
+      upload:
+        file:
+          text: ご注文のリスクが高いシステムが検出されました。そのため、身分証明書(写真付き身分証明書、パスポート、運転免許証など)とクレジットカードの正面の写真をアップロードするようお願いします。確認後、ご注文を処理します。アップロードしたファイルは自動的に削除されます。
+ba:
+  account:
+    autocharge:
+      add_funds: 金額に達したときに資金を追加する
+      amount: 量
+      cc: クレジットカード
+      disable: 無効
+      enable: 有効
+      error:
+        cc: 口座に資金を追加する際は、まずクレジットカードを保存してください。
+      head: 資金を自動的に追加する
+      save: 保存
+      type:
+        auto: 自動的に
+        manually: 手動
+    credentials:
+      currrent_password: 現在のパスワード
+      new_password: 新しいパスワード
+      password: パスワード
+      retype: 新しいパスワードを再入力する
+    data:
+      account: アカウント
+      address: アドレス
+      cell_phone: 携帯電話番号
+      city: 都市
+      company: 会社
+      country: 国
+      email: 電子メール
+      lastname: Lastname
+      name: 名前
+      phone: 電話
+      position: 位置
+      save: 保存
+      tz: タイムゾーン
+      user: ユーザー
+      username: 名
+      vat_tax: 'VAT ID。'
+      zip: 郵便番号
+  autocharge:
+    error:
+      amount: 金額が正しくありません。
+      cc: 'クレジット カードが正しくありません。'
+      total: 合計金額が正しくありません。
+  billing:
+    funds:
+      action: 今すぐ資金を追加
+      add_funds: 資金の追加
+      amount: 量
+      card: カード
+      ccv: Cvv
+      info: '裏面の最後の 3 桁または 4 桁'
+      month_year: 月/年
+      name_on_card: カードの名前
+      provider: あなたの声明には「321エンターテインメント」と書かされます。
+      save: 'クレジット カードの保存'
+    invoices:
+      added_funds: 追加資金
+      amount: 量
+      available_funds: 利用可能な資金
+      bill: 法案
+      date: 日付
+      download: 請求書のダウンロード
+      order_id: '注文 ID'
+      type_funds_added: タイプ資金追加
+  campaign:
+    copy: コピー
+    error:
+      ad_placement: 'AD の配置が無効です。'
+      ad_type: 'AD の種類が正しくありません。'
+      budget:
+        campaign: キャンペーン予算が無効です。
+        daily: '1 日の予算が無効です。'
+        type: 予算タイプが無効です。
+      campaign_name: キャンペーンの名前が正しくありません。
+      cpm: 'CPM/CPV が無効です。'
+      end_date: 終了日を正しく設定してください。
+      filter:
+        country: 'フィルタを確認する: 国'
+        geo: 'フィルターの確認: 地域ターゲット'
+        label: 'フィルターをチェックする: 性的指向'
+        language: 'フィルタを確認する: 言語'
+      start_date: 開始日を正しく設定してください。
+      url: 'URL が正しくありません。'
+    wizard:
+      action: アクション
+      active: アクティブ
+      ad_type: 'AD タイプ'
+      ad_type1: 'AD タイプ'
+      back: 戻る
+      banner:
+        info: 'デスクトップ用のページ全体に横方向のバナー (768px でのサート)。最低価格 CPM:'
+        label: 水平バナーデスクトップ
+      banner_desktop: バナーデスクトップ
+      banner_mobile: バナーモバイル/タブレット
+      budget:
+        ad_placement:
+          avg_daily: 1日を通して均等に分配された支出
+          fast: できるだけ速く費やした
+          head: 予算の使い方を決める
+          label: 'AD の配置'
+        campaign: キャンペーン予算
+        daily:
+          label: 毎日
+          max_budget: '1 日の最大予算'
+          max_budget_zero: (無制限の場合は$0.00と入力してください)
+        label: 予算
+        limit: 制限付き
+        no_limit:
+          info: 「制限なし」は、一時停止するか、終了日に達するか、資金が残っていないまでキャンペーンが実行されることを意味します
+          label: 制限なし
+        total: このキャンペーンの合計予算
+        type: 予算タイプ
+      budget_limits: 予算と制限
+      campaign_budget: キャンペーン予算
+      clicks: クリック
+      copy: コピー
+      cpm:
+        info: '1000 インプレッションあたりのコスト(CPM)、最小入札額:'
+        label: CPM
+      daily: 毎日
+      deactivated: '非 アクティブ'
+      delete:
+        confirm: キャンペーンを削除しますか?
+        warning:
+          cancel: キャンセル
+          delete: 削除
+          full: 'Do you really delete the campaign? All reports and data will be deleted unwide.'
+          text1: キャンペーンを削除しますか?
+          text2: すべてのレポートとデータが失われます。
+      deletebm:
+        ads:
+          mail:
+            funds:
+              added:
+                info: 削除
+      edit: 編集
+      end_date:
+        label: 終了日
+        placeholder: 終了日
+      escort_photo:
+        info: '大きなエスコート写真の代わりに、あなたのADは護衛写真として表示されています。最低価格 CPM:'
+        label: エスコート写真
+        label1: エスコートプロフィール写真
+      filter:
+        all: すべてのページ
+        gay: ゲイエスコート
+        geo:
+          address: アドレス
+          all: すべての
+          countries: 国
+          edit_circle: 円の編集
+          enlarge_map: マップを拡大する
+          label: オプションのジオターゲティング
+          languages: 言語
+          new_circle: 新しいジオサークル
+          radius: 半径
+          remove_circle: 円を削除
+        men: 男性エスコート
+        sexual_orientation: 性的指向
+        women: 女性エスコート
+      finish: 完了
+      fullpage:
+        dim_responsive: '寸法/否認:'
+        impressions: 印象
+        info: '2回のクリックの間に、バナーを含む別のページが表示され、1.5秒後に継続ボタンが表示されます。最低価格 CPM:'
+        label: フルページ
+        label1: フルページ
+      impressions: 印象
+      information: 情報
+      landing_page: '名前とランディング ページ'
+      media:
+        label: メディア
+        photo: 写真：
+        processing: データの処理.
+      mobile_banner:
+        info: 'モバイル/タブレット用に表示されるページ全体に水平バナー(最大767px)を表示します。最低価格 CPM:'
+        label: 水平バナーモバイル/タブレット
+      my_campaigns: 自分のキャンペーン
+      name: 名前
+      name_campaign: キャンペーンの名前
+      next: 次に
+      paused: '一時 停止'
+      price:
+        cpv: CPV
+        video: '動画の単一インプレッション(CPV)のコスト、最小入札額:'
+      rejected: 拒否
+      review: レビュー
+      setup: セットアップ
+      start_date:
+        label: 開始日
+        placeholder: 開始開始
+      statistics: 統計
+      status: ステータス
+      target_group:
+        audience: ターゲット
+        filter: 'ターゲット グループとフィルター'
+      upload: 写真/動画のアップロード
+      url: ランディングページ/ランディングURL
+      video: ビデオ
+      video_add:
+        impression: 印象
+        info: 'HD: 動画が最初に再生されます。6 秒後、ユーザーはビデオをスキップできます。最低価格CPV:'
+        label: 'ビデオ AD'
+      video_image: ビデオ画像
+      video_preview:
+        info: 'AD は[新しい動画]ページにビデオスクリーンショットとして表示されます。最低価格 CPM:'
+        label: ビデオプレビュー写真(ページ:新しいビデオ)
+  contact:
+    action: 送信
+    error:
+      label: エラー：
+      too_long: リクエストが長すぎます。リクエストを短くしてください。
+      too_many_requests: この時点でこれ以上要求を送信することはできません。
+      too_short: より長い要求を入力してください。
+    head: 連絡先
+    head1: 連絡先
+    success: リクエストが送信されました。ありがとうございました。
+  dashboard:
+    30d: '過去 30 日間'
+    7d: '過去 7 日間'
+    active: アクティブ
+    add_funds: 資金の追加
+    budget: 自分の予算
+    budget_spent: 予算支出
+    campaigns: キャンペーン
+    cart:
+      clicks: クリック
+      impressions: 印象
+    clicks: クリック
+    ctr: CTR
+    impressions: 印象
+    in_planning: 計画中
+    inactive: '非 アクティブ'
+    info:
+      clicks: 印象
+      impressions: 印象
+    new_Campaign: 新しいキャンペーンと地域のターゲット設定
+    new_banner: '新しいバナー キャンペーン'
+    new_video: 新しい動画キャンペーン
+    sample_data: 'サンプル データ'
+    today: 今日
+    waiting: 承認待ち
+    yesterday: 昨日
+  menu:
+    add_funds: 資金の追加
+    billing: 請求
+    campaigns: キャンペーン
+    dashboard: 'ダッシュ ボード'
+    head:
+      hi: こんにちは
+    history: 歴史
+    logout: ログアウト
+    new_campaign: 新しいキャンペーン
+    overview: 概要
+    profile: プロファイル
+    reports: レポート
+    sub_titel:
+      add_funds: 資金の追加
+      billing: 請求
+      campaigns: キャンペーン
+      dashboard: 'ダッシュ ボード'
+      history: 歴史
+      my_campaigns: 自分のキャンペーン
+      new_campaign: 新しいキャンペーン
+      not_found: 要求されたリンクが見つかりませんでした。
+      profile: プロファイル
+      reports: レポート
+  password:
+    error:
+      not_matching: 新しいパスワードが一致しません。
+      password: 現在のパスワードが正しくありません。
+      too_short: '新しいパスワードは 6 文字以上でなければなりません。'
+  password_forgotten:
+    new_password: 新しいパスワード
+    password: パスワード
+    retype_password: パスワードを再入力
+    send: 送信
+  payment:
+    cc: クレジットカード情報は必にご記入ください。
+    error:
+      cc: カード番号が正しくありません
+      general: エラーが発生しました。後でもう一度やり直してください。
+    min_amount:
+      full: 'The minimum amount is 100 USD'
+      text: 最小金額は
+  public:
+    email: 電子メール
+    enter_details: 登録する詳細を入力します。
+    form:
+      address: アドレス
+      cancel: キャンセル
+      city: 都市
+      company: 会社
+      email: 電子メール
+      lastname: Lastname
+      name: 名前
+      password: パスワード
+      password_forgotten:
+        back: 戻る
+        cancel: キャンセル
+        email: 電子メール
+        head: パスワードをリセットするには、メールアドレスを入力します。
+        send: 送信
+        signin: サインイン
+        success: メールが登録されている場合は、今すぐメールの受信トレイを確認してください。
+      phone: 電話(オプション)
+      retype_password: パスワードを再入力する
+      send: 送信
+      signup: サインアップ
+      success: ありがとうございました。アカウントが有効になるとすぐにメールが届きます。
+      terms:
+        full: 'I agree to the terms and conditions and data privacy.'
+        text1: 私は同意します。
+        text2: 利用規約とデータプライバシー
+        text3: ''
+      tz: タイムゾーン
+      zip: 郵便番号
+    head: エスコート広告へようこそ
+    head1: ブランドを構築する
+    head2: エスコート広告付き
+    new: ここで新しい?
+    password: パスワード
+    password_forgotten: パスワードを忘れてしまった?
+    signin: サインイン
+    signup: サインアップ
+    signup2: サインアップ
+  reports:
+    clicks: クリック
+    ctr: CTR
+    date: 日付
+    error:
+      campaign: '少なくとも 1 つのキャンペーンを選択してください。'
+      end_date: 終了日を正しく設定してください。
+      start_date: 開始日を正しく設定してください。
+    hour: 時間
+    impressions: 印象
+    price: 価格
+    results:
+      amount: 量
+      campaign: キャンペーン
+      clicks: クリック
+      columns: 結果に表示される列
+      ctr: CTR
+      date: 日付
+      days: 日
+      end: 終わり
+      end_date: 終了日
+      export:
+        csv: CSV
+        excel: Excel
+        label: エクスポート
+      generate: レポートの生成
+      group_by: グループ化
+      hour: 時間
+      hours: 時間
+      impressions: 印象
+      next: 次のページ
+      options: オプションを選択します。
+      reports: レポート
+      start: 開始
+      start_date: 開始日
+      video_100: ヴィッド・フルタイム
+      video_q1: 'ヴィド 1 四分位数'
+      video_q2: 'ヴィド 2 四分位数'
+      video_q3: 'ヴィド 3 四分位数'
+      video_skipped: 'Vid. スキップされました'
+      video_skipped_10s: 'ヴィッド 10 秒'
+      video_skipped_5s: 'ヴィッド 5 秒'
+    video_100: 'ビデオ - 時間:100%'
+    video_q1: 'ビデオ - 時間: 1 四分位数'
+    video_q2: 'ビデオ - 時間: 2 四分位数'
+    video_q3: 'ビデオ - 時間:3四分位数'
+    video_skipped: 'ビデオ - スキップクリック'
+    video_skipped_10s: 'ビデオ - スキップ(10年代以降)'
+    video_skipped_5s: 'ビデオ - スキップ(5s以降)'
+  reset_password:
+    error:
+      password_not_matching: パスワードが一致しません。
+      too_short: 'パスワードが短すぎるため、6 文字以上の長さであることを確認してください。'
+      url: 'URL が無効です。'
+  signin:
+    change_password: パスワードは、ここで変更できます。
+    error:
+      address: アドレスを正しく入力してください。
+      city: 市区町村を正しく指定してください。
+      country: あなたの国を入力してください。
+      email: '電子メール アドレスが無効です。'
+      general: 登録に失敗しました。
+      lastname: 姓を入力してください。
+      name: 名前を入力してください。
+      not_activated: アカウントは審査中です。
+      tz: タイムゾーンを入力してください。
+      zip: 郵便番号を正しく指定してください。
+    password_forgotten: パスワードを忘れた
+  signup:
+    error:
+      address: 住所を入力してください。
+      city: あなたの市区町村を入力してください。
+      company: 会社名を入力してください。
+      country: あなたの国を入力してください。
+      email: '電子メール アドレスが無効です。'
+      general: 現時点では登録できません。後でもう一度やり直してください。
+      lastname: 姓が正しくありません。
+      name: 名前が間違っています。
+      password_not_matching: パスワードが一致しません。
+      password_too_short: 'パスワードが短すぎるため、6 文字以上の長さであることを確認してください。'
+      terms: ご利用条件をご確認ください。
+      tz: タイムゾーンを入力してください。
+      zip: 郵便番号を入力してください。
+bc:
+  email:
+    ads:
+      mail:
+        activated: 'アカウントが有効になりました。これで、広告を正しく配置できるようになりました。ここにログイン:'
+        footer: '321escorts.com AD サービス'
+        footer2: 'あなたのチーム -'
+        hello: こんにちは
+        subject: アカウントの有効化
+        welcome: ads.321escorts.comへようこそ
+    affiliate:
+      sale:
+        recurring:
+          mail:
+            full: 'You have a successful affiliate sale of a recurring order: 120 USD - Thank you for participating in the affiliate program. You can see all the details, your statistics and payouts here:'
+            subject: '新しいアフィリエイトセール:'
+            text1: 定期的な注文の正常なアフィリエイト販売があります。
+            text2: '- アフィリエイトプログラムに参加していただきありがとうございます。すべての詳細、統計、支払いはここで見ることができます:'
+    birthday:
+      eotw:
+        offer:
+          detail: '4週間を購入するときの割引 \"週のエスコート\"'
+          head: 1週間無料「エスコート・オブ・ザ・ウィーク」
+      prime:
+        offer1:
+          detail: 1年プライムを購入する際の割引
+          head: 2ヶ月無料「プライム」
+        offer2:
+          detail: 1ヶ月無料「プライム」
+          head: 2ヶ月無料「プライム」
+        offer3:
+          detail: お誕生日おめでとう
+          head: 3ヶ月プライムを購入するときの割引
+      text:
+        click_here: 今すぐギフトを受け取るためにここをクリック
+        congratulation: 私たちはあなたの誕生日に暖かくあなたを祝福します。あなたにすべての最高の、愛と健康。私たちはあなたに贈り物を持っています
+        enjoy_your_day: あなたの一日をお楽しみください!
+        gift_valid: あなたの贈り物は、まであなたのために予約されています
+        hello: ハロー
+    footer:
+      contact: 連絡先
+      twitter: ツイッターでフォローする
+    reminder:
+      prime: プライム
+      type:
+        cc:
+          close1: これはあなたにちょうどリマインダーです。あなたは何もする必要はありません。すべての詳細とサブスクリプションの管理は、ご注文履歴で利用できます。
+          close2: ご不明な点がございましたら、お気軽にお問い合わせください。
+          close3: 注文履歴
+          info:
+            amount: 量：
+            days: 日：
+            subscription: サブスクリプション：
+          label: 'クレジットカード:'
+          renew: サブスクリプションは、次の日以内に更新されます。
+          renew1: サブスクリプションは、次の日以内に自動的に更新されます。
+        iban:
+          label: イバン：
+          renew: サブスクリプションは、次の日以内に更新されます。
+          renew1: サブスクリプションの更新に失敗しました
+        other:
+          close1: 'プロフィールのステータスを今すぐ拡張する:'
+          close2: いつでも気軽にお問い合わせください。
+          reminder1: プロファイルのステータスは数日で期限切れになります。
+          renew: プロフィールの状態を維持する
+    renew:
+      alternative:
+        action: サブスクリプションの更新
+        full: 'You can place the order for your Prime subscription here.'
+        text1: あなたは、あなたの注文を置くことができます
+        text2: サブスクリプションはこちら。
+      disable_notification: これらの通知を無効にする
+      error:
+        full: 'Your Prime subscription could not be renewed. Your payment method has been rejected.'
+        text1: あなたの
+        text2: サブスクリプションを更新できませんでした。お支払い方法は拒否されました。
+      mail:
+        footer: 321escorts.comカスタマーサービス
+      my_profile: 自分のプロフィール
+    renewed:
+      success:
+        close1: サブスクリプションを更新していただきありがとうございます!すべての詳細とサブスクリプションの管理は、ご注文履歴で利用できます。
+        close2: ご不明な点がございましたら、お気軽にお問い合わせください。
+        full: 'Hello Tom, your subscription has been successfully renewed:'
+        text1: 'サブスクリプションが正常に更新されました:'
+        text2: サブスクリプションの更新に成功しました
+    verification:
+      mail:
+        body: 検証が成功しました。プロフィールが更新されました。
+        subject: 検証が成功しました
+  notifications:
+    missed:
+      subject: 不在通知
+    new:
+      body: 新しいレビューを受け取りました
+      subject: 新しいメッセージが表示されます。
+  notify:
+    new_message:
+      body: 新しいメッセージが表示されます。
+      from:
+        text1: 新しいメッセージを受信しました。
+      label: 新しいメッセージ
+      to:
+        full: 'You received a message from Tom.'
+        text1: 新しいメッセージを受信しました。
+        text2: ''
+      view: ビュー
+    unred_message:
+      action: メッセージの表示
+      body: あなたには未読のメッセージがあります。
+      subject: 未読メッセージ
+  notify1:
+    new_message:
+      message_received: 新しいメッセージを受信しました
+      to:
+        full: 'Tom sent you a new message'
+        text1: 新しいメッセージを送信しました
+  notify2:
+    new_message:
+      to:
+        body: 新しいメッセージが表示されます。
+        full: 'You received a new message from Tom.'
+        text1: 新しいメッセージが表示されます。
+  review:
+    new:
+      anonymous:
+        full: 'You received a 5-star rating from Anonymous.'
+        subject: 新しいレビュー
+        text1: 匿名から受け取った星。
+      full: 'You received a 5-star rating from Tom.'
+      text1: 新しいレビューを受け取りました。
+      text2: 星から
+      text3: ''
+  review1:
+    anonymous: 匿名
+    new:
+      full: '5 stars review received from Tom.'
+      text1: 星のレビューから受け取った
+      text2: ''
+      text3: 星のレビューは匿名から受け取りました
+  review2:
+    new:
+      anonymous: 匿名から受け取った星。
+      full: 'You received a new review with 5 stars from Tom.'
+      text1: 新しいレビューを受け取りました。
+      text2: 星から
+      text3: .
+bf:
+  public:
+    user:
+      age:
+        years: 年
+      title:
+        rent_me: 今私を借りる
+bm:
+  ads:
+    mail:
+      campaign:
+        approved: 承認されました。キャンペーンを今すぐ開始できます。
+        error1: 資金不足またはキャンペーンの上限に達したため、一時停止されました。
+        error2: 口座の資金不足のため、一時停止されています。
+        error3: キャンペーンの制限に達したため、一時停止されました。
+        error4: キャンペーンの終了日に達したため、一時停止されました。
+        label: キャンペーン
+        map:
+          hide_details: 詳細を非表示にする
+          show_details: 詳細の表示
+        stopped: 'キャンペーンが停止しました:'
+        subject_approved: '承認されたキャンペーン:'
+        view_details: キャンペーンに関するすべての詳細とレポートは、ここで確認できます。
+      funds:
+        added:
+          info:
+            details: ここにすべての詳細とトランザクションが表示されます。
+            details1: '自動ファンド管理:'
+            full: 'We charged $1000 from your credit card'
+            text1: 私たちは請求しました
+            text2: クレジットカードから
+            text3: ''
+          label: 広告アカウントに自動的に追加される新しい資金。
+  affiliate:
+    mail:
+      sale:
+        body: 'アフィリエイトプログラムにご参加いただきありがとうございます。すべての詳細、統計、支払いはここで見ることができます:'
+        subject: '新しいアフィリエイトセール:'
+  notify:
+    mail:
+      private_gallery:
+        allow: 許可
+        body:
+          full: 'Tom would like to see your private gallery.'
+          text1: あなたのプライベートギャラリーを見たいと思います。
+        reject: 拒否
+    mail1:
+      private_gallery:
+        full: 'you can now see the private gallery from Tom.'
+        subject: 'リクエスト - プライベートギャラリー'
+        text1: プライベートギャラリーを見ることができます。
+        text2: .
+        text3: プライベートギャラリーを見ることができます。
+        text4: ':'
+    mail2:
+      private_gallery:
+        full: 'Tom would like to see your private gallery.'
+        subject: プライベートギャラリー
+        text1: あなたのプライベートギャラリーを見たいと思います。
+        view_gallery: ギャラリーを見る
+        view_profile: プロファイルの表示
+    mail3:
+      private_gallery:
+        allow: 許可
+        full: 'Tom has unlocked the private gallery for you.'
+        gallery_unlocked: プライベートギャラリーのロック解除
+        text1: あなたのためにプライベートギャラリーのロックを解除しました。
+  order:
+    mail:
+      gift:
+        subject:
+          full: 'You received a gift from Tom:'
+          text1: から贈り物を受け取った
+          text2: ':'
+        thankyou:
+          body:
+            full: 'You can see the order details for also in your order history.'
+            text1: 注文の詳細を表示できます。
+            text2: また、あなたの注文履歴に。
+          body1:
+            full: 'We sent Tom a message that you sent a gift :-)'
+            subject: ご注文いただきありがとうございます!
+            subject1: ご注文ありがとうございます
+            text1: 私たちは送った
+            text2: あなたが贈り物を送ったメッセージ:-)
+          body2: いつでもアカウントで注文履歴を表示できます。
+          body3:
+            full: 'the user Tom has just sent a gift to you: Prime. Tom would love to receive a "thanks" from you :-)'
+            text1: ユーザー
+            text2: 'ちょうどあなたに贈り物を送った:'
+            text3: あなたから\"感謝\"を受け取るのが大好きです:-)
+          body4:
+            full: 'Chat with Tom'
+            text1: チャットを開く
+            text2: そして\"ありがとう\"を送る:-)
+          body5:
+            full: 'Gift received from Tom.'
+            text1: から受け取ったギフト
+            text2: ''
+          subject: ご注文いただきありがとうございます
+chat:
+  ago: ''
+  days: 日
+  error:
+    action_login: ログイン
+    action_register: 登録
+    login_required: チャットを利用するにはログインしてください。
+  hour: 時間
+  hours: 時間
+  image: イメージ
+  message:
+    d: d
+    gallery:
+      approve: 承認
+      reject: 拒否
+    h: h
+    min: min
+    sec: sec
+  messenger:
+    action:
+      become_prime_member: 今すぐプライム会員になろう。プライム会員は無制限のメッセージを保存できます。
+      mobile:
+        become_prime_member: 今すぐプライム会員になる
+    close: 閉じる
+    error:
+      chat_empty: チャットはまだ空です。あなたが好きな人に書く:-)
+      limit_reached: メモリの制限に達しました
+    headline: メッセージ
+    message:
+      delete: 削除
+      error: 'エラー: チャットは無効です。'
+      error_try_later: 'エラー: 後でもう一度やり直してください。'
+      read: 読む
+      received:
+        now: 今
+      save: 保存
+      spam: スパム
+      unread: '未 読'
+      unstore: ストアをアンストア
+      upgrade_read_messages: メッセージが読み上がったかどうかを確認しますか?
+      user_is_typing: 入力中
+    new_message:
+      placeholder: あなたのメッセージ.
+    user_is_typing: 入力中
+  minute: 分
+  minutes: 分
+  user:
+    offline: オフライン
+    online: オンライン
+  video: ビデオ
+  yesterday: 昨日
+email:
+  affiliate:
+    subject: 'アフィリエイトセール -'
+exchange_links:
+  success:
+    rescan_website: 'ありがとうございました。今後 24 時間以内に、ページを再度スキャンします。'
+follow_user: 従う
+main:
+  account:
+    activate: アカウントの有効化
+    add_hashtag: タグを追加する
+    advertising:
+      country_formats: 国/フォーマット
+      hide: 隠す
+      label: 広告：
+      no: いいえ
+      notifications:
+        email: 電子メール
+        label: 通知
+        sms: Sms
+        web_push: ウェブプッシュ
+      show: 表示
+      sound_chat: 'サウンド/チャット:'
+      view: ビュー
+      yes: はい
+    amazon_wishlist:
+      headline: アマゾンウィッシュリスト
+      label: 'アマゾンのウィッシュリスト:'
+    billing:
+      history:
+        days: 日
+    cell_phone:
+      change_number: 番号を変更する
+      code: コード。。。
+      contact_and_cell_phone: 連絡先と携帯電話番号
+      dont_show: ウェブサイトに番号を表示しない
+      dont_show2: ウェブサイトに番号を表示しない
+      label: セル：
+      same_number: メイン番号と同じ番号
+      send:
+        code: 'この番号に SMS コードを送信します'
+        full: 'Send SMS code to this number +1123456789 now?'
+        now: 今。
+      send_sms: 'SMS を送信する'
+      verify: 確認
+      verify_number: 番号の確認
+      verify_number1: 番号の確認
+      whatsapp: 'Whatsapp(オプション):'
+    credentials:
+      auto_social_login: '自動/ ソーシャルログイン'
+      confirm_with_password: 現在のパスワードで確認
+      confirm_with_password1: 現在のパスワードで確認
+      delete_account: アカウントの削除
+      error:
+        emails_not_matching: 'エラー: 新しい電子メール アドレスが、再入力された電子メール アドレスと一致しません。'
+        fiell_out: 'エラー: すべてのフィールドに入力します。'
+        new_profile: 'エラー: 新しいプロファイル名とパスワードを入力してください。'
+        passwords: 'エラー: パスワードを入力します。'
+        passwords_not_matching: 'エラー: 新しいパスワードが、再入力されたパスワードと一致しません。'
+      free: 無料
+      head: アカウント
+      login: ログイン
+      modal:
+        delete:
+          confirm_with_password: パスワードで確認する
+          head: 'アカウントの削除 !'
+          label: アカウントを削除する
+          text: アカウントを削除しますか?あなたの写真、ビデオ、フォロワー、いいね、すべてのデータは取り返しのつかないほど削除され、永遠に失われます。Canbはいつでもアカウントを一時停止して再開できます。
+      new_email_address: '新しい電子メール アドレス'
+      new_password: 新しいパスワード
+      new_profile_name: 新しいプロファイル名
+      password: パスワード
+      profile_name: プロファイル名
+      retype_new_email_address: '新しい電子メール アドレスを再入力します。'
+      retype_new_password: 新しいパスワードを再入力する
+    date_of_birth: 生年月日：
+    deactivate_your_account: アカウントを無効にする
+    distance:
+      ft: ft
+      km: km
+      m: m
+      mi: mi
+    general: 全般
+    hashtags:
+      add_tag: タグを追加する
+      headline: '#Hashtags:'
+    headline: 見出し：
+    height: 高さ：
+    location:
+      add_location: 訪問する場所を追加します。あなたはより多くの魅力を得るために事前にすべての場所の検索結果にリストされます。
+      add_new_place: 新しい場所を追加
+      add_places: 訪問する場所を追加します。あなたはより多くの魅力を得るために事前にすべての場所の検索結果にリストされます。
+      auto_change: クリックすると、自動的に場所を変更できます
+      browser_error: ブラウザで位置情報の共有をブロックしました。この機能を使用するには、有効にしてください。
+      choose_location: 場所と日付を選択してください
+      date_from: 開始日
+      date_to: 終了日
+      delete: から訪問を削除しますか?
+      delete_from: ''
+      delete_headline: 場所の削除
+      delete_location: 場所を削除しますか?
+      delete_question_mark: '?'
+      enter_location: 場所を入力
+      entered_location: 入力された場所
+      error: エラー：
+      error_try_later: 'エラー: 後でもう一度やり直してください'
+      head:
+        add_location: 場所の追加
+        gps_location: あなたのGPSの場所
+        i_visit: 私は訪問します
+      headline: 場所を削除しますか?
+      label:
+        delete_location: 場所の削除
+        delete_location2: この場所を削除しますか?
+        delete_location3: ''
+        select: 場所の選択
+      manually_change: クリックして、手動で場所を変更します
+      map: 'マップから位置を選択するか、マップの上のテキスト ボックスに位置を入力します。開始日と終了日も選択します。'
+      ok: わかりました
+      save_location: 保存場所
+      save_location1: 保存場所
+      save_location2: 保存場所
+      select: 自分で場所を選択する
+      start_end_date: 旅行に開始日と終了日を追加します。あなたはより多くの魅力を得るために事前にすべての場所の検索結果にリストされます。
+      trip_already_planed:
+        error: あなたはすでにこれらの日付で旅行を持っています。
+      use_gps: 'GPS を使用する'
+    measuring_system:
+      cm: Cm
+      imperial: インペリアル(米国)
+      kg: Kg
+      label: '測定システム:'
+      lbs: ポンド
+      metric: メトリック
+    media:
+      add_hashtag: タグを追加する
+      add_hashtags: ハッシュタグを追加する
+      classification_pending: 分類保留中
+      delete:
+        head: 本当に削除
+        label:
+          cancel: キャンセル
+          delete: 削除
+        text: このメディアを削除しますか?
+      hd: HD
+      is_preview: プレビュー写真です
+      max_size: 写真とビデオ
+      photo: 写真
+      private_gallery: プライベートギャラリー
+      type:
+        all_media: すべてのメディア
+        photos: 写真
+        videos: ビデオ
+      video: ビデオ
+      xxx: XXX
+    menu:
+      account: アカウント
+      contact: 連絡先
+      locations: 場所の管理
+      logout: ログアウト
+      media:
+        head: 写真とビデオを管理する
+        manage: 写真とビデオを管理する
+      order_history: 注文履歴
+      preview: プロファイルプレビュー
+      profile: プロファイル
+      settings: 設定
+      upload: 写真や動画をアップロードする
+      verification: 検証
+      verified: エスコートが検証済み
+      view_profile: プロファイルの表示
+    order:
+      history:
+        status:
+          paid: 有料
+          pending: ペンディング
+      status:
+        paid: ご注文いただきありがとうございます。
+        pending: ありがとうございました。ご注文を確認し、お知らせいたします。
+    payment:
+      error:
+        label: エラーが発生しました。お問い合わせください。
+        password_invalid: パスワードが正しくありません。
+        password_too_short: '新しいパスワードは 6 文字以上でなければなりません。'
+        profile_invalid: 新しいプロファイル名が無効です。別のプロファイル名を選択してください。
+        profile_name_too_short: '新しいプロファイル名は 6 文字以上でなければなりません。文字、文字、ハイフン、ハイフンを使用できます。'
+      not_recurring: 臨時
+    payments:
+      amount: 量
+      billed: 請求
+      cancel:
+        label: キャンセル
+      cancel_subscription:
+        head: 'サブスクリプションのキャンセル:'
+        label: サブスクリプションをキャンセルすると、自動更新は行われなくなります。サービスの使用を継続する場合は、新しい注文を行う必要があります。あなたは本当にすべてのベフィニッツとお祭りを失ってサブスクリプションをキャンセルしたいですか?
+        label1: サブスクリプションのキャンセル
+        text: 'サブスクリプションをキャンセルする場合は、注文履歴の [サブスクリプション] をクリックします。'
+      cancelled: キャンセル
+      currently_free_account: '現在無料アカウントを使用しています。今すぐ「Go Prime」にアップグレードし、すべての優れた機能を使用してください。'
+      date: 日付
+      duration: 期間
+      eotw:
+        full1: 'Escort of the Week subscription is active until 2022-02-04 and will be automatically extended.'
+        full2: 'Escort of the Week subscription will be cancelled on 2022-02-04.'
+        text1: 今週のサブスクリプションのエスコート
+        text2: がアクティブになるまで
+        text3: は、キャンセルされます
+        text4: 自動的に拡張されます。
+        text5: ''
+      error:
+        billing: サブスクリプションの処理中に課金の問題
+      failed: '失敗 しました'
+      gift_no: '贈り物 (非繰り返し )'
+      nonrecurring: 臨時
+      order_history: 注文履歴
+      paid: 有料
+      prime: プライム
+      prime_subscription: プライムサブスクリプション
+      product: 製品
+      status: ステータス
+      subscription: アクティブなサブスクリプション
+      subscription1: サブスクリプション
+      your: あなたの
+    pornstar:
+      very_for_changing_settings: 設定を変更することを確認してください。
+    price:
+      ask: 求める
+      price: 価格。。。
+      price_hour: '価格/時間:'
+      price_night: '価格/夜:'
+    profile_activated: プロファイルがアクティブ化されました。
+    profile_text: 'プロファイル テキスト:'
+    pron_star:
+      label: 私もまた、女優です
+      upload: アップロード
+      website_indication: あなたが、あなたが、URL、Twitterアカウントやインターネット動画であることを示すウェブサイト
+    services:
+      headline: サービス、好み、フェチ
+    settings:
+      label: 設定
+    signup:
+      terms_policy:
+        text1: はい、私は受け入れます
+    status:
+      profile_paused: プロフィールは現在一時停止中です。プロフィールを再び有効にするには、ここをクリックしてください。
+    text_hashtags:
+      headline: テキストと#Hashtags
+    thousand:
+      k: k
+    type:
+      prime_escort: 'Prime Escort'
+    upload:
+      error: アップロードは現在利用できません。
+    verification:
+      files:
+        full: 'Uploaded files will automatically be deleted after verification'
+        info: (最大3枚の写真またはPDFファイル)
+        label: ファイルをアップロードするには、ここをクリックしてください。
+        success: ありがとうございました。まもなくご連絡いたします。
+        text1: アップロードされたファイル
+        text2: 確認後に自動的に削除されます
+        text3: が完了します。
+      full: 'Improve your profile status and show everyone that you are real '
+      label: 検証
+      proof:
+        blackened: 名前や住所などのデータは黒くすることができます。
+        full: 'Send us a proof with photo, e.g. drivers licence picture ID or passport'
+        text1: 例えば、写真付きの証拠を送ってください。
+        text2: 運転免許証、
+        text3: '画像 ID'
+        text4: または
+        text5: パスポート
+        text6: ''
+      text1: プロフィールのステータスを改善し、全員を表示する
+      text2: あなたが本物であることを
+      upload:
+        file:
+          cancel: キャンセル
+          cc: フロントクレジットカード
+          error: ファイルを入力してください
+          identity: '画像 ID'
+          text: ご注文のリスクが高いシステムが検出されました。そのため、身分証明書(写真付き身分証明書、パスポート、運転免許証など)とクレジットカードの正面の写真をアップロードするようお願いします。確認後、ご注文を処理します。アップロードしたファイルは自動的に削除されます。別の支払方法を選択することもできます。
+          upload: アップロード
+          verification_required: 検証が必要
+    view:
+      large_grid: 大きいグリッド
+      list_view: リストビュー
+      mobile:
+        large_grid: '大グリッド (モバイル デバイス)'
+      small_grid: 小さなグリッド
+    weight: 重量：
+  ad:
+    banner:
+      remove_ad: 'AD を削除する'
+    click_here: ここをクリック
+    label: 広告
+    place:
+      action:
+        place_your_ad: 今すぐ広告を配置する
+      ad_options: 'AD 専用オプション'
+      banner_ad: バナー広告
+      budget_management: インテリジェントな予算管理と応答性の高いAD配置
+      escort_profile_ad: エスコートプロフィール写真
+      filters: '排他的なフィルタ - 性的指向、国、言語'
+      fullpage_ad: 'フルページ AD'
+      geo_targeting: 高コンバージョンの地域ターゲティング広告
+      high_conversions: ターゲットグループに重点を置いた高い変換
+      multi_geo_targeting: すべてのキャンペーンのマルチジオターゲティング
+      unlimited_campaigns: キャンペーン数とリアルタイム統計の数に制限はありません。
+      video_ad: 'ビデオ AD'
+      video_preview_photo: ビデオプレビュー写真
+    remove: 'AD を削除する'
+  affiliate:
+    account_blocked: '詐欺のトラフィックにより、アフィリエイト アカウントがブロックされました。それが間違いだと思うなら、こちらからサポートまでご連絡ください。'
+    action:
+      register_under_30s: 30秒以内に無料で登録
+    copy_link: リンクをコピー
+    email:
+      error: '電子メール アドレスが無効です。'
+      label: 電子メール
+      sent:
+        body: メールアドレスを確認してください
+        body2: '次の 60 分以内に:'
+        confirm_email_address: 'メールアドレスの確認:'
+        full: 'Please confirm your email address within the next 60 minutes:'
+        hello: こんにちは
+        label: 'アフィリエイト - 新しいメールアドレスを確認してください'
+    embed_website: ウェブサイト/リンクジェネレータへの埋め込み
+    head:
+      full: 'You want to maximize your traffic revenue?'
+      mobile: トラフィックの収益を最大化したいですか?
+      text1: あなたは、最大化したいです
+      text2: トラフィック収入?
+    income:
+      apprx_income: '近似収入:'
+      avg_daily_registrations: '1 日あたりの平均登録数'
+      calc: 収入計算機
+      calc_income: 収入の計算
+      results:
+        action:
+          register_under_30s: 30秒以内に無料で登録
+        free_signups: 無料登録
+        incl_recurring_sales: 定期的な販売を含む
+        income_1st_yr: '収入 1年'
+        income_2nd_yr: '収入 2 年'
+        income_month: 収入/月
+        sales: 販売
+        total: 合計
+    lifetime_sales: 'すべての定期的な販売から50%のシェア - forwever、クッキーの寿命なし'
+    menu:
+      account: アカウント
+      details: 詳細
+      head: 'アフィリエイトプログラム:'
+      links: リンク
+      logout: ログアウト
+      payout: 支払い
+      statistics: 統計
+      support: アフィリエイトサポート
+    new_password:
+      email:
+        body: 'リンクをクリックすると、次の 60 分以内にパスワードを変更できます。'
+        hello: こんにちは
+      error:
+        email: メールアドレスが正しくありません。
+        invalid_identifier: 識別子が無効です
+        min_characters: 'パスワードは 6 文字以上でなければなりません。'
+        passwords_not_matching: パスワードが一致しません。
+      head: 'アフィリエイト - 新しいパスワード'
+      placeholder: '新しいパスワード (最小 6 文字)'
+      placeholder1: '新しいパスワード(最小6文字):'
+      retype_placeholder: 'パスワードを再入力:'
+      save: パスワードの保存
+    one_usd_per_registration: '無料登録ごとに.00 - 電子メールの検証は必要ありません'
+    password:
+      do_not_match: パスワードが一致しません。
+      error: パスワードが正しくありません。
+      error1: 現在のパスワードが正しくありません。
+      head: 'アフィリエイト - 資格情報'
+      too_short: パスワードが短すぎます。
+    password_forgotten:
+      email: 'メールアドレス:'
+      send_label: 資格情報の要求
+      success: メールが登録されている場合、メールをお送りします。
+    payout:
+      address: アドレス
+      address2: アディディットーンアドレス
+      bitcoin:
+        error: 'ビットコイン アドレスが無効です。'
+        minimum1: 最低支払額は
+        minimum2: BTCアドレスに支払われます
+        payout: 住所ビットコインへの支払い(.00手数料)
+      btc:
+        address: 'BTC アドレス'
+      cc:
+        ccv: Ccv
+        ccv_info: '裏面の最後の 3 桁または 4 桁'
+        error: 'クレジット カードが無効です。'
+        exp_date: '有効 期限'
+        head: クレジットカード
+        minimum1: 最低支払額は
+        minimum2: そしてあなたのクレジットカードに支払われます
+        month_year: 月/年
+        name_on_card: クレジットカードの名前
+        payout: クレジットカードへの支払い
+      change_payout: 支払いの詳細を変更する場合は、現在のデータを削除できます。現在の支払いは、この影響を受けません。
+      city: 都市
+      contact: 問題が発生した場合は、アフィリエイトサポートにお問い合わせください。
+      country: 国
+      current_password: 現在のパスワード
+      delete_payout_data: 支払データの削除
+      error:
+        address: 住所が正しくありません。
+        city: あなたの市区町村を入力してください。
+        country: あなたの国を入力してください。
+        date: 正しい日付を選択してください。
+        date_range: 正しい日付範囲を選択してください。
+        lastname: 姓が正しくありません。
+        min_amount: 支払いの最小金額が正しくありません。
+        name: 名前が間違っています。
+        zip: 郵便番号を入力してください。
+      full: 'The minimum payout amount is 50 EUR and will payed to the BTC address'
+      lastname: Lastname
+      min_amount: 支払い開始
+      name: 名前
+      payout: 支払い
+      payout_invalid: 支払いが無効です。
+      save:
+        label: 保存
+        success: 変更が正常に保存されました
+      saved:
+        full: 'Your payout information were successfully saved on 2020-12-31'
+      saved1: 支払い情報が正常に保存されました
+      saved2: .
+      zip_code: 郵便番号
+    registration_process: メールアドレスやクレジットカードを必要としない高速登録プロセスは、これまでにないようなコンバージョンを増やします。
+    retype_new_password: パスワードを再入力
+    revenue_share: 全販売(直販、クロスセールス、アップ売上など)から50%のシェア
+    sigin:
+      error: 資格情報が無効です。
+    signin:
+      head: 'アフィリエイト - サインイン'
+      password: パスワード：
+      password_forgotten: パスワードを忘れた場合は?
+    signup:
+      accept_terms_policy: 継続するには、条項とポリシーに同意します。
+      already_registered: 既に登録されていますか?
+      email:
+        body: 無料のアフィリエイトプログラムへようこそ。下記のリンクをクリックしてメールアドレスをご確認ください。すべての詳細、リンク、HTMLカルーセルの護衛ジェネレータだけでなく、あなたの統計情報は、バックエンドで見つけることができます。
+        confirm_email_address: 'メールアドレスを確認する:'
+        not_registered_with_this_email_address: 'メールアドレスを登録していない場合は、ここをクリックしてください:'
+        subject: 'アフィリエイト - あなたのメールアドレスを確認してください'
+      error:
+        passwords_not_matching: パスワードが一致しません。
+      head: 'アフィリエイト - サインアップ'
+      label:
+        finish: 完了
+      password_min_characters: 'パスワード(最小6文字):'
+      terms_policy: 'Terms and Policy'
+    stats:
+      clicks: クリック
+      ctr: Ctr
+      date:
+        head: 日付
+        label: 日付
+      date1: 日付
+      excel_download: エクセルダウンロード
+      head:
+        carousel: カルーセル
+        gay: 'エスコート: ゲイ,'
+        geo_targeting: '選択: ジオターゲティング,'
+        men: 'エスコート: 男性,'
+        random: '選択: ランダム,'
+        theme_dark: 'テーマ: ダーク,'
+        theme_individual: テーマ:個人、
+        theme_light: 'テーマ: 光,'
+        trans: エスコート:トランス、
+        women: エスコート:女性、
+      hits: ヒット
+      json_download: 'JSON ダウンロード'
+      new_payouts: 新しい支払い
+      pages: ページ：
+      period: 期間
+      range: 範囲
+      recurring_payouts: 定期的な支払い
+      results:
+        next: 次に
+        previous: 先の
+      sort_by: 並べ替え順
+      tab:
+        clicks: クリック
+        ctr: Ctr
+        date: 日付
+        hits: ヒット
+        link: リンク
+        new_payouts: 新しい支払い
+        recurring_payouts: 繰り返し支払い
+        total_payouts: 合計支払い額
+        tour: ツアー
+        unique_hits: ユニークヒット
+      total_all_pages: '合計 (すべてのページ)'
+      total_payouts: 合計支払い額
+      tour: ツアー
+      unique_hits: ユニークヒット
+      view: ビュー
+    support:
+      error:
+        too_long: テキストが長すぎます。お問い合わせを短くしてください。
+        too_many_requests: この時点でこれ以上要求を送信することはできません。
+        too_short: 長いテキストを入力してください。
+      from: 差出人：
+      head: アフィリエイトサポートへのお問い合わせ
+      send:
+        thank_you: 要求は正常に送信されました。ありがとうございました。
+    user:
+      background_color: 背景色
+      copy_html: 'HTML をコピーする'
+      copy_linke: リンクをコピー
+      dark_theme: ダークテーマ
+      desktop: デスクトップ
+      embedded: 'エスコートカルーセル (埋め込み)'
+      escort_results: 'エスコートの結果:'
+      escorts: 護衛：
+      geo_targeting: ジオターゲティング(最高のコンバージョン)
+      individual_them: 個別のテーマ
+      language: 言語：
+      language_detection: 言語検出
+      light_theme: ライトテーマ
+      link: リンク
+      mobile: モバイル
+      preview: プレビュー
+      random: ランダム
+      text_color: テキストの色
+      theme: テーマ：
+      type: 型：
+    user_feature_set: ユーザーは無料の写真、ビデオ、チャットなど、ペニーを投資することなく、ウェブサイトを最大限に活用することができます!
+    usp: 私たちがとても違うのは、私たちの「本当の無料」エスコートサイトです。
+    your_link: 'アフィリエイト URL:'
+  chat:
+    translation:
+      action:
+        activate_now: 今すぐ翻訳を有効化
+      feature:
+        myself:
+          full: 受信メッセージは自動的に英語に翻訳されます
+          text1: 着信メッセージは自動的に
+          text2: ''
+        user:
+          full: '送信メッセージは、自動的に SexyGirl18 によって選択された言語で翻訳されます。'
+          text1: '送信メッセージは、自動的に SexyGirl18 によって選択された言語で翻訳されます。'
+          text2: ''
+      language:
+        write_in: 私は書く
+      service:
+        activated: 翻訳サービスが有効
+        deactivated: 翻訳サービスが非アクティブ化されました
+    upload:
+      check:
+        progress: ファイルで作業しています。
+  contact:
+    email_address: 電子メール
+    error:
+      captcha: 写真に数字/キャプチャを入力してください。
+      general: エラー：
+      too_long: テキストが長すぎます。お問い合わせを短くしてください。
+      too_many_requests: この時点でこれ以上要求を送信することはできません。
+      too_short: 長いテキストを入力してください。
+    feedback: フィードバック
+    head: 連絡先
+    headline: 'お 問い合わせ'
+    improvements_wishes: 改善、希望、フィードバックはありますか?今すぐお問い合わせください。
+    success:
+      thank_you: リクエストが送信されました。ありがとうございました。
+  enable_search_notifications: 検索通知を有効にする
+  enabled_search_notifications: 検索通知が有効
+  escort:
+    directory:
+      escorts_in:
+        body1: 見る
+        body2: ''
+        cities_from: から都市でエスコート
+        find_in_countries: 以下の国でエスコートを探す
+        following_cities: 次の都市でエスコートを探す
+        following_regions: 以下の地域でエスコートを探す
+        full: 'See all Gay Escorts in France'
+        label: エスコートで
+        regions_from: から地域でエスコート
+      gay: ホモの人
+      male: 男性
+  exchange_links:
+    add:
+      backlink:
+        gay: 'セクシーなゲイエスコート - 321escorts.com'
+        male: 'セクシーな男性のエスコート - 321escorts.com'
+        women: 'セクシー護衛 - 321escorts.com'
+      button_send: リンクの交換
+      destination_url: 'リンク先 URL:'
+      email: 電子メール：
+      error:
+        already_added: 'URL は既に存在します。'
+        invalid_email: メールアドレスが無効です。
+        invalid_inputs: 入力が無効です。
+        too_many_requests: '現時点では、これ以上あなたからの URL を取得することはできません。後でもう一度やり直してください。'
+        url_invalid: 'URL 名が無効です。'
+        url_invalid2: 'URL が無効です。'
+      first_name: '名 (オプション):'
+      name_displayed:
+        example: 私のティーンブログ
+        label: 'パブリック ページに表示される名前:'
+      success:
+        copied: コピー
+        copy_html: 'HTML をコピーする'
+        include_code_on_website: ページに次のコードを含めます。今後24時間以内にウェブサイトを確認します。当社のリンクがページ上にある場合、お客様のリンクはアクティブ化され、一般に公開されます。
+        label: ありがとうございました
+      target_group: 'ターゲットグループ:'
+      target_group_all: すべての
+      target_group_gay_trans: ゲイ/トランス
+    error:
+      name: 名前が無効です。
+    head: リンクの交換
+    link:
+      body1: また、お使いの
+      body2: アフィリエイトリンク
+      body3: そして余分なお金を稼ぐ
+      full: 'you also can use your Affiliate Link and earn extra money'
+    link_backlink_website: 'リンクを交換し、パートナーのウェブサイトのメンバーになります。それは無料です。私たちはあなたのウェブサイトをリンク - あなたは私たちのウェブサイトをリンクします。'
+    more_visitors: ウェブサイトへの訪問者を増やす
+    text:
+      body1: あなたは常に私たちの上に記載されます
+      body2: パートナーのウェブサイト
+      body3: ''
+      full: 'You will always be listed on our partner website'
+    visitors_per_month: 月に3,200万人以上の訪問者が訪れる(Alexa認定)
+    website_ranking: ウェブサイトのランキングが高いほど、リンクが当社のウェブサイトに表示される頻度が高くなります。
+    websites:
+      free_sign_up: ここに無料でウェブサイトを登録し、リストされたパートナーのウェブサイトになります。
+      head: パートナーのウェブサイト
+  footer:
+    affiliate: 'アフィリ エイト'
+    escorts_ads: エスコート広告
+    menu:
+      18usc: '18 米国.C'
+      anti_trafficking: 人身売買の報告
+      customer_service: カスタマーサービス
+      data_collection: 個人データ収集
+      dmca: DMCA
+      environmental_protection: 全売上の1%が環境保護プログラムに費やされています。
+      exchange_links: リンクの交換
+      gay:
+        escort_photos: ゲイエスコート写真
+        escort_videos: 'ゲイ エスコート ビデオ'
+        find_gay_escorts: ゲイエスコートを探す
+        gay_bottoms: ゲイボトムス
+        gay_escort_directory: ゲイエスコートディレクトリ
+        gay_tops: ゲイトップス
+        tinks_under_30: 30歳未満のトゥインク
+      head:
+        information: 情報
+        navigation: ナビゲーション
+      headline:
+        webmaster_affiliate: ウェブマスターと関連会社
+      men:
+        escort_photos: 男性エスコート写真
+        escort_videos: '男性エスコート ビデオ'
+        escort_women: エスコート女性
+        find_male_escorts: 男性の護衛を検索します。
+        gentlemen_escorts: ゲンテルメンエスコート
+        male_escort_directory: 男性エスコートディレクトリ
+        slim_men: スリムな男性
+        tall_men: 背の高い男性
+        young_callboys: 若いコールボーイズ
+      my_account: 自分のアカウント
+      navigation:
+        my_account: マイアカウント
+        place_ads: エスコート広告を配置する
+      partner_websites: パートナーサイト
+      place_escort_ads: 広告を配置する
+      privacy_policy: プライバシーポリシー
+      report_error: エラーの報告
+      report_new_feature: レポート機能または希望
+      server_renewable_energy: 当社のサーバーはすべて100%再生可能エネルギーで動作します。
+      terms_and_provacy: 利用規約
+      women:
+        directory: エスコートディレクトリ
+        dominat: 支配的な女性
+        escort_photos: エスコート写真
+        escort_videos: エスコートビデオ
+        find_escort_girls: エスコートの女の子を見つける
+        gay_trans_escorts: ゲイ&トランスエスコート
+        men_for_women: 女性のためのエスコート男性
+        submissive: 従順な女性
+        under_30: 30歳未満の女性
+        young_callgirls: 若いコールガール
+      youth_protection: 青少年保護エージェント
+    newsletter:
+      cell_phone: セル。。。
+      email_address: '電子メール アドレス.'
+      escort_newsletter: 無料エスコートニュースレター
+      sms:
+        code: コード。。。
+        different_number: 異なる番号
+        send: 送信
+    notifications:
+      customer_recommendations: お客様の推奨事項
+      escort_recommendations: エスコートの推奨事項
+    notifications_for: 通知の対象
+  gps:
+    error:
+      check_browser_settings: 最良の検索結果を得るためにあなたの位置(GPS)を与えるためにあなたのブラウザの設定を確認してください。
+  head:
+    search:
+      placeholder: 場所、都市、郵便番号.
+  headline:
+    black0: 最も
+    black1: サイト
+    favorits:
+      mobile:
+        favorites: お気に入り
+      my_favorites: お気に入り
+    full: 'THE BEST FREE ESCORT SITE'
+    near_me:
+      escorts_near_me: 私の近くのエスコート
+      mobile:
+        radar: レーダー
+    new_escorts:
+      mobile:
+        new: 新しいエスコート
+      new: 新機能
+    online:
+      mobile:
+        now_online: 今すぐオンライン
+      now_online: 'エスコート - 今オンライン'
+    photos:
+      escort_photos: エスコート写真
+      latest: 最新
+      mobile:
+        latest_photos: 最新の写真
+    red: 無料エスコート
+    reviews:
+      escort_reviews: エスコートレビュー
+      mobile:
+        latest_reviews: 最新のレビュー
+    tag:
+      escort_found: エスコートが見つかりました
+      escorts: 護衛
+      escorts_found: エスコートが見つかりました
+      more_than: 以上
+      no: いいえ
+    videos:
+      escort_videos: 'エスコート ビデオ'
+      mobile:
+        latest_videos: 最新のビデオ
+    visitors:
+      my_visitors: 私の訪問者
+  lang:
+    footer:
+      full: 'Visit our translation project on GitHub and help make 321escorts.com accessible to more of our sexy escorts & friends.'
+      text1: 翻訳プロジェクトをご覧ください。
+      text2: Github
+      text3: そして、321escorts.com私たちのセクシーな護衛&友人の多くにアクセスできるようにするのに役立ちます。
+    head:
+      choose: 言語を選択する
+      save:
+        label: 保存
+  last_login:
+    ago: 前
+    capitalized:
+      online: オンライン
+    day: 日
+    days: 日
+    is_online: オンラインです
+    last: 前の
+    mobile:
+      last_login: 最終ログイン
+      online: オンライン
+    online: オンライン
+  mail:
+    contact: 連絡先
+    follow_on_twitter: ツイッターでフォローする
+    go_prime: ゴープライム
+    webmatser_affiliate: ウェブマスターとアフィリエイト
+  menu:
+    favorits: お気に入り
+    mobile:
+      dark_mode: ダークモード
+      light_mode: ライトモード
+    near_me: 私の近く
+    new_escorts: 新しいエスコート
+    online: オンライン
+    photos: 写真
+    reviews: レビュー
+    search: 検索
+    videos: ビデオ
+  mobile:
+    load_more_escorts:
+      detail_search: 今すぐ検索
+      load_more: より多くのエスコートをロード
+      sign_up: もっとその。今すぐ無料でサインアップ
+    menu:
+      chat: チャット
+      favorits: お気に入り
+      radar: レーダー
+      visitors: '訪問 者'
+  modal:
+    gps:
+      escorts_near_me:
+        cancel: キャンセル
+        full: 'Do you want to share your GPS position to see escorts in your area?'
+        headline: 私の地域のエスコート
+        main1: あなたは、表示するために、あなたのGPS位置を共有したいですか?
+        main2_bold: お住みのお住いの地域のエスコート
+        main3: ''
+        mobile:
+          share: 'GPS を共有する'
+        share: GPS位置を共有する
+    notifications:
+      allow_notifications: 通知を許可する
+      error: エラー
+      full: 'Do you want to be informed about new and sexy escorts?'
+      headline: 通知
+      main1: あなたはについて知らされますか?
+      main2_bold: 新しい、セクシーな護衛?
+      main3: ''
+      mobile:
+        allow: 許可
+      ok: わかりました
+      type_new_customers: 新規顧客?
+  newsletter:
+    label:
+      correct_cell_phone: 正しい携帯電話番号は次のとおりです。
+      email:
+        confirm:
+          body: '私たちはあなたに電子メールを送信しました。メールのリンクをクリックして、アドレスを確認します。SMS イベントも受信しますか?'
+          click_link: 電子メールのアクティベーションリンクをクリックしてください
+        head: 電子メールで
+      enabled: 通知が有効
+      sms:
+        code: 'SMS が送信されました。コードを入力してください:'
+        enter_code: '受信した SMS コードを入力します。'
+        head: 'ありがとうございました！SMS を受信しますか?'
+        thank_you: ありがとうございました！
+  next: 次に
+  notifications_enabled: 検索通知が有効になっている
+  notify:
+    thankyou: ありがとうございました
+  order:
+    action:
+      label:
+        full: '140 USD - pay now'
+      text1: '- 今すぐ支払う'
+    best_deal: ベストディール
+    bitcoin:
+      address: アドレス：
+      amount: 量：
+      full: 'You have 30 min. time to scan the code or send the amount to the address:'
+      livecheck:
+        not_received: まだ受け取っていない金額.
+        wainting_for_confirmation: ネットワークの確認を待っています。
+      scan_here: コードをスキャンするか、ここをクリックしてください。
+      text1: あなたが持っている
+      text2: 'コードをスキャンするか、アドレスに金額を送信する時間:'
+    charge:
+      curreny:
+        full: 'Prices will be charged in EUR.'
+        text1: '価格の通貨:'
+        text2: .
+    coupon:
+      add: クーポンを追加
+      billing:
+        text: クーポン(1回)
+      error: 要求が無効です。
+      invalid: クーポンが無効です。
+      placeholder:
+        enter_code: クーポンコード.
+      redeem: 買い戻す
+    cus_features:
+      body:
+        more_chat: チャットの履歴の60日間と無制限のメッセージ、写真やビデオを保存
+        more_escorts: レーダー検索やその他すべての検索結果で最大3倍の護衛を見る
+        more_numbers: '1 日あたり最大 100 の電話番号を表示'
+        no_ads: 広告なしですべてを楽しむ
+        stealth: プロフィールの訪問を削除し、非表示にします。
+        storage: 無制限の写真やビデオをアップロードし、無制限のプロファイルやメッセージを保存します。
+        unlimited_requests: プライベート写真やビデオからの無制限のリクエスト
+        visitor_history: 7日間の歴史は、護衛があなたのプロフィールを訪問し、あなたが訪問した人
+        xxx_content: ハードコア写真やハードコアビデオなど、すべてを見る
+      head:
+        more_chat: その他のチャット
+        more_escorts: その他のエスコート
+        more_numbers: その他の電話番号
+        no_ads: 'AD なし'
+        stealth: ステルスモード
+        storage: 無制限のストレージ
+        unlimited_requests: プライベート写真やビデオからの無制限のリクエスト
+        visitor_history: ビジターヒストリー
+        xxx_content: 'XXX コンテンツ'
+    discount: 割引
+    duration:
+      capitalized:
+        choose: 期間を選択する
+    eotw_features:
+      body:
+        affiliate_impressions: あなたのエスコートプロファイルが表示され、地域と世界中のパートナーサイトの数千人のユーザーに宣伝されています
+        ai_recommendations: 当社の人工知能は、関連する顧客や訪問者に優先してあなたのプロファイルをお勧めします
+        highest_status: あなたのプロフィールは「今週のエスコート」アイコンでマークされ、ステータスはあなたに多くの認識とエスコートの問い合わせを授与します。
+        network_impressions: 当社は、サードパーティのサイトとアフィリエイトネットワークを通じて10,000以上のプロフィールインプレッションを保証します
+        radar_placement: 'レーダー検索とすべての検索結果でトップランキング - プライム護衛と無料護衛の前に。つまり、より多くのいいね、ファン、護衛の問い合わせ'
+        top_ranking: '地域の顧客は、メインのランディング ページの上部に表示されます。'
+      head:
+        affiliate_impressions: プロフィールのアクティブ広告
+        ai_recommendations: 'AI の推奨事項'
+        highest_status: 最高の護衛の状態
+        network_impressions: 10,000毎日のプロフィールインプレッション保証
+        radar_placement: トップレーダーと近傍配置
+        top_ranking: ウェブサイト上のトップ1位
+    features:
+      body:
+        customers: '検索結果に最大 3 倍の顧客を表示'
+        more_chat: チャット履歴の60日間とメッセージ、写真やビデオの無制限のストレージ
+        more_numbers: '顧客から 1 日あたり最大 100 の電話番号を表示'
+        no_ads: 広告なしですべてを楽しむ
+        placement: 'あなたのプロフィールは、無料のエスコートプロファイルの前にすべての検索結果の上に配置されます。より多くのいいねとファン - より多くの予約要求'
+        read_messages: メッセージが読み上がった瞬間を即座に確認できます。
+        stealth: プロフィールの訪問を削除し、非表示にします。
+        storage: 無制限の写真やビデオをアップロードし、無制限のプロファイル、写真、ビデオやメッセージを保存します。
+        translate_chat: 着信メッセージと発信メッセージは自動的に翻訳され、世界中の誰とでも話します。
+        unlimited_requests: プライベート写真やビデオの無制限のリクエスト
+        visitor_history: あなたが訪問した人とあなたのプロフィールを訪問した顧客の7日間の歴史
+        xxx_content: ハードコア写真やハードコアビデオなど、すべての人を見る
+      head:
+        customers: その他の顧客を表示する
+        more_chat: その他のチャット
+        more_numbers: その他の電話番号
+        no_ads: 広告なし
+        placement: プロフィールランキングと訪問者数の増え
+        read_messages: チャット開封済みメッセージ
+        stealth: ステルスモード
+        storage: 無制限のストレージ
+        translate_chat: リアルタイムチャット翻訳
+        unlimited_requests: プライベート写真やビデオの無制限のリクエスト
+        visitor_history: 訪問者の洞察
+        xxx_content: 'XXX コンテンツ'
+    gift:
+      capitalized:
+        choose: ギフトを選ぶ
+    gift1:
+      duration:
+        1m: 1ヶ月
+        1w: 1週間
+        1yr: 1年
+        3m: 3ヶ月
+        4w: 4週間
+        month: 月
+        month1: 月
+        week: 週
+      for: ギフト
+      no_prime: プライムなし
+      send_gift: '- 贈り物を送る'
+      subtitle: ...素晴らしいジェスチャー!
+    head:
+      boost:
+        full: "The Boost! for Tom's profile."
+        text1: ブースト!
+        text2: のプロファイル
+      go_prime_now: 今すぐプライムに行く
+      prime: プライム
+      profile_boost: ブースト!プロフィール用
+      use_all_features: すべての優れた機能を取得します。
+    iban:
+      account: アカウント
+      country:
+        at: オーストリア
+        be: ベルギケ
+        ch: スイス
+        de: ドイツ
+        es: エスパ±ア
+        fr: フランス
+        hu: マジャーロルサン
+        it: イタリア
+        nl: オランダ
+        pl: ポーランド
+        uk: 英国
+      iban: IBAN
+    ideal:
+      amro: アブン・アムロ
+      asn: ASN銀行
+      bunq: bunq
+      combank: 商業銀行
+      ing: ING
+      knab: Knab
+      moneyyou: Moneyou
+      name: 名前
+      rabobank: Rabobank
+      regiobank: RegioBank
+      sns: SNS
+      triodos: 'Triodos Bank'
+      vanlanschot: 'Van Lanschot'
+    info:
+      box:
+        full: 'You allows us to renew 3 month and recharge your card after the Prime membership expires. Your subscription will be automatically renewed until you decide to cancel.'
+        full1: 'Your subscription will be automatically renewed until you decide to cancel.'
+        no_autorew:
+          full: 'Your Prime subscription will not be renewed automatically.'
+          text1: あなたの
+          text2: サブスクリプションは自動的に更新されません。
+        provider: あなたの声明には「321エンターテインメント」と書かされます。
+        text1: あなたは私たちが更新することを許可します
+        text2: 後にカードを充電し直す
+        text3: プライム会員の有効期限が切れた。
+        text4: キャンセルを決定するまで自動的に更新されます。いつでもキャンセルできます。
+      change_duration: 期間を変更する
+      total: 合計
+      vat_tax: '適用可能な場合は VAT'
+      your_duration: 'あなたの期間:'
+    method:
+      bitcoin: Bitcoin
+      cc:
+        info: '裏面の最後の 3 桁または 4 桁'
+        label: クレジットカード
+        placeholder:
+          ccv: Cvv
+          credit_card: クレジットカード
+          month_year: 月/年
+          name_on_card: カードの名前
+      eps: EPS
+      giropay: ジロペイ
+      iban: 'IBAN 口座振替'
+      ideal: iDeal
+      paysafecard: Paysafecard
+      sofort: Sofort
+    methods:
+      head: 'お支払い方法:'
+      label: 'クレジットカード, マエストロ, 電信送金, ペイセーフカード, ビットコイン'
+    nonrecurring: 臨時
+    order_history: 注文履歴
+    prime: PRIME
+    prod:
+      duration:
+        1m: 1ヶ月
+        1yr: 1年
+        3m: 3ヶ月
+      duration1:
+        1m: 1ヶ月
+        1y: 1年
+        3m: 3ヶ月
+      duration2:
+        1w: 1週間
+        1yr: 1年
+        4w: 4週間
+    provider:
+      label: 'すべてのデータは、Powercash21 Ltdによって処理され、保護されています。'
+      label2: あなたの声明には「321エンターテインメント」と書かされます。
+    subscription: サブスクリプション
+    subscription_for: のサブスクリプション
+    subscription_for1: あなたのサブスクリプション
+    your_subscription: サブスクリプション
+    your_subscription1: あなたのサブスクリプション
+  password_forgotten:
+    email: '電子メール アドレスまたはプロファイル名:'
+    mail:
+      body: 要求されたパスワードは次のとおりです。
+      change_password: まずログインしてパスワードを変更してください。
+      hello: こんにちは
+      subject: あなたの資格情報
+    send: 送信
+    sign_in: サインイン
+    success:
+      change_password: まずログインしてパスワードを変更してください。
+      label: 住所が見つかった場合は、メールをお送りします。スパムフォルダも調べています。
+  payment:
+    error:
+      cc:
+        missing_data: クレジットカード情報は必にご記入ください。
+        number: カード番号が正しくありません。
+      enter_name: 名前を入力してください
+      iban: '名前と IBAN を入力してください。'
+      invalid_iban: 'IBAN が無効です。'
+      method: エラーが発生しました。後でもう一度お試しください。
+      select_payment: 選択してください。
+      select_payment1: 選択してください。
+    gift:
+      email:
+        body:
+          full: 'You can also view your order for Tom in your booking history at any time.'
+          text1: の注文を表示できます。
+          text2: また、あなたの注文履歴に。
+        hello: こんにちは
+        thank_you:
+          to: あなたの贈り物をありがとう
+      for: ''
+      notify:
+        full: 'We have sent Tom a message that you have sent a gift.'
+        text1: 私たちは送った
+        text2: あなたが贈り物を送ったメッセージ:-)
+      notify1:
+        full: 'The user Tom just sent you a gift.'
+        text1: ユーザー
+        text2: 'ちょうどあなたに贈り物を送った:'
+      notify2:
+        full: 'Tom would certainly be happy to thank you.'
+        text1: 「ありがとう」と言えば幸せでしょう:-)
+      notify3:
+        full: 'Open chat with Tom and send a "Thanks" :-)'
+        text1: チャットを開く
+        text2: そして\"ありがとう\"を送る:-)
+      notify4:
+        full: 'Received a gift from Tom.'
+        text1: から受け取ったギフト
+        text2: ''
+      order:
+        history: いつでもアカウントで注文履歴を表示できます。
+        thank_you: ご注文いただきありがとうございます!
+        thank_you1: ご注文いただきありがとうございます
+        thank_you2: ご注文いただきありがとうございます
+      thank_you:
+        from: から贈り物を受け取った
+        to: あなたの贈り物をありがとう
+    prod:
+      prime_1m: 1ヶ月間のプライム
+      prime_1yr: 1年間のプライム
+      prime_3m: 3ヶ月間のプライム
+    prod1:
+      eotw_1w: '今週のエスコート - 1週間'
+      eotw_1yr: '今週のエスコート - 1年'
+      eotw_4w: '今週のエスコート - 4週間'
+      prime_1m: 1ヶ月間のプライム
+      prime_1yr: 1年間のプライム
+      prime_3m: 3ヶ月間のプライム
+  private_gallery:
+    full: "Tom's private gallery"
+    head:
+      capitalized: プライベートギャラリー
+    photos:
+      error:
+        selfrequest: 自分でリクエストを送信することはできません
+      signup: からプライベート写真を見るために今すぐサインアップ
+    photos_videos:
+      full: 'Request access from Tom for the private photos and videos.'
+      text1: アクセスの要求
+      text2: プライベート写真やビデオ用。
+    private_photos:
+      full: "Tom's private photos"
+      label: プライベート写真
+      request_access: 今すぐアクセス権を要求します。
+      signup: 登録すると、すべての写真が表示されます。
+      text: のプライベート写真
+    private_videos:
+      full: "Tom's video"
+      head: ビデオ
+      text: のビデオ
+    text: プライベートギャラリー
+    videos:
+      full: 'Sign up to see all videos from Tom.'
+      text1: からすべての動画を見るためにサインアップ
+      text2: .
+  review:
+    all: すべての
+    anonymous: 匿名
+    attr:
+      ambience:
+        bad: 悪い
+        label: 雰囲気はどうですか?
+        normal: 通常
+        relaxed: リラックス
+        text: 雰囲気
+        very_relaxed: 非常にリラックス
+      anonymous:
+        label: あなたのレビューは匿名でなければなりませんか?
+        no: いいえ
+        yes: はい
+      duration:
+        1hr: 1時間
+        1week: 1週間
+        1week_more: 1週間以上
+        2days: 2日
+        2hrs: 2時間
+        3days: 3日間
+        3hrs: 3時間
+        4days: 4日間
+        4hrs_more: 4時間以上
+        5days: 5日間
+        6days: 6日間
+        label: 期間。
+        lt_1hr: '1 時間未満'
+        overnight: 一晩
+      photos:
+        label: 最新の写真
+        no: いいえ
+        uptodate: はい、最新の状態
+      photos_uptodate:
+        label: 写真は最新ですか?
+        no: いいえ
+        yes: はい、最新の状態です
+      recommend:
+        full: 'Can you recommend Tom?'
+        no: いいえ
+        text1: あなたは推薦することができます
+        text2: '?'
+        yes_absolutely: はい、絶対に
+      recommendation: 勧告
+      visability:
+        own_profile: プロフィールにレビューを表示しますか?
+    error:
+      exists:
+        full: 'You already wrote a review for Tom.'
+        text1: 既にレビューを書いた
+        text2: .数日後に新しいレビューを書くことができます。
+      login_required: レビューを書くためにログインする必要があります。
+      too_long: あなたのレビューが長すぎる、それを少し制限してください。
+      too_many_requests: 現時点では、あなたからのこれ以上のレビューは受け付けないでください。
+      too_short: '20 文字以上の有効なレビューを書いてください。'
+      too_short1: '20 文字以上の有効なレビューを書いてください。'
+      too_short2: 少なくとも20文字.
+    full2: 'Review for Tom.'
+    head: あなたの日付の評価してください。
+    head2: あなたの日付を評価する
+    info:
+      star:
+        '1': 悪い
+        '2': わかりました
+        '3': よし
+        '4': 非常にいいです
+        '5': たいへん良い
+    no_review: レビューが入力されていません。
+    of_5: 5の
+    read_full_review: 全レビューを読む
+    send_review: レビューを送信する
+    success: ありがとうございました！私たちはあなたのレビューをチェックし、できるだけ早くそれをアクティブにします。
+    text:
+      overall_rating: '総合評価:'
+      review: レビュー
+      reviews: レビュー
+    text2:
+      text: のレビュー
+    time_spent: 過ごした時間
+    to: ''
+    translation:
+      full: 'Translation of the original review.'
+      text1: の翻訳
+      text2: 元のレビュー
+    viel_all_reviews: すべてのレビューを表示
+    viel_reviews: レビューを表示する
+    write_review: レビューを書く.
+  reviews:
+    latest: 最新
+  search:
+    filter: フィルター
+    fitler:
+      apply: 適用
+      filter: フィルター：
+      online: オンライン
+      placeholder: を検索します。(テキスト、#tag、名前)
+      reset: リセット
+      with_photo: 写真付き
+      with_video: ビデオ付き
+    looking_for: '私は探しています:'
+    option:
+      online_now: 今すぐオンライン
+      with_photos: 写真のみ
+      with_video: ビデオ付き
+    placeholder: テキスト、#tag、名前を検索する
+    results:
+      distance: 距離
+      head:
+        escort: 護衛
+        escorts: 護衛
+        found: ''
+        full: '345 Gay Escorts in Paris, France'
+        gay: ホモの人
+        in: インチ
+        men: 男性
+      head0:
+        escorts_found: エスコートが見つかりました。
+        fl_capitalized:
+          no: いいえ
+        full1: '500 Escorts found.'
+        full2: 'No Escorts found.'
+        full3: 'More than 600 Escorts found.'
+        more_than: 以上
+        no: いいえ
+      list:
+        ad:
+          learn_more: 詳細については、ここをクリックしてください。
+        bra_size: 'ブラジャーサイズ:'
+        contact: 連絡先
+        escort_girls_in: エスコート女の子
+        gay_escorts_in: ゲイエスコートで
+        male_escorts_in: 男性エスコートで
+        price_1hr: 1時間分の価格
+        price_overnight: 一晩の価格
+        profile: プロファイル
+        years: 年
+      more:
+        go_prime: '3倍の護衛を参照してください - 行くプライム!'
+      more1:
+        go_prime: 3倍の護衛を参照してください!プライムに行く!
+      new_search: 新しい検索
+    search_results_expired: 検索の有効期限が切れています。ここをクリックして新しい検索を開始します。
+    select:
+      age_min: 年齢分
+      btn:
+        label: 検索護衛
+      cm: cm
+      height_min: 身長分
+      km: kg
+      max: 最大
+      sort:
+        alphabetically: アルファベット
+        distance: 距離
+        label: 並べ替え：
+        last_login: 最終ログイン
+        new_customers: 新規顧客
+        new_escorts: 新しいエスコート
+      weight_min: 重量分
+    type:
+      customers: 顧客
+    use_current_location: 現在の場所を使用
+    view: ビュー
+    with_orientation: オリエンテーション付き
+  search_notifications_disabled: 検索通知が無効
+  send_gift:
+    full: 'Send a gift'
+    prime: プライムギフトを送る
+    text1: 送信
+    text2: 贈り物
+  signin:
+    404_not_found: '404 ページが見つかりません'
+    auto:
+      facebook: フェイスブックでサインインする
+      google: グーグルでログイン
+      twitter: ツイッターでサインインする
+    error:
+      check_credentials: 資格情報を確認してください。
+    label: サインイン
+    name_or_email: 'プロファイル名またはメールアドレス:'
+    new: 321エスコートで新しい?
+    password_forgotten:
+      head: パスワードを忘れた
+      label: パスワードを忘れてしまった?
+    remember_password: ログインしたまま
+    sign_in:
+      head: サインイン
+      label: 321エスコートにサインイン
+    signup: 無料で登録する
+  signup:
+    amateur: アマチュア
+    back: 戻る
+    beard: ひげ。。。
+    body: 体。。。
+    body_hair: 体毛.
+    bra_size: ブラジャーサイズ.
+    cell_phone_number: 携帯電話番号
+    choose_profile_name: プロファイル名を選択します。
+    cock: コック
+    code_is: コードは次のとおりです。
+    companion: 仲間
+    day: 日
+    dob: 生年月日
+    email:
+      activation_link: 'リンクをクリックして無料登録を確認してください:'
+      hello: こんにちは
+      subject: 登録を確認してください
+      url: 321escorts.com
+      welcome: 321escorts.comへようこそ
+    enter_location: 場所を入力
+    error:
+      already_confirmed: プロフィールは既に確認されています。
+      confirmed_failed: 確認に失敗しました。
+      failed: 登録に失敗しました。
+      headline_required: 見出しが必要です。
+      invalid_cell_phone: 携帯電話番号が無効です。
+      invalid_code: コードが無効です。
+      invalid_profile_name: プロファイル名が無効です。
+      password: パスワードが一致しないか、パスワードが短すぎます。
+      profile_name_exists: 名前は既に存在します。
+    escort: 護衛
+    ethnicity: 民族。。。
+    eyes: 目
+    fetish: フェティッシュ
+    form:
+      already_signed_in: 既にサインアップしていますか?
+      cock:
+        type: 型
+      email: 電子メール：
+      head:
+        text: 'サインアップ - それは無料です'
+      label: サインアップ
+      login: ログイン
+      or: または
+      password:
+        label: パスワード：
+        placeholder: '6 文字以上'
+      prices:
+        currency: 通貨
+      profile: プロファイル：
+      retype_password: 'パスワードをもう一度入力:'
+      signup_facebook: フェイスブックでサインアップ
+      signup_google: グーグルで登録する
+      signup_twitter: ツイッターでサインアップ
+    fucking: クソ
+    hair: 髪
+    hair_color: 髪の色
+    headline: 見出し。。。
+    height_weight: 身長と体重..
+    i_am: 私は。。。
+    i_speak: 私は話す..
+    imperial: 帝国
+    massage: マッサージ
+    modeling: モデリング
+    month: 月
+    my_height: 私の身長は..
+    my_location: 自分の所在地
+    my_prices: 私の価格
+    next: 次に
+    no: いいえ
+    pornstar: あなたはポルンスターですか?
+    price:
+      ask: 求める
+      currency:
+        aed: AED
+        ars: ARS
+        aud: AUD
+        brl: BRL
+        cad: CAD
+        chf: CHF
+        cny: CNY
+        czk: CZK
+        dkk: DKK
+        eur: EUR
+        gbp: GBP
+        hkd: HKD
+        huf: HUF
+        idr: IDR
+        inr: INR
+        jpy: JPY
+        myr: MYR
+        nok: NOK
+        nzd: NZD
+        php: PHP
+        rub: RUB
+        sar: SAR
+        sek: SEK
+        sgd: SGD
+        thb: THB
+        usd: USD
+      hour: 時間
+      overnight: 一晩
+    prices: 価格
+    profile: プロファイル
+    profile_headline: あなたのプロフィールの見出し..
+    role: 役割
+    safer_sex: より安全なセックス
+    select_location: 場所の選択
+    service_locations: サービスの場所
+    services: サービス
+    skip: スキップ
+    sm_bdsm: Sm
+    stripping: 除去
+    terms:
+      error: 利用規約に同意してください。
+      full: 'Yes, I have read and accept the Terms and Policy.'
+      label: 用語
+      text1: はい、私は読んで受け入れています
+      text2: 'Terms and Policy.'
+      text3: ''
+    type:
+      bisexual: バイセクシャル
+      customer: 顧客
+      escort: 護衛
+      gay: ホモの人
+      lesbian: 女性の同性愛者
+      man: 男
+      straight: ヘテロ
+      trans: トランス
+      woman: 女性
+    upload:
+      file_limit: 'ファイル サイズは 5 MB に制限されています。'
+      filesize: 'ファイル サイズは 5 MB に制限されています。'
+      label: アップロード
+      profile_photo: プロフィール写真
+    use_current_location: 現在の場所を使用
+    video: ビデオ
+    year: 年
+    yes: はい
+  start:
+    head:
+      load_more: より多くの護衛をロード
+      new_escorts: 新しいエスコート
+      new_prime_escorts: 新しいプライムエスコート
+    partner:
+      exchange_links: リンクの交換
+      label: 'パートナーウェブサイト:'
+  telegram:
+    bot:
+      activate: ボットをアクティブ化する
+      app: アプリ
+      deactivate: ボットの無効化
+      error: 'エラー: 後でもう一度やり直してください'
+      headline: テレガムボット
+      label: 'エスコート & 経由ニュース'
+      message:
+        featured: このボットは、接続を維持するのに役立ちます。
+        welcome: あなたの個人的なエスコートボットへようこそ
+        welcome_back: あなたの個人的なエスコートボットへようこそ
+  user:
+    action:
+      call_me: 電話してください
+      hide_visit: 訪問を非表示にする
+      view_phone_number: ここをクリックして、電話番号を表示します。
+    attr:
+      age: 年齢
+      beard: ひげ
+      body: 体
+      body_hair: ボディヘア
+      bra_size: ブラジャーサイズ
+      cock: コック
+      cock_size_L: L,
+      cock_size_M: M,
+      cock_size_S: S,
+      cock_size_XL: XL,
+      cock_size_XXL: XXL,
+      cock_type_cut: 切る
+      cock_type_uncut: ノーカット
+      dirty: 汚い
+      escort_services:
+        label: サービス
+        men:
+          companion: 仲間
+          escort: 護衛
+          massage: マッサージ
+          modeling: モデリング
+          stripping: 除去
+          video: ビデオ
+        women:
+          companion: 仲間
+          escort: 護衛
+          massage: マッサージ
+          modeling: モデリング
+          stripping: 除去
+          video: ビデオ
+      eyes: 目
+      fetish: フェティッシュ
+      fisting: フィスティング
+      fucking: クソ
+      hair: 髪
+      hair_color: 髪の色
+      height: 高さ
+      i_speak: 私は話す
+      kissing: キス
+      label:
+        no: いいえ
+        occasionally: 時折
+        yes: はい
+      oral: 経口
+      piercings: ピアス
+      role: 役割
+      safer_sex: より安全なセックス
+      service_locations:
+        label: サービスの場所
+      sexual_orientation: 方向
+      sm_bdsm: Sm
+      tattoos: 入れ墨
+      type: 型
+      weight: 重量
+      zodiac: 干支
+    beard:
+      3_day_beard: 3日間のひげ
+      full_beard: 完全なひげ
+      goatee: あごひげ
+      label: ひげ：
+      mustache: 口ひげ
+      no_beard: あごひげなし
+    block:
+      error:
+        general: エラーが発生しました。
+        signup: 無料でサインインするか、サインアップしてください。
+      full: 'Do you really want to block Tom?'
+      info:
+        full: 'If you block Tom, the user will no longer be able to access your profile.'
+        label: ブロック
+        text1: ブロックする場合
+        text2: を選択すると、ユーザーはプロファイルにアクセスできなくなります。
+      label: ブロック
+      modal:
+        close: 閉じる
+      text1: あなたは本当にブロックしたいですか?
+      text2: '?'
+    body:
+      athletic: 運動
+      female:
+        bodybuilder: ボディービルダー
+        chubby: 'ぽっ ちゃり'
+        large: 大きな
+      label: 体：
+      male:
+        belly: 軽い腹
+        bodybuilder: ボディービルダー
+        stocky: 'ずんぐり した'
+      normal: 通常
+      slim: スリム
+    body_hair:
+      label: 'ボディヘア:'
+      little_hair: 小さな髪
+      medium_hair: 中型の髪
+      shaved: '剃 毛'
+      smooth: スムーズ
+      very_hairy: 非常に毛深い
+    bra_size:
+      a: A
+      b: B
+      c: C
+      d: D
+      e: E
+      f: F
+      g: G
+      h: H
+      i: 私
+      j: J
+      label: 'ブラジャーサイズ:'
+    cancel: キャンセル
+    chat:
+      chat_with_me: 私とチャット
+      click_here:
+        full: 'Click here to chat with Tom'
+        text1: チャットするにはここをクリック
+        text2: ''
+    cock:
+      label: コック：
+      size_L: L
+      size_M: M
+      size_XL: Xl
+      size_XXL: Xxl
+      size_s: S
+    cock_type:
+      cut: カット
+      label: 'コックタイプ:'
+      uncut: ノーカット
+    contact_me: お問い合わせ
+    copy_link: リンクをコピー
+    customer: 顧客
+    dirty:
+      label: 汚い：
+      no: いいえ
+      ns_only: はい、NSのみ
+      yes: はい
+    error:
+      missing_headline: 'エラー: プロフィールに見出しを入力してください (5 文字分)'
+      missing_profile_text: 'エラー: プロフィールのプロフィールテキストを入力してください(15文字分)。'
+    escort:
+      fetish:
+        boots: ブーツ
+        business: ビジネス
+        corset: コルセット
+        costumes: 衣装
+        craftsmen: 職人
+        high_heels: ハイヒール
+        jeans: ジーンズ
+        leather: 革
+        lingerie: ランジェリー
+        lycra_nyloon: ライクラとナイロン
+        ravers: レイバーズ
+        rubber_latex: ゴムとラテックス
+        skater: スケーター
+        skin_punks: スキンとパンク
+        sneakers_socks: スニーカーとソックス
+        sportsgear: スポーツギア
+        suspenders: サスペンダー
+        underwear: 下着
+        uniform: 均一
+        vinyl: ビニール
+      locations:
+        car: 車
+        hotel: ホテル
+        incall: あなたの場所の呼び出し
+        outcall: 私の場所のアウトコール
+        outdoor: 屋外
+      services:
+        companion: 仲間
+        escort: 護衛
+        massage: マッサージ
+        modeling: モデリング
+        none: なし
+        stripping: 除去
+        video: ビデオ
+    escort_services:
+      label: サービス：
+    ethnicity:
+      female:
+        arab: アラブの女性
+        asian: アジア
+        black: 黒
+        european: ヨーロッパ
+        indian: インド
+        latina: ラティーナ
+        mixed: 混合
+        southerner: サザンナー
+      label: 'エテニチ:'
+      male:
+        arab: アラブ
+        asian: アジア
+        european: ヨーロッパ
+        indian: インド
+        latino: 'ラテン 系'
+        southerner: サザンナー
+    eyes:
+      blue: 青
+      brown: 茶色
+      green: 緑
+      grey: 灰色
+      label: 目：
+      other: 他
+    fetish:
+      label: 'フェチ:'
+    fisting:
+      label: 'フィスティング:'
+    follower: フォロワー
+    gay:
+      fucking:
+        bottom_only: 下のみ
+        label: クソ：
+        no_anal: アナルなし
+        top_only: トップのみ
+        vers_bottom: versボトム
+        vers_top: versトップ
+        versatile: '汎用 性'
+    gift:
+      prime_oetw: '私に贈り物を送ってください - プライムまたは今週のエスコートとして私を宣伝'
+      send_prime: プライムを送る
+    hair:
+      bald: はげ
+      half_long: 半長
+      label: 髪：
+      long: 長い
+      punk: パンク
+      short: 短い
+    hair_color:
+      black: 黒
+      blonde: ブロンド
+      brown: 茶色
+      grey: 灰色
+      label: '髪の色:'
+      light_brown: ライトブラウン
+      other: 他
+      red: 赤
+    hashtags: ハッシュタグ：
+    i_vitis: 私は訪問します
+    kissing:
+      label: キス：
+    language:
+      i_speak: '私は話す:'
+    last_login:
+      label: '最後のログイン:'
+      now_online: 今すぐオンライン
+      offline: オフライン
+    likes: 好き
+    list:
+      photo: 写真
+      photos: 写真
+      private_photo: プライベート写真
+      private_photos: プライベート写真
+      reviews: レビュー
+      video: ビデオ
+      videos: ビデオ
+    menu:
+      contact: 連絡先
+      mobile:
+        contact_me: お問い合わせ
+        write_review: レビューを書く
+      photos: 写真
+      reviews: レビュー
+    mobile:
+      write_review: レビューを書く
+    modal:
+      ok: わかりました
+      phone: 電話：
+      start_chat: チャットを開始する
+      whatsapp: Whatsapp：
+    my_hashtags: 私のハッシュタグ
+    my_hashtags1: '私のハッシュタグ:'
+    my_places: 'マイ プレイス'
+    no_photos: 申し訳ありませんが、まだ写真がありません:(
+    nonsmoker:
+      female:
+        label: 禁煙
+      male:
+        label: 禁煙
+    number:
+      code: コードは次のとおりです。
+      dont_show: 表示しない
+      error:
+        daily_limit: '1 日の制限に達しました'
+        daily_limit2: '1 日の制限に達しました'
+        go_prime: 今すぐプライム会員になる
+        invalid_code: コードが無効です。
+        invalid_number: 携帯電話番号が無効です。
+        limit: '1 日に表示できる電話番号は 50 個のみです。その間にチャットを使用することができます。'
+        no_number: 現在、電話番号はありません。その間にチャットを使用してください。
+        signup: より多くの電話番号を見るために無料でサインアップしてください。
+      go_prime: 今すぐプライム会員になろう。プライム会員は、1日あたり最大50の電話番号を表示できます。
+      verify_number: 番号を入力して確認してください
+    oral:
+      active: アクティブ
+      active_and_passive: アクティブおよびパッシブ
+      label: 経口：
+      no: いいえ
+      passive: パッシブ
+    piercings:
+      label: ピアス：
+      no: いいえ
+    pornstar:
+      label: 女優：
+    price:
+      not_shown: 表示されていません
+    prices:
+      label: 価格
+      per_hour: '1 時間あたり'
+      per_night: 1泊あたり
+    private_gallery:
+      access_requested:
+        error:
+          full: 'Please write Tom a message'
+          self: 自分でリクエストを送信することはできません。
+          text1: ご記入ください
+          text2: メッセージ
+        label: アクセスが要求されました
+      access_requested1: アクセスが要求されました。
+      denied:
+        full: "Tom can't see your private photos and videos."
+        grant: アクセス権の付与
+        text1: プライベートな写真や動画が表示されない。
+      denied1:
+        full: 'Tom may not see your photos and videos.'
+        grant_click:
+          full: 'Tom can see your private gallery.'
+          text1: ここをクリック
+          text2: あなたのプライベートギャラリーを見ることができます。
+        text: あなたの写真やビデオが表示されない場合があります。
+      error:
+        full: 'Please write Tom a message'
+        text1: ご記入ください
+        text2: メッセージ
+      granted:
+        full: 'Tom can now see your photos and videos.'
+        text1: これで、あなたの写真やビデオを見ることができます。
+      limit:
+        full: 'Today, you have 50 requests remaining.'
+        text1: 今日、あなたは
+        text2: 残り。
+        text3: 残り。
+      profile: のプロファイル
+      request:
+        full: 'Grant access to your private photos and videos for Tom.'
+        label: 要求
+        text1: のプライベート写真やビデオへのアクセスを許可します。
+        text2: .
+      request_access: アクセスの要求
+      requests:
+        label: 要求
+      unlimit:
+        full: 'Become a Prime member to make unlimited requests.'
+        text1: プライム会員になる
+        text2: 無制限
+        text3: 要求。
+    profile_paused:
+      full: 'Tom has paused the profile. You cannot contact the user at this time. Follow Tom to stay up to date.'
+      text1: プロファイルを一時停止しました。この時点では、ユーザーに連絡できません。従う
+      text2: 最新の状態に保つために。
+    profile_suspended: このプロファイルは中断されました。
+    rating:
+      out_of_5: 5つ星の
+    recommend_me: 私を推薦する
+    report:
+      brief_desc: 何が起こったのか簡単に書いてください。
+      cat:
+        '1':
+          head: スパム
+          text: 広告の理由から、外部リンクをクリックするように求めるユーザー
+        '2':
+          head: 侮辱やいじめ
+          text: 暴力、虐待、個人データの漏えい、ハラスメントの脅威
+        '3':
+          head: ヘイトスピーチ/差別
+          text: 侮辱的な言葉、写真など
+        '4':
+          head: 少数
+          text: 18歳未満のユーザー、18歳未満の人との写真/ビデオ
+        '5':
+          head: 不適切な活動
+          text: 麻薬、その他の違法品の広告販売
+        '6':
+          head: '擬人 化'
+          text: その他の人、保護された写真/ビデオ、不適切なサービス
+        '7':
+          head: 他
+        main: どうしたんですか。
+      error:
+        contact_us: お問い合わせください。
+        exists:
+          full: 'You already reported the user Tom several times. Please wait for our review.'
+          text1: 既にユーザーを報告しました
+          text2: 数回。私たちのレビューを待ってください。
+        login_required:
+          full: 'You must be logged in order to report Tom.'
+          text1: レポートするには、ログに記録する必要があります
+          text2: .
+        too_long: 入力が長すぎますので、テキストを短くしてください。
+        too_many_requests: 現時点では、あなたからのそれ以上の要求は受け付けないでください。
+        too_short: 少なくとも20文字、何が起こったのか簡単に私たちに書いてください。
+      info:
+        label: 'レポート プロファイル'
+        text: プロフィールに不適切な写真や盗まれた写真が含まれていないと思う場合は、証拠を当社までお問い合わせください。
+      main: 'レポートユーザー:'
+      report_profile: 'レポート プロファイル'
+      success: ありがとうございました！苦情を確認します。
+    review:
+      back: 戻る
+      empty_review: 'レビュー テキストがありません。'
+      from: 差出人
+      next: 次に
+      overall_rating: 総合評価
+      to: 宛先
+    role:
+      dominant_and_submissive: 支配的で従順
+      dominant_only: 支配的なだけ
+      label: 役割：
+      submissive_only: 従順のみ
+      versatile_dominant: 汎用性の高い支配的な
+      versatile_submissive: 汎用性の高い従順
+    safer_sex:
+      always: いつも
+      label: 'より安全なセックス:'
+      needs_discussion: 議論が必要
+      never: ぜんぜん
+      prep: PrEP
+      tasp: TasP
+    save_share: 自分のプロフィールを保存して共有します。
+    service_locations:
+      label: 'サービスの場所:'
+    sexual_orientation:
+      bisexual: バイセクシャル
+      gay: ホモの人
+      label: 方向：
+      lesbian: 女性の同性愛者
+      straight: ヘテロ
+      trans: トランス
+    share: 共有
+    share_profile: 共有プロファイル
+    show_all_videos: すべてのビデオを表示
+    show_less: 表示を少なくする
+    show_more: もっと表示する
+    sm_bdsm:
+      label: Sm：
+      no_sm: 'いいえ SM'
+      sm: Sm
+      soft_sm: 'ソフト SM のみ'
+    smoker:
+      female:
+        label: '喫煙 者：'
+        label1: '喫煙 者'
+      label: 時折
+      male:
+        label: '喫煙 者'
+        label1: '喫煙 者：'
+    start_chat: チャットを開始する
+    tags: タグ：
+    tattoo:
+      few: 'いくつ か'
+      label: 入れ墨：
+      many: 多く
+      no: いいえ
+    time:
+      infront_of_date:
+        full: 'on 2020-02-28'
+        text: ''
+    type:
+      eotw: 今週のエスコート
+      escort: 護衛
+      free: 無料
+      prime: プライム
+      prime_customer: プライムカスタマー
+    unblock: 解除
+    video:
+      title:
+        full: "Tom's Video"
+        text1: のビデオ
+    views: 表示モード：
+    write_review: 私についてのレビューを書いてください。
+    write_review_for:
+      full: 'Write Review for Tom'
+      text1: レビューの書き込み
+      text2: ''
+    xxx:
+      go_prime: XXXの写真しか持ってなの。すべての写真を見るために今プライムメンバーになります。
+      request_access: プライベート写真のみ持っています。アクセスをリクエストする方法はこちら。
+    zodiac:
+      aquarius: アクエリアス
+      aries: '牡羊 座'
+      cancer: がん
+      capricorn: '山羊 座'
+      gemini: ジェミニ
+      label: 干支：
+      leo: レオ
+      libra: '天秤 座'
+      pisces: '魚 座'
+      sagittarius: 射手座
+      scorpio: '蠍 座'
+      taurus: 'おうし 座'
+      virgo: '乙女 座'
+  visits:
+    external_visit: 外部訪問
+    external_visit1: 外部訪問
+    no_visitors: あなたは今、訪問者を持っていません。
+    show_visit: 訪問を表示
+    unregistered_user: 未登録のユーザー
+    view: ビュー
+    view_location: 場所の表示
+    website_visitor: ウェブサイトの訪問者
+  vivits:
+    visit_ago: 訪問
+modal:
+  error:
+    location_blocked: ブラウザで位置情報の共有をブロックしました。有効にすると、最適な検索結果が表示されます。
+  share_location: あなたの近くの護衛を見るためにあなたの場所を共有します。
+  verify:
+    agree: '同意する - 321エスコートを入力してください'
+    and: そして
+    disagree: '私は反対 - このサイトを終了'
+    looking_for: '私は探しています:'
+    policy: プライバシーポリシー
+    terms: 利用規約
+  warning: このウェブサイトは、大人の資料が含まれていますので、18歳未満の人は禁止されています。ウェブサイトに入ることで、私は18歳以上の私を確認し、同意します。
+newsletter:
+  email:
+    body: リンクをクリックして、ニュースレターの登録を確認してください。
+    footer: ''
+    subject: ニュースレターの登録を確認してください
+    welcome: 321escorts.comへようこそ
+  error:
+    email: '電子メール アドレスが無効です。'
+    general: エラーが発生しました。
+  sms:
+    code: コードは次のとおりです。
+    error:
+      cell_phone: これは有効な携帯電話番号ではありません。
+      code: コードが正しくありません。
+notifications:
+  cancel: これらの通知は受け取らなくなります。通知設定は、ここで管理できます。
+  disable: 無効
+  enable: 有効
+  error:
+    click_here: 'エラー: ここをクリックしてください'
+    link_not_found: 要求されたリンクが見つかりませんでした。
+    try_later: 後でもう一度やり直してください。
+search:
+  attribute:
+    body: 体
+    body_hair: ボディヘア
+    bra_size: ブラジャーサイズ
+    cock_size: コック
+    cock_type: コックタイプ
+    dirty: 汚い
+    escort_locations: 場所
+    escort_services: エスコートサービス
+    ethnicity: 民族
+    eye_color: 目
+    fetish: フェティッシュ
+    gay:
+      fisting: フィスティング
+      fucking: クソ
+    hair_color: 髪の色
+    hair_type: 髪
+    kissing: キス
+    language: 言語
+    misc: 他
+    oral: 経口
+    role: 役割
+    safer_sex: より安全なセックス
+    sm_bdsm: Sm
+    zodiac: 干支
+  label:
+    disable: 無効
+    enable: 有効
+  notifications_enabled: 通知が有効になっている
+  notifications_enabled2: 通知が有効になっている
+  title:
+    new_escorts: 新しい護衛が利用可能なときに私に知らせてください
+  title2:
+    new_escorts: 新しい護衛が利用可能なときに私に知らせてください
+signup:
+  domain: 321escorts.com
+  message:
+    hello: こんにちは
+    new_sale: 'アフィリエイトプログラムにご参加いただきありがとうございます。すべての詳細、統計、支払いはここで見ることができます:'
+    subject:
+      new_sale: 'あなたは成功したアフィリエイトセール(サインアップ)を持っています -'
+      recurring_sale: ''
+site:
+  head:
+    escort_of_the_week: 今週のエスコート
+    go_prime: ゴープライム
+    join_for_free: 無料で参加
+    logout: ログアウト
+    search: 検索
+    sign_in: サインイン
+    sign_up: サインアップ
+    upgrade:
+      boost_me: 私を後押し!
+      boosted: 後押し！
+      escort_of_the_week: 今週のエスコートにアップグレード
+      go_prime: ゴープライムにアップグレード
+      main: アップグレード
+    upgrade2:
+      escort_of_the_week: 今週のエスコートにアップグレード
+  type:
+    gay: ホモの人
+    men: 男性
+    women: 女性
+system:
+  metric:
+    k: k
+    m: m
+user_followers: 信者
+user_liked: という感じで！
+user_one_follower: フォロワー
+verification:
+  success:
+    email_address: メールアドレスが正常に確認されました。
