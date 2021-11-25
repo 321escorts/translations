@@ -1,0 +1,2843 @@
+---
+ads:
+  account:
+    order:
+      history:
+        th:
+          status: 地位
+    verification:
+      upload:
+        file:
+          text: '系统已检测到您的订单存在高风险。因此，我们要求您上传身份证明（例如图片 ID、护照或驾驶执照）和信用卡正面的照片。检查后，我们将处理您的订单。然后，您上传的文件将被自动删除。'
+ba:
+  account:
+    autocharge:
+      add_funds: 达到金额时添加资金
+      amount: 量
+      cc: 信用卡
+      disable: 禁用
+      enable: 使
+      error:
+        cc: 向帐户添加资金时，请先保存信用卡。
+      head: 自动添加资金
+      save: 救
+      type:
+        auto: 自动
+        manually: 手动
+    credentials:
+      currrent_password: 当前密码
+      new_password: 新密码
+      password: 密码
+      retype: 重新键入新密码
+    data:
+      account: 帐户
+      address: 地址
+      cell_phone: 手机号码
+      city: 城市
+      company: 公司
+      country: 国家
+      email: 电子邮件
+      lastname: 姓氏
+      name: 名字
+      phone: 电话
+      position: 位置
+      save: 救
+      tz: 时区
+      user: 用户
+      username: 用户
+      vat_tax: '增值税 ID.'
+      zip: 邮政编码
+  autocharge:
+    error:
+      amount: 金额不正确。
+      cc: 信用卡不正确。
+      total: 总金额不正确。
+  billing:
+    funds:
+      action: 现在添加资金
+      add_funds: 添加资金
+      amount: 量
+      card: 卡
+      ccv: Cvv
+      info: '背面的最后 3 或 4 位数字'
+      month_year: 月份/年
+      name_on_card: 卡片上的姓名
+      provider: 在您的声明中，它会显示\"321娱乐\"。
+      save: 保存信用卡
+    invoices:
+      added_funds: 新增资金
+      amount: 量
+      available_funds: 可用资金
+      bill: '条例 草案'
+      date: 日期
+      download: 下载发票
+      order_id: '订单 ID'
+      type_funds_added: 已添加类型基金
+  campaign:
+    copy: 复制
+    error:
+      ad_placement: 'AD 放置无效。'
+      ad_type: 'AD 类型不正确。'
+      budget:
+        campaign: 市场活动预算无效。
+        daily: 每日预算无效。
+        type: 预算类型无效。
+      campaign_name: 广告系列的名称不正确。
+      cpm: 'CPM/CPV 无效。'
+      end_date: 请正确设置结束日期。
+      filter:
+        country: 检查过滤器：国家/地区
+        geo: 检查过滤器：地理定位
+        label: 检查过滤器：性取向
+        language: 检查筛选器：语言
+      start_date: 请正确设置开始日期。
+      url: 'URL 不正确。'
+    wizard:
+      action: 行动
+      active: 积极
+      ad_type: 广告类型
+      ad_type1: 广告类型
+      back: 返回
+      banner:
+        info: '桌面整个页面的水平横幅（以 768px 表示）最低价格 CPM：'
+        label: 水平横幅桌面
+      banner_desktop: 横幅桌面
+      banner_mobile: 横幅移动/平板电脑
+      budget:
+        ad_placement:
+          avg_daily: 全天均匀分布
+          fast: 尽可能快地花费
+          head: 决定如何使用预算
+          label: 广告放置
+        campaign: 市场活动预算
+        daily:
+          label: 日常
+          max_budget: 每日最高预算
+          max_budget_zero: '（输入 $0.00 无限制）'
+        label: 预算
+        limit: 带限制
+        no_limit:
+          info: \"无限制\"表示活动将运行，直到您暂停、到达结束日期或不再有资金
+          label: 无限制
+        total: 此市场活动的总预算
+        type: 预算类型
+      budget_limits: 预算和限制
+      campaign_budget: 市场活动预算
+      clicks: 点击
+      copy: 复制
+      cpm:
+        info: '每千次印象 （CPM） 成本，最低出价：'
+        label: CPM
+      daily: 日常
+      deactivated: 关闭
+      delete:
+        confirm: 是否删除市场活动？
+        warning:
+          cancel: 取消
+          delete: 删除
+          full: 'Do you really delete the campaign? All reports and data will be deleted unwide.'
+          text1: 是否确实要删除市场活动？
+          text2: 所有报告和数据都将丢失。
+      deletebm:
+        ads:
+          mail:
+            funds:
+              added:
+                info: 删除
+      edit: 编辑
+      end_date:
+        label: 结束日期
+        placeholder: 日期到
+      escort_photo:
+        info: '您的广告显示为护送照片，而不是大型护送照片。最低价格 CPM：'
+        label: 护送照片
+        label1: 护送配置文件照片
+      filter:
+        all: 所有页面
+        gay: 同性恋护送
+        geo:
+          address: 地址
+          all: 所有
+          countries: 国家
+          edit_circle: 编辑圆
+          enlarge_map: 放大地图
+          label: 可选地理定位
+          languages: 语言
+          new_circle: 新地理圈
+          radius: 半径
+          remove_circle: 删除圆圈
+        men: 男士陪同人员
+        sexual_orientation: 性取向
+        women: 女护卫
+      finish: 完成
+      fullpage:
+        dim_responsive: 尺寸/重值：
+        impressions: 印象
+        info: '在两次单击之间，将显示包含横幅的单独页面，1.5 秒后将显示\"继续\"按钮。最低价格 CPM：'
+        label: 完整页面
+        label1: 完整页面
+      impressions: 印象
+      information: 信息
+      landing_page: 名称和着陆页
+      media:
+        label: 媒体
+        photo: 照片：
+        processing: 正在处理数据...
+      mobile_banner:
+        info: '为移动/平板电脑显示的整个页面上显示水平横幅（高达 767px）。最低价格 CPM：'
+        label: 水平横幅移动/平板电脑
+      my_campaigns: 我的活动
+      name: 名字
+      name_campaign: 市场活动的名称
+      next: 下一个
+      paused: 暂停
+      price:
+        cpv: CPV
+        video: '视频单次展示 （CPV） 的成本，最低出价：'
+      rejected: 拒绝
+      review: 检讨
+      setup: 设置
+      start_date:
+        label: 开始日期
+        placeholder: 从
+      statistics: 统计
+      status: 地位
+      target_group:
+        audience: 目标受众
+        filter: 目标组和筛选器
+      upload: 上传照片/视频
+      url: 着陆页/着陆网址
+      video: 视频
+      video_add:
+        impression: 印象
+        info: '高清：您的视频将首先播放。6 秒后，用户可以跳过您的视频。最低价格 CPV：'
+        label: 视频广告
+      video_image: 视频图像
+      video_preview:
+        info: '您的广告将显示为\"新视频\"页面上的视频屏幕截图。最低价格 CPM：'
+        label: 视频预览照片（页面：新视频）
+  contact:
+    action: 发送
+    error:
+      label: 错误：
+      too_long: 您的请求太长。请缩短您的请求。
+      too_many_requests: 此时无法发送更多请求，请稍后再试。
+      too_short: 请输入较长的请求。
+    head: 联系
+    head1: 联系
+    success: 您的请求已发送。谢谢。
+  dashboard:
+    30d: '过去 30 天'
+    7d: '过去 7 天'
+    active: 积极
+    add_funds: 添加资金
+    budget: 我的预算
+    budget_spent: 预算支出
+    campaigns: 活动
+    cart:
+      clicks: 点击
+      impressions: 印象
+    clicks: 点击
+    ctr: CTR
+    impressions: 印象
+    in_planning: 在规划中
+    inactive: 无效
+    info:
+      clicks: 印象
+      impressions: 印象
+    new_Campaign: 新广告系列和地理定位
+    new_banner: 新横幅活动
+    new_video: 新视频活动
+    sample_data: 示例数据
+    today: 今天
+    waiting: 等待批准
+    yesterday: 昨天
+  menu:
+    add_funds: 添加资金
+    billing: 计费
+    campaigns: 活动
+    dashboard: '仪表 板'
+    head:
+      hi: 你好
+    history: 历史
+    logout: 注销
+    new_campaign: 新市场活动
+    overview: 概述
+    profile: '配置 文件'
+    reports: 报告
+    sub_titel:
+      add_funds: 添加资金
+      billing: 计费
+      campaigns: 活动
+      dashboard: '仪表 板'
+      history: 历史
+      my_campaigns: 我的活动
+      new_campaign: 新市场活动
+      not_found: 找不到请求的链接。
+      profile: '配置 文件'
+      reports: 报告
+  password:
+    error:
+      not_matching: 新密码不匹配。
+      password: 当前密码不正确。
+      too_short: '新密码必须至少 6 个字符长。'
+  password_forgotten:
+    new_password: 新密码
+    password: 密码
+    retype_password: 重新键入密码
+    send: 发送
+  payment:
+    cc: 请提供所有信用卡信息。
+    error:
+      cc: 您的卡号不正确
+      general: 发生错误。请稍后再试。
+    min_amount:
+      full: 'The minimum amount is 100 USD'
+      text: 最低金额为
+  public:
+    email: 电子邮件
+    enter_details: 输入要注册的详细信息。
+    form:
+      address: 地址
+      cancel: 取消
+      city: 城市
+      company: 公司
+      email: 电子邮件
+      lastname: 姓氏
+      name: 名字
+      password: 密码
+      password_forgotten:
+        back: 返回
+        cancel: 取消
+        email: 电子邮件
+        head: 输入您的电子邮件地址以重置密码。
+        send: 发送
+        signin: 登录
+        success: 如果已注册电子邮件，请现在检查您的电子邮件收件箱。
+      phone: 电话（可选）
+      retype_password: 重新键入密码
+      send: 发送
+      signup: 登记
+      success: 谢谢。您的帐户被激活后，您将立即收到一封电子邮件。
+      terms:
+        full: 'I agree to the terms and conditions and data privacy.'
+        text1: 我同意
+        text2: 条款和条件及数据隐私
+        text3: ''
+      tz: 时区
+      zip: 邮政编码
+    head: 欢迎来到护送广告
+    head1: 打造您的品牌
+    head2: 带护送广告
+    new: 这里是新来的？
+    password: 密码
+    password_forgotten: 密码忘记了？
+    signin: 登录
+    signup: 登记
+    signup2: 登记
+  reports:
+    clicks: 点击
+    ctr: CTR
+    date: 日期
+    error:
+      campaign: 请至少选择一个广告系列。
+      end_date: 请正确设置结束日期。
+      start_date: 请正确设置开始日期。
+    hour: 小时
+    impressions: 印象
+    price: 价格
+    results:
+      amount: 量
+      campaign: 运动
+      clicks: 点击
+      columns: 结果中显示的列
+      ctr: CTR
+      date: 日期
+      days: 日
+      end: 结束
+      end_date: 结束日期
+      export:
+        csv: CSV
+        excel: Excel
+        label: 出口
+      generate: 生成报告
+      group_by: 分组由
+      hour: 小时
+      hours: 小时
+      impressions: 印象
+      next: 下一页
+      options: 选择一个选项：
+      reports: 报告
+      start: 开始
+      start_date: 开始日期
+      video_100: 'Vid. 全职'
+      video_q1: 'Vid. 1 四分位数'
+      video_q2: 'Vid. 2 四分位数'
+      video_q3: 'Vid. 3 四分位数'
+      video_skipped: 'Vid. 跳过'
+      video_skipped_10s: 'Vid. 10 秒'
+      video_skipped_5s: 'Vid. 5 秒'
+    video_100: '视频 - 时间： 100%'
+    video_q1: '视频 - 时间： 1 四分位数'
+    video_q2: '视频 - 时间： 2 四分位数'
+    video_q3: '视频 - 时间： 3 四分位数'
+    video_skipped: '视频 - 跳过单击'
+    video_skipped_10s: '视频 - 跳过显示（10 后）'
+    video_skipped_5s: '视频 - 跳过显示（5s 之后）'
+  reset_password:
+    error:
+      password_not_matching: 密码不匹配。
+      too_short: '您的密码太短，请确保它至少 6 个字符长。'
+      url: 'URL 无效。'
+  signin:
+    change_password: 您可以在这里更改密码：
+    error:
+      address: 请正确输入地址。
+      city: 请正确指定城市。
+      country: 请输入您的国家/地区。
+      email: 电子邮件地址无效。
+      general: 注册未成功。
+      lastname: 请输入您的姓氏。
+      name: 请输入您的姓名。
+      not_activated: 您的帐户仍在审核中。
+      tz: 请输入您的时区。
+      zip: 请正确指定邮政编码。
+    password_forgotten: 密码忘记
+  signup:
+    error:
+      address: 请提供您的地址。
+      city: 请输入您的城市。
+      company: 请输入您的公司。
+      country: 请输入您的国家/地区。
+      email: 电子邮件地址无效。
+      general: 此时无法注册。请稍后再试。
+      lastname: 您的姓氏不正确。
+      name: 您的姓名不正确。
+      password_not_matching: 密码不匹配。
+      password_too_short: '您的密码太短，请确保它至少 6 个字符长。'
+      terms: 请确认条款和条件。
+      tz: 请输入您的时区。
+      zip: 请输入您的邮政编码。
+bc:
+  email:
+    ads:
+      mail:
+        activated: 您的帐户已被激活。您现在可以成功投放广告。请登录：
+        footer: 321escorts.com广告服务
+        footer2: '您的团队 -'
+        hello: 你好
+        subject: 帐户已激活
+        welcome: 欢迎来到ads.321escorts.com
+    affiliate:
+      sale:
+        recurring:
+          mail:
+            full: 'You have a successful affiliate sale of a recurring order: 120 USD - Thank you for participating in the affiliate program. You can see all the details, your statistics and payouts here:'
+            subject: 新的联盟销售：
+            text1: 您成功销售定期订单的联盟：
+            text2: '- 感谢您参与联盟计划。您可以在这里查看所有详细信息、统计信息和支出：'
+    birthday:
+      eotw:
+        offer:
+          detail: '购买 4 周\"本周护送\"时的折扣'
+          head: '1 周免费\"本周护送\"'
+      prime:
+        offer1:
+          detail: '购买 1 年 Prime 时的折扣'
+          head: 2个月免费\"总理\"
+        offer2:
+          detail: 1个月免费\"总理\"
+          head: 2个月免费\"总理\"
+        offer3:
+          detail: 生日快乐
+          head: '购买 3 个月 Prime 时的折扣'
+      text:
+        click_here: 单击此处立即接收您的礼物
+        congratulation: 我们热烈祝贺你的生日。祝你一切顺利，爱与健康。我们有礼物送给你
+        enjoy_your_day: 享受你的一天！
+        gift_valid: 你的礼物是留给你的，直到
+        hello: 喂
+    footer:
+      contact: 联系
+      twitter: 在推特上关注我们
+    reminder:
+      prime: 主要
+      type:
+        cc:
+          close1: 这只是提醒你。你不必做任何事情。您的订单历史记录中提供了所有详细信息和订阅管理。
+          close2: 如果您有任何问题，请随时与我们联系。
+          close3: 订单历史记录
+          info:
+            amount: 量：
+            days: 日：
+            subscription: 订阅：
+          label: 信用卡：
+          renew: 您的订阅将在未来几天内续订
+          renew1: 您的订阅将在接下来几天内自动续订：
+        iban:
+          label: 伊班：
+          renew: 您的订阅将在未来几天内续订
+          renew1: 续订失败
+        other:
+          close1: 现在扩展您的个人资料状态：
+          close2: 请随时随时联系。
+          reminder1: 您的个人资料状态将在几天后过期：
+          renew: 保持个人资料状态
+    renew:
+      alternative:
+        action: 续订订阅
+        full: 'You can place the order for your Prime subscription here.'
+        text1: 您可以为你
+        text2: 订阅在这里。
+      disable_notification: 禁用这些通知
+      error:
+        full: 'Your Prime subscription could not be renewed. Your payment method has been rejected.'
+        text1: 你
+        text2: 无法续订订阅。您的付款方式已被拒绝。
+      mail:
+        footer: 321escorts.com客户服务
+      my_profile: 我的个人资料
+    renewed:
+      success:
+        close1: 感谢您续订订阅！您的订单历史记录中提供了所有详细信息和订阅管理。
+        close2: 如果您有任何问题，请随时与我们联系。
+        full: 'Hello Tom, your subscription has been successfully renewed:'
+        text1: 您的订阅已成功续订：
+        text2: 订阅成功续订
+    verification:
+      mail:
+        body: 您的验证成功。您的个人资料已更新。
+        subject: 验证成功
+  notifications:
+    missed:
+      subject: 错过的通知
+    new:
+      body: 收到新审查
+      subject: 有新的消息给你。
+  notify:
+    new_message:
+      body: 有新的消息给你：
+      from:
+        text1: 您收到了来自
+      label: 新消息
+      to:
+        full: 'You received a message from Tom.'
+        text1: 您收到了来自
+        text2: ''
+      view: 视图
+    unred_message:
+      action: 查看邮件
+      body: 有未读的消息给你。
+      subject: 未读邮件
+  notify1:
+    new_message:
+      message_received: 收到新消息
+      to:
+        full: 'Tom sent you a new message'
+        text1: 向您发送了一条新消息
+  notify2:
+    new_message:
+      to:
+        body: 有新的消息给你。
+        full: 'You received a new message from Tom.'
+        text1: 您收到来自
+  review:
+    new:
+      anonymous:
+        full: 'You received a 5-star rating from Anonymous.'
+        subject: 新评论
+        text1: 从匿名收到的明星。
+      full: 'You received a 5-star rating from Tom.'
+      text1: 您已收到新评论，包括
+      text2: 明星从
+      text3: ''
+  review1:
+    anonymous: 匿名
+    new:
+      full: '5 stars review received from Tom.'
+      text1: 明星评论收到
+      text2: ''
+      text3: 从匿名收到的明星评论
+  review2:
+    new:
+      anonymous: 从匿名收到的明星。
+      full: 'You received a new review with 5 stars from Tom.'
+      text1: 您收到了新的评论
+      text2: 明星从
+      text3: .
+bf:
+  public:
+    user:
+      age:
+        years: 年
+      title:
+        rent_me: 现在租我
+bm:
+  ads:
+    mail:
+      campaign:
+        approved: 已获批准。您现在可以开始您的活动。
+        error1: 已暂停，因为您的帐户资金不足或已达到市场活动限制。
+        error2: 已暂停，因为您的帐户资金不足。
+        error3: 已暂停，因为已达到市场活动限制。
+        error4: 已暂停，因为已达到广告系列的结束日期。
+        label: 您的广告系列
+        map:
+          hide_details: 隐藏详细信息
+          show_details: 显示详细信息
+        stopped: 活动已停止：
+        subject_approved: 已批准的活动：
+        view_details: 您可以在这里查看有关广告系列的所有详细信息和报告：
+      funds:
+        added:
+          info:
+            details: 您可以在这里查看所有详细信息和交易：
+            details1: 自动基金管理：
+            full: 'We charged $1000 from your credit card'
+            text1: 我们收费
+            text2: 从您的信用卡
+            text3: ''
+          label: 自动添加到广告帐户的新资金。
+  affiliate:
+    mail:
+      sale:
+        body: 感谢您参与联盟计划。您可以在这里查看所有详细信息、统计信息和支出：
+        subject: 新的联盟销售：
+  notify:
+    mail:
+      private_gallery:
+        allow: 允许
+        body:
+          full: 'Tom would like to see your private gallery.'
+          text1: 想看看你的私人画廊。
+        reject: 拒绝
+    mail1:
+      private_gallery:
+        full: 'you can now see the private gallery from Tom.'
+        subject: '请求 - 私人图库'
+        text1: 您现在可以看到来自
+        text2: .
+        text3: 现在，您可以看到来自
+        text4: ':'
+    mail2:
+      private_gallery:
+        full: 'Tom would like to see your private gallery.'
+        subject: 私人画廊
+        text1: 想看看你的私人画廊。
+        view_gallery: 查看图库
+        view_profile: 查看配置文件
+    mail3:
+      private_gallery:
+        allow: 允许
+        full: 'Tom has unlocked the private gallery for you.'
+        gallery_unlocked: 私人画廊已解锁
+        text1: 已为你解锁了私人画廊。
+  order:
+    mail:
+      gift:
+        subject:
+          full: 'You received a gift from Tom:'
+          text1: 您收到了来自
+          text2: ':'
+        thankyou:
+          body:
+            full: 'You can see the order details for also in your order history.'
+            text1: 您可以查看
+            text2: 也在您的订单历史记录中。
+          body1:
+            full: 'We sent Tom a message that you sent a gift :-)'
+            subject: 感谢您的订单！
+            subject1: 非常感谢您的订单
+            text1: 我们发送
+            text2: 您发送礼物的消息：-）
+          body2: 您可随时在您的帐户中查看您的订单历史记录。
+          body3:
+            full: 'the user Tom has just sent a gift to you: Prime. Tom would love to receive a "thanks" from you :-)'
+            text1: 用户
+            text2: 刚刚给你送了一份礼物：
+            text3: '很想收到你的 \"感谢\"： -）'
+          body4:
+            full: 'Chat with Tom'
+            text1: 打开聊天功能
+            text2: '并发送 \"谢谢\" ： -）'
+          body5:
+            full: 'Gift received from Tom.'
+            text1: 收到的礼物
+            text2: ''
+          subject: 感谢您的订单
+chat:
+  ago: ''
+  days: 日
+  error:
+    action_login: 登录
+    action_register: 注册
+    login_required: 请登录以使用聊天。
+  hour: 小时
+  hours: 小时
+  image: 图像
+  message:
+    d: d
+    gallery:
+      approve: 批准
+      reject: 拒绝
+    h: h
+    min: min
+    sec: sec
+  messenger:
+    action:
+      become_prime_member: '现在成为主要会员。作为 Prime 会员，您可以存储无限邮件。'
+      mobile:
+        become_prime_member: 现在成为主要会员
+    close: 关闭
+    error:
+      chat_empty: 您的聊天仍然为空。写信给你喜欢的人：-）
+      limit_reached: 已达到内存限制
+    headline: 消息
+    message:
+      delete: 删除
+      error: 错误：聊天无效。
+      error_try_later: 错误：请稍后再试。
+      read: 读
+      received:
+        now: 现在
+      save: 救
+      spam: '垃圾 邮件'
+      unread: 未读
+      unstore: 取消存储
+      upgrade_read_messages: 你想看看你的信息是否被阅读了吗？
+      user_is_typing: 正在键入
+    new_message:
+      placeholder: 你的信息...
+    user_is_typing: 正在键入
+  minute: 分钟
+  minutes: 分钟
+  user:
+    offline: 离线
+    online: 在线
+  video: 视频
+  yesterday: 昨天
+email:
+  affiliate:
+    subject: '联盟销售 -'
+exchange_links:
+  success:
+    rescan_website: '谢谢。我们将在未来 24 小时内再次扫描您的页面。'
+follow_user: 遵循
+main:
+  account:
+    activate: 激活帐户
+    add_hashtag: 添加标记
+    advertising:
+      country_formats: 国家/地区/格式
+      hide: 隐藏
+      label: 广告：
+      no: 不
+      notifications:
+        email: 电子邮件
+        label: 通知
+        sms: 短信
+        web_push: 网页推送
+      show: 显示
+      sound_chat: 声音/聊天：
+      view: 视图
+      yes: 是的
+    amazon_wishlist:
+      headline: 亚马逊愿望清单
+      label: 亚马逊愿望清单：
+    billing:
+      history:
+        days: 日
+    cell_phone:
+      change_number: 更改编号
+      code: 代码。。。
+      contact_and_cell_phone: 联系人和手机号码
+      dont_show: 不要在网站上显示号码
+      dont_show2: 不要在网站上显示号码
+      label: 细胞：
+      same_number: 与主号码相同的数字
+      send:
+        code: '向此号码发送 SMS 代码'
+        full: 'Send SMS code to this number +1123456789 now?'
+        now: 现在？
+      send_sms: 发送短信
+      verify: 验证
+      verify_number: 验证编号
+      verify_number1: 验证编号
+      whatsapp: 'Whatsapp （可选）：'
+    credentials:
+      auto_social_login: '自动 / 社交登录'
+      confirm_with_password: 使用当前密码确认
+      confirm_with_password1: 使用当前密码确认
+      delete_account: 删除帐户
+      error:
+        emails_not_matching: 错误：新电子邮件地址与重新键入的电子邮件地址不匹配。
+        fiell_out: 错误：填写所有字段。
+        new_profile: 错误：请输入新的配置文件名称和密码。
+        passwords: 错误：输入密码。
+        passwords_not_matching: 错误：新密码与重新键入的密码不匹配。
+      free: 自由
+      head: 帐户
+      login: 登录
+      modal:
+        delete:
+          confirm_with_password: 使用密码确认
+          head: 删除您的帐户！
+          label: 删除我的帐户
+          text: '是否确实要删除您的帐户？您的照片、视频、关注者、赞和所有数据将被不可撤销地删除，并永远丢失。Canb 可以随时暂停并恢复您的帐户。'
+      new_email_address: 新电子邮件地址
+      new_password: 新密码
+      new_profile_name: 新配置文件名称
+      password: 密码
+      profile_name: 配置文件名称
+      retype_new_email_address: 重新键入新电子邮件地址
+      retype_new_password: 重新键入新密码
+    date_of_birth: 出生日期：
+    deactivate_your_account: 停用您的帐户
+    distance:
+      ft: ft
+      km: km
+      m: m
+      mi: mi
+    general: 常规
+    hashtags:
+      add_tag: 添加标记
+      headline: '#Hashtags：'
+    headline: 标题：
+    height: 高度：
+    location:
+      add_location: 添加您要访问的位置。您将提前在所有地点的搜索结果中列出，以获得更多的吸引力。
+      add_new_place: 添加新地点
+      add_places: 添加您要访问的位置。您将提前在所有地点的搜索结果中列出，以获得更多的吸引力。
+      auto_change: 单击可自动更改位置
+      browser_error: 已阻止浏览器中的位置共享。请启用此功能。
+      choose_location: 请选择地点和日期
+      date_from: 日期从
+      date_to: 日期到
+      delete: 是否从
+      delete_from: ''
+      delete_headline: 删除位置
+      delete_location: 删除位置？
+      delete_question_mark: '?'
+      enter_location: 输入位置
+      entered_location: 输入的位置
+      error: 错误：
+      error_try_later: '错误： 请稍后再试'
+      head:
+        add_location: 添加位置
+        gps_location: '您的 GPS 位置'
+        i_visit: 我访问
+      headline: 删除位置？
+      label:
+        delete_location: 删除位置
+        delete_location2: 是否要删除此位置？
+        delete_location3: ''
+        select: 选择位置
+      manually_change: 单击以手动更改您的位置
+      map: 从地图中选择一个位置，或在地图上方的文本框中输入该位置。还要选择开始日期和结束日期。
+      ok: 还行
+      save_location: 保存位置
+      save_location1: 保存位置
+      save_location2: 保存位置
+      select: 自己选择位置
+      start_end_date: 将开始日期和结束日期添加到您的行程中。您将提前在所有地点的搜索结果中列出，以获得更多的吸引力。
+      trip_already_planed:
+        error: 你已经在这些日期旅行了。
+      use_gps: '使用 GPS'
+    measuring_system:
+      cm: 厘米
+      imperial: 帝国（美国）
+      kg: 公斤
+      label: 测量系统：
+      lbs: 磅
+      metric: 度量
+    media:
+      add_hashtag: 添加标记
+      add_hashtags: 添加井号标签
+      classification_pending: 分类待定
+      delete:
+        head: 真正删除
+        label:
+          cancel: 取消
+          delete: 删除
+        text: 是否确实要删除此媒体？
+      hd: HD
+      is_preview: 是预览照片
+      max_size: 照片和视频
+      photo: 照片
+      private_gallery: 私人画廊
+      type:
+        all_media: 所有媒体
+        photos: 照片
+        videos: 视频
+      video: 视频
+      xxx: XXX
+    menu:
+      account: 帐户
+      contact: 联系
+      locations: 管理位置
+      logout: 注销
+      media:
+        head: 管理照片和视频
+        manage: 管理照片和视频
+      order_history: 订单历史记录
+      preview: 配置文件预览
+      profile: '配置 文件'
+      settings: 设置
+      upload: 上传照片和视频
+      verification: 验证
+      verified: 已验证护送
+      view_profile: 查看配置文件
+    order:
+      history:
+        status:
+          paid: 支付
+          pending: 待定
+      status:
+        paid: 感谢您的订单。
+        pending: 谢谢。我们将检查您的订单，并让您知道很快。
+    payment:
+      error:
+        label: 发生错误。请联系我们。
+        password_invalid: 您的密码不正确。
+        password_too_short: '新密码必须至少 6 个字符长。'
+        profile_invalid: 新配置文件名称无效。请选择其他配置文件名称。
+        profile_name_too_short: '新配置文件名称必须至少为 6 个字符长。允许使用字符、字母、连字符和连字符。'
+      not_recurring: 非重复
+    payments:
+      amount: 量
+      billed: 嘴
+      cancel:
+        label: 取消
+      cancel_subscription:
+        head: 取消订阅：
+        label: 如果您取消订阅，将不再进行自动续订。如果要继续使用该服务，则需要下新订单。你真的确定要取消你的订阅失去所有的贝芬尼和节日？
+        label1: 取消订阅
+        text: 如果要取消订阅，请单击订单历史记录中的\"订阅\"。
+      cancelled: 取消
+      currently_free_account: 您当前使用的是免费帐户。立即升级到\"去总理\"，并使用所有伟大的功能。
+      date: 日期
+      duration: 时间
+      eotw:
+        full1: 'Escort of the Week subscription is active until 2022-02-04 and will be automatically extended.'
+        full2: 'Escort of the Week subscription will be cancelled on 2022-02-04.'
+        text1: 周订阅的护送
+        text2: 处于活动状态，直到
+        text3: 将被取消
+        text4: 并将自动扩展。
+        text5: ''
+      error:
+        billing: 处理订阅时计费问题
+      failed: 失败
+      gift_no: 礼品（非经常性）
+      nonrecurring: 非重复
+      order_history: 订单历史记录
+      paid: 支付
+      prime: 主要
+      prime_subscription: 主要订阅
+      product: 产品
+      status: 地位
+      subscription: 订阅处于活动状态
+      subscription1: 订阅
+      your: 你
+    pornstar:
+      very_for_changing_settings: 请验证更改设置。
+    price:
+      ask: 问
+      price: 价格。。。
+      price_hour: 价格/小时：
+      price_night: 价格/晚间：
+    profile_activated: 配置文件已激活。
+    profile_text: 配置文件文本：
+    pron_star:
+      label: 我也是色情明星
+      upload: 上传
+      website_indication: 网站，表明你是一个色情明星（网址，推特帐户或互联网视频）
+    services:
+      headline: 服务、偏好和恋物癖
+    settings:
+      label: 设置
+    signup:
+      terms_policy:
+        text1: 是的，我接受
+    status:
+      profile_paused: 您的个人资料当前已暂停。单击此处重新激活您的个人资料。
+    text_hashtags:
+      headline: 文本和#Hashtags
+    thousand:
+      k: k
+    type:
+      prime_escort: 'Prime Escort'
+    upload:
+      error: 上传当前不可用。
+    verification:
+      files:
+        full: 'Uploaded files will automatically be deleted after verification'
+        info: '（最多 3 张照片或 PDF 文件）'
+        label: 单击此处上传文件。
+        success: 谢谢。我们会尽快与您联系。
+        text1: 上传的文件
+        text2: 验证后将自动删除
+        text3: 完成。
+      full: 'Improve your profile status and show everyone that you are real '
+      label: 验证
+      proof:
+        blackened: 名称和地址等数据可以变黑。
+        full: 'Send us a proof with photo, e.g. drivers licence picture ID or passport'
+        text1: 给我们寄一张带照片的证明，例如
+        text2: 驾驶执照，
+        text3: '图片 ID'
+        text4: 或
+        text5: 护照
+        text6: ''
+      text1: 改善您的个人资料状态，并向所有人显示
+      text2: 你是真实的
+      upload:
+        file:
+          cancel: 取消
+          cc: 前信用卡
+          error: 请输入您的文件
+          identity: '图片 ID'
+          text: '系统已检测到您的订单存在高风险。因此，我们要求您上传身份证明（例如图片 ID、护照或驾驶执照）和信用卡正面的照片。检查后，我们将处理您的订单。然后，您上传的文件将被自动删除。或者，您可以选择不同的付款方式。'
+          upload: 上传
+          verification_required: 需要验证
+    view:
+      large_grid: 大网格
+      list_view: 列表视图
+      mobile:
+        large_grid: 大网格（移动设备）
+      small_grid: 小网格
+    weight: 重量：
+  ad:
+    banner:
+      remove_ad: 删除广告
+    click_here: 点击这里
+    label: 广告
+    place:
+      action:
+        place_your_ad: 现在放置广告
+      ad_options: '您的 AD 的专属选项'
+      banner_ad: 横幅广告
+      budget_management: '智能预算管理和响应式 AD 放置'
+      escort_profile_ad: 护送配置文件照片
+      filters: '独家过滤器 - 性取向，国家/地区，语言'
+      fullpage_ad: 全页广告
+      geo_targeting: 高转化率的地理定位广告
+      high_conversions: 由于对目标群体的强烈关注，因此转化率高
+      multi_geo_targeting: 每个广告系列的多地理定位
+      unlimited_campaigns: 无限数量的活动和实时统计
+      video_ad: 视频广告
+      video_preview_photo: 视频预览照片
+    remove: 删除广告
+  affiliate:
+    account_blocked: 您的关联帐户已因欺诈流量而受阻。如果您认为这是一个错误，请随时联系这里的支持人员。
+    action:
+      register_under_30s: '30 秒内免费注册'
+    copy_link: 复制链接
+    email:
+      error: 电子邮件地址无效。
+      label: 电子邮件
+      sent:
+        body: 请确认您的电子邮件地址
+        body2: '未来 60 分钟内：'
+        confirm_email_address: 确认电子邮件地址：
+        full: 'Please confirm your email address within the next 60 minutes:'
+        hello: 你好
+        label: '联盟 - 请确认您的新电子邮件地址'
+    embed_website: 嵌入网站/链接生成器
+    head:
+      full: 'You want to maximize your traffic revenue?'
+      mobile: 想要最大限度地提高流量收入？
+      text1: 您希望最大化您的
+      text2: 交通收入？
+    income:
+      apprx_income: 收入估算：
+      avg_daily_registrations: 每天平均注册数
+      calc: 收入计算器
+      calc_income: 计算收入
+      results:
+        action:
+          register_under_30s: '30 秒内免费注册'
+        free_signups: 免费注册
+        incl_recurring_sales: 包括经常性销售
+        income_1st_yr: '收入 1 年'
+        income_2nd_yr: '收入 2 年'
+        income_month: 收入/月
+        sales: 销售
+        total: 总
+    lifetime_sales: '所有经常性销售的 50% 份额 - 永远， 没有饼干寿命'
+    menu:
+      account: 帐户
+      details: 细节
+      head: 联盟计划：
+      links: 链接
+      logout: 注销
+      payout: 支出
+      statistics: 统计
+      support: 联盟支持
+    new_password:
+      email:
+        body: '您可以单击以下链接，在未来 60 分钟内更改密码：'
+        hello: 你好
+      error:
+        email: 您的电子邮件地址不正确。
+        invalid_identifier: 标识符无效
+        min_characters: '密码必须至少为 6 个字符长。'
+        passwords_not_matching: 密码不匹配。
+      head: '联盟 - 新密码'
+      placeholder: '新密码（最少 6 个字符）'
+      placeholder1: '新密码（最少 6 个字符）：'
+      retype_placeholder: 重新键入密码：
+      save: 保存密码
+    one_usd_per_registration: '.00 每次免费注册 - 无需电子邮件验证'
+    password:
+      do_not_match: 您的密码不匹配。
+      error: 您的密码不正确。
+      error1: 您当前的密码不正确。
+      head: '会员 - 证书'
+      too_short: 您的密码太短。
+    password_forgotten:
+      email: 电子邮件地址：
+      send_label: 请求凭据
+      success: 如果电子邮件已注册，我们已向您发送了一封电子邮件。
+    payout:
+      address: 地址
+      address2: 附加地址
+      bitcoin:
+        error: 比特币地址无效。
+        minimum1: 最低支付金额为
+        minimum2: '并将支付到 Btc 地址'
+        payout: '支付比特币地址 （.00 费用）'
+      btc:
+        address: 'BTC 地址'
+      cc:
+        ccv: CCV
+        ccv_info: '背面的最后 3 或 4 位数字'
+        error: 信用卡无效。
+        exp_date: 有效期
+        head: 信用卡
+        minimum1: 最低支付金额为
+        minimum2: 并将支付到您的信用卡
+        month_year: 月份/年
+        name_on_card: 信用卡上的姓名
+        payout: 信用卡付款
+      change_payout: 如果您想更改付款详细信息，可以删除当前数据。当前付款不受此影响。
+      city: 城市
+      contact: 如果您有任何问题，请联系联盟支持。
+      country: 国家
+      current_password: 当前密码
+      delete_payout_data: 删除付款数据
+      error:
+        address: 您的地址不正确。
+        city: 请输入您的城市。
+        country: 请输入您的国家/地区。
+        date: 选择正确的日期。
+        date_range: 选择正确的日期范围。
+        lastname: 您的姓氏不正确。
+        min_amount: 支付的最低金额不正确。
+        name: 您的姓名不正确。
+        zip: 请输入您的邮政编码。
+      full: 'The minimum payout amount is 50 EUR and will payed to the BTC address'
+      lastname: 姓氏
+      min_amount: 从付款开始
+      name: 名字
+      payout: 支出
+      payout_invalid: 付款无效。
+      save:
+        label: 救
+        success: 已成功保存的更改
+      saved:
+        full: 'Your payout information were successfully saved on 2020-12-31'
+      saved1: 您的付款信息已成功保存
+      saved2: .
+      zip_code: 邮政编码
+    registration_process: 我们的快速注册流程不需要电子邮件地址或信用卡，可以从未一切时间增加您的转化次数。
+    retype_new_password: 重新键入密码
+    revenue_share: '所有销售（直销、交叉销售、销售上升等）的 50% 份额'
+    sigin:
+      error: 您的凭据无效。
+    signin:
+      head: '联盟 - 登录'
+      password: 密码：
+      password_forgotten: 忘记的密码？
+    signup:
+      accept_terms_policy: 接受条款和政策继续。
+      already_registered: 已经注册了？
+      email:
+        body: 欢迎来到免费的联盟计划。请点击下面的链接确认您的电子邮件地址。所有的细节，链接和HTML旋转木马护送生成器以及您的统计数据可以在后端找到。
+        confirm_email_address: 确认您的电子邮件地址：
+        not_registered_with_this_email_address: 如果您尚未注册该电子邮件地址，请单击此处：
+        subject: '联盟 - 请确认您的电子邮件地址'
+      error:
+        passwords_not_matching: 您的密码不匹配。
+      head: '会员 - 注册'
+      label:
+        finish: 完成
+      password_min_characters: '密码（最少 6 个字符）：'
+      terms_policy: 'Terms and Policy'
+    stats:
+      clicks: 点击
+      ctr: 点击率
+      date:
+        head: 日期
+        label: 日期
+      date1: 日期
+      excel_download: 'Excel 下载'
+      head:
+        carousel: '旋转 木马'
+        gay: '护送： 同性恋，'
+        geo_targeting: 选择：地理定位，
+        men: 护送：男性，
+        random: 选择：随机，
+        theme_dark: '主题： 黑暗，'
+        theme_individual: 主题：个人，
+        theme_light: '主题： 光，'
+        trans: '护送： 跨，'
+        women: 护送：妇女，
+      hits: 打
+      json_download: 詹森下载
+      new_payouts: 新付款
+      pages: 页面：
+      period: 时期
+      range: 范围
+      recurring_payouts: 定期付款
+      results:
+        next: 下一个
+        previous: 以前
+      sort_by: 排序者
+      tab:
+        clicks: 点击
+        ctr: 点击率
+        date: 日期
+        hits: 打
+        link: 链接
+        new_payouts: 新支出
+        recurring_payouts: 经常性支出
+        total_payouts: 总付款
+        tour: 旅游
+        unique_hits: 独特的点击率
+      total_all_pages: 总计（所有页面）
+      total_payouts: 总付款
+      tour: 旅游
+      unique_hits: 独特的点击率
+      view: 视图
+    support:
+      error:
+        too_long: 您的文本太长。请缩短您的查询时间。
+        too_many_requests: 此时无法发送更多请求，请稍后再试。
+        too_short: 请输入较长的文本。
+      from: 从：
+      head: 联系联盟支持
+      send:
+        thank_you: 您的请求已成功发送。谢谢。
+    user:
+      background_color: 背景颜色
+      copy_html: '复制 HTML'
+      copy_linke: 复制链接
+      dark_theme: 黑暗主题
+      desktop: 桌面
+      embedded: 护送旋转木马（嵌入式）
+      escort_results: 护送结果：
+      escorts: 护送：
+      geo_targeting: 地理定位（最高转化率）
+      individual_them: 个人主题
+      language: 语言：
+      light_theme: 浅色主题
+      link: 链接
+      mobile: 移动
+      preview: 预览
+      random: 随机
+      text_color: 文本颜色
+      theme: 主题：
+      type: 类型：
+    user_feature_set: 用户可以充分利用网站，而无需投资一分钱，包括免费的照片，视频，聊天和更多！
+    usp: 使我们如此不同的是我们的\"真正的免费\"护送网站。
+    your_link: 您的联盟网址：
+  chat:
+    translation:
+      action:
+        activate_now: 立即激活翻译
+      feature:
+        myself:
+          full: 传入的消息将自动翻译成英语
+          text1: 传入的消息将自动转换为
+          text2: ''
+        user:
+          full: '传出的消息会自动翻译为性感女孩选择的语言 18'
+          text1: '传出的消息会自动翻译为性感女孩选择的语言 18'
+          text2: ''
+      language:
+        write_in: 我写在
+      service:
+        activated: 翻译服务活跃
+        deactivated: 翻译服务已停用
+    upload:
+      check:
+        progress: 在文件上工作...
+  contact:
+    email_address: 电子邮件
+    error:
+      captcha: 请在图片中输入数字/capcha。
+      general: 错误：
+      too_long: 您的文本太长。请缩短您的查询时间。
+      too_many_requests: 此时无法发送更多请求，请稍后再试。
+      too_short: 请输入较长的文本。
+    feedback: 反馈
+    head: 联系
+    headline: 联系我们
+    improvements_wishes: 您有什么改进、愿望或反馈吗？立即联系我们。
+    success:
+      thank_you: 您的请求已发送。谢谢。
+  enable_search_notifications: 启用搜索通知
+  enabled_search_notifications: 已启用搜索通知
+  escort:
+    directory:
+      escorts_in:
+        body1: 看到
+        body2: ''
+        cities_from: 护送在城市从
+        find_in_countries: 在以下国家/地区查找护送人员
+        following_cities: 在以下城市查找陪同人员
+        following_regions: 在以下区域查找护送人员
+        full: 'See all Gay Escorts in France'
+        label: 护送进入
+        regions_from: 护送在地区从
+      gay: 男同
+      male: 男性
+  exchange_links:
+    add:
+      backlink:
+        gay: '性感的同性恋护送 - 321escorts.com'
+        male: '性感的男性护送 - 321escorts.com'
+        women: '性感的护送 - 321escorts.com'
+      button_send: 交换链接
+      destination_url: 目标网址：
+      email: 电子邮件：
+      error:
+        already_added: '您的 URL 已存在。'
+        invalid_email: 您的电子邮件地址无效。
+        invalid_inputs: 输入无效。
+        too_many_requests: '此时，我们无法从您那里接受任何 URL。请稍后再试。'
+        url_invalid: 'URL 名称无效。'
+        url_invalid2: 'URL 无效。'
+      first_name: 名字（可选）：
+      name_displayed:
+        example: 我的青少年博客
+        label: 在公共页面上显示的名称：
+      success:
+        copied: 复制
+        copy_html: '复制 HTML'
+        include_code_on_website: 在您的页面上包含以下代码。我们将在未来24小时内检查您的网站。如果我们的链接在我们的页面上，您的链接将被激活并公开显示。
+        label: 谢谢
+      target_group: 目标组：
+      target_group_all: 所有
+      target_group_gay_trans: 同性恋/跨性别
+    error:
+      name: 您的姓名无效。
+    head: 交换链接
+    link:
+      body1: 您也可以使用您的
+      body2: 联盟链接
+      body3: 赚取额外的钱
+      full: 'you also can use your Affiliate Link and earn extra money'
+    link_backlink_website: '交换链接并成为我们合作伙伴网站的会员。它是免费的。我们链接您的网站 - 您链接我们的网站回来。'
+    more_visitors: 获得更多的访问者到您的网站
+    text:
+      body1: 您将永远列在我们的
+      body2: 合作伙伴网站
+      body3: ''
+      full: 'You will always be listed on our partner website'
+    visitors_per_month: '我们每月的访客超过 3200 万（Alexa 认证）'
+    website_ranking: '您的网站排名越高， 您的链接出现在我们的网站上得越频繁'
+    websites:
+      free_sign_up: 在此处免费注册您的网站，并成为列出的合作伙伴网站。
+      head: 我们的合作伙伴网站
+  footer:
+    affiliate: 联盟
+    escorts_ads: 护送广告
+    menu:
+      18usc: '18 美国.C'
+      anti_trafficking: 报告贩运
+      customer_service: 客户服务
+      data_collection: 个人数据收集
+      dmca: 德马卡
+      environmental_protection: '1% 的销售额用于环保项目。'
+      exchange_links: 交换链接
+      gay:
+        escort_photos: '同性恋 护送 照片'
+        escort_videos: '同性恋 护送 视频'
+        find_gay_escorts: 查找同性恋护送
+        gay_bottoms: 同性恋底部
+        gay_escort_directory: 同性恋护送目录
+        gay_tops: 同性恋上衣
+        tinks_under_30: 30岁以下闪烁
+      head:
+        information: 信息
+        navigation: 导航
+      headline:
+        webmaster_affiliate: 网站站长和会员
+      men:
+        escort_photos: 男性护送照片
+        escort_videos: 男性护送视频
+        escort_women: 护送妇女
+        find_male_escorts: 查找男性陪同人员
+        gentlemen_escorts: 根特尔门护送
+        male_escort_directory: 男性护送目录
+        slim_men: 苗条的男人
+        tall_men: 高个子
+        young_callboys: 年轻的呼叫男孩
+      my_account: 我的帐户
+      navigation:
+        my_account: 我的帐户
+        place_ads: 放置护送广告
+      partner_websites: 合作伙伴网站
+      place_escort_ads: 放置广告
+      privacy_policy: 隐私策略
+      report_error: 报告错误
+      report_new_feature: 报告功能或愿望
+      server_renewable_energy: '我们所有的服务器都使用 100% 可再生能源运行。'
+      terms_and_provacy: 服务条款
+      women:
+        directory: 护送目录
+        dominat: 占统治地位的妇女
+        escort_photos: 护送照片
+        escort_videos: 护送视频
+        find_escort_girls: 查找护送女孩
+        gay_trans_escorts: 同性恋和跨护送
+        men_for_women: 护送男人为妇女
+        submissive: 顺从妇女
+        under_30: 30岁以下妇女
+        young_callgirls: 年轻的呼叫女孩
+      youth_protection: 青年保护代理
+    newsletter:
+      cell_phone: 细胞。。。
+      email_address: 电子邮件地址...
+      escort_newsletter: 免费护送通讯
+      sms:
+        code: 代码。。。
+        different_number: 不同编号
+        send: 发送
+    notifications:
+      customer_recommendations: 客户推荐
+      escort_recommendations: 护送建议
+    notifications_for: 通知
+  gps:
+    error:
+      check_browser_settings: '请检查您的浏览器设置以授予您的位置 （GPS） 以获得最佳搜索结果。'
+  head:
+    search:
+      placeholder: '位置， 城市， 邮政编码...'
+  headline:
+    black0: 最好的
+    black1: 网站
+    favorits:
+      mobile:
+        favorites: '收藏 夹'
+      my_favorites: 我的收藏夹
+    full: 'THE BEST FREE ESCORT SITE'
+    near_me:
+      escorts_near_me: 护送我附近
+      mobile:
+        radar: 雷达
+    new_escorts:
+      mobile:
+        new: 新护送
+      new: 新增功能
+    online:
+      mobile:
+        now_online: 现在在线
+      now_online: '护送 - 现在在线'
+    photos:
+      escort_photos: 护送照片
+      latest: 最新
+      mobile:
+        latest_photos: 最新照片
+    red: 免费护送
+    reviews:
+      escort_reviews: 护送评论
+      mobile:
+        latest_reviews: 最新评论
+    tag:
+      escort_found: 找到护送
+      escorts: 护送
+      escorts_found: 找到护送
+      more_than: 超过
+      no: 不
+    videos:
+      escort_videos: 护送视频
+      mobile:
+        latest_videos: 最新视频
+    visitors:
+      my_visitors: 我的访客
+  lang:
+    footer:
+      full: 'Visit our translation project on GitHub and help make 321escorts.com accessible to more of our sexy escorts & friends.'
+      text1: 访问我们的翻译项目
+      text2: 吉图布
+      text3: 并帮助321escorts.com更多的性感护送和朋友访问。
+    head:
+      choose: 选择您的语言
+      save:
+        label: 救
+  last_login:
+    ago: 前
+    capitalized:
+      online: 在线
+    day: 一天
+    days: 日
+    is_online: 在线
+    last: 最后
+    mobile:
+      last_login: 上次登录
+      online: 在线
+    online: 在线
+  mail:
+    contact: 联系
+    follow_on_twitter: 在推特上关注我们
+    go_prime: 去总理
+    webmatser_affiliate: 网站站长和会员
+  menu:
+    favorits: '收藏 夹'
+    mobile:
+      dark_mode: 黑暗模式
+      light_mode: 光模式
+    near_me: 靠近我
+    new_escorts: 新护送
+    online: 在线
+    photos: 照片
+    reviews: 评论
+    search: 搜索
+    videos: 视频
+  mobile:
+    load_more_escorts:
+      detail_search: 立即搜索
+      load_more: 加载更多护送
+      sign_up: 更？立即免费注册
+    menu:
+      chat: 聊天
+      favorits: '收藏 夹'
+      radar: 雷达
+      visitors: 游客
+  modal:
+    gps:
+      escorts_near_me:
+        cancel: 取消
+        full: 'Do you want to share your GPS position to see escorts in your area?'
+        headline: 护送在我的地区
+        main1: '是否要共享您的 GPS 位置，以便查看'
+        main2_bold: 您地区的陪同人员
+        main3: ''
+        mobile:
+          share: '共享 GPS'
+        share: '共享 GPS 位置'
+    notifications:
+      allow_notifications: 允许通知
+      error: 错误
+      full: 'Do you want to be informed about new and sexy escorts?'
+      headline: 通知
+      main1: 是否要了解
+      main2_bold: 新的和性感的护送？
+      main3: ''
+      mobile:
+        allow: 允许
+      ok: 还行
+      type_new_customers: 新客户？
+  newsletter:
+    label:
+      correct_cell_phone: 正确的手机号码是：
+      email:
+        confirm:
+          body: '我们向您发送了一封电子邮件。单击电子邮件中的链接以确认您的地址。是否还希望接收 SMS 事件？'
+          click_link: 请在电子邮件中单击激活链接
+        head: 通过电子邮件
+      enabled: 已启用通知
+      sms:
+        code: 发送短信。输入代码：
+        enter_code: '输入您刚刚收到的 SMS 代码。'
+        head: 谢谢！是否还希望接收短信？
+        thank_you: 谢谢！
+  next: 下一个
+  notifications_enabled: 已启用搜索通知
+  notify:
+    thankyou: 谢谢
+  order:
+    action:
+      label:
+        full: '140 USD - pay now'
+      text1: '- 现在支付'
+    best_deal: 最佳交易
+    bitcoin:
+      address: 地址：
+      amount: 量：
+      full: 'You have 30 min. time to scan the code or send the amount to the address:'
+      livecheck:
+        not_received: 金额尚未收到...
+        wainting_for_confirmation: 正在等待网络确认...
+      scan_here: 扫描代码或单击此处。
+      text1: 你有
+      text2: 扫描代码或将金额发送到地址的分钟时间：
+    charge:
+      curreny:
+        full: 'Prices will be charged in EUR.'
+        text1: 价格货币：
+        text2: .
+    coupon:
+      add: 添加优惠券
+      billing:
+        text: 优惠券（一次性）
+      error: 请求无效。
+      invalid: 优惠券无效。
+      placeholder:
+        enter_code: 优惠券代码...
+      redeem: 赎回
+    cus_features:
+      body:
+        more_chat: '60 天的聊天历史记录并保存无限的消息、照片和视频'
+        more_escorts: 在雷达搜索和所有其他搜索结果中查看多达三倍的护送
+        more_numbers: '每天最多查看 100 个电话号码'
+        no_ads: 享受一切没有广告
+        stealth: 删除您的个人资料访问，然后不可见。
+        storage: 上传无限的照片和视频，并保存无限的个人资料和消息。
+        unlimited_requests: 来自私人照片和视频的无限请求
+        visitor_history: '7 天的历史， 哪个护送访问你的个人资料， 你访问谁'
+        xxx_content: 查看一切，包括铁杆照片和铁杆视频
+      head:
+        more_chat: 更多聊天
+        more_escorts: 更多护送
+        more_numbers: 更多电话号码
+        no_ads: '无 Ads'
+        stealth: 隐身模式
+        storage: 无限存储
+        unlimited_requests: 来自私人照片和视频的无限请求
+        visitor_history: 访客历史
+        xxx_content: 'XXX 内容'
+    discount: 折扣
+    duration:
+      capitalized:
+        choose: 选择您的持续时间
+    eotw_features:
+      body:
+        affiliate_impressions: 您的护送档案将在我们数千个合作伙伴网站上向全球数千个合作伙伴网站的用户展示和宣传
+        ai_recommendations: 我们的人工智能推荐您的个人资料，并优先考虑相关客户和访客
+        highest_status: 您的个人资料将标有\"周护送\"图标，状态将授予您更多的认可和护送。
+        network_impressions: '我们通过我们的第三方网站和联盟网络保证超过 10，000 次个人资料展示'
+        radar_placement: '在雷达搜索和所有搜索结果中排名靠前 - 在总理护送和免费护送之前。这意味着： 更多的喜欢， 球迷和护送的名次'
+        top_ranking: 该地区的客户将在主着陆页顶部看到您
+      head:
+        affiliate_impressions: 个人资料的活动广告
+        ai_recommendations: 'AI 建议'
+        highest_status: 最佳护送状态
+        network_impressions: '保证每天 10，000 次个人资料展示'
+        radar_placement: 顶部雷达和附近位置
+        top_ranking: 网站上的第一名
+    features:
+      body:
+        customers: 在搜索结果中查看最多三倍的客户
+        more_chat: '60 天的聊天历史记录和无限存储的消息、照片和视频'
+        more_numbers: '每天从客户那里查看多达 100 个电话号码'
+        no_ads: 享受一切没有广告
+        placement: '在免费护送个人资料之前，您的个人资料将放在所有搜索结果的上方。更多赞和粉丝 - 更多预订请求'
+        read_messages: 立即查看您的消息何时已读取。
+        stealth: 删除您的个人资料访问，然后不可见。
+        storage: 上传无限的照片和视频，并保存无限的个人资料，照片，视频和消息。
+        translate_chat: 传入和传出的消息会自动翻译，与世界上的每一个人交谈。
+        unlimited_requests: 无限制的私人照片和视频请求
+        visitor_history: '您拜访过谁以及客户访问过您的个人资料的 7 天历史'
+        xxx_content: 看到每个人，包括铁杆照片和铁杆视频
+      head:
+        customers: 查看更多客户
+        more_chat: 更多聊天
+        more_numbers: 更多电话号码
+        no_ads: 无广告
+        placement: 个人资料排名和更多访客
+        read_messages: 聊天阅读收据
+        stealth: 隐身模式
+        storage: 无限存储
+        translate_chat: 实时聊天翻译
+        unlimited_requests: 无限制的私人照片和视频请求
+        visitor_history: 访客洞察
+        xxx_content: 'XXX 内容'
+    gift:
+      capitalized:
+        choose: 选择礼物
+    gift1:
+      duration:
+        1m: '1 个月'
+        1w: '1 周'
+        1yr: '1 年'
+        3m: '3 个月'
+        4w: '4 周'
+        month: 月
+        month1: 月
+        week: 周
+      for: 礼品
+      no_prime: 无总理
+      send_gift: '- 送礼物'
+      subtitle: ...一个伟大的姿态！
+    head:
+      boost:
+        full: "The Boost! for Tom's profile."
+        text1: 助推器！对于
+        text2: 的配置文件
+      go_prime_now: 现在去总理
+      prime: 主要
+      profile_boost: 助推器！为你的个人资料
+      use_all_features: 获取所有出色的功能
+    iban:
+      account: 帐户
+      country:
+        at: 奥地利
+        be: 贝尔吉克
+        ch: 瑞士
+        de: 德国
+        es: 西班牙±a
+        fr: 法国
+        hu: 马吉罗尔斯格
+        it: 意大利
+        nl: 内德兰
+        pl: 波尔斯卡
+        uk: 英国
+      iban: IBAN
+    ideal:
+      amro: 阿本·阿姆罗
+      asn: ASN银行
+      bunq: bunq
+      combank: 商业银行
+      ing: ING
+      knab: Knab
+      moneyyou: Moneyou
+      name: 名字
+      rabobank: Rabobank
+      regiobank: RegioBank
+      sns: SNS
+      triodos: 'Triodos Bank'
+      vanlanschot: 'Van Lanschot'
+    info:
+      box:
+        full: 'You allows us to renew 3 month and recharge your card after the Prime membership expires. Your subscription will be automatically renewed until you decide to cancel.'
+        full1: 'Your subscription will be automatically renewed until you decide to cancel.'
+        no_autorew:
+          full: 'Your Prime subscription will not be renewed automatically.'
+          text1: 你
+          text2: 订阅不会自动续订。
+        provider: 在您的声明中，它会显示\"321娱乐\"。
+        text1: 您允许我们续订
+        text2: 并在
+        text3: 主要会员资格已过期。
+        text4: 将自动续订，直到您决定取消。您可以随时取消。
+      change_duration: 更改持续时间
+      total: 总
+      vat_tax: 增值税（如适用）
+      your_duration: 您的持续时间：
+    method:
+      bitcoin: Bitcoin
+      cc:
+        info: '背面的最后 3 或 4 位数字'
+        label: 信用卡
+        placeholder:
+          ccv: Cvv
+          credit_card: 信用卡
+          month_year: 月份/年
+          name_on_card: 卡片上的姓名
+      eps: 每股收益
+      giropay: 吉罗佩
+      iban: 'IBAN 直接借记'
+      ideal: iDeal
+      paysafecard: Paysafecard
+      sofort: Sofort
+    methods:
+      head: 付款方式：
+      label: '信用卡， 大师， 电汇， 工资卡， 比特币'
+    nonrecurring: 非重复
+    order_history: 订单历史记录
+    prime: PRIME
+    prod:
+      duration:
+        1m: '1 个月'
+        1yr: '1 年'
+        3m: '3 个月'
+      duration1:
+        1m: '1 个月'
+        1y: '1 年'
+        3m: '3 个月'
+      duration2:
+        1w: '1 周'
+        1yr: '1 年'
+        4w: '4 周'
+    provider:
+      label: '所有数据均由 Powercash21 有限公司处理和保全。'
+      label2: 在你的陈述中，它会说\"321娱乐\"。
+    subscription: 订阅
+    subscription_for: 您的订阅
+    subscription_for1: 您的订阅
+    your_subscription: 您的订阅
+    your_subscription1: 您的订阅
+  password_forgotten:
+    email: 电子邮件地址或个人资料名称：
+    mail:
+      body: 您请求的密码是：
+      change_password: 请先登录并更改密码。
+      hello: 你好
+      subject: 您的凭据
+    send: 发送
+    sign_in: 登录
+    success:
+      change_password: 请先登录并更改密码。
+      label: 如果您的地址已找到，我们会向您发送一封电子邮件。也请检查您的垃圾邮件文件夹。
+  payment:
+    error:
+      cc:
+        missing_data: 请提供所有信用卡信息。
+        number: 您的卡号不正确。
+      enter_name: 请输入您的姓名
+      iban: '请输入您的姓名和 IBAN。'
+      invalid_iban: '您的 IBAN 无效。'
+      method: 发生错误。请稍后再试或使用其他付款方式。
+      select_payment: 请进行选择。
+      select_payment1: 请进行选择。
+    gift:
+      email:
+        body:
+          full: 'You can also view your order for Tom in your booking history at any time.'
+          text1: 您可以查看
+          text2: 也在您的订单历史记录中。
+        hello: 你好
+        thank_you:
+          to: 谢谢你的礼物
+      for: 对于
+      notify:
+        full: 'We have sent Tom a message that you have sent a gift.'
+        text1: 我们已经发送了
+        text2: 您发送的礼物的消息：-）
+      notify1:
+        full: 'The user Tom just sent you a gift.'
+        text1: 用户
+        text2: 刚刚送你一份礼物：
+      notify2:
+        full: 'Tom would certainly be happy to thank you.'
+        text1: '会很高兴， 如果你说 \"谢谢\" ： -）'
+      notify3:
+        full: 'Open chat with Tom and send a "Thanks" :-)'
+        text1: 打开聊天
+        text2: '并发送 \"谢谢\" ： -）'
+      notify4:
+        full: 'Received a gift from Tom.'
+        text1: 收到的礼物
+        text2: ''
+      order:
+        history: 您可随时在您的帐户中查看您的订单历史记录。
+        thank_you: 感谢您的订单！
+        thank_you1: 感谢您的订单
+        thank_you2: 感谢您的订单
+      thank_you:
+        from: 您收到了来自
+        to: 感谢您向
+    prod:
+      prime_1m: '黄金 1 个月'
+      prime_1yr: '黄金 1 年'
+      prime_3m: '黄金 3 个月'
+    prod1:
+      eotw_1w: '本周陪同 - 1 周'
+      eotw_1yr: '周护送 - 1 年'
+      eotw_4w: '周护送 - 4 周'
+      prime_1m: '黄金 1 个月'
+      prime_1yr: '黄金 1 年'
+      prime_3m: '黄金 3 个月'
+  private_gallery:
+    full: "Tom's private gallery"
+    head:
+      capitalized: 私人画廊
+    photos:
+      error:
+        selfrequest: 您无法向自己发送请求
+      signup: 立即注册以查看来自
+    photos_videos:
+      full: 'Request access from Tom for the private photos and videos.'
+      text1: 请求访问
+      text2: 私人照片和视频。
+    private_photos:
+      full: "Tom's private photos"
+      label: 私人照片
+      request_access: 现在请求访问。
+      signup: 注册以查看所有照片。
+      text: 的私人照片
+    private_videos:
+      full: "Tom's video"
+      head: 视频
+      text: "'的视频"
+    text: 的私人画廊
+    videos:
+      full: 'Sign up to see all videos from Tom.'
+      text1: '注册以查看来自 的所有视频'
+      text2: .
+  review:
+    all: 所有
+    anonymous: 匿名
+    attr:
+      ambience:
+        bad: 坏
+        label: 气氛呢？
+        normal: 正常
+        relaxed: 放松
+        text: 氛围
+        very_relaxed: 非常放松
+      anonymous:
+        label: 您的评论应该是匿名的吗？
+        no: 不
+        yes: 是的
+      duration:
+        1hr: '1 小时'
+        1week: '1 周'
+        1week_more: '超过 1 周'
+        2days: '2 天'
+        2hrs: '2 小时'
+        3days: '3 天'
+        3hrs: '3 小时'
+        4days: '4 天'
+        4hrs_more: '4 小时以上'
+        5days: '5 天'
+        6days: '6 天'
+        label: 时间？
+        lt_1hr: '少于 1 小时'
+        overnight: '一 夜 之间'
+      photos:
+        label: 照片最新
+        no: 不
+        uptodate: 是，最新
+      photos_uptodate:
+        label: 照片是最新的吗？
+        no: 不
+        yes: 是，是最新的
+      recommend:
+        full: 'Can you recommend Tom?'
+        no: 不
+        text1: 你能推荐
+        text2: '?'
+        yes_absolutely: '是的， 绝对'
+      recommendation: 建议
+      visability:
+        own_profile: 是否希望审核在个人资料中也可见？
+    error:
+      exists:
+        full: 'You already wrote a review for Tom.'
+        text1: 您已经为
+        text2: .你可以在几天内写一个新的评论。
+      login_required: 您必须登录才能撰写评论。
+      too_long: 你的评论太长了，请稍稍限制一下。
+      too_many_requests: 目前，我们不接受您的任何进一步评论。
+      too_short: 请写一个有效的评论，至少20个字符。
+      too_short1: 请写一个有效的评论，至少20个字符。
+      too_short2: '至少 20 个字符...'
+    full2: 'Review for Tom.'
+    head: 请评价您的日期。
+    head2: 使用
+    info:
+      star:
+        '1': 坏
+        '2': 还行
+        '3': 好
+        '4': 非常好
+        '5': 非常好
+    no_review: 未输入审核。
+    of_5: '的 5'
+    read_full_review: 阅读完整评论
+    send_review: 发送评论
+    success: 谢谢！我们将检查您的评论，并尽快激活它。
+    text:
+      overall_rating: 总体评级：
+      review: 检讨
+      reviews: 评论
+    text2:
+      text: 审核
+    time_spent: 花费的时间
+    to: ''
+    translation:
+      full: 'Translation of the original review.'
+      text1: 翻译
+      text2: 原始评论
+    viel_all_reviews: 查看所有评论
+    viel_reviews: 查看评论
+    write_review: 写评论...
+  reviews:
+    latest: 最新
+  search:
+    filter: 滤波器
+    fitler:
+      apply: 应用
+      filter: 滤波器：
+      online: 在线
+      placeholder: 正在搜索...（文本、#tag、名称）
+      reset: '重 置'
+      with_photo: 与照片
+      with_video: 与视频
+    looking_for: 我正在寻找：
+    option:
+      online_now: 现在在线
+      with_photos: 仅与照片
+      with_video: 与视频
+    placeholder: 搜索文本、#tag、名称
+    results:
+      distance: 距离
+      head:
+        escort: 护送
+        escorts: 护送
+        found: ''
+        full: '345 Gay Escorts in Paris, France'
+        gay: 男同
+        in: 在
+        men: 男人
+      head0:
+        escorts_found: 找到护送。
+        fl_capitalized:
+          no: 不
+        full1: '500 Escorts found.'
+        full2: 'No Escorts found.'
+        full3: 'More than 600 Escorts found.'
+        more_than: 超过
+        no: 不
+      list:
+        ad:
+          learn_more: 单击此处了解更多信息...
+        bra_size: 胸罩尺寸：
+        contact: 联系
+        escort_girls_in: 护送女孩
+        gay_escorts_in: 同性恋护送在
+        male_escorts_in: 男性护送在
+        price_1hr: '价格 1 小时'
+        price_overnight: 价格过夜
+        profile: '配置 文件'
+        years: 年
+      more:
+        go_prime: '看到 3 倍的护送 - 去总理！'
+      more1:
+        go_prime: 看到3倍的护送！去总理！
+      new_search: 新搜索
+    search_results_expired: 抱歉，搜索已过期。单击此处开始新的搜索。
+    select:
+      age_min: 年龄最小值
+      btn:
+        label: 搜索护送
+      cm: cm
+      height_min: 高度最小值
+      km: kg
+      max: 麦克斯
+      sort:
+        alphabetically: '按 字母 顺序 排列'
+        distance: 距离
+        label: 排序：
+        last_login: 上次登录
+        new_customers: 新客户
+        new_escorts: 新护送
+      weight_min: 重量最小值
+    type:
+      customers: 客户
+    use_current_location: 使用当前位置
+    view: 视图
+    with_orientation: 具有方向
+  search_notifications_disabled: 搜索通知已禁用
+  send_gift:
+    full: 'Send a gift'
+    prime: 发送礼物
+    text1: 发送
+    text2: 礼物
+  signin:
+    404_not_found: '404 页面未找到'
+    auto:
+      facebook: '使用 Facebook 登录'
+      google: 使用谷歌登录
+      twitter: 使用推特登录
+    error:
+      check_credentials: 请检查您的凭据。
+    label: 登录
+    name_or_email: 个人资料名称或电子邮件地址：
+    new: '新在 321 陪同？'
+    password_forgotten:
+      head: 密码被遗忘
+      label: 密码忘记了？
+    remember_password: 保持登录状态
+    sign_in:
+      head: 登录
+      label: '登录 321 个陪同'
+    signup: 免费注册
+  signup:
+    amateur: 业余
+    back: 返回
+    beard: 胡子。。。
+    body: 身体。。。
+    body_hair: 体毛...
+    bra_size: 胸罩尺寸...
+    cell_phone_number: 手机号码
+    choose_profile_name: 选择您的个人资料名称...
+    cock: 公鸡
+    code_is: 代码为：
+    companion: 同伴
+    day: 一天
+    dob: 出生日期
+    email:
+      activation_link: 请点击链接确认您的免费注册：
+      hello: 你好
+      subject: 请确认您的注册
+      url: 321escorts.com
+      welcome: 欢迎来到321escorts.com
+    enter_location: 输入位置
+    error:
+      already_confirmed: 您的个人资料已被确认。
+      confirmed_failed: 确认未成功。
+      failed: 注册未成功。
+      headline_required: 你需要一个标题。
+      invalid_cell_phone: 手机号码无效。
+      invalid_code: 代码无效。
+      invalid_profile_name: 配置文件名称无效。
+      password: 您的密码不匹配或密码太短。
+      profile_name_exists: 名称已存在。
+    escort: 护送
+    ethnicity: 种族。。。
+    eyes: 眼睛
+    fetish: '恋 物 癖'
+    form:
+      already_signed_in: 已经注册了？
+      cock:
+        type: 类型
+      email: 电子邮件：
+      head:
+        text: '注册 - 免费'
+      label: 登记
+      login: 登录
+      or: 或
+      password:
+        label: 密码：
+        placeholder: '至少 6 个字符'
+      prices:
+        currency: 货币
+      profile: '配置 文件：'
+      retype_password: 再次输入密码：
+      signup_facebook: '注册 Facebook'
+      signup_google: 注册与谷歌
+      signup_twitter: 注册推特
+    fucking: 他妈的
+    hair: 头发
+    hair_color: 头发颜色
+    headline: 标题。。。
+    height_weight: 高度和重量...
+    i_am: 我是。。。
+    i_speak: 我说话...
+    imperial: 帝国
+    massage: 按摩
+    modeling: '建 模'
+    month: 月
+    my_height: 我的身高是...
+    my_location: 我的位置
+    my_prices: 我的价格
+    next: 下一个
+    no: 不
+    pornstar: 你是色情明星吗？
+    price:
+      ask: 问
+      currency:
+        aed: AED
+        ars: ARS
+        aud: AUD
+        brl: BRL
+        cad: CAD
+        chf: CHF
+        cny: CNY
+        czk: CZK
+        dkk: DKK
+        eur: EUR
+        gbp: GBP
+        hkd: HKD
+        huf: HUF
+        idr: IDR
+        inr: INR
+        jpy: JPY
+        myr: MYR
+        nok: NOK
+        nzd: NZD
+        php: PHP
+        rub: RUB
+        sar: SAR
+        sek: SEK
+        sgd: SGD
+        thb: THB
+        usd: USD
+      hour: 小时
+      overnight: '一 夜 之间'
+    prices: 价格
+    profile: '配置 文件'
+    profile_headline: 您的个人资料标题...
+    role: 作用
+    safer_sex: 更安全的性爱
+    select_location: 选择位置
+    service_locations: 服务地点
+    services: 服务
+    skip: 跳
+    sm_bdsm: Sm
+    stripping: 剥离
+    terms:
+      error: 请接受条款和政策。
+      full: 'Yes, I have read and accept the Terms and Policy.'
+      label: 条款
+      text1: 是的，我已经阅读并接受
+      text2: 'Terms and Policy.'
+      text3: ''
+    type:
+      bisexual: 两性
+      customer: 客户
+      escort: 护送
+      gay: 男同
+      lesbian: 女同
+      man: 人
+      straight: 异
+      trans: 跨
+      woman: 女人
+    upload:
+      file_limit: '文件大小限制为 5 MB。'
+      filesize: '文件大小限制为 5 MB。'
+      label: 上传
+      profile_photo: 个人资料照片
+    use_current_location: 使用当前位置
+    video: 视频
+    year: 年
+    yes: 是的
+  start:
+    head:
+      load_more: 加载更多护送
+      new_escorts: 新护送
+      new_prime_escorts: 新总理护送
+    partner:
+      exchange_links: 交换链接
+      label: 合作伙伴网站：
+  telegram:
+    bot:
+      activate: 激活机器人
+      app: 应用程序
+      deactivate: 停用机器人
+      error: 错误：请稍后重试
+      headline: 远程游戏机器人
+      label: '护送 & 新闻通过'
+      message:
+        featured: 此机器人将帮助您保持连接。
+        welcome: 欢迎来到您的个人护送机器人
+        welcome_back: 欢迎回到您的个人护送机器人
+  user:
+    action:
+      call_me: 给我打电话
+      hide_visit: 隐藏我的访问
+      view_phone_number: 点击这里查看我的电话号码。
+    attr:
+      age: 年龄
+      beard: 胡子
+      body: 身体
+      body_hair: 体毛
+      bra_size: 胸罩尺寸
+      cock: 公鸡
+      cock_size_L: L,
+      cock_size_M: M,
+      cock_size_S: S,
+      cock_size_XL: XL，
+      cock_size_XXL: XXL，
+      cock_type_cut: 切
+      cock_type_uncut: 完整无缺
+      dirty: 脏
+      escort_services:
+        label: 服务
+        men:
+          companion: 同伴
+          escort: 护送
+          massage: 按摩
+          modeling: '建 模'
+          stripping: 剥离
+          video: 视频
+        women:
+          companion: 同伴
+          escort: 护送
+          massage: 按摩
+          modeling: '建 模'
+          stripping: 剥离
+          video: 视频
+      eyes: 眼睛
+      fetish: '恋 物 癖'
+      fisting: 拳打脚踢
+      fucking: 他妈的
+      hair: 头发
+      hair_color: 头发颜色
+      height: 高度
+      i_speak: 我说话
+      kissing: 接吻
+      label:
+        no: 不
+        occasionally: 偶尔
+        yes: 是的
+      oral: 口腔
+      piercings: 穿孔
+      role: 作用
+      safer_sex: 更安全的性爱
+      service_locations:
+        label: 服务地点
+      sexual_orientation: 取向
+      sm_bdsm: Sm
+      tattoos: 纹身
+      type: 类型
+      weight: 重量
+      zodiac: 生肖
+    beard:
+      3_day_beard: '3 天胡须'
+      full_beard: 全胡子
+      goatee: 山羊胡子
+      label: 胡子：
+      mustache: 胡子
+      no_beard: 无胡子
+    block:
+      error:
+        general: 发生错误。
+        signup: 免费登录或注册。
+      full: 'Do you really want to block Tom?'
+      info:
+        full: 'If you block Tom, the user will no longer be able to access your profile.'
+        label: 块
+        text1: 如果您阻止
+        text2: ，用户将无法再访问您的个人资料。
+      label: 块
+      modal:
+        close: 关闭
+      text1: 你真的想阻止
+      text2: '?'
+    body:
+      athletic: 运动
+      female:
+        bodybuilder: 健美
+        chubby: '胖 乎 乎'
+        large: 大
+      label: 身体：
+      male:
+        belly: 轻肚
+        bodybuilder: 健美
+        stocky: 矮胖
+      normal: 正常
+      slim: 苗条
+    body_hair:
+      label: 体毛：
+      little_hair: 小头发
+      medium_hair: 中等头发
+      shaved: 剃
+      smooth: 光滑
+      very_hairy: 非常毛茸茸的
+    bra_size:
+      a: A
+      b: B
+      c: C
+      d: D
+      e: E
+      f: F
+      g: G
+      h: H
+      i: Ⅰ
+      j: J
+      label: 胸罩尺寸：
+    cancel: 取消
+    chat:
+      chat_with_me: 和我聊天
+      click_here:
+        full: 'Click here to chat with Tom'
+        text1: 单击此处与
+        text2: ''
+    cock:
+      label: 公鸡：
+      size_L: 我
+      size_M: M
+      size_XL: Xl
+      size_XXL: XXL
+      size_s: S
+    cock_type:
+      cut: 削减
+      label: 公鸡类型：
+      uncut: 完整无缺
+    contact_me: 联系我
+    copy_link: 复制链接
+    customer: 客户
+    dirty:
+      label: 脏：
+      no: 不
+      ns_only: '是， 但只有 Ns'
+      yes: 是的
+    error:
+      missing_headline: '错误：请在您的个人资料中输入标题（最少 5 个字符）'
+      missing_profile_text: '错误：请输入您的个人资料配置文件文本（最少 15 个字符）'
+    escort:
+      fetish:
+        boots: 靴子
+        business: 业务
+        corset: '紧身 衣'
+        costumes: 服装
+        craftsmen: 工匠
+        high_heels: 高跟鞋
+        jeans: 牛仔裤
+        leather: 皮革
+        lingerie: 内衣
+        lycra_nyloon: 莱卡和尼龙
+        ravers: 拉韦斯
+        rubber_latex: 橡胶和乳胶
+        skater: 溜冰
+        skin_punks: 皮肤和朋克
+        sneakers_socks: 运动鞋和袜子
+        sportsgear: 运动器材
+        suspenders: 吊带
+        underwear: 内衣
+        uniform: 均匀
+        vinyl: 乙烯
+      locations:
+        car: 车
+        hotel: 酒店
+        incall: 您的位置呼叫
+        outcall: 我的地方外在
+        outdoor: 户外
+      services:
+        companion: 同伴
+        escort: 护送
+        massage: 按摩
+        modeling: '建 模'
+        none: 没有
+        stripping: 剥离
+        video: 视频
+    escort_services:
+      label: 服务：
+    ethnicity:
+      female:
+        arab: 阿拉伯妇女
+        asian: 亚洲
+        black: 黑
+        european: 欧洲
+        indian: 印度
+        latina: 拉丁
+        mixed: 混合
+        southerner: 南方人
+      label: 电子竞技：
+      male:
+        arab: 阿拉伯
+        asian: 亚洲
+        european: 欧洲
+        indian: 印度
+        latino: '拉丁 裔'
+        southerner: 南方人
+    eyes:
+      blue: 蓝色
+      brown: 棕色
+      green: 绿色
+      grey: 灰色
+      label: 眼睛：
+      other: 其他
+    fetish:
+      label: '恋 物 癖：'
+    fisting:
+      label: 拳打：
+    follower: '追随 者'
+    gay:
+      fucking:
+        bottom_only: 仅底部
+        label: ：
+        no_anal: 无肛门
+        top_only: 仅顶部
+        vers_bottom: 'vers 底部'
+        vers_top: 'vers 顶部'
+        versatile: 多才多艺
+    gift:
+      prime_oetw: '送我一份礼物 - 总理或提升我作为本周护送'
+      send_prime: 发送总理
+    hair:
+      bald: 秃头
+      half_long: 半长
+      label: 头发：
+      long: 长
+      punk: '朋 克'
+      short: 短
+    hair_color:
+      black: 黑
+      blonde: 金发
+      brown: 棕色
+      grey: 灰色
+      label: 头发颜色：
+      light_brown: 浅棕色
+      other: 其他
+      red: 红
+    hashtags: 哈希标记：
+    i_vitis: 我参观
+    kissing:
+      label: 接吻：
+    language:
+      i_speak: 我讲：
+    last_login:
+      label: 上次登录：
+      now_online: 现在在线
+      offline: 离线
+    likes: 喜欢
+    list:
+      photo: 照片
+      photos: 照片
+      private_photo: 私人照片
+      private_photos: 私人照片
+      reviews: 评论
+      video: 视频
+      videos: 视频
+    menu:
+      contact: 联系
+      mobile:
+        contact_me: 联系我
+        write_review: 撰写评论
+      photos: 照片
+      reviews: 评论
+    mobile:
+      write_review: 撰写评论
+    modal:
+      ok: 还行
+      phone: 电话：
+      start_chat: 开始聊天
+      whatsapp: Whatsapp：
+    my_hashtags: 我的井号标签
+    my_hashtags1: 我的井号标签：
+    my_places: 我的地方
+    no_photos: 抱歉，您尚未提供:(
+    nonsmoker:
+      female:
+        label: 非吸烟者
+      male:
+        label: 非吸烟者
+    number:
+      code: 代码为：
+      dont_show: 不显示
+      error:
+        daily_limit: 已达到每日限制
+        daily_limit2: 已达到每日限制
+        go_prime: 现在成为主要会员
+        invalid_code: 代码无效。
+        invalid_number: 手机号码无效。
+        limit: '您每天只能查看 50 个电话号码。在此期间可以使用聊天。'
+        no_number: 当前没有可用的电话号码。请同时使用聊天。
+        signup: 免费注册可查看更多电话号码。
+      go_prime: '现在成为主要会员。作为 Prime 会员，您每天最多可以查看 50 个电话号码。'
+      verify_number: 请输入并验证号码
+    oral:
+      active: 积极
+      active_and_passive: '主动 + 被动'
+      label: 口腔：
+      no: 不
+      passive: 被动
+    piercings:
+      label: 穿孔：
+      no: 不
+    pornstar:
+      label: 色情明星：
+    price:
+      not_shown: 未显示
+    prices:
+      label: 价格
+      per_hour: 每小时
+      per_night: 每晚
+    private_gallery:
+      access_requested:
+        error:
+          full: 'Please write Tom a message'
+          self: 您不能给自己发送请求。
+          text1: 请写
+          text2: 一条消息
+        label: 请求访问
+      access_requested1: 请求访问。
+      denied:
+        full: "Tom can't see your private photos and videos."
+        grant: 授予访问权限
+        text1: 看不到您的私人照片和视频。
+      denied1:
+        full: 'Tom may not see your photos and videos.'
+        grant_click:
+          full: 'Tom can see your private gallery.'
+          text1: 点击这里
+          text2: 可以看到您的私人画廊。
+        text: 可能看不到您的照片和视频。
+      error:
+        full: 'Please write Tom a message'
+        text1: 请写
+        text2: 一条消息
+      granted:
+        full: 'Tom can now see your photos and videos.'
+        text1: 现在可以看到您的照片和视频。
+      limit:
+        full: 'Today, you have 50 requests remaining.'
+        text1: 今天，你有
+        text2: 剩余。
+        text3: 剩余。
+      profile: 的配置文件
+      request:
+        full: 'Grant access to your private photos and videos for Tom.'
+        label: 请求
+        text1: 授予访问您的私人照片和视频的访问权限，
+        text2: .
+      request_access: 请求访问
+      requests:
+        label: 请求
+      unlimit:
+        full: 'Become a Prime member to make unlimited requests.'
+        text1: 成为主要会员
+        text2: 无限
+        text3: 请求。
+    profile_paused:
+      full: 'Tom has paused the profile. You cannot contact the user at this time. Follow Tom to stay up to date.'
+      text1: 已暂停配置文件。此时无法联系用户。遵循
+      text2: 保持最新。
+    profile_suspended: 此配置文件已挂起。
+    rating:
+      out_of_5: '5 星'
+    recommend_me: 推荐我
+    report:
+      brief_desc: 简要地写下发生了什么...
+      cat:
+        '1':
+          head: '垃圾 邮件'
+          text: 出于广告原因要求您点击外部链接的用户
+        '2':
+          head: 侮辱或欺凌
+          text: 暴力威胁、滥用、披露个人数据、骚扰
+        '3':
+          head: 仇恨言论/歧视
+          text: 侮辱性语言、照片等
+        '4':
+          head: 少数民族
+          text: 18岁以下用户，与18岁以下的人合影/视频
+        '5':
+          head: 不当活动
+          text: 销售毒品或其他非法商品的广告
+        '6':
+          head: 人格化
+          text: 其他人、受保护的照片/视频、不当服务
+        '7':
+          head: 其他
+        main: 发生了什么事情？
+      error:
+        contact_us: 请联系我们。
+        exists:
+          full: 'You already reported the user Tom several times. Please wait for our review.'
+          text1: 您已报告用户
+          text2: 几次。请等待我们的审查。
+        login_required:
+          full: 'You must be logged in order to report Tom.'
+          text1: 您必须登录才能报告
+          text2: .
+        too_long: 您的输入太长，请缩短您的文本。
+        too_many_requests: 目前，我们不接受您的任何进一步请求。
+        too_short: 请简述所发生的事情，至少20个字符。
+      info:
+        label: 报告配置文件
+        text: 如果您认为个人资料不包含不当或被盗的照片，请与我们联系，提供证据。
+      main: 报告用户：
+      report_profile: 报告配置文件
+      success: 谢谢！我们将检查您的投诉。
+    review:
+      back: 返回
+      empty_review: 无审阅文本。
+      from: 从
+      next: 下一个
+      overall_rating: 总体评级
+      to: 自
+    role:
+      dominant_and_submissive: 占主导地位和顺从
+      dominant_only: 仅占主导地位
+      label: 作用：
+      submissive_only: 仅顺从
+      versatile_dominant: 多功能主导
+      versatile_submissive: 多功能顺从
+    safer_sex:
+      always: 总是
+      label: 更安全的性别：
+      needs_discussion: 需要讨论
+      never: '从来 没有'
+      prep: PrEP
+      tasp: TasP
+    save_share: 保存并共享我的个人资料。
+    service_locations:
+      label: 服务地点：
+    sexual_orientation:
+      bisexual: 两性
+      gay: 男同
+      label: 取向：
+      lesbian: 女同
+      straight: 异
+      trans: 跨
+    share: 共享
+    share_profile: 共享配置文件
+    show_all_videos: 显示所有视频
+    show_less: 显示更少
+    show_more: 显示更多
+    sm_bdsm:
+      label: Sm：
+      no_sm: '无 Sm'
+      sm: Sm
+      soft_sm: '仅软 Sm'
+    smoker:
+      female:
+        label: 吸烟者：
+        label1: 吸烟者
+      label: 偶尔
+      male:
+        label: 吸烟者
+        label1: 吸烟者：
+    start_chat: 开始聊天
+    tags: 标签：
+    tattoo:
+      few: 几个
+      label: 纹身：
+      many: 许多
+      no: 不
+    time:
+      infront_of_date:
+        full: 'on 2020-02-28'
+        text: ''
+    type:
+      eotw: 本周陪同
+      escort: 护送
+      free: 自由
+      prime: 主要
+      prime_customer: 主要客户
+    unblock: 疏通
+    video:
+      title:
+        full: "Tom's Video"
+        text1: "'的视频"
+    views: 视图：
+    write_review: 写一篇关于我的评论。
+    write_review_for:
+      full: 'Write Review for Tom'
+      text1: 写入审核
+      text2: ''
+    xxx:
+      go_prime: '只有 XXX 照片。现在成为 Prime 会员，查看所有照片。'
+      request_access: 只有私人照片请在此请求访问。
+    zodiac:
+      aquarius: '水瓶 座'
+      aries: 白羊座
+      cancer: 癌症
+      capricorn: 摩羯座
+      gemini: '双子 座'
+      label: 生肖：
+      leo: '利 奥'
+      libra: 天秤座
+      pisces: 双
+      sagittarius: '射手 座'
+      scorpio: 天蝎座
+      taurus: '金牛 座'
+      virgo: '处女 座'
+  visits:
+    external_visit: 外部访问
+    external_visit1: 外部访问
+    no_visitors: 你现在没有访客
+    show_visit: 显示访问
+    unregistered_user: 未注册用户
+    view: 视图
+    view_location: 查看位置
+    website_visitor: 网站访问者
+  vivits:
+    visit_ago: 访问
+modal:
+  error:
+    location_blocked: 您已阻止浏览器中的位置共享。使其查看最佳搜索结果。
+  share_location: 分享您的位置，查看您附近的护送人员。
+  verify:
+    agree: '我同意 - 输入 321escorts'
+    and: 和
+    disagree: '我不同意 - 退出此网站'
+    looking_for: 我正在寻找：
+    policy: 隐私政策
+    terms: 服务条款
+  warning: 本网站包含成人材料，禁止18岁以下的人使用。通过进入网站，我确认我超过18岁，并同意
+newsletter:
+  email:
+    body: 请点击链接确认您的时事通讯注册：
+    footer: ''
+    subject: 请确认您的时事通讯注册
+    welcome: 欢迎来到321escorts.com
+  error:
+    email: 电子邮件地址无效。
+    general: 发生错误。
+  sms:
+    code: 代码为：
+    error:
+      cell_phone: 这不是有效的手机号码。
+      code: 代码不正确。
+notifications:
+  cancel: 您将不再收到这些通知。您可以在这里管理通知设置。
+  disable: 禁用
+  enable: 使
+  error:
+    click_here: '错误： 请点击这里'
+    link_not_found: 找不到请求的链接。
+    try_later: 请稍后再试。
+search:
+  attribute:
+    body: 身体
+    body_hair: 体毛
+    bra_size: 胸罩尺寸
+    cock_size: 公鸡
+    cock_type: 公鸡类型
+    dirty: 脏
+    escort_locations: 地点
+    escort_services: 护送服务
+    ethnicity: 种族
+    eye_color: 眼睛
+    fetish: '恋 物 癖'
+    gay:
+      fisting: 拳打脚踢
+      fucking: 他妈的
+    hair_color: 头发颜色
+    hair_type: 头发
+    kissing: 接吻
+    language: 语言
+    misc: 杂项
+    oral: 口腔
+    role: 作用
+    safer_sex: 更安全的性爱
+    sm_bdsm: Sm
+    zodiac: 生肖
+  label:
+    disable: 禁用
+    enable: 使
+  notifications_enabled: 已启用通知
+  notifications_enabled2: 已启用通知
+  title:
+    new_escorts: 当有新的护送可用时通知我
+  title2:
+    new_escorts: 当有新的护送可用时通知我
+signup:
+  domain: 321escorts.com
+  message:
+    hello: 你好
+    new_sale: 感谢您参与联盟计划。您可以在这里查看所有详细信息、统计信息和支出：
+    subject:
+      new_sale: '您有一个成功的联盟销售（注册） -'
+      recurring_sale: ''
+site:
+  head:
+    escort_of_the_week: 本周陪同
+    go_prime: 去总理
+    join_for_free: 免费加入
+    logout: 注销
+    search: 搜索
+    sign_in: 登录
+    sign_up: 登记
+    upgrade:
+      boost_me: 提升我！
+      boosted: 提高！
+      escort_of_the_week: 升级到本周陪同
+      go_prime: 升级到去总理
+      main: 升级
+    upgrade2:
+      escort_of_the_week: 升级到本周陪同
+  type:
+    gay: 男同
+    men: 男人
+    women: 妇女
+system:
+  metric:
+    k: k
+    m: m
+user_followers: '追随 者'
+user_liked: 喜欢！
+user_one_follower: '追随 者'
+verification:
+  success:
+    email_address: 您的电子邮件地址已成功验证。

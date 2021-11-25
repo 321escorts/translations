@@ -1,0 +1,2843 @@
+---
+ads:
+  account:
+    order:
+      history:
+        th:
+          status: Статус
+    verification:
+      upload:
+        file:
+          text: 'Системата е установила висок риск за вашата поръчка. Затова ви молим да качите доказателство за самоличност (например идентификационен номер на картината, паспорт или шофьорска книжка) и снимка на предната част на кредитната ви карта. След като проверим, ще обработим вашата поръчка. След това качените ви файлове ще бъдат автоматично изтрити.'
+ba:
+  account:
+    autocharge:
+      add_funds: 'Добавяйте средства при достигане на сумата'
+      amount: Сума
+      cc: 'Кредитна карта'
+      disable: Забраните
+      enable: Разрешите
+      error:
+        cc: 'Моля, запишете първо кредитна карта, когато добавите средства към сметката си.'
+      head: 'Автоматично добавяне на средства'
+      save: Запишете
+      type:
+        auto: Автоматично
+        manually: Ръчно
+    credentials:
+      currrent_password: 'Текуща парола'
+      new_password: 'Нова парола'
+      password: Парола
+      retype: 'Въведете нова парола'
+    data:
+      account: Сметка
+      address: Адрес
+      cell_phone: 'Мобилен телефонен номер'
+      city: Град
+      company: Компания
+      country: Страна
+      email: Имейл
+      lastname: Фамилия
+      name: Име
+      phone: Телефон
+      position: Позиция
+      save: Запишете
+      tz: 'Часова зона'
+      user: Потребител
+      username: Username
+      vat_tax: ДДС.
+      zip: 'Пощенски код'
+  autocharge:
+    error:
+      amount: 'Сумата е неправилна.'
+      cc: 'Кредитната карта е неправилна.'
+      total: 'Общата сума е неправилна.'
+  billing:
+    funds:
+      action: 'Добавете средства сега'
+      add_funds: 'Добавяне на средства'
+      amount: Сума
+      card: Карта
+      ccv: Cvv
+      info: 'Последните 3 или 4 цифри на задната страна'
+      month_year: 'Месец / Година'
+      name_on_card: 'Име на картата'
+      provider: 'На вашето изявление ще пише \"321 Entertainment\".'
+      save: 'Запазване на кредитна карта'
+    invoices:
+      added_funds: 'Добавени средства'
+      amount: Сума
+      available_funds: 'Налични средства'
+      bill: Бил
+      date: Дата
+      download: 'Изтегляне на фактура'
+      order_id: 'Идентификатор на поръчка'
+      type_funds_added: 'Вид Добавени средства'
+  campaign:
+    copy: Копие
+    error:
+      ad_placement: 'Рекламното му разположение е невалидно.'
+      ad_type: 'Типът реклама е неправилен.'
+      budget:
+        campaign: 'Бюджетът на кампанията не е валиден.'
+        daily: 'Дневният бюджет не е валиден.'
+        type: 'Типът на бюджета е невалиден.'
+      campaign_name: 'Името на кампанията Ви е невярно.'
+      cpm: 'CPM/CPV не е валиден.'
+      end_date: 'Задайте крайната дата правилно.'
+      filter:
+        country: 'Проверка на филтъра: Държава'
+        geo: 'Проверка на филтъра: Географско насочване'
+        label: 'Проверка на филтъра: сексуална ориентация'
+        language: 'Проверка на филтъра: език'
+      start_date: 'Задайте правилно началната дата.'
+      url: 'URL адресът е неправилен.'
+    wizard:
+      action: Действие
+      active: Активни
+      ad_type: 'Тип на AD'
+      ad_type1: 'Тип на AD'
+      back: Обратно
+      banner:
+        info: 'хоризонтален банер на цялата страница за настолни компютри (sarting при 768px). Минимална цена CPM:'
+        label: 'Хоризонтален работен плот на банер'
+      banner_desktop: 'Работен плот на банер'
+      banner_mobile: 'Банер мобилен/таблет'
+      budget:
+        ad_placement:
+          avg_daily: 'Прекарано равномерно през целия ден'
+          fast: 'Възможно най-бързо'
+          head: 'Решете как да използвате бюджета си'
+          label: 'Рекламно разположение'
+        campaign: 'Бюджет на кампанията'
+        daily:
+          label: Ежедневно
+          max_budget: 'Максимален дневен бюджет'
+          max_budget_zero: '(въведете$0.00 за неограничен)'
+        label: Бюджет
+        limit: 'С ограничение'
+        no_limit:
+          info: '\"Без ограничение\" означава, че кампанията ще се провежда, докато не поставите пауза, крайната дата се достигне или няма да останат повече средства'
+          label: 'Без ограничение'
+        total: 'Общ бюджет за тази кампания'
+        type: 'Вид бюджет'
+      budget_limits: 'Бюджет и лимити'
+      campaign_budget: 'Бюджет на кампания'
+      clicks: Кликвания
+      copy: Копие
+      cpm:
+        info: 'Цена на хиляда импресии (CPM), минимална оферта:'
+        label: CPM
+      daily: Ежедневно
+      deactivated: Деактивира
+      delete:
+        confirm: 'Да се изтрие кампанията?'
+        warning:
+          cancel: Отмените
+          delete: Изтриете
+          full: 'Do you really delete the campaign? All reports and data will be deleted unwide.'
+          text1: 'Наистина ли искате да изтриете кампанията?'
+          text2: 'Всички отчети и данни ще бъдат загубени.'
+      deletebm:
+        ads:
+          mail:
+            funds:
+              added:
+                info: Изтриете
+      edit: Редактиране
+      end_date:
+        label: 'Крайна дата'
+        placeholder: 'Дата до'
+      escort_photo:
+        info: 'Вместо голяма ескорт снимка, вашата реклама се показва като ескорт снимка. Минимална цена CPM:'
+        label: 'Ескорт снимка'
+        label1: 'Ескорт снимка профил'
+      filter:
+        all: 'Всички страници'
+        gay: 'Гей Ескорт'
+        geo:
+          address: Адрес
+          all: Всички
+          countries: Страни
+          edit_circle: 'Редактиране на кръг'
+          enlarge_map: 'Уголемяване на картата'
+          label: 'По избор Гео насочване'
+          languages: Езици
+          new_circle: 'Нов гео-кръг'
+          radius: Радиус
+          remove_circle: 'Премахване на кръг'
+        men: 'Мъже Ескорти'
+        sexual_orientation: 'сексуална ориентация'
+        women: 'Жени Ескорти'
+      finish: Завърши
+      fullpage:
+        dim_responsive: 'Размери/репонсивни стойности:'
+        impressions: Впечатления
+        info: 'Между две кликвания се появява отделна страница с банера, след 1,5 секунди ще се покаже бутонът за продължение. Минимална цена CPM:'
+        label: 'Пълна страница'
+        label1: 'Пълна страница'
+      impressions: Впечатления
+      information: Информация
+      landing_page: 'Име и целева страница'
+      media:
+        label: Медии
+        photo: 'Фото:'
+        processing: 'Обработка на данни...'
+      mobile_banner:
+        info: 'хоризонтален банер върху цяла страница, показана за мобилни устройства/таблети (до 767px). Минимална цена CPM:'
+        label: 'хоризонтален банер мобилен / таблет'
+      my_campaigns: 'Моите кампании'
+      name: Име
+      name_campaign: 'Име на кампанията'
+      next: Следващата
+      paused: Пауза
+      price:
+        cpv: CPV
+        video: 'Цена за една импресия на видеоклипа Ви (CPV), минимална оферта:'
+      rejected: Отхвърлени
+      review: Преглед
+      setup: Настройка
+      start_date:
+        label: 'Начална дата'
+        placeholder: 'Започнете от'
+      statistics: Статистика
+      status: Статут
+      target_group:
+        audience: 'Целева аудитория'
+        filter: 'Целева група и филтър'
+      upload: 'Качване на снимки/видеоклипове'
+      url: 'Целева страница/ Целеви URL адрес'
+      video: Видео
+      video_add:
+        impression: Впечатление
+        info: 'HD: Първо ще се възпроизведе видеоклипът ви. След 6 секунди потребителят може да пропусне видеоклипа ви. Минимална цена CPV:'
+        label: 'Видео АД'
+      video_image: 'Видео изображение'
+      video_preview:
+        info: 'Вашата реклама ще се покаже като видео екранна снимка на страницата \"Нови видеоклипове\". Минимална цена CPM:'
+        label: 'Снимка за преглед на видеоклип (страница: нови видеоклипове)'
+  contact:
+    action: Изпрати
+    error:
+      label: 'Грешка:'
+      too_long: 'Молбата ви е твърде дълга. Моля, съкратете заявката си.'
+      too_many_requests: 'Не можете да изпращате повече заявки към момента, опитайте отново по-късно.'
+      too_short: 'Моля, въведете по-дълго искане.'
+    head: Контакт
+    head1: Контакт
+    success: 'Вашето искане е изпратено. Много благодаря.'
+  dashboard:
+    30d: 'последните 30 дни'
+    7d: 'последните 7 дни'
+    active: Активни
+    add_funds: 'Добавяне на средства'
+    budget: 'Моят бюджет'
+    budget_spent: 'Разходи за бюджета'
+    campaigns: Кампании
+    cart:
+      clicks: Кликвания
+      impressions: Впечатления
+    clicks: Кликвания
+    ctr: CTR
+    impressions: Впечатления
+    in_planning: планирането
+    inactive: Неактивни
+    info:
+      clicks: Впечатления
+      impressions: Впечатления
+    new_Campaign: 'Нова кампания и гео насочване'
+    new_banner: 'Нова кампания за банери'
+    new_video: 'Нова видео кампания'
+    sample_data: 'Примерни данни'
+    today: Днес
+    waiting: 'изчакване за одобрение'
+    yesterday: Вчера
+  menu:
+    add_funds: 'Добавяне на средства'
+    billing: Фактуриране
+    campaigns: Кампании
+    dashboard: Таблото
+    head:
+      hi: Здравей
+    history: История
+    logout: Изход
+    new_campaign: 'Нова кампания'
+    overview: Преглед
+    profile: Профил
+    reports: Доклади
+    sub_titel:
+      add_funds: 'Добавяне на средства'
+      billing: Фактуриране
+      campaigns: Кампании
+      dashboard: Таблото
+      history: История
+      my_campaigns: 'Моите кампании'
+      new_campaign: 'Нова кампания'
+      not_found: 'Заявената връзка не може да бъде намерена.'
+      profile: Профил
+      reports: Доклади
+  password:
+    error:
+      not_matching: 'Новите пароли не съвпадат.'
+      password: 'Текущата парола е неправилна.'
+      too_short: 'Новата парола трябва да е с дължина поне 6 знака.'
+  password_forgotten:
+    new_password: 'Нова парола'
+    password: Парола
+    retype_password: 'Въведете отново паролата'
+    send: Изпрати
+  payment:
+    cc: 'Моля, посочете цялата информация за кредитната карта.'
+    error:
+      cc: 'Номерът на вашата карта е неправилен'
+      general: 'Възникна грешка. Моля, опитайте отново по-късно.'
+    min_amount:
+      full: 'The minimum amount is 100 USD'
+      text: 'Минималната сума е'
+  public:
+    email: Имейл
+    enter_details: 'Въведете данните си, за да се регистрирате.'
+    form:
+      address: Адрес
+      cancel: Отмените
+      city: Град
+      company: Компания
+      email: Имейл
+      lastname: Фамилия
+      name: Име
+      password: Парола
+      password_forgotten:
+        back: Обратно
+        cancel: Отмените
+        email: Имейл
+        head: 'Въведете имейл адреса си, за да подновите паролата си.'
+        send: Изпрати
+        signin: Влизане
+        success: 'Ако имейл е регистриран, проверете входящата си поща сега.'
+      phone: 'Телефон (по избор)'
+      retype_password: 'Въведете отново паролата'
+      send: Изпрати
+      signup: 'Регистрирайте се'
+      success: 'Много благодаря. Ще получите имейл веднага след активирането на профила ви.'
+      terms:
+        full: 'I agree to the terms and conditions and data privacy.'
+        text1: 'Съгласен съм с'
+        text2: 'Общи условия и поверителност на данните'
+        text3: ''
+      tz: 'Часова зона'
+      zip: 'Пощенски код'
+    head: 'Добре дошли в Ескорт Реклами'
+    head1: 'Изграждане на марката'
+    head2: 'с Ескорт Реклами'
+    new: 'Новото тук?'
+    password: Парола
+    password_forgotten: 'парола забравена?'
+    signin: Влизане
+    signup: 'Регистрирайте се'
+    signup2: 'Регистрирайте се'
+  reports:
+    clicks: Кликвания
+    ctr: CTR
+    date: Дата
+    error:
+      campaign: 'Изберете поне една кампания.'
+      end_date: 'Задайте крайната дата правилно.'
+      start_date: 'Задайте правилно началната дата.'
+    hour: Часова
+    impressions: Впечатления
+    price: Цена
+    results:
+      amount: Сума
+      campaign: Кампания
+      clicks: Кликвания
+      columns: 'Показаните колони в резултатите'
+      ctr: CTR
+      date: Дата
+      days: Дни
+      end: Края
+      end_date: 'Крайна дата'
+      export:
+        csv: CSV
+        excel: Excel
+        label: Износ
+      generate: 'Генериране на отчет'
+      group_by: 'Групиране по'
+      hour: Часова
+      hours: Часа
+      impressions: Впечатления
+      next: 'Следваща страница'
+      options: 'Изберете опция:'
+      reports: Доклади
+      start: Започнете
+      start_date: 'Начална дата'
+      video_100: 'Vid. Време за работа'
+      video_q1: '1 квартил'
+      video_q2: '2 квартил'
+      video_q3: '3 Квартил'
+      video_skipped: Пропуснати
+      video_skipped_10s: '10 сек.'
+      video_skipped_5s: '5 сек.'
+    video_100: 'Видео - Време: 100%'
+    video_q1: 'Видео - Време: 1 квартил'
+    video_q2: 'Видео - Време: 2 квартил'
+    video_q3: 'Видео - Време: 3 квартил'
+    video_skipped: 'Видео - прескочи щракване'
+    video_skipped_10s: 'Видео - пропуснато (след 10-'
+    video_skipped_5s: 'Видео - пропуснато (след 5- те)'
+  reset_password:
+    error:
+      password_not_matching: 'Паролите не съвпадат.'
+      too_short: 'Паролата ви е твърде къса, уверете се, че е с дължина поне 6 символа.'
+      url: 'URL адресът не е валиден.'
+  signin:
+    change_password: 'Можете да промените паролата си тук:'
+    error:
+      address: 'Въведете адреса правилно.'
+      city: 'Моля, задайте правилно града.'
+      country: 'Моля, въведете вашата страна.'
+      email: 'Имейл адресът не е валиден.'
+      general: 'Регистрацията не е успешна.'
+      lastname: 'Въведете фамилията си.'
+      name: 'Въведете името си.'
+      not_activated: 'Профилът Ви все още е в процес на преглеждане.'
+      tz: 'Въведете вашата часова зона.'
+      zip: 'Моля, задайте пощенския код правилно.'
+    password_forgotten: 'Забравена парола'
+  signup:
+    error:
+      address: 'Моля, посочете адреса си.'
+      city: 'Моля, влезте в града си.'
+      company: 'Моля, въведете вашата фирма.'
+      country: 'Моля, въведете вашата страна.'
+      email: 'Имейл адресът не е валиден.'
+      general: 'Регистрацията не е възможна в момента. Моля, опитайте отново по-късно.'
+      lastname: 'Фамилията ви е невярна.'
+      name: 'Името ви е неправилно.'
+      password_not_matching: 'Паролите не съвпадат.'
+      password_too_short: 'Паролата ви е твърде къса, уверете се, че е с дължина поне 6 символа.'
+      terms: 'Моля, потвърдете условията и условията.'
+      tz: 'Въведете вашата часова зона.'
+      zip: 'Моля въведете пощенския си код.'
+bc:
+  email:
+    ads:
+      mail:
+        activated: 'Вашият акаунт е активиран. Вече можете успешно да поставите рекламите си. Влезте тук:'
+        footer: '321escorts.com АД Услуга'
+        footer2: 'Вашият екип - '
+        hello: Здравейте
+        subject: 'Активиран акаунт'
+        welcome: 'Добре дошли в ads.321escorts.com'
+    affiliate:
+      sale:
+        recurring:
+          mail:
+            full: 'You have a successful affiliate sale of a recurring order: 120 USD - Thank you for participating in the affiliate program. You can see all the details, your statistics and payouts here:'
+            subject: 'Нова партньорска продажба:'
+            text1: 'Имате успешна партньорска продажба на повтаряща се поръчка:'
+            text2: '- Благодаря ви, че участвахте в партньорската програма. Можете да видите всички подробности, статистическите си данни и изплащанията тук:'
+    birthday:
+      eotw:
+        offer:
+          detail: 'Отстъпка при закупуване на 4 седмици \"Escort на седмицата\"'
+          head: '1 седмица безплатно \"Ескорт на седмицата\"'
+      prime:
+        offer1:
+          detail: 'Отстъпка при закупуване 1 година Prime'
+          head: '2 месеца безплатно \"Prime\"'
+        offer2:
+          detail: '1 месец безплатен \"Прайм\"'
+          head: '2 месеца безплатно \"Prime\"'
+        offer3:
+          detail: 'Честит рожден ден'
+          head: 'Отстъпка при закупуване на 3 месеца Prime'
+      text:
+        click_here: 'Кликнете тук, за да получите подаръка си сега'
+        congratulation: 'сърдечно ви поздравяваме за рождения ви ден. Всичко най-хубаво, любов и здраве за вас. Имаме подарък за вас'
+        enjoy_your_day: 'Насладете се на деня си!'
+        gift_valid: 'Вашият подарък е запазен за вас, докато'
+        hello: Ало
+    footer:
+      contact: Контакт
+      twitter: 'Следвайте ни в Twitter'
+    reminder:
+      prime: Председател
+      type:
+        cc:
+          close1: 'Това е просто напомняне за теб. Не е нужно да правиш нищо. Всички подробности и управлението на вашия абонамент са налични в историята на поръчките.'
+          close2: 'Ако имате въпроси, моля не се колебайте да се свържете с нас.'
+          close3: 'Хронология на поръчките'
+          info:
+            amount: 'Сума:'
+            days: 'Дни:'
+            subscription: 'Абонамент:'
+          label: 'Кредитна карта:'
+          renew: 'Абонаментът ви ще бъде подновен в рамките на следващите дни'
+          renew1: 'абонаментът ви ще бъде автоматично подновен в рамките на следващите дни:'
+        iban:
+          label: 'Iban:'
+          renew: 'Абонаментът ви ще бъде подновен в рамките на следващите дни'
+          renew1: 'Неуспешно подновяване на абонамента'
+        other:
+          close1: 'Утежни състоянието на потребителския си профил сега:'
+          close2: 'Моля, не се колебайте да се свържете по всяко време, което ви харесва.'
+          reminder1: 'състоянието на потребителския Ви профил ще изтече след няколко дни:'
+          renew: 'Запазване на състоянието на потребителския ви профил'
+    renew:
+      alternative:
+        action: 'Подновяване на абонамента ви'
+        full: 'You can place the order for your Prime subscription here.'
+        text1: 'Можете да направите поръчката за'
+        text2: 'абонамент тук.'
+      disable_notification: 'Деактивиране на тези известия'
+      error:
+        full: 'Your Prime subscription could not be renewed. Your payment method has been rejected.'
+        text1: Вашият
+        text2: 'абонамент не може да бъде подновен. Вашият начин на плащане е отхвърлен.'
+      mail:
+        footer: '321escorts.com обслужване на клиенти'
+      my_profile: 'Моят профил'
+    renewed:
+      success:
+        close1: 'Благодарим Ви, че подновихте абонамента си! Всички подробности и управлението на вашия абонамент са налични в историята на поръчките.'
+        close2: 'Ако имате въпроси, моля не се колебайте да се свържете с нас.'
+        full: 'Hello Tom, your subscription has been successfully renewed:'
+        text1: 'абонаментът ви е успешно подновен:'
+        text2: 'Абонаментът е успешно подновен'
+    verification:
+      mail:
+        body: 'верификацията ви е била успешна. Вашият профил е актуализиран.'
+        subject: 'Успешна проверка'
+  notifications:
+    missed:
+      subject: 'Пропуснати известия'
+    new:
+      body: 'Нов преглед получен'
+      subject: 'Има нови съобщения за вас.'
+  notify:
+    new_message:
+      body: 'има нови съобщения за вас:'
+      from:
+        text1: 'Получихте ново съобщение от'
+      label: 'Ново съобщение'
+      to:
+        full: 'You received a message from Tom.'
+        text1: 'Получихте ново съобщение от'
+        text2: ''
+      view: Разгледай
+    unred_message:
+      action: 'Преглед на съобщенията'
+      body: 'Има непрочетени съобщения за вас.'
+      subject: 'Непрочетени съобщения'
+  notify1:
+    new_message:
+      message_received: 'Получено е ново съобщение'
+      to:
+        full: 'Tom sent you a new message'
+        text1: 'ви изпрати ново съобщение'
+  notify2:
+    new_message:
+      to:
+        body: 'има нови съобщения за вас.'
+        full: 'You received a new message from Tom.'
+        text1: 'Имате ново съобщение от'
+  review:
+    new:
+      anonymous:
+        full: 'You received a 5-star rating from Anonymous.'
+        subject: 'Нов преглед'
+        text1: 'звездите, получени от Anonymous.'
+      full: 'You received a 5-star rating from Tom.'
+      text1: 'Получихте нов преглед с'
+      text2: ' звезди от'
+      text3: ''
+  review1:
+    anonymous: Анонимен
+    new:
+      full: '5 stars review received from Tom.'
+      text1: ' ревен преглед, получен от'
+      text2: ''
+      text3: ' звезди отзив, получен от Анонимен'
+  review2:
+    new:
+      anonymous: 'звездите, получени от Anonymous.'
+      full: 'You received a new review with 5 stars from Tom.'
+      text1: 'Получихте нов преглед с'
+      text2: ' звезди от'
+      text3: .
+bf:
+  public:
+    user:
+      age:
+        years: Години
+      title:
+        rent_me: 'наемете ме сега'
+bm:
+  ads:
+    mail:
+      campaign:
+        approved: 'е одобрено. Можете да започнете кампанията си сега.'
+        error1: 'е поставена на пауза, защото в профила Ви няма достатъчно средства или ограничението за кампанията е достигнато.'
+        error2: 'е бил на пауза, защото в профила Ви няма достатъчно средства.'
+        error3: 'е поставена на пауза, защото ограничението за кампанията е достигнато.'
+        error4: 'е поставена на пауза, защото крайната дата на кампанията Ви е достигната.'
+        label: 'вашата кампания'
+        map:
+          hide_details: 'Скриване на детайлите'
+          show_details: 'Показване на подробности'
+        stopped: 'Кампанията спря:'
+        subject_approved: 'Одобрена кампания:'
+        view_details: 'Можете да видите всички подробности и отчети за кампанията си тук:'
+      funds:
+        added:
+          info:
+            details: 'Тук виждате всички подробности и транзакции:'
+            details1: 'автоматично управление на фондовете:'
+            full: 'We charged $1000 from your credit card'
+            text1: 'Ние заредихме'
+            text2: 'от вашата кредитна карта'
+            text3: ''
+          label: 'Нови средства, в които автоматично се добавят към рекламния Ви профил.'
+  affiliate:
+    mail:
+      sale:
+        body: 'Благодарим ви, че участвахте в партньорската програма. Можете да видите всички подробности, статистическите си данни и изплащанията тук:'
+        subject: 'Нова партньорска продажба:'
+  notify:
+    mail:
+      private_gallery:
+        allow: Позволи
+        body:
+          full: 'Tom would like to see your private gallery.'
+          text1: 'искате да видите вашата частна галерия.'
+        reject: Отхвърли
+    mail1:
+      private_gallery:
+        full: 'you can now see the private gallery from Tom.'
+        subject: 'Заявка - частна галерия'
+        text1: 'можете да видите частната галерия от'
+        text2: .
+        text3: 'Вече можете да видите частната галерия от'
+        text4: ':'
+    mail2:
+      private_gallery:
+        full: 'Tom would like to see your private gallery.'
+        subject: 'Частна галерия'
+        text1: 'искате да видите вашата частна галерия.'
+        view_gallery: 'Преглед на галерията'
+        view_profile: 'Преглед на профила'
+    mail3:
+      private_gallery:
+        allow: Позволи
+        full: 'Tom has unlocked the private gallery for you.'
+        gallery_unlocked: 'Отключена частна галерия'
+        text1: 'е отключил частната галерия за вас.'
+  order:
+    mail:
+      gift:
+        subject:
+          full: 'You received a gift from Tom:'
+          text1: 'Вие сте получили подарък от'
+          text2: ':'
+        thankyou:
+          body:
+            full: 'You can see the order details for also in your order history.'
+            text1: 'Можете да видите детайлите на поръчката за'
+            text2: 'също и в историята на поръчките ви.'
+          body1:
+            full: 'We sent Tom a message that you sent a gift :-)'
+            subject: 'Благодарим ви за поръчката!'
+            subject1: 'Благодаря ви много вашата поръчка'
+            text1: Изпратихме
+            text2: 'съобщение, че сте изпратили подарък :-)'
+          body2: 'Можете да преглеждате историята на поръчките си в профила си по всяко време.'
+          body3:
+            full: 'the user Tom has just sent a gift to you: Prime. Tom would love to receive a "thanks" from you :-)'
+            text1: потребителят
+            text2: 'Току-що ви е изпратил подарък:'
+            text3: 'Бих искал да получа \"благодаря\" от вас :-)'
+          body4:
+            full: 'Chat with Tom'
+            text1: 'Отваряне на чат с'
+            text2: 'и изпрати \"Благодаря\" :-)'
+          body5:
+            full: 'Gift received from Tom.'
+            text1: 'Подарък, получен от'
+            text2: ''
+          subject: 'Благодарим ви за поръчката'
+chat:
+  ago: ''
+  days: Дни
+  error:
+    action_login: Вход
+    action_register: 'Регистрирайте се.'
+    login_required: 'Моля, влезте, за да използвате чата.'
+  hour: Часова
+  hours: Часа
+  image: Изображение
+  message:
+    d: d
+    gallery:
+      approve: Одобри
+      reject: Отхвърли
+    h: h
+    min: min
+    sec: sec
+  messenger:
+    action:
+      become_prime_member: 'Стани член на щатния министър сега. Като член на Prime, можете да съхранявате неограничени съобщения.'
+      mobile:
+        become_prime_member: 'Станете член на prime сега'
+    close: Затворите
+    error:
+      chat_empty: 'Разговорът ви е все още празен. Напиши на някого, който ви харесва :-)'
+      limit_reached: 'Достигнато е ограничението на паметта'
+    headline: Съобщения
+    message:
+      delete: Изтриете
+      error: 'Грешка: Чатът не е валиден.'
+      error_try_later: 'Грешка: Опитайте отново по-късно.'
+      read: Прочетете
+      received:
+        now: Nwo
+      save: Запишете
+      spam: Спам
+      unread: Непрочетени
+      unstore: 'Отнест а'
+      upgrade_read_messages: 'Искате ли да видите дали съобщението ви е прочетено?'
+      user_is_typing: 'е типичен'
+    new_message:
+      placeholder: 'Съобщението ти...'
+    user_is_typing: 'е типичен'
+  minute: Минута
+  minutes: Минути
+  user:
+    offline: Офлайн
+    online: Онлайн
+  video: Видео
+  yesterday: Вчера
+email:
+  affiliate:
+    subject: 'Партньорска продажба - '
+exchange_links:
+  success:
+    rescan_website: 'Много благодаря. Ще сканираме отново страницата ви в следващите 24 часа.'
+follow_user: Следват
+main:
+  account:
+    activate: 'Активиране на акаунт'
+    add_hashtag: 'Добавяне на етикет'
+    advertising:
+      country_formats: Държава/формати
+      hide: Скриете
+      label: 'Реклама:'
+      no: Не
+      notifications:
+        email: Имейл
+        label: Уведомления
+        sms: Sms
+        web_push: 'Уеб натискане'
+      show: Показват
+      sound_chat: 'Звук/чат:'
+      view: Разгледай
+      yes: Да
+    amazon_wishlist:
+      headline: 'Списък с желания на Амазонка'
+      label: 'Списък с желания на Амазонка:'
+    billing:
+      history:
+        days: Дни
+    cell_phone:
+      change_number: 'Промяна на номера'
+      code: Код...
+      contact_and_cell_phone: 'Номер на мобилен телефон за връзка'
+      dont_show: 'Не показвайте номера на уебсайта'
+      dont_show2: 'Не показвайте номера на уебсайта'
+      label: 'Клетка:'
+      same_number: 'същото число като основно число'
+      send:
+        code: 'Изпращане на SMS код на този номер'
+        full: 'Send SMS code to this number +1123456789 now?'
+        now: Nwo?
+      send_sms: 'Изпращане на SMS'
+      verify: Провери
+      verify_number: 'Номер на проверка'
+      verify_number1: 'Номер на проверка'
+      whatsapp: 'Whatsapp (незадължително):'
+    credentials:
+      auto_social_login: 'автоматично / социално влизане'
+      confirm_with_password: 'Потвърждаване с текущата парола'
+      confirm_with_password1: 'Потвърждаване с текущата парола'
+      delete_account: 'Изтриване на акаунт'
+      error:
+        emails_not_matching: 'Грешка: Новият имейл адрес не съвпада с повторното въвеждане на имейл адрес.'
+        fiell_out: 'Грешка: Попълнете всички полета.'
+        new_profile: 'Грешка: Моля, въведете ново име на профил и парола.'
+        passwords: 'Грешка: Въведете паролата си.'
+        passwords_not_matching: 'Грешка: Новата парола не съвпада с паролата, която сте заели отново.'
+      free: Безплатно
+      head: Сметка
+      login: Вход
+      modal:
+        delete:
+          confirm_with_password: 'Потвърждение с парола'
+          head: 'Изтриване на вашия акаунт!'
+          label: 'Изтриване на профила ми'
+          text: 'Наистина ли искате да изтриете акаунта си? Вашите снимки, видеоклипове, последователи, харесва и всички данни ще бъдат необратимо изтрити и се губят завинаги. Canb може да постави на пауза и да възобнови профила ви по всяко време.'
+      new_email_address: 'Нов имейл адрес'
+      new_password: 'Нова парола'
+      new_profile_name: 'Ново име на профил'
+      password: Парола
+      profile_name: 'Име на профил'
+      retype_new_email_address: 'Въведете нов имейл адрес'
+      retype_new_password: 'Въведете нова парола'
+    date_of_birth: 'Дата на раждане:'
+    deactivate_your_account: 'Деактивиране на акаунта ви'
+    distance:
+      ft: ft
+      km: km
+      m: m
+      mi: mi
+    general: Основни
+    hashtags:
+      add_tag: 'Добавяне на етикет'
+      headline: '#Hashtags.'
+    headline: 'Заглавие:'
+    height: 'Височина:'
+    location:
+      add_location: 'Добавете места, които посещавате. Ще бъдете изброени в резултатите от търсенето за всички места предварително, за да получите повече атракция.'
+      add_new_place: 'Добавяне на ново място'
+      add_places: 'Добавете места, които посещавате. Ще бъдете изброени в резултатите от търсенето за всички места предварително, за да получите повече атракция.'
+      auto_change: 'Щракнете, за да промените местоположението автоматично'
+      browser_error: 'Блокирали сте споделянето на местоположението във вашия браузър. Моля, разрешете да използва тази функция.'
+      choose_location: 'Изберете местоположение и дата'
+      date_from: 'Дата от'
+      date_to: 'Дата до'
+      delete: 'Искате ли да изтриете посещението си от'
+      delete_from: ''
+      delete_headline: 'Изтриване на местоположението'
+      delete_location: 'Да се изтрие ли местоположението?'
+      delete_question_mark: '?'
+      enter_location: 'Въведете местоположение'
+      entered_location: 'Въведено местоположение'
+      error: 'Грешка:'
+      error_try_later: 'Грешка: Опитайте отново по-късно'
+      head:
+        add_location: 'Добавяне на местоположение'
+        gps_location: 'Вашето GPS местоположение'
+        i_visit: Посещавам
+      headline: 'Да се изтрие ли местоположението?'
+      label:
+        delete_location: 'Изтриване на местоположението'
+        delete_location2: 'Искате ли да изтриете това местоположение?'
+        delete_location3: ''
+        select: 'Изберете местоположение'
+      manually_change: 'Щракнете, за да промените местоположението си ръчно'
+      map: 'Изберете местоположение от картата или въведете местоположението в текстовото поле над картата. Също така изберете начална и крайна дата.'
+      ok: OK
+      save_location: 'Записване на местоположението'
+      save_location1: 'Записване на местоположението'
+      save_location2: 'Записване на местоположението'
+      select: 'Изберете местоположение'
+      start_end_date: 'Добавете начална и крайна дата към вашето пътуване. Ще бъдете изброени в резултатите от търсенето за всички места предварително, за да получите повече атракция.'
+      trip_already_planed:
+        error: 'Вече имаш пътуване на тези дати.'
+      use_gps: 'Използвайте GPS'
+    measuring_system:
+      cm: См
+      imperial: 'Имперски (САЩ)'
+      kg: Кг
+      label: 'Измервателна система:'
+      lbs: Lbs
+      metric: Метрични
+    media:
+      add_hashtag: 'Добавяне на етикет'
+      add_hashtags: 'добавяне на хаштагове'
+      classification_pending: 'Чакаща класификация'
+      delete:
+        head: 'Наистина изтриване'
+        label:
+          cancel: Отмените
+          delete: Изтриете
+        text: 'Наистина ли искате да изтриете този носител?'
+      hd: HD
+      is_preview: 'е визуализация на снимка'
+      max_size: 'Снимки и видеоклипове'
+      photo: Фото
+      private_gallery: 'частна галерия'
+      type:
+        all_media: 'Всички медии'
+        photos: Снимки
+        videos: Видео
+      video: Видео
+      xxx: XXX
+    menu:
+      account: Сметка
+      contact: Контакт
+      locations: 'Управление на местоположения'
+      logout: Изход
+      media:
+        head: 'Управление на снимки и видеоклипове'
+        manage: 'Управление на снимки и видеоклипове'
+      order_history: 'Хронология на поръчките'
+      preview: 'Преглед на профила'
+      profile: Профил
+      settings: Настройки
+      upload: 'Качване на снимки и видеоклипове'
+      verification: Проверка
+      verified: 'Ескорт потвърден'
+      view_profile: 'Преглед на профила'
+    order:
+      history:
+        status:
+          paid: Платени
+          pending: Очакване
+      status:
+        paid: 'Благодаря ви за поръчката.'
+        pending: 'Благодарим ви. Ще проверим вашата поръчка и ще ви уведомим скоро.'
+    payment:
+      error:
+        label: 'Възникна грешка. Моля, свържете се с нас.'
+        password_invalid: 'Паролата ви е неправилна.'
+        password_too_short: 'Новата парола трябва да е с дължина поне 6 знака.'
+        profile_invalid: 'Новото име на профил е невалидно. Изберете друго име на профил.'
+        profile_name_too_short: 'Новото име на профил трябва да е с дължина поне 6 знака. Допускат се знаци, букви, тирета и тирета.'
+      not_recurring: 'Не се начисляват'
+    payments:
+      amount: Сума
+      billed: Таксувани
+      cancel:
+        label: Отмените
+      cancel_subscription:
+        head: 'Отмяна на абонамент:'
+        label: 'Ако анулирате абонамента си, няма да има автоматично подновяване вече. Ако искате да продължите да използвате услугата, ще трябва да направите нова поръчка. Наистина ли искате да отмените абонамента си, като разхвърляте всички befinits и festures?'
+        label1: 'Отмяна на абонамент'
+        text: 'Ако искате да анулирате абонамента си, кликнете върху \"абонамент\" в хронологията на поръчките.'
+      cancelled: Отменени
+      currently_free_account: 'В момента използвате безплатен акаунт. Надстройте до \"Go Prime\" сега и да използвате всички страхотни функции.'
+      date: Дата
+      duration: Продължителност
+      eotw:
+        full1: 'Escort of the Week subscription is active until 2022-02-04 and will be automatically extended.'
+        full2: 'Escort of the Week subscription will be cancelled on 2022-02-04.'
+        text1: 'Ескорт на абонамента за седмицата'
+        text2: 'е активен, докато'
+        text3: 'ще бъдат отменени на'
+        text4: 'и ще бъде автоматично удължен.'
+        text5: ''
+      error:
+        billing: 'Проблеми с таксуването при обработка на абонамента ви'
+      failed: 'Не успя'
+      gift_no: 'подарък (непразничане)'
+      nonrecurring: 'Не се начисляват '
+      order_history: 'Хронология на поръчките'
+      paid: Платени
+      prime: Председател
+      prime_subscription: 'Основен абонамент'
+      product: Продукт
+      status: Статут
+      subscription: 'Активен абонамент'
+      subscription1: Абонамент
+      your: Вашият
+    pornstar:
+      very_for_changing_settings: 'Проверете дали сте променили настройките.'
+    price:
+      ask: Попитам
+      price: Цена...
+      price_hour: 'Цена: час:'
+      price_night: 'Цена за нощувка:'
+    profile_activated: 'Профилът е активиран.'
+    profile_text: 'Текст на профила:'
+    pron_star:
+      label: 'Аз също съм порно звезда'
+      upload: Качите
+      website_indication: 'Уебсайт, който показва, че сте порно звезда (URL, Twitter акаунт или интернет видео)'
+    services:
+      headline: 'Услуги, предпочитания и фетиши'
+    settings:
+      label: Настройки
+    signup:
+      terms_policy:
+        text1: 'Да, приемам'
+    status:
+      profile_paused: 'Вашият профил е в момента на пауза. Щракнете тук, за да активирате повторно вашия профил.'
+    text_hashtags:
+      headline: 'Текстове и #Hashtags'
+    thousand:
+      k: k
+    type:
+      prime_escort: 'Prime Escort'
+    upload:
+      error: 'Качването в момента не е налично.'
+    verification:
+      files:
+        full: 'Uploaded files will automatically be deleted after verification'
+        info: '(максимум 3 снимки или PDF файлове)'
+        label: 'Щракнете тук, за да качите файлове.'
+        success: 'Много благодаря. Ще се свържем с вас скоро.'
+        text1: 'Качени файлове'
+        text2: 'автоматично ще се изтрива след проверка'
+        text3: 'се извършва.'
+      full: 'Improve your profile status and show everyone that you are real '
+      label: Проверка
+      proof:
+        blackened: 'Данни като име и адрес могат да бъдат почернени.'
+        full: 'Send us a proof with photo, e.g. drivers licence picture ID or passport'
+        text1: 'Изпратете ни доказателство със снимка, например.'
+        text2: 'свидетелство за правоспособност на водачите, '
+        text3: 'ИД на картина'
+        text4: Или
+        text5: Паспорт
+        text6: ''
+      text1: 'Подобряване на състоянието на профила и показване на всички'
+      text2: 'че сте истински'
+      upload:
+        file:
+          cancel: Задрасквам
+          cc: 'Предна кредитна карта'
+          error: 'Моля, въведете файловете си'
+          identity: 'ИД на картина'
+          text: 'Системата е установила висок риск за вашата поръчка. Затова ви молим да качите доказателство за самоличност (например идентификационен номер на картината, паспорт или шофьорска книжка) и снимка на предната част на кредитната ви карта. След като проверим, ще обработим вашата поръчка. След това качените ви файлове ще бъдат автоматично изтрити. Като алтернатива можете да изберете друг начин на плащане.'
+          upload: Качвам
+          verification_required: 'Необходима е проверка'
+    view:
+      large_grid: 'голяма мрежа'
+      list_view: 'изглед на списък'
+      mobile:
+        large_grid: 'голяма мрежа (мобилни устройства)'
+      small_grid: 'малка мрежа'
+    weight: 'Тегло:'
+  ad:
+    banner:
+      remove_ad: 'Премахване на AD'
+    click_here: 'Щракнете тук'
+    label: Реклама
+    place:
+      action:
+        place_your_ad: 'Поставете вашата AD сега'
+      ad_options: 'Ексклузивни опции за вашите ADs'
+      banner_ad: 'Банер АД'
+      budget_management: 'Интелигентно управление на бюджета и адаптивно ad позициониране'
+      escort_profile_ad: 'Ескорт снимка профил'
+      filters: 'Ексклузивни филтри - сексуална ориентация, страни, езици'
+      fullpage_ad: Фулдж
+      geo_targeting: 'Реклами с гео насочване за реализации'
+      high_conversions: 'високи реализации поради силен акцент върху целевите групи'
+      multi_geo_targeting: 'Мулти географско насочване за всяка кампания'
+      unlimited_campaigns: 'неограничен брой кампании и статистика в реално време'
+      video_ad: 'Видео АД'
+      video_preview_photo: 'Снимка за преглед на видео'
+    remove: 'Премахване на AD'
+  affiliate:
+    account_blocked: 'Вашата партньорска сметка е блокирана поради трафик на измами. Ако смятате, че това е грешка, моля не се колебайте да се свържете с поддръжката тук.'
+    action:
+      register_under_30s: 'Регистрирайте се безплатно за 30 секунди'
+    copy_link: 'Копиране на връзка'
+    email:
+      error: 'Имейл адресът не е валиден.'
+      label: Имейл
+      sent:
+        body: 'Моля, потвърдете вашия имейл адрес'
+        body2: 'в рамките на следващите 60 минути:'
+        confirm_email_address: 'Потвърдете имейл адреса:'
+        full: 'Please confirm your email address within the next 60 minutes:'
+        hello: Здравейте
+        label: 'Филиал - моля потвърдете новия си имейл адрес'
+    embed_website: 'Вграждане в генератор на уеб сайтове/връзки'
+    head:
+      full: 'You want to maximize your traffic revenue?'
+      mobile: 'Искате да увеличите максимално приходите си от трафика?'
+      text1: 'Искате да увеличите максимално'
+      text2: 'приходите от трафика?'
+    income:
+      apprx_income: 'Приблизителен доход:'
+      avg_daily_registrations: 'Средни регистрации на ден'
+      calc: 'Калкулатор на доходите'
+      calc_income: 'Изчисляване на приходите'
+      results:
+        action:
+          register_under_30s: 'Регистрирайте се безплатно за 30 секунди'
+        free_signups: 'Безплатни се регистрирания'
+        incl_recurring_sales: 'вкл. повтарящи се продажби'
+        income_1st_yr: 'Доход 1 година'
+        income_2nd_yr: 'Доход 2 години'
+        income_month: Доход/месец
+        sales: Продажби
+        total: Общо
+    lifetime_sales: '50% дял от всички повтарящи се продажби - forwever, без живот на бисквитките'
+    menu:
+      account: Сметка
+      details: Подробности
+      head: 'Партньорска програма:'
+      links: Връзки
+      logout: Изход
+      payout: Изплащане
+      statistics: Статистика
+      support: 'Партньорска поддръжка'
+    new_password:
+      email:
+        body: 'Можете да промените паролата си в рамките на следващите 60 минути, като кликнете върху връзката:'
+        hello: Здравейте
+      error:
+        email: 'Вашият имейл адрес е неправилен.'
+        invalid_identifier: 'Идентификаторът е невалиден'
+        min_characters: 'Паролата трябва да е с дължина поне 6 знака.'
+        passwords_not_matching: 'Паролите не съвпадат.'
+      head: 'Филиал - нова парола'
+      placeholder: 'Нова парола (мин. 6 знака)'
+      placeholder1: 'нова парола (мин. 6 знака):'
+      retype_placeholder: 'Въведете отново паролата:'
+      save: 'Запазване на паролата'
+    one_usd_per_registration: '.00 за всяка безплатна регистрация - не се изисква проверка на имейл'
+    password:
+      do_not_match: 'Паролите ви не съвпадат.'
+      error: 'Паролата ви е неправилна.'
+      error1: 'Текущата ви парола е неправилна.'
+      head: 'Партньор - Идентификационни данни'
+      too_short: 'Паролата ви е твърде къса.'
+    password_forgotten:
+      email: 'Имейл адрес:'
+      send_label: 'Заявка за идентификационни данни'
+      success: 'Ако имейлът е регистриран, ние сме ви изпратили имейл.'
+    payout:
+      address: Адрес
+      address2: 'Адрес на добавяне '
+      bitcoin:
+        error: 'Адресът на Bitcoin не е валиден.'
+        minimum1: 'Минималната сума за изплащане е'
+        minimum2: 'и ще бъде платена на адреса на БТК'
+        payout: 'Изплащане на Bitcoin адрес (.00 такса)'
+      btc:
+        address: 'Адрес на БТК'
+      cc:
+        ccv: Ccv
+        ccv_info: 'Последните 3 или 4 цифри на задната страна'
+        error: 'Кредитната карта е невалидна.'
+        exp_date: 'Дата на изтичане'
+        head: 'Кредитна карта'
+        minimum1: 'Минималната сума за изплащане е'
+        minimum2: 'и ще бъде платена по кредитната ви карта'
+        month_year: 'Месец / Година'
+        name_on_card: 'Име върху кредитна карта'
+        payout: 'Изплащане на кредитна карта'
+      change_payout: 'Ако искате да промените данните си за изплащане, можете да изтриете текущите си данни. Текущите изплащания не са засегнати от това.'
+      city: Град
+      contact: 'Ако имате някакви проблеми, моля, свържете се с партньорската подкрепа.'
+      country: Страна
+      current_password: 'Текуща парола'
+      delete_payout_data: 'Изтриване на данни за плащания'
+      error:
+        address: 'Адресът ви е неправилен.'
+        city: 'Моля, влезте в града си.'
+        country: 'Моля, въведете вашата страна.'
+        date: 'Изберете правилната дата.'
+        date_range: 'Изберете правилния период от време.'
+        lastname: 'Фамилията ви е невярна.'
+        min_amount: 'Минималната сума за изплащания е неправилна.'
+        name: 'Името ви е неправилно.'
+        zip: 'Моля, въведете пощенския си код.'
+      full: 'The minimum payout amount is 50 EUR and will payed to the BTC address'
+      lastname: Фамилия
+      min_amount: 'Изплащане от'
+      name: Име
+      payout: Изплащане
+      payout_invalid: 'Невалиден изплащания.'
+      save:
+        label: Запишете
+        success: 'Промените са записани успешно'
+      saved:
+        full: 'Your payout information were successfully saved on 2020-12-31'
+      saved1: 'Информацията ви за изплащане е успешно запазена на'
+      saved2: .
+      zip_code: 'Пощенски код'
+    registration_process: 'Нашият бърз процес на регистрация, който не изисква имейл адрес или кредитна карта, увеличава реализациите ви както никога досега. '
+    retype_new_password: 'Въведете отново паролата'
+    revenue_share: '50% дял от всички продажби (директни продажби, кръстосани продажби, продажби и т.н.)'
+    sigin:
+      error: 'Вашите идентификационни данни са невалидни.'
+    signin:
+      head: 'Филиал - Влезте в профила си'
+      password: 'Парола:'
+      password_forgotten: 'Забравена парола?'
+    signup:
+      accept_terms_policy: 'Приемете Условията и правилата, за да продължите.'
+      already_registered: 'Вече сте регистрирани?'
+      email:
+        body: 'добре дошли в безплатната партньорска програма. Моля, потвърдете вашия имейл адрес, като кликнете върху линка по-долу. Всички подробности, връзки и HTML въртележка ескорт генератор, както и вашата статистика могат да бъдат намерени в задната част.'
+        confirm_email_address: 'Потвърдете вашия имейл адрес:'
+        not_registered_with_this_email_address: 'Ако не сте се регистрирали с този имейл адрес, моля натиснете тук:'
+        subject: 'Филиал - моля потвърдете вашия имейл адрес'
+      error:
+        passwords_not_matching: 'Паролите ви не съвпадат.'
+      head: 'Филиал - Регистрирайте се'
+      label:
+        finish: Завърши
+      password_min_characters: 'Парола (мин. 6 знака):'
+      terms_policy: 'Terms and Policy'
+    stats:
+      clicks: Кликвания
+      ctr: Ctr
+      date:
+        head: Дата
+        label: Дата
+      date1: Дата
+      excel_download: 'Изтегляне на Excel'
+      head:
+        carousel: Въртележката
+        gay: 'Ескорт: Гей,'
+        geo_targeting: 'Избор: Гео насочване,'
+        men: 'Ескорт: Мъже,'
+        random: 'Избор: Случайни,'
+        theme_dark: 'Тема: Тъмно,'
+        theme_individual: 'Тема: Индивидуално,'
+        theme_light: 'Тема: Светлина,'
+        trans: 'Ескорт: Транс,'
+        women: 'Ескорти: Жени,'
+      hits: Хитове
+      json_download: 'JSON Изтегляне'
+      new_payouts: 'Нови изплащания'
+      pages: 'Страници:'
+      period: Период
+      range: Диапазон
+      recurring_payouts: 'Периодични изплащания'
+      results:
+        next: Следващата
+        previous: Предишни
+      sort_by: 'Сортиране по'
+      tab:
+        clicks: Кликвания
+        ctr: Ctr
+        date: Дата
+        hits: Хитове
+        link: Връзка
+        new_payouts: 'нови изплащания'
+        recurring_payouts: 'периодични изплащания'
+        total_payouts: 'Общо изплащания'
+        tour: 'Туристически обиколки'
+        unique_hits: 'Уникални хитове'
+      total_all_pages: 'Общо (всички страници)'
+      total_payouts: 'Общо изплащания'
+      tour: 'Туристически обиколки'
+      unique_hits: 'Уникални хитове'
+      view: Разгледай
+    support:
+      error:
+        too_long: 'Текстът ви е твърде дълъг. Моля, съкратете вашето запитване.'
+        too_many_requests: 'Не можете да изпращате повече заявки към момента, опитайте отново по-късно.'
+        too_short: 'Въведете по-дълъг текст.'
+      from: 'От:'
+      head: 'Свържете се с отдела за поддръжка на партньори'
+      send:
+        thank_you: 'Вашата заявка е изпратена успешно. Благодарим ви. '
+    user:
+      background_color: 'Цвят на фона'
+      copy_html: 'Копиране на HTML'
+      copy_linke: 'Копиране на връзка'
+      dark_theme: 'Тъмна тема'
+      desktop: 'Работния плот'
+      embedded: 'Ескорт шлиосел (вграден)'
+      escort_results: 'Резултати от ескорта:'
+      escorts: 'Ескорт:'
+      geo_targeting: 'Гео насочване (най-голямо преобразуване)'
+      individual_them: 'Индивидуална тема'
+      language: 'Език:'
+      light_theme: 'Тема на светлина'
+      link: Връзка
+      mobile: Мобилни
+      preview: Преглед
+      random: Случайни
+      text_color: 'Цвят на текста'
+      theme: 'Тема:'
+      type: 'Тип:'
+    user_feature_set: 'Потребителят може да се възползва напълно от сайта, без да инвестира стотинка, включително безплатни снимки, видеоклипове, чатове и много повече!'
+    usp: 'Това, което ни прави толкова различни е нашият \"истински безплатен\" ескорт сайт.'
+    your_link: 'Вашият URL адрес на партньор:'
+  chat:
+    translation:
+      action:
+        activate_now: 'Активирай превода сега'
+      feature:
+        myself:
+          full: 'входящите съобщения ще бъдат преведени автоматично на английски език'
+          text1: 'входящите съобщения ще бъдат автоматично '
+          text2: ''
+        user:
+          full: 'Изходящите съобщения се превеждат автоматично на езика, избран от sexyGirl18'
+          text1: 'Изходящите съобщения се превеждат автоматично на езика, избран от sexyGirl18'
+          text2: ''
+      language:
+        write_in: 'Пиша в'
+      service:
+        activated: 'преводаческа служба активна'
+        deactivated: 'дезактивирана услуга за превод'
+    upload:
+      check:
+        progress: 'Работа по файл...'
+  contact:
+    email_address: Имейл
+    error:
+      captcha: 'Въведете номера/captcha в картинката.'
+      general: 'Грешка:'
+      too_long: 'Текстът ви е твърде дълъг. Моля, съкратете вашето запитване.'
+      too_many_requests: 'Не можете да изпращате повече заявки към момента, опитайте отново по-късно.'
+      too_short: 'Въведете по-дълъг текст.'
+    feedback: 'Обратна връзка'
+    head: Контакт
+    headline: 'Свържете се с нас'
+    improvements_wishes: 'Имате ли някакви подобрения, желания или обратна връзка? Свържете се с нас сега.'
+    success:
+      thank_you: 'Вашето искане е изпратено. Много благодаря.'
+  enable_search_notifications: 'Разрешаване на известия за търсене'
+  enabled_search_notifications: 'Разрешени известия за търсене'
+  escort:
+    directory:
+      escorts_in:
+        body1: Видите
+        body2: ''
+        cities_from: 'Ескорт в градовете от'
+        find_in_countries: 'Намерете ескорт в следните страни'
+        following_cities: 'Намерете ескорт в следващите градове'
+        following_regions: 'Намерете ескорт в следните региони'
+        full: 'See all Gay Escorts in France'
+        label: 'Ескорти в'
+        regions_from: 'Ескортирайте се в региони от'
+      gay: гей
+      male: Мъжки
+  exchange_links:
+    add:
+      backlink:
+        gay: 'Секси Гей ескорт - 321escorts.com'
+        male: 'Секси Мъж Ескорт - 321escorts.com'
+        women: 'Секси ескорт - 321escorts.com'
+      button_send: 'Обмен на връзки'
+      destination_url: 'Url адрес на местоназначението:'
+      email: 'Имейл:'
+      error:
+        already_added: 'Вашият URL адрес вече съществува.'
+        invalid_email: 'Вашият имейл адрес е невалиден.'
+        invalid_inputs: 'Входовете са невалидни.'
+        too_many_requests: 'Не можем да вземем повече URL адреси от вас в момента. Моля, опитайте отново по-късно.'
+        url_invalid: 'Името на URL адреса е невалидно.'
+        url_invalid2: 'URL адресът не е валиден.'
+      first_name: 'Собствено име (незадължително):'
+      name_displayed:
+        example: 'Моят тийнейджър блог'
+        label: 'Име, показвано на публичната страница:'
+      success:
+        copied: Копира
+        copy_html: 'Копиране на HTML'
+        include_code_on_website: 'Включете следния код на страницата си. Ще проверим вашия сайт в следващите 24 часа. Връзката ви ще бъде активирана и публично показана, ако ние нашата връзка на нашата страница.'
+        label: 'Много благодаря'
+      target_group: 'Целева група:'
+      target_group_all: Всички
+      target_group_gay_trans: Гейове
+    error:
+      name: 'Вашето име е невалидно.'
+    head: 'Обмен на връзки'
+    link:
+      body1: 'можете също да използвате'
+      body2: 'Партньорски линк'
+      body3: 'и да печелят допълнителни пари'
+      full: 'you also can use your Affiliate Link and earn extra money'
+    link_backlink_website: 'Обмен на връзки и да станете член на нашите партньорски уебсайтове. Това е безплатно. Ние свързваме вашия сайт - вие свързвате нашия уебсайт обратно.'
+    more_visitors: 'да спечелите повече посетители на уебсайта си'
+    text:
+      body1: 'Винаги ще бъдете'
+      body2: 'уеб сайт на партньор'
+      body3: ''
+      full: 'You will always be listed on our partner website'
+    visitors_per_month: 'имаме с над 32 милиона посетители на месец (Alexa сертифицирани)'
+    website_ranking: 'по-високо класиране на уебсайта Ви, толкова по-често се показва връзката Ви на нашите уебсайтове'
+    websites:
+      free_sign_up: 'Регистрирайте вашия сайт тук безплатно и станете посочен в списъка партньорски сайт.'
+      head: 'Нашите партньорски уебсайтове'
+  footer:
+    affiliate: Партньорски
+    escorts_ads: 'Реклами за ескорт'
+    menu:
+      18usc: '18 американски .C'
+      anti_trafficking: 'Доклад за трафик'
+      customer_service: 'Обслужване на клиенти'
+      data_collection: 'Събиране на лични данни'
+      dmca: '1000000000'
+      environmental_protection: '1% от всички продажби се изразходват за програми за опазване на околната среда.'
+      exchange_links: 'Обмен на връзки'
+      gay:
+        escort_photos: 'Гей ескорт снимки'
+        escort_videos: 'Гей Ескорт Видеоклипове'
+        find_gay_escorts: 'Намерете Гей ескорт'
+        gay_bottoms: 'Гей дъна'
+        gay_escort_directory: 'Гей ескорт директория'
+        gay_tops: 'Гей Топове'
+        tinks_under_30: 'Старинки под 30'
+      head:
+        information: Информация
+        navigation: Навигация
+      headline:
+        webmaster_affiliate: 'Уебмастър и партньори'
+      men:
+        escort_photos: 'Мъж ескорт снимки'
+        escort_videos: 'Мъжки Ескорт Видеоклипове'
+        escort_women: 'Ескорт - Жени'
+        find_male_escorts: 'Намерете Ескорти от Мале'
+        gentlemen_escorts: 'Джентелмън Ескорти'
+        male_escort_directory: 'Мъжки ескорт директория'
+        slim_men: 'Слаби мъже'
+        tall_men: 'Високи мъже'
+        young_callboys: 'млади келбой'
+      my_account: 'Моят акаунт'
+      navigation:
+        my_account: 'Моят акаунт'
+        place_ads: 'Място ескорт реклами'
+      partner_websites: 'Партньорски сайтове'
+      place_escort_ads: 'Поставяне на реклами'
+      privacy_policy: 'Декларация за поверителност'
+      report_error: 'Съобщаване за грешки'
+      report_new_feature: 'Отчетна функция или желание'
+      server_renewable_energy: 'Всичките ни сървъри работят на 100% възобновяема енергия.'
+      terms_and_provacy: 'Условия за ползване'
+      women:
+        directory: 'Директория за ескорт'
+        dominat: 'Доминиращи жени'
+        escort_photos: 'Ескорт Снимки'
+        escort_videos: 'Ескорт Видеоклипове'
+        find_escort_girls: 'Намери ескорт момичета'
+        gay_trans_escorts: 'Гейове &напрени ескорти'
+        men_for_women: 'Ескорт Мъже за Жени'
+        submissive: 'Покорни жени'
+        under_30: 'Жени под 30-те'
+        young_callgirls: 'Млади момичечета'
+      youth_protection: 'Агент за защита на младежите'
+    newsletter:
+      cell_phone: Клетка...
+      email_address: 'Имейл адрес...'
+      escort_newsletter: 'Безплатен бюлетин за ескорт'
+      sms:
+        code: Код...
+        different_number: 'Различен брой'
+        send: Изпрати
+    notifications:
+      customer_recommendations: 'Препоръки на клиентите'
+      escort_recommendations: 'Препоръки ескорт'
+    notifications_for: 'Уведомления за'
+  gps:
+    error:
+      check_browser_settings: 'Моля, проверете настройките на браузъра си, за да дадете на вашето местоположение (GPS) за най-добри резултати от търсенето.'
+  head:
+    search:
+      placeholder: 'Местоположение, град, пощенски код...'
+  headline:
+    black0: Най-доброто
+    black1: Сайт
+    favorits:
+      mobile:
+        favorites: Любими
+      my_favorites: 'Моите любими'
+    full: 'THE BEST FREE ESCORT SITE'
+    near_me:
+      escorts_near_me: 'Ескорт до мен'
+      mobile:
+        radar: Радар
+    new_escorts:
+      mobile:
+        new: 'Нови ескорти'
+      new: Нови
+    online:
+      mobile:
+        now_online: 'Сега онлайн'
+      now_online: 'Ескорт - сега онлайн'
+    photos:
+      escort_photos: 'Ескорт снимки'
+      latest: Последна
+      mobile:
+        latest_photos: 'Последни снимки'
+    red: 'БЕЗПЛАТНО ЕСКОРТ'
+    reviews:
+      escort_reviews: 'Отзиви за ескорт'
+      mobile:
+        latest_reviews: 'Последни отзиви'
+    tag:
+      escort_found: 'Намерени са ескорти'
+      escorts: Ескорт
+      escorts_found: 'Намерени са ескорти'
+      more_than: 'повече от'
+      no: Не
+    videos:
+      escort_videos: 'Ескорт видеоклипове'
+      mobile:
+        latest_videos: 'Най-новите видеоклипове'
+    visitors:
+      my_visitors: 'Моите посетители'
+  lang:
+    footer:
+      full: 'Visit our translation project on GitHub and help make 321escorts.com accessible to more of our sexy escorts & friends.'
+      text1: 'Посетете нашия проект за превод на'
+      text2: Github
+      text3: 'и да помогне да 321escorts.com достъпни за повече от нашите секси ескорти &; приятели.'
+    head:
+      choose: 'Изберете вашия език'
+      save:
+        label: Запишете
+  last_login:
+    ago: Преди
+    capitalized:
+      online: Онлайн
+    day: Ден
+    days: Дни
+    is_online: 'е онлайн'
+    last: Последната
+    mobile:
+      last_login: 'Последно влизане'
+      online: Онлайн
+    online: Онлайн
+  mail:
+    contact: Контакт
+    follow_on_twitter: 'Следвайте ни в Twitter'
+    go_prime: Прайм
+    webmatser_affiliate: 'Уебмастър и партньор'
+  menu:
+    favorits: Любими
+    mobile:
+      dark_mode: 'Тъмен режим'
+      light_mode: 'Режим на свете'
+    near_me: 'До мен'
+    new_escorts: 'Нови ескорти'
+    online: Онлайн
+    photos: Снимки
+    reviews: '1000'
+    search: Търсене
+    videos: Видео
+  mobile:
+    load_more_escorts:
+      detail_search: 'Търсене сега'
+      load_more: 'Зареждане още ескорти'
+      sign_up: 'Повече? Регистрирайте се безплатно сега'
+    menu:
+      chat: Чат
+      favorits: Любими
+      radar: Радар
+      visitors: Посетители
+  modal:
+    gps:
+      escorts_near_me:
+        cancel: Отмените
+        full: 'Do you want to share your GPS position to see escorts in your area?'
+        headline: 'Ескорт в моя район'
+        main1: 'Искате ли да споделите GPS позицията си, за да видите'
+        main2_bold: 'Ескорти във вашия район'
+        main3: ''
+        mobile:
+          share: 'Споделяне на GPS'
+        share: 'Споделяне на GPS позиция'
+    notifications:
+      allow_notifications: 'Разрешаване на известия'
+      error: Грешка
+      full: 'Do you want to be informed about new and sexy escorts?'
+      headline: Уведомления
+      main1: 'Искате ли да бъдете информирани за'
+      main2_bold: 'нови и секси ескорти?'
+      main3: ''
+      mobile:
+        allow: Позволи
+      ok: OK
+      type_new_customers: 'нови клиенти?'
+  newsletter:
+    label:
+      correct_cell_phone: 'Вашият верен номер на мобилен телефон е:'
+      email:
+        confirm:
+          body: 'Изпратихме ти имейл. Кликнете върху връзката в имейла, за да потвърдите адреса си. Искате ли също да получавате SMS събития?'
+          click_link: 'Моля, кликнете върху връзка за активиране в имейл'
+        head: 'по имейл'
+      enabled: 'Разрешени са известията'
+      sms:
+        code: 'Sms изпратен. Въведете кода:'
+        enter_code: 'Въведете SMS кода, който току-що получихте.'
+        head: 'Благодарим ви! Искате ли да получавате SMS?'
+        thank_you: 'Много благодаря!'
+  next: Следващата
+  notifications_enabled: ' Известията за търсене са активирани'
+  notify:
+    thankyou: 'Благодарим ви'
+  order:
+    action:
+      label:
+        full: '140 USD - pay now'
+      text1: ' - Плащай сега'
+    best_deal: 'Най-добра оферта'
+    bitcoin:
+      address: 'Адрес:'
+      amount: 'Сума:'
+      full: 'You have 30 min. time to scan the code or send the amount to the address:'
+      livecheck:
+        not_received: 'Сумата все още не е получена...'
+        wainting_for_confirmation: 'Изчакване за потвърждение на мрежата...'
+      scan_here: 'Сканирайте код или щракнете тук.'
+      text1: имате
+      text2: 'минути, за да сканирате кода или да изпратите сумата на адреса:'
+    charge:
+      curreny:
+        full: 'Prices will be charged in EUR.'
+        text1: 'Валута на цените:'
+        text2: .
+    coupon:
+      add: 'Добавяне на купон'
+      billing:
+        text: 'Купон (еднократно)'
+      error: 'Искането е невалидно.'
+      invalid: 'Купон за невалиден.'
+      placeholder:
+        enter_code: 'Купон код...'
+      redeem: Откупи
+    cus_features:
+      body:
+        more_chat: '60 дни от историята на чата и запазване на неограничени съобщения, снимки и видеоклипове'
+        more_escorts: 'Вижте до три пъти повече ескорти в радарното търсене и всички други резултати от търсенето'
+        more_numbers: 'Вижте до 100 телефонни номера на ден'
+        no_ads: 'Наслаждавайте се на всичко без реклама'
+        stealth: 'Изтрийте посещенията на профила си и бъдете невидими.'
+        storage: 'Качете неограничени снимки и видеоклипове и запазете неограничени профили и съобщения.'
+        unlimited_requests: 'Неограничени заявки от частни снимки и видеоклипове'
+        visitor_history: '7-дневна история, която ескорт посети вашия профил и кой сте посетили'
+        xxx_content: 'Вижте всичко, включително хардкор снимки и хардкор видеоклипове'
+      head:
+        more_chat: 'Още чат'
+        more_escorts: 'Още Ескорти'
+        more_numbers: 'Още телефонни номера'
+        no_ads: 'Няма ADs'
+        stealth: 'Режим \"стелт\"'
+        storage: 'Неограничено съхранение'
+        unlimited_requests: 'Неограничени заявки от частни снимки и видеоклипове'
+        visitor_history: 'История на посетителите'
+        xxx_content: 'XXX съдържание'
+    discount: Отстъпка
+    duration:
+      capitalized:
+        choose: 'Изберете продължителност'
+    eotw_features:
+      body:
+        affiliate_impressions: 'Вашият ескорт профил се показва и рекламира на потребителите на нашите хиляди партньорски сайтове регионално и в световен мащаб'
+        ai_recommendations: 'Нашият изкуствен интелект препоръчва вашия профил с приоритет на съответните клиенти и посетители'
+        highest_status: 'Вашият профил ще бъде маркиран с иконата \"Escort of the Week\", статусът ще ви присъди повече признание и ескорт инициатори.'
+        network_impressions: 'Ние гарантираме повече от 10,000 профилни импресии чрез нашите сайтове на трети страни и партньорска мрежа'
+        radar_placement: 'Топ класиране в търсенето на радар и във всички резултати от търсенето - преди Прайм ескорт и безплатни ескорти. Това означава: Повече обича, фенове и ескорт инициатори'
+        top_ranking: 'Клиентите в региона ще се срещнат с вас в горната част на главната целева страница'
+      head:
+        affiliate_impressions: 'Активно рекламиране на вашия профил'
+        ai_recommendations: 'Препоръки за ИИ'
+        highest_status: 'Най-добър ескорт'
+        network_impressions: 'Гарантирано 10 000 дневни импресии на профила'
+        radar_placement: 'Най-добре позициониране на радар и близост'
+        top_ranking: 'Най-1-ва позиция на сайта'
+    features:
+      body:
+        customers: 'Вижте до три пъти повече клиенти в резултатите от търсенето'
+        more_chat: '60 дни от историята на чата и неограничено съхранение на съобщения, снимки и видеоклипове'
+        more_numbers: 'Преглед на до 100 телефонни номера на ден от клиенти'
+        no_ads: 'Наслаждавайте се на всичко без реклама'
+        placement: 'Вашият профил ще бъде поставен по-горе във всички резултати от търсенето преди безплатни профили за ескорт. Повече харесва и фенове - повече заявки за резервации'
+        read_messages: 'Веднага виждате кога съобщенията ви са били прочетени.'
+        stealth: 'Изтрийте посещенията на профила си и бъдете невидими.'
+        storage: 'Качете неограничени снимки и видеоклипове и запазете неограничени профили, снимки, видеоклипове и съобщения.'
+        translate_chat: 'Входящите и изходящите съобщения се превеждат автоматично, разговарят с всички по света.'
+        unlimited_requests: 'Неограничени заявки за лични снимки и видеоклипове'
+        visitor_history: '7-дневна история на това, което сте посетили и кой клиент посети профила ви'
+        xxx_content: 'Вижте всички, включително хардкор снимки и хардкор видеоклипове'
+      head:
+        customers: 'Вижте още клиенти'
+        more_chat: 'Още чат'
+        more_numbers: 'Още телефонни номера'
+        no_ads: 'Без реклама'
+        placement: 'Класиране на профила и повече посетители'
+        read_messages: 'Чат разписки за прочитане'
+        stealth: 'Режим \"стелт\"'
+        storage: 'Неограничено съхранение'
+        translate_chat: 'Реално време чат преводи'
+        unlimited_requests: 'Неограничени заявки за лични снимки и видеоклипове'
+        visitor_history: 'Статистика на посетителите'
+        xxx_content: 'XXX съдържание'
+    gift:
+      capitalized:
+        choose: 'Изберете подарък'
+    gift1:
+      duration:
+        1m: '1 месец'
+        1w: '1 седмица'
+        1yr: '1 година'
+        3m: '3 месеца'
+        4w: '4 седмици'
+        month: Месец
+        month1: Месец
+        week: Седмица
+      for: 'Подарък за'
+      no_prime: 'Без първокласен'
+      send_gift: '- изпратете подарък'
+      subtitle: '... голям жест!'
+    head:
+      boost:
+        full: "The Boost! for Tom's profile."
+        text1: 'Тласък! За'
+        text2: '\"профил на'
+      go_prime_now: 'Сега върви на прайм'
+      prime: Председател
+      profile_boost: 'Тласък! за вашия профил'
+      use_all_features: 'Вземете всички страхотни функции'
+    iban:
+      account: Сметка
+      country:
+        at: Австрия
+        be: Belgique
+        ch: Швейцария
+        de: Германия
+        es: ±
+        fr: Франция
+        hu: Магьорс
+        it: Italia
+        nl: Nederland
+        pl: Polska
+        uk: 'Обединено кралство'
+      iban: IBAN
+    ideal:
+      amro: 'Абен амро'
+      asn: 'ASN Банк'
+      bunq: bunq
+      combank: 'Търговски банки'
+      ing: ING
+      knab: Knab
+      moneyyou: Moneyou
+      name: Име
+      rabobank: Rabobank
+      regiobank: RegioBank
+      sns: SNS
+      triodos: 'Triodos Bank'
+      vanlanschot: 'Van Lanschot'
+    info:
+      box:
+        full: 'You allows us to renew 3 month and recharge your card after the Prime membership expires. Your subscription will be automatically renewed until you decide to cancel.'
+        full1: 'Your subscription will be automatically renewed until you decide to cancel.'
+        no_autorew:
+          full: 'Your Prime subscription will not be renewed automatically.'
+          text1: Вашият
+          text2: 'абонамент няма да се подновява автоматично.'
+        provider: 'На вашето изявление ще пише \"321 Entertainment\".'
+        text1: 'Ти ни позволи да подновим'
+        text2: 'и заредете картата си след'
+        text3: 'Членството е изтекло.'
+        text4: 'ще бъде автоматично подновено, докато не решите да отмените. Можете да се откажете по всяко време.'
+      change_duration: 'Промяна на продължителността'
+      total: Общо
+      vat_tax: 'ДДС, когато е приложимо'
+      your_duration: 'Вашата продължителност:'
+    method:
+      bitcoin: Bitcoin
+      cc:
+        info: 'Последните 3 или 4 цифри на задната страна'
+        label: 'Кредитна карта'
+        placeholder:
+          ccv: Cvv
+          credit_card: 'Кредитна карта'
+          month_year: 'Месец / Година'
+          name_on_card: 'Име на картата'
+      eps: EPS
+      giropay: Жиропай
+      iban: 'IBAN директен дебит'
+      ideal: iDeal
+      paysafecard: Paysafecard
+      sofort: Sofort
+    methods:
+      head: 'Начини на плащане:'
+      label: 'Кредитна карта, Маестро, Трансфер с тел, Paysafecard, Биткойн'
+    nonrecurring: 'Не се начисляват'
+    order_history: 'Хронология на поръчките'
+    prime: PRIME
+    prod:
+      duration:
+        1m: '1 месец'
+        1yr: '1 година'
+        3m: '3 месеца'
+      duration1:
+        1m: '1 месец'
+        1y: '1 година'
+        3m: '3 месеца'
+      duration2:
+        1w: '1 седмица'
+        1yr: '1 година'
+        4w: '4 седмици'
+    provider:
+      label: 'Всички данни се обработват и обезопасяват от \"Пауъркаш21\" ООД.'
+      label2: 'На вашето изявление ще пише \"321 Entertainment\".'
+    subscription: Абонамент
+    subscription_for: 'абонамент за'
+    subscription_for1: 'Вашият абонамент за'
+    your_subscription: абонамент
+    your_subscription1: 'Вашият абонамент'
+  password_forgotten:
+    email: 'Имейл адрес или име на профил:'
+    mail:
+      body: 'Вашата парола е:'
+      change_password: 'Моля, първо променете паролата си.'
+      hello: Здравейте
+      subject: 'Вашите идентификационни данни'
+    send: Изпрати
+    sign_in: Влизане
+    success:
+      change_password: 'Моля, първо променете паролата си.'
+      label: 'Ако вашият адрес е намерен, ние ви изпратихме имейл. Моля, разгледайте и папката със спам.'
+  payment:
+    error:
+      cc:
+        missing_data: 'Моля, посочете цялата информация за кредитната карта.'
+        number: 'Номерът на вашата карта е неправилен.'
+      enter_name: 'Моля, въведете името си'
+      iban: 'Моля, въведете вашето име и IBAN.'
+      invalid_iban: 'Вашият IBAN е невалиден.'
+      method: 'Възникна грешка. Опитайте отново по-късно или използвайте друг начин на плащане.'
+      select_payment: 'Направете избор.'
+      select_payment1: 'Направете избор.'
+    gift:
+      email:
+        body:
+          full: 'You can also view your order for Tom in your booking history at any time.'
+          text1: 'Можете да видите'
+          text2: 'също и в историята на поръчките ви.'
+        hello: Здравейте
+        thank_you:
+          to: 'благодаря ви за подаръка да'
+      for: За
+      notify:
+        full: 'We have sent Tom a message that you have sent a gift.'
+        text1: Изпратихме
+        text2: 'съобщение, че сте изпратили подарък :-)'
+      notify1:
+        full: 'The user Tom just sent you a gift.'
+        text1: потребителят
+        text2: 'току-що ви е изпратил подарък:'
+      notify2:
+        full: 'Tom would certainly be happy to thank you.'
+        text1: 'Ще бъде щастлив, ако се каже \"Благодаря\" :-)'
+      notify3:
+        full: 'Open chat with Tom and send a "Thanks" :-)'
+        text1: 'Отваряне на чат с'
+        text2: 'и изпрати \"Благодаря\" :-)'
+      notify4:
+        full: 'Received a gift from Tom.'
+        text1: 'Подарък, получен от'
+        text2: ''
+      order:
+        history: 'Можете да преглеждате историята на поръчките си в профила си по всяко време.'
+        thank_you: 'Благодарим ви за поръчката!'
+        thank_you1: 'Благодарим ви за поръчката'
+        thank_you2: 'Благодарим ви за поръчката'
+      thank_you:
+        from: 'Вие сте получили подарък от'
+        to: 'Благодарим ви за подаръка'
+    prod:
+      prime_1m: 'Прайм за 1 месец'
+      prime_1yr: 'Прайм за 1 година'
+      prime_3m: 'Прайм за 3 месеца'
+    prod1:
+      eotw_1w: 'Ескорт на седмицата - 1 седмица'
+      eotw_1yr: 'Ескорт на седмицата - 1 година'
+      eotw_4w: 'Ескорт на седмицата - 4 седмици'
+      prime_1m: 'Прайм за 1 месец'
+      prime_1yr: 'Прайм за 1 година'
+      prime_3m: 'Прайм за 3 месеца'
+  private_gallery:
+    full: "Tom's private gallery"
+    head:
+      capitalized: 'Частна галерия'
+    photos:
+      error:
+        selfrequest: 'Не можете да изпратите заявка'
+      signup: 'Регистрирайте се сега, за да видите личните снимки от'
+    photos_videos:
+      full: 'Request access from Tom for the private photos and videos.'
+      text1: 'Искане на достъп от'
+      text2: 'за частните снимки и видеоклипове.'
+    private_photos:
+      full: "Tom's private photos"
+      label: 'Лични снимки'
+      request_access: 'Искам достъп сега.'
+      signup: 'Регистрирайте се, за да видите всички снимки.'
+      text: '\"и частни снимки'
+    private_videos:
+      full: "Tom's video"
+      head: Видео
+      text: '\"е видео'
+    text: 'Частна галерия'
+    videos:
+      full: 'Sign up to see all videos from Tom.'
+      text1: 'Регистрирайте се, за да видите всички видеоклипове от'
+      text2: .
+  review:
+    all: Всички
+    anonymous: Анонимен
+    attr:
+      ambience:
+        bad: Лош
+        label: 'Ами атмосферата?'
+        normal: Нормално
+        relaxed: Спокойна
+        text: Атмосфера
+        very_relaxed: 'Много спокойна'
+      anonymous:
+        label: 'Трябва ли вашият отзив да бъде анонимен?'
+        no: Не
+        yes: Да
+      duration:
+        1hr: '1 час'
+        1week: '1 седмица'
+        1week_more: 'повече от 1 седмица'
+        2days: '2 дни'
+        2hrs: '2 часа'
+        3days: '3 дни'
+        3hrs: '3 часа'
+        4days: '4 дни'
+        4hrs_more: 'повече от 4 часа'
+        5days: '5 дни'
+        6days: '6 дни'
+        label: Продължителност?
+        lt_1hr: 'по-малко от 1 час'
+        overnight: 'През нощта'
+      photos:
+        label: 'Снимки актуални'
+        no: Не
+        uptodate: 'Да, в крак с'
+      photos_uptodate:
+        label: 'Актуализирани ли са снимките?'
+        no: Не
+        yes: 'Да, актуални са'
+      recommend:
+        full: 'Can you recommend Tom?'
+        no: Не
+        text1: 'Можете да препоръчате'
+        text2: '?'
+        yes_absolutely: 'Да, абсолютно.'
+      recommendation: препоръка
+      visability:
+        own_profile: 'Искате ли прегледът да бъде видим и във вашия профил?'
+    error:
+      exists:
+        full: 'You already wrote a review for Tom.'
+        text1: 'Вече сте написал рецензия за'
+        text2: '. Можете да напишете нов преглед след няколко дни.'
+      login_required: 'Трябва да сте влезли, за да напишете отзив.'
+      too_long: 'Вашият преглед е твърде дълъг, моля да го ограничите малко.'
+      too_many_requests: 'В момента не приемаме повече отзиви от вас.'
+      too_short: 'Моля, напишете валиден отзив, най-малко 20 знака.'
+      too_short1: 'Моля, напишете валиден отзив, най-малко 20 знака.'
+      too_short2: 'най-малко 20 знака...'
+    full2: 'Review for Tom.'
+    head: 'Моля, оцени за датата си.'
+    head2: 'Оценете датата си с'
+    info:
+      star:
+        '1': Лош
+        '2': OK
+        '3': Добре
+        '4': 'Много добре'
+        '5': Отлични
+    no_review: 'Не влезе преглед.'
+    of_5: 'от 5'
+    read_full_review: 'Прочетете пълния преглед'
+    send_review: 'Изпращане на отзив'
+    success: 'Много благодаря! Ще проверим вашия преглед и ще го активираме възможно най-скоро.'
+    text:
+      overall_rating: 'Цялостна оценка:'
+      review: Преглед
+      reviews: '1000'
+    text2:
+      text: 'Преглед за'
+    time_spent: 'Изразходвано време'
+    to: ''
+    translation:
+      full: 'Translation of the original review.'
+      text1: 'Превод на'
+      text2: 'оригинален преглед'
+    viel_all_reviews: 'Вижте всички отзиви'
+    viel_reviews: 'Разгледайте отзивите'
+    write_review: 'Напишете рецензия...'
+  reviews:
+    latest: Последна
+  search:
+    filter: Филтър
+    fitler:
+      apply: Прилагат
+      filter: 'Филтър:'
+      online: Онлайн
+      placeholder: 'Търсене на... (текст, #tag, име)'
+      reset: Проучване
+      with_photo: 'със снимка'
+      with_video: 'с видео'
+    looking_for: 'Търся:'
+    option:
+      online_now: 'сега онлайн'
+      with_photos: 'само със снимки'
+      with_video: 'с видео'
+    placeholder: 'Търсене на текст, #tag, име'
+    results:
+      distance: Разстояние
+      head:
+        escort: Ескорт
+        escorts: Ескорт
+        found: ''
+        full: '345 Gay Escorts in Paris, France'
+        gay: гей
+        in: Инча
+        men: Мъже
+      head0:
+        escorts_found: 'Ескортът е намерен.'
+        fl_capitalized:
+          no: Не
+        full1: '500 Escorts found.'
+        full2: 'No Escorts found.'
+        full3: 'More than 600 Escorts found.'
+        more_than: 'Повече от'
+        no: Не
+      list:
+        ad:
+          learn_more: 'Кликнете тук, за да научите повече...'
+        bra_size: 'Размер на сутиена:'
+        contact: Контакт
+        escort_girls_in: 'Ескорт момичета в '
+        gay_escorts_in: 'Гей Ескорти в'
+        male_escorts_in: 'Мъж Ескорти'
+        price_1hr: 'Цена за 1 час'
+        price_overnight: 'Цена за нощувка'
+        profile: Профил
+        years: Години
+      more:
+        go_prime: 'Вижте 3 пъти повече ескорт - Go Prime!'
+      more1:
+        go_prime: 'Вижте 3 пъти повече ескорти! Давай прайм!'
+      new_search: 'Ново търсене'
+    search_results_expired: 'За съжаление търсенето е с изтекъл срок. Щракнете тук, за да започнете ново търсене.'
+    select:
+      age_min: 'Възраст мин'
+      btn:
+        label: 'Търсене ескорт'
+      cm: cm
+      height_min: 'Височина мин'
+      km: kg
+      max: Макс
+      sort:
+        alphabetically: 'Азбучен ред'
+        distance: Разстояние
+        label: 'Сортиране:'
+        last_login: 'Последно влизане'
+        new_customers: 'Нови клиенти'
+        new_escorts: 'Нови ескорти'
+      weight_min: 'Тегло min'
+    type:
+      customers: Потребители
+    use_current_location: 'Използвай текущото местоположение'
+    view: Разгледай
+    with_orientation: 'с ориентация'
+  search_notifications_disabled: 'Деактивирано е известяването за търсене'
+  send_gift:
+    full: 'Send a gift'
+    prime: 'Изпращане на подарък'
+    text1: Изпрати
+    text2: подарък
+  signin:
+    404_not_found: '404 Страницата не е намерена'
+    auto:
+      facebook: 'Влизане в профила ви с Facebook'
+      google: 'Влизане в профила ви с Google'
+      twitter: 'Влизане в профила с Twitter'
+    error:
+      check_credentials: 'Моля, проверете данните си.'
+    label: Влизане
+    name_or_email: 'Име на профил или имейл адрес:'
+    new: 'Новото на 321 ескорти?'
+    password_forgotten:
+      head: 'Забравена парола'
+      label: 'Парола забравена?'
+    remember_password: 'Останете в системата'
+    sign_in:
+      head: Влизане
+      label: 'Впишете се за 321escorts'
+    signup: 'Регистрирайте се безплатно'
+  signup:
+    amateur: Любителски
+    back: Обратно
+    beard: Брада...
+    body: Тялото...
+    body_hair: 'Косми по тялото...'
+    bra_size: 'Размер на сутиена...'
+    cell_phone_number: 'Мобилен телефонен номер'
+    choose_profile_name: 'Изберете името на вашия профил ...'
+    cock: Петел
+    code_is: 'Кодът е:'
+    companion: Спътник
+    day: Ден
+    dob: 'Дата на раждане'
+    email:
+      activation_link: 'Моля, кликнете върху линка, за да потвърдите безплатната си регистрация:'
+      hello: Здравейте
+      subject: 'Моля, потвърдете регистрацията си'
+      url: 321escorts.com
+      welcome: 'Добре дошли в 321escorts.com'
+    enter_location: 'Въведете местоположение'
+    error:
+      already_confirmed: 'Профилът ви вече е потвърден.'
+      confirmed_failed: 'Потвърждението не е успешно.'
+      failed: 'Регистрацията не е успешна.'
+      headline_required: 'Трябва ти заглавие.'
+      invalid_cell_phone: 'Номерът на мобилния телефон не е валиден.'
+      invalid_code: 'Кодът не е валиден.'
+      invalid_profile_name: 'Името на профила е невалидно.'
+      password: 'Паролите ви не съвпадат или паролата ви е твърде къса.'
+      profile_name_exists: 'Името вече съществува.'
+    escort: Ескорт
+    ethnicity: Етнос...
+    eyes: Очите
+    fetish: Фетиш
+    form:
+      already_signed_in: 'Вече сте се записали?'
+      cock:
+        type: Тип
+      email: 'Имейл:'
+      head:
+        text: 'Регистрирайте се - безплатно е'
+      label: 'Регистрирайте се'
+      login: Вход
+      or: Или
+      password:
+        label: 'Парола:'
+        placeholder: 'най-малко 6 символа'
+      prices:
+        currency: Валута
+      profile: 'Профил:'
+      retype_password: 'Въведете паролата отново:'
+      signup_facebook: 'Регистрирайте се с Facebook'
+      signup_google: 'Регистрирайте се с Google'
+      signup_twitter: 'Регистрирайте се с Twitter'
+    fucking: Шибан
+    hair: Косата
+    hair_color: 'Цвят на косата'
+    headline: Заглавие...
+    height_weight: 'Височина &quot; Тегло ...'
+    i_am: 'Аз съм...'
+    i_speak: 'Аз говоря ...'
+    imperial: Имперски
+    massage: Масаж
+    modeling: Моделиране
+    month: Месец
+    my_height: 'Височината ми е ...'
+    my_location: 'Моето местоположение'
+    my_prices: 'Моите цени'
+    next: Следващата
+    no: Не
+    pornstar: 'Ти порно звезда ли си?'
+    price:
+      ask: Попитам
+      currency:
+        aed: AED
+        ars: ARS
+        aud: AUD
+        brl: BRL
+        cad: CAD
+        chf: CHF
+        cny: CNY
+        czk: CZK
+        dkk: DKK
+        eur: EUR
+        gbp: GBP
+        hkd: HKD
+        huf: HUF
+        idr: IDR
+        inr: INR
+        jpy: JPY
+        myr: MYR
+        nok: NOK
+        nzd: NZD
+        php: PHP
+        rub: RUB
+        sar: SAR
+        sek: SEK
+        sgd: SGD
+        thb: THB
+        usd: USD
+      hour: Часова
+      overnight: 'През нощта'
+    prices: Цени
+    profile: Профил
+    profile_headline: 'Заглавието на профила ви ...'
+    role: Роля
+    safer_sex: 'По-безопасен секс'
+    select_location: 'Изберете местоположение'
+    service_locations: Местона-
+    services: Услуги
+    skip: Пропуснете
+    sm_bdsm: Sm
+    stripping: Източване
+    terms:
+      error: 'Моля, приемете условията и правилата.'
+      full: 'Yes, I have read and accept the Terms and Policy.'
+      label: Условия
+      text1: 'Да, прочетох и приемам'
+      text2: 'Terms and Policy.'
+      text3: ''
+    type:
+      bisexual: Бисексуални
+      customer: Клиент
+      escort: Ескорт
+      gay: гей
+      lesbian: лесбийка
+      man: Човек
+      straight: Хетеро
+      trans: Транс
+      woman: Жена
+    upload:
+      file_limit: 'Размерът на файла е ограничен до 5 MB.'
+      filesize: 'Размерът на файла е ограничен до 5 MB.'
+      label: Качите
+      profile_photo: 'Снимка на профила'
+    use_current_location: 'Използвай текущото местоположение'
+    video: Видео
+    year: Година
+    yes: Да
+  start:
+    head:
+      load_more: 'Зареждане на още ескорти'
+      new_escorts: 'Нови ескорти'
+      new_prime_escorts: 'Нови първокласни ескорти'
+    partner:
+      exchange_links: 'Обмен на връзки'
+      label: 'Уеб сайт на партньора:'
+  telegram:
+    bot:
+      activate: 'Активиране на бот'
+      app: Ап
+      deactivate: 'Деактивиране на бот'
+      error: 'Грешка: Опитайте отново по-късно'
+      headline: 'Телегам бот'
+      label: 'Ескорт& Новини чрез'
+      message:
+        featured: 'Този бот ще ви помогне да останете свързани.'
+        welcome: 'Добре дошли в личен ескорт бот'
+        welcome_back: 'Добре дошли отново при вас личен ескорт бот'
+  user:
+    action:
+      call_me: 'Обади ми се'
+      hide_visit: 'Скриване на посещението ми'
+      view_phone_number: 'Щракнете тук, за да видите моя телефонен номер.'
+    attr:
+      age: Възраст
+      beard: Брада
+      body: Тялото
+      body_hair: 'Косми по тялото'
+      bra_size: 'Размер на сутиена'
+      cock: Петел
+      cock_size_L: L,
+      cock_size_M: M,
+      cock_size_S: S,
+      cock_size_XL: XL,
+      cock_size_XXL: XXL,
+      cock_type_cut: Режа
+      cock_type_uncut: Неизрязаните
+      dirty: Мръсни
+      escort_services:
+        label: Услуги
+        men:
+          companion: Спътник
+          escort: Ескорт
+          massage: Масаж
+          modeling: Моделиране
+          stripping: Източване
+          video: Видео
+        women:
+          companion: Спътник
+          escort: Ескорт
+          massage: Масаж
+          modeling: Моделиране
+          stripping: Източване
+          video: Видео
+      eyes: Очите
+      fetish: Фетиш
+      fisting: Фистинг
+      fucking: Шибан
+      hair: Косата
+      hair_color: 'Цвят на косата'
+      height: Височина
+      i_speak: 'Аз говоря'
+      kissing: Целуване
+      label:
+        no: Не
+        occasionally: Понякога
+        yes: Да
+      oral: Устни
+      piercings: Пиърсинг
+      role: Роля
+      safer_sex: 'По-безопасен секс'
+      service_locations:
+        label: Местона-
+      sexual_orientation: Ориентация
+      sm_bdsm: Sm
+      tattoos: Татуировки
+      type: Тип
+      weight: Тегло
+      zodiac: Зодиак
+    beard:
+      3_day_beard: '3-дневна брада'
+      full_beard: 'Брада с пълна брада'
+      goatee: 'Козя брадичка'
+      label: 'Брада:'
+      mustache: Мустаци
+      no_beard: 'Без брада'
+    block:
+      error:
+        general: 'Възникна грешка.'
+        signup: 'Регистрирайте се безплатно или се регистрирайте.'
+      full: 'Do you really want to block Tom?'
+      info:
+        full: 'If you block Tom, the user will no longer be able to access your profile.'
+        label: Блок
+        text1: 'Ако блокирате'
+        text2: ', потребителят няма да може повече да получи достъп до профила ви.'
+      label: Блок
+      modal:
+        close: Затворите
+      text1: 'Наистина ли искате да блокирате'
+      text2: '?'
+    body:
+      athletic: Атлетик
+      female:
+        bodybuilder: Културист
+        chubby: Пълничък
+        large: Голям
+      label: 'Тялото:'
+      male:
+        belly: 'Лек корем'
+        bodybuilder: Културист
+        stocky: Набит
+      normal: Нормално
+      slim: Тънък
+    body_hair:
+      label: 'Косми по тялото:'
+      little_hair: 'Малка коса'
+      medium_hair: 'Средна коса'
+      shaved: Обръсна
+      smooth: Гладка
+      very_hairy: 'Много космат'
+    bra_size:
+      a: A
+      b: B
+      c: C
+      d: D
+      e: E
+      f: F
+      g: G
+      h: H
+      i: I
+      j: J
+      label: 'Размер на сутиена:'
+    cancel: Отмените
+    chat:
+      chat_with_me: 'Чат с мен'
+      click_here:
+        full: 'Click here to chat with Tom'
+        text1: 'Кликнете тук, за да говорите с'
+        text2: ''
+    cock:
+      label: 'Петел:'
+      size_L: L
+      size_M: M
+      size_XL: Xl
+      size_XXL: Xxl
+      size_s: S
+    cock_type:
+      cut: Намаляване
+      label: 'Тип на пениса:'
+      uncut: Неизрязаните
+    contact_me: 'Свържете се с мен'
+    copy_link: 'Копиране на връзка'
+    customer: Клиент
+    dirty:
+      label: 'Мръсни:'
+      no: Не
+      ns_only: 'Да, но само NS'
+      yes: Да
+    error:
+      missing_headline: 'Грешка: Моля, въведете заглавие в профила си (мин. 5 знака)'
+      missing_profile_text: 'Грешка: Моля, въведете текст на потребителския профил за профила си (мин. 15 знака)'
+    escort:
+      fetish:
+        boots: Ботуши
+        business: Бизнес
+        corset: Корсет
+        costumes: Костюми
+        craftsmen: Занаятчии
+        high_heels: 'високи токчета'
+        jeans: Дънки
+        leather: Кожа
+        lingerie: Бельо
+        lycra_nyloon: 'Ликра и найлон'
+        ravers: Равънс
+        rubber_latex: 'Гума &quot; &quot; Латекс &quot;'
+        skater: Кънкьор
+        skin_punks: 'Кожа &quot; &quot; Пънк &quot;'
+        sneakers_socks: 'Кецове и чорапи'
+        sportsgear: 'Спортните пристоя'
+        suspenders: Жартиери
+        underwear: Бельо
+        uniform: Еднакво
+        vinyl: Винил
+      locations:
+        car: Коли
+        hotel: Хотел
+        incall: 'Мястото ти е на повикване'
+        outcall: 'Моето място е на повикване.'
+        outdoor: Открит
+      services:
+        companion: Спътник
+        escort: Ескорт
+        massage: Масаж
+        modeling: Моделиране
+        none: Никой
+        stripping: Източване
+        video: Видео
+    escort_services:
+      label: 'Услуги:'
+    ethnicity:
+      female:
+        arab: 'Арабска жена'
+        asian: Азиатски
+        black: Черно
+        european: Европейския
+        indian: Индийски
+        latina: Латина
+        mixed: Смесени
+        southerner: Южняшки
+      label: 'Етеникност:'
+      male:
+        arab: Арабски
+        asian: Азиатски
+        european: Европейския
+        indian: Индийски
+        latino: Латино
+        southerner: Южняшки
+    eyes:
+      blue: Синьо
+      brown: Браун
+      green: Зелен
+      grey: Сив
+      label: 'Очите:'
+      other: Други
+    fetish:
+      label: 'Фетиш:'
+    fisting:
+      label: 'Фистинг:'
+    follower: Последовател
+    gay:
+      fucking:
+        bottom_only: 'само отдолу'
+        label: 'Шибан:'
+        no_anal: 'Не анален'
+        top_only: 'само отгоре'
+        vers_bottom: 'въртете отдолу'
+        vers_top: 'въртели отгоре'
+        versatile: Гъвкав
+    gift:
+      prime_oetw: 'Изпратете ми подарък - Prime или ме повиши като ескорт на седмицата'
+      send_prime: 'Изпрати първо'
+    hair:
+      bald: Плешив
+      half_long: Полудълго
+      label: 'Косата:'
+      long: Дълго
+      punk: Пънк
+      short: Кратко
+    hair_color:
+      black: Черно
+      blonde: Блондинка
+      brown: Браун
+      grey: Сив
+      label: 'Цвят на косата:'
+      light_brown: Светлокафяв
+      other: Други
+      red: Червено
+    hashtags: 'Hashtags:'
+    i_vitis: Посещавам
+    kissing:
+      label: 'Целуване:'
+    language:
+      i_speak: 'Аз говоря:'
+    last_login:
+      label: 'последно влизане:'
+      now_online: 'СЕГА ОНЛАЙН'
+      offline: Офлайн
+    likes: Обича
+    list:
+      photo: Фото
+      photos: Снимки
+      private_photo: 'частна снимка'
+      private_photos: 'частни снимки'
+      reviews: '1000'
+      video: Видео
+      videos: Видео
+    menu:
+      contact: Контакт
+      mobile:
+        contact_me: 'Свържете се с мен'
+        write_review: 'Напишете отзив'
+      photos: Снимки
+      reviews: '1000'
+    mobile:
+      write_review: 'Напишете отзив'
+    modal:
+      ok: OK
+      phone: 'Телефон:'
+      start_chat: 'Стартиране на чат'
+      whatsapp: 'Whatsapp:'
+    my_hashtags: 'Моите хаштагове'
+    my_hashtags1: 'Моите хаштагове:'
+    my_places: 'Моите места'
+    no_photos: 'Съжаляваме, все още няма налични снимки :('
+    nonsmoker:
+      female:
+        label: Непушач
+      male:
+        label: Непушач
+    number:
+      code: 'Кодът е:'
+      dont_show: 'Не се показвай.'
+      error:
+        daily_limit: 'Достигнат е дневен лимит'
+        daily_limit2: 'Достигнат е дневен лимит'
+        go_prime: 'Станете член на prime сега'
+        invalid_code: 'Кодът не е валиден.'
+        invalid_number: 'Номерът на мобилния телефон не е валиден.'
+        limit: 'Можете да виждате само 50 телефонни номера на ден. In може да използвате чата междувременно.'
+        no_number: 'В момента няма наличен телефонен номер. Моля, използвайте чата междувременно.'
+        signup: 'Регистрирайте се безплатно, за да видите повече телефонни номера.'
+      go_prime: 'Стани член на щатния министър сега. Като член на prime, можете да видите до 50 телефонни номера на ден.'
+      verify_number: 'Въведете и проверете номера'
+    oral:
+      active: Активни
+      active_and_passive: 'Активен &quot;Пасивен&quot;'
+      label: 'Устни:'
+      no: Не
+      passive: Пасивни
+    piercings:
+      label: 'Пиърсинг:'
+      no: Не
+    pornstar:
+      label: 'Pornstar:'
+    price:
+      not_shown: 'не е показано'
+    prices:
+      label: Цени
+      per_hour: Час
+      per_night: 'на нощувка'
+    private_gallery:
+      access_requested:
+        error:
+          full: 'Please write Tom a message'
+          self: 'Не можеш да си изпратиш молба.'
+          text1: 'Моля, пишете'
+          text2: съобщение
+        label: 'Поискан достъп'
+      access_requested1: 'Поискан достъп.'
+      denied:
+        full: "Tom can't see your private photos and videos."
+        grant: 'Предоставяне на достъп'
+        text1: 'не можете да видите личните си снимки и видеоклипове.'
+      denied1:
+        full: 'Tom may not see your photos and videos.'
+        grant_click:
+          full: 'Tom can see your private gallery.'
+          text1: 'Кликнете тук, че'
+          text2: 'можете да видите вашата частна галерия.'
+        text: 'може да не виждате снимките и видеоклиповете ви.'
+      error:
+        full: 'Please write Tom a message'
+        text1: 'Моля, пишете'
+        text2: съобщение
+      granted:
+        full: 'Tom can now see your photos and videos.'
+        text1: 'вече можете да видите снимките и видеоклиповете си.'
+      limit:
+        full: 'Today, you have 50 requests remaining.'
+        text1: 'Днес, вие сте'
+        text2: Останалите.
+        text3: Останалите.
+      profile: '\"профил на'
+      request:
+        full: 'Grant access to your private photos and videos for Tom.'
+        label: Искане
+        text1: 'Дайте достъп до вашите лични снимки и видеоклипове за'
+        text2: .
+      request_access: 'Заявка за достъп'
+      requests:
+        label: Заявки
+      unlimit:
+        full: 'Become a Prime member to make unlimited requests.'
+        text1: 'Станете член на председателя, който да направи'
+        text2: Неограничен
+        text3: Заявки.
+    profile_paused:
+      full: 'Tom has paused the profile. You cannot contact the user at this time. Follow Tom to stay up to date.'
+      text1: 'е поставил на пауза профила. Не можете да се свържете с потребителя в този момент. Следват'
+      text2: 'да сте в крак с актуалните.'
+    profile_suspended: 'Профилът е спрян.'
+    rating:
+      out_of_5: 'от 5 звезди'
+    recommend_me: 'Препоръчай ми'
+    report:
+      brief_desc: 'Напишете накратко какво се случи...'
+      cat:
+        '1':
+          head: Спам
+          text: 'Потребители, които по рекламни причини Ви молят да кликнете върху външни връзки'
+        '2':
+          head: 'Обида или тормоз'
+          text: 'Заплаха от насилие, злоупотреба, разкриване на лични данни, тормоз'
+        '3':
+          head: 'Реч на омразата/дискриминация'
+          text: 'Обидно език, снимки и т.н.'
+        '4':
+          head: Малцинство
+          text: 'Потребители под 18 години, снимки/видеоклипове с хора под 18-годишна възраст'
+        '5':
+          head: 'Неправилна дейност'
+          text: 'Продажба на реклама на наркотици или други незаконни стоки'
+        '6':
+          head: Олицетворение
+          text: 'Други лица, защитени снимки/видеоклипове, неправомерни услуги'
+        '7':
+          head: Други
+        main: 'Какво става?'
+      error:
+        contact_us: 'Моля, свържете се с нас.'
+        exists:
+          full: 'You already reported the user Tom several times. Please wait for our review.'
+          text1: 'Вече сте съобщили за потребителя'
+          text2: 'няколко пъти. Моля, изчакайте нашия преглед.'
+        login_required:
+          full: 'You must be logged in order to report Tom.'
+          text1: 'Трябва да сте влезли, за да докладвате'
+          text2: .
+        too_long: 'Входът е твърде дълъг, моля, съкратете текста си.'
+        too_many_requests: 'Към този момент ние не приемаме други искания от вас.'
+        too_short: 'Моля, пишете ни накратко какво се е случило, поне 20 знака.'
+      info:
+        label: 'Профил на отчета'
+        text: 'Ако смятате, че профилът не съдържа неправилни или откраднати снимки, моля свържете се с нас с доказателство.'
+      main: 'Потребител на отчета:'
+      report_profile: 'Профил на отчета'
+      success: 'Много благодаря! Ще проверим жалбата ви.'
+    review:
+      back: Обратно
+      empty_review: 'Няма текст за преглед.'
+      from: От
+      next: Следващата
+      overall_rating: 'Обща оценка'
+      to: Да
+    role:
+      dominant_and_submissive: 'доминиращи и покорни'
+      dominant_only: 'доминиращ само'
+      label: 'Роля:'
+      submissive_only: 'само покорен'
+      versatile_dominant: 'многофункционални господстващо'
+      versatile_submissive: 'гъвкав покорен'
+    safer_sex:
+      always: Винаги
+      label: 'По-безопасен секс:'
+      needs_discussion: 'Трябва да се обсъди'
+      never: 'Никога не'
+      prep: PrEP
+      tasp: TasP
+    save_share: 'Запази и сподели профила ми.'
+    service_locations:
+      label: Местона-
+    sexual_orientation:
+      bisexual: Бисексуални
+      gay: гей
+      label: 'Ориентация:'
+      lesbian: лесбийка
+      straight: Хетеро
+      trans: Транс
+    share: Споделят
+    share_profile: 'Споделяне на профил'
+    show_all_videos: 'Покажи всички Видео'
+    show_less: 'Показване на по-малко'
+    show_more: '2300000'
+    sm_bdsm:
+      label: 'Sm:'
+      no_sm: 'Няма SM'
+      sm: Sm
+      soft_sm: 'Само меките SM'
+    smoker:
+      female:
+        label: 'Пушач:'
+        label1: Пушач
+      label: Понякога
+      male:
+        label: Пушач
+        label1: 'Пушач:'
+    start_chat: 'Стартиране на чат'
+    tags: 'Tags:'
+    tattoo:
+      few: Няколко
+      label: 'Татуировки:'
+      many: Много
+      no: Не
+    time:
+      infront_of_date:
+        full: 'on 2020-02-28'
+        text: ''
+    type:
+      eotw: 'Ескорт на седмицата'
+      escort: Ескорт
+      free: Безплатно
+      prime: Председател
+      prime_customer: 'Първокласен клиент'
+    unblock: Деблокиране
+    video:
+      title:
+        full: "Tom's Video"
+        text1: '\"е видео'
+    views: 'Изглед към:'
+    write_review: 'Напиши рецензия за мен.'
+    write_review_for:
+      full: 'Write Review for Tom'
+      text1: 'Напишете Рецензия за'
+      text2: ''
+    xxx:
+      go_prime: 'има само XXX снимки. Станете prime член сега, за да видите всички снимки.'
+      request_access: 'има само частни снимки. Искам достъп тук.'
+    zodiac:
+      aquarius: Водолей
+      aries: Овен
+      cancer: Рак
+      capricorn: Козирог
+      gemini: Близнаци
+      label: 'Зодиак:'
+      leo: Лъв
+      libra: Везни
+      pisces: Риби
+      sagittarius: Стрелец
+      scorpio: Скорпион
+      taurus: Телец
+      virgo: Дева
+  visits:
+    external_visit: 'външно посещение'
+    external_visit1: 'външно посещение'
+    no_visitors: 'В момента нямате посетители.'
+    show_visit: '2018'
+    unregistered_user: 'Нерегистриран потребител'
+    view: Разгледай
+    view_location: 'Преглед на местоположението'
+    website_visitor: 'посетител на уебсайта'
+  vivits:
+    visit_ago: посещение
+modal:
+  error:
+    location_blocked: 'Блокирали сте споделянето на местоположението във вашия браузър. Активирайте го, за да видите най-добрите резултати от търсенето.'
+  share_location: 'Споделете местоположението си, за да видите ескорт близо до вас.'
+  verify:
+    agree: 'Съгласен съм - Въведете 321ESCORTS'
+    and: И
+    disagree: 'Не съм съгласен - Излезте от този сайт'
+    looking_for: 'Търся:'
+    policy: 'Декларация за поверителност'
+    terms: 'Условия за ползване'
+  warning: 'Този уебсайт Съдържа материали за възрастни и е забранен за лица под 18 години. С влизането на уебсайта потвърждавам, че съм на над 18 години и се съгласявам с'
+newsletter:
+  email:
+    body: 'моля, потвърдете регистрацията си бюлетин като кликнете върху линка:'
+    footer: ''
+    subject: 'Моля, потвърдете регистрацията си в бюлетина'
+    welcome: 'Добре дошли в 321escorts.com'
+  error:
+    email: 'Имейл адресът не е валиден.'
+    general: 'Възникна грешка.'
+  sms:
+    code: 'Кодът е:'
+    error:
+      cell_phone: 'Това не е валиден номер на мобилен телефон.'
+      code: 'Кодът е неправилен.'
+notifications:
+  cancel: 'Повече няма да получавате тези известия. Можете да управлявате настройките за известия тук.'
+  disable: Забраните
+  enable: Разрешите
+  error:
+    click_here: 'Грешка: Моля, кликнете тук'
+    link_not_found: 'Заявената връзка не може да бъде намерена.'
+    try_later: 'Моля, опитайте отново по-късно.'
+search:
+  attribute:
+    body: Тялото
+    body_hair: 'Косми по тялото'
+    bra_size: 'Размер на сутиена'
+    cock_size: Петел
+    cock_type: 'Тип на пениса'
+    dirty: Мръсни
+    escort_locations: Местоположения
+    escort_services: 'Ескорт услуги'
+    ethnicity: Етнос
+    eye_color: Очите
+    fetish: Фетиш
+    gay:
+      fisting: Фистинг
+      fucking: Шибан
+    hair_color: 'Цвят на косата'
+    hair_type: Косата
+    kissing: Целуване
+    language: Език
+    misc: Разни
+    oral: Устни
+    role: Роля
+    safer_sex: 'По-безопасен секс'
+    sm_bdsm: Sm
+    zodiac: Зодиак
+  label:
+    disable: Забраните
+    enable: Разрешите
+  notifications_enabled: 'Известията са активирани'
+  notifications_enabled2: 'Известията са активирани'
+  title:
+    new_escorts: 'Информирай ме, когато има нови ескорти'
+  title2:
+    new_escorts: 'Информирай ме, когато има нови ескорти'
+signup:
+  domain: 321escorts.com
+  message:
+    hello: Здравейте
+    new_sale: 'Благодарим ви, че участвахте в партньорската програма. Можете да видите всички подробности, статистическите си данни и изплащанията тук:'
+    subject:
+      new_sale: 'Имате успешна партньорска продажба (Регистрация) - '
+      recurring_sale: ''
+site:
+  head:
+    escort_of_the_week: 'Ескорт на седмицата'
+    go_prime: Прайм
+    join_for_free: 'Присъединете се безплатно'
+    logout: Изход
+    search: Търсене
+    sign_in: Влизане
+    sign_up: 'Регистрирайте се'
+    upgrade:
+      boost_me: '- Не, не'
+      boosted: Подсилен!
+      escort_of_the_week: 'Ъпгрейд към Ескорт на седмицата'
+      go_prime: 'Ъпгрейд към \"Основен\"'
+      main: Ъпгрейд
+    upgrade2:
+      escort_of_the_week: 'Ъпгрейд към Ескорт на седмицата'
+  type:
+    gay: гей
+    men: Мъже
+    women: Жени
+system:
+  metric:
+    k: k
+    m: m
+user_followers: Последователи
+user_liked: Като!
+user_one_follower: Последовател
+verification:
+  success:
+    email_address: 'Вашият имейл адрес е успешно потвърден.'
